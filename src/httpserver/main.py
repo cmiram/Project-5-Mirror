@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 class HTTPHandler(BaseHTTPRequestHandler):
@@ -13,10 +14,23 @@ class HTTPHandler(BaseHTTPRequestHandler):
         self.wfile.write(bytes(message, 'utf-8'))
         return
 
-print("starting the server yo")
 
-server_address = ("127.0.0.1", 8081)
 
-httpd = HTTPServer(server_address, HTTPHandler)
-print('running this shit')
-httpd.serve_forever() #FOREVER FOREVER FOREVER
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-p', metavar="port", type=int)
+    parser.add_argument('-o', metavar='origin', type=str)
+    args = parser.parse_args()
+    print(args)
+    port = args.p
+    origin = args.o
+    print("starting the server yo, port {}", port)
+
+    server_address = ("127.0.0.1", port)
+
+    httpd = HTTPServer(server_address, HTTPHandler)
+    httpd.serve_forever() #FOREVER FOREVER FOREVER
+
+if __name__ == "__main__":
+    main()
