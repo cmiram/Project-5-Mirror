@@ -1,23 +1,27 @@
 #!/usr/bin/env python3
 
+import requests
 import argparse
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 class HTTPHandler(BaseHTTPRequestHandler):
     def do_GET(self):
+        # TODO make this not magically set
+        global origin
+        r = requests.get('http://' + origin + ":8080" + self.path)
         self.send_response(200)
 
         self.send_header('Content-type', 'text/html')
         self.end_headers()
 
-        message = "Hello world"
-        self.wfile.write(bytes(message, 'utf-8'))
+        self.wfile.write(r.content)
         return
 
 
 
 
 def main():
+    global origin
     parser = argparse.ArgumentParser()
     parser.add_argument('-p', metavar="port", type=int)
     parser.add_argument('-o', metavar='origin', type=str)
