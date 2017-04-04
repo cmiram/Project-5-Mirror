@@ -2,6 +2,8 @@
 
 import argparse
 import socket
+import signal
+import sys
 
 DEFAULT_SERVERS=[
     'ec2-52-90-80-45.compute-1.amazonaws.com',
@@ -22,14 +24,32 @@ class DNSServer:
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.sock.bind((name, port))
         # TODO Is kosher/helpful?
-        self.sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        #self.sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
         self.sock.listen(5)
         # Client connections, which are tuples of (<socket>, <address(str)>)
         self.clients = []
 
+    def listen(self):
+        """Listens for and responds to clients forever, in a loop"""
+        while True:
+            try:
+                self.sock.settimeout(None)
+                client, address = self.sock.accept()
+                print("Got client {}, from {}".format(client, address))
+                # TODO Lookup address in hashmap, send them to that one.
+                data = client.recv(2048)
+                print("Got back {}".format(data))
+
+            except (socket.timeout, socket.error):
+                try:
+                    client.close()
+                except (socket.error, UnboundLocalError):
+                    pass
+
     def close(self):
         self.sock.shutdown(socket.SHUT_RDWR)
         self.sock.close()
+
 
 def main():
     global origin
@@ -41,9 +61,18 @@ def main():
     name = args.n
     print("starting the server yo, port {}, name {}".format( port, name))
 
-    # TODO 127.0.0.1?
-    server = DNSServer("127.0.0.1", port)
-    server.close()
+    global server
+    server = DNSServer("", port)
+    def sigint_handler(signal, frame):
+        global server
+        server.close()
+        sys.exit(0)
+    signal.signal(signal.SIGINT, sigint_handler)
+    try:
+        server.listen()
+    except Exception as e:
+        print("error: {}".format(e))
+        server.close()
 
 if __name__ == "__main__":
     main()
