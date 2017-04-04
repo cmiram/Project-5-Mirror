@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import argparse
 import socket
@@ -22,6 +22,7 @@ class DNSServer:
         self.name = name
         self.port = port
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        print("Binding to (\"{}\", {})".format(name, port))
         self.sock.bind((name, port))
         # Client connections, which are tuples of (<socket>, <address(str)>)
         self.clients = []
@@ -30,12 +31,12 @@ class DNSServer:
         """Listens for and responds to clients forever, in a loop"""
         while True:
             try:
-                self.sock.settimeout(None)
-                client, address = self.sock.recvfrom(2048)
-                print("Got client {}, from {}".format(client, address))
+                #self.sock.settimeout(None)
+                data, address = self.sock.recvfrom(2048)
+                query = DNSQuery(data)
+                print("Got data from {}".format(address))
+                self.sock.sendto(data, address)
                 # TODO Lookup address in hashmap, send them to that one.
-                data = client.recv(2048)
-                print("Got back {}".format(data))
 
             except (socket.timeout, socket.error):
                 try:
@@ -47,6 +48,30 @@ class DNSServer:
         #self.sock.shutdown(socket.SHUT_RDWR)
         self.sock.close()
 
+class DNSQuery:
+  def __init__(self, data):
+    self.data = data
+    self.domain = ''
+
+    tipo = (data[2] >> 3) & 15   # Opcode bits
+    if tipo == 0:                     # Standard query
+      ini = 12
+      lon = data[ini]
+      while lon != 0:
+        self.domain += data[ini + 1: ini + lon + 1] + '.'
+        ini += lon + 1
+        lon = data[ini]
+
+  def respuesta(self, ip):
+    packet=''
+    if self.domain:
+      packet += self.data[:2] + "\x81\x80"
+      packet += self.data[4:6] + self.data[4:6] + '\x00\x00\x00\x00'   # Questions and Answers Counts
+      packet += self.data[12:]                                         # Original Domain Name Question
+      packet += '\xc0\x0c'                                             # Pointer to domain name
+      packet += '\x00\x01\x00\x01\x00\x00\x00\x3c\x00\x04'             # Response type, ttl and resource data length -> 4 bytes
+      packet += str.join('', map(lambda x: chr(int(x)), ip.split('.'))) # 4bytes of IP
+    return packet
 
 def main():
     global origin
@@ -56,8 +81,6 @@ def main():
     args = parser.parse_args()
     port = args.p
     name = args.n
-    print("starting the server yo, port {}, name {}".format( port, name))
-
     global server
     server = DNSServer("", port)
     def sigint_handler(signal, frame):
