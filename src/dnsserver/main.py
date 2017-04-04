@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 import argparse
 import socket
@@ -18,14 +18,11 @@ DEFAULT_SERVERS=[
 ]
 
 class DNSServer:
-    def __init__(self, name: str, port: int, servers=DEFAULT_SERVERS):
+    def __init__(self, name, port, servers=DEFAULT_SERVERS):
         self.name = name
         self.port = port
-        self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         self.sock.bind((name, port))
-        # TODO Is kosher/helpful?
-        #self.sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        self.sock.listen(5)
         # Client connections, which are tuples of (<socket>, <address(str)>)
         self.clients = []
 
@@ -34,7 +31,7 @@ class DNSServer:
         while True:
             try:
                 self.sock.settimeout(None)
-                client, address = self.sock.accept()
+                client, address = self.sock.recvfrom(2048)
                 print("Got client {}, from {}".format(client, address))
                 # TODO Lookup address in hashmap, send them to that one.
                 data = client.recv(2048)
@@ -47,7 +44,7 @@ class DNSServer:
                     pass
 
     def close(self):
-        self.sock.shutdown(socket.SHUT_RDWR)
+        #self.sock.shutdown(socket.SHUT_RDWR)
         self.sock.close()
 
 
