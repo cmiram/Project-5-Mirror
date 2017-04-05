@@ -3,6 +3,7 @@
 import argparse
 import socket
 import signal
+import struct
 import sys
 
 DEFAULT_SERVERS=[
@@ -19,6 +20,12 @@ DEFAULT_SERVERS=[
 
 #TODO Remove
 ORIGIN_SERVER = ("ec2-54-166-234-74.compute-1.amazonaws.com", 8080)
+
+# ! = Network (big-endian)
+# <2,6> = <2,6> of the next type (e.g unsigned shorts)
+# H = unsigned short
+BODY_FORMAT = struct.Struct("!2H")
+HEADER_STRUCTURE = struct.Struct("!6H")
 
 class DNSServer:
     def __init__(self, name, port, servers=DEFAULT_SERVERS):
@@ -38,14 +45,12 @@ class DNSServer:
                 data, address = self.sock.recvfrom(2048)
                 query = DNSQuery(data)
                 print("Got data from {}".format(address))
-                print("Received: \n{}\n".format(data))
                 # TODO Don't give the origin server as a place to go
                 server = socket.getaddrinfo(ORIGIN_SERVER[0], ORIGIN_SERVER[1])[0][-1][0]
                 query.domain = server
                 packet = query.respond(server)
-                print("Sending packet\n\"{}\"\n".format(packet))
-                self.sock.sendto(data, address)
-                print("Packet sent")
+                self.sock.sendto(packet, address)
+                print("Packet sent w/ ip {}".format(server))
                 # TODO Lookup address in hashmap, send them to that one.
 
             except (socket.timeout, socket.error):
@@ -54,33 +59,39 @@ class DNSServer:
                 except (socket.error, UnboundLocalError):
                     pass
 
+
     def close(self):
         self.sock.close()
 
 class DNSQuery:
-  def __init__(self, data):
-    self.data = data
-    self.domain = ''
+    def __init__(self, data):
+        self.data = data
+        self.domain = ''
 
-    head = (data[2] >> 3) & 15
-    if head == 0:
-        ini = 12
-        length = data[ini]
-        while length != 0:
-            self.domain += data[ini + 1: ini + length + 1] + '.'
-            ini += length + 1
+        head = (data[2] >> 3) & 15
+        if head == 0:
+            # Header length = 12 bytes
+            ini = 12
             length = data[ini]
+            while length != 0:
+                self.domain += data[ini + 1: ini + length + 1].decode() + '.'
+                ini += length + 1
+                length = data[ini]
 
-  def respond(self, ip):
-    packet=''
-    if self.domain:
-        packet += str(self.data[:2]) + "\x81\x80"
-        packet += str(self.data[4:6]) + str(self.data[4:6]) + '\x00\x00\x00\x00'   # Questions and Answers Counts
-        packet += str(self.data[12:])                                         # Original Domain Name Question
-        packet += '\xc0\x0c'                                             # Pointer to domain name
-        packet += '\x00\x01\x00\x01\x00\x00\x00\x3c\x00\x04'             # Response type, ttl and resource data length -> 4 bytes
-        packet += str.join('', map(lambda x: chr(int(x)), ip.split('.'))) # 4bytes of IP
-    return packet
+    def respond(self, ip):
+        packet=bytes()
+        if self.domain:
+            packet += self.data[:2] + b"\x81\x80"
+            # Q&A Counts
+            packet += self.data[4:6] + self.data[4:6] + b'\x00\x00\x00\x00'
+            # Domain question
+            packet += self.data[12:]
+            # Pointer to domain name
+            packet += b'\xc0\x0c'
+            # Response type, ttl and resource data length
+            packet += b'\x00\x01\x00\x01\x00\x00\x00\x3c\x00\x04'
+            packet += ip.encode()
+        return packet
 
 def main():
     global origin
@@ -100,8 +111,8 @@ def main():
     try:
         server.listen()
     except Exception as e:
-        print("error: {}".format(e))
         server.close()
+        raise
 
 if __name__ == "__main__":
     main()
