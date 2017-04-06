@@ -3,11 +3,13 @@
 from __future__ import unicode_literals
 
 import argparse
-from binascii import unhexlify
 import socket
 import signal
 import struct
 import sys
+
+from binascii import unhexlify
+from random import choice
 
 DEFAULT_SERVERS=[
     'ec2-52-90-80-45.compute-1.amazonaws.com',
@@ -20,9 +22,6 @@ DEFAULT_SERVERS=[
     'ec2-52-192-64-163.ap-northeast-1.compute.amazonaws.com',
     'ec2-54-233-152-60.sa-east-1.compute.amazonaws.com',
 ]
-
-#TODO Remove
-ORIGIN_SERVER = ("ec2-54-166-234-74.compute-1.amazonaws.com", 8080)
 
 class DNSServer:
     def __init__(self, name, port, servers=DEFAULT_SERVERS):
@@ -41,8 +40,8 @@ class DNSServer:
                 data, address = self.sock.recvfrom(2048)
                 query = DNSQuery(data)
                 # TODO Don't give the origin server as a place to go
-                packet = query.respond(socket.getaddrinfo(ORIGIN_SERVER[0],
-                                                          ORIGIN_SERVER[1])[0][-1][0],
+                packet = query.respond(socket.getaddrinfo(choice(DEFAULT_SERVERS),
+                                                          8080)[0][-1][0],
                                        self.name)
                 self.sock.sendto(packet, address)
                 # TODO Lookup address in hashmap, send them to that one.
