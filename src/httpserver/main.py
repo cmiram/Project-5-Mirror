@@ -30,7 +30,7 @@ class HTTPServer(object):
 	def download(self, path, response):
 		fname = os.pardir + path
 		dest = os.path.dirname(fname)
-		is_done = Falseif not os.path.exists(dest)
+		is_done = False if not os.path.exists(dest)
 			os.makedirs(dest)
 		fd = open(fname, 'w')
 		while not is_done:
