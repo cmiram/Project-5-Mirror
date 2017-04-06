@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+from binascii import unhexlify
 import socket
 import signal
 import struct
@@ -39,6 +40,7 @@ class DNSServer:
 
     def listen(self):
         """Listens for and responds to clients forever, in a loop"""
+        server = socket.getaddrinfo(ORIGIN_SERVER[0], ORIGIN_SERVER[1])[0][-1][0]
         while True:
             try:
                 #self.sock.settimeout(None)
@@ -46,7 +48,6 @@ class DNSServer:
                 query = DNSQuery(data)
                 print("Got data from {}".format(address))
                 # TODO Don't give the origin server as a place to go
-                server = socket.getaddrinfo(ORIGIN_SERVER[0], ORIGIN_SERVER[1])[0][-1][0]
                 query.domain = server
                 packet = query.respond(server)
                 self.sock.sendto(packet, address)
@@ -81,11 +82,33 @@ class DNSQuery:
     def respond(self, ip):
         packet=bytes()
         if self.domain:
+            id = self.data[:2]
+            example_google = id + unhexlify('8180000100010000000106676f6f676c6503636f6d0000010001c00c00010001000000a60004acd90b2e0000290200000000000000')
+            # TODO This should work for google.
+            # Uncomment this out for it to work, make it work w/ input google.com
+            # FIXME TODO: Make this work w/ input == google.com, scale out
+            # ip_addr = unhexlify("06676f6f676c6503636f6d0000010001")
+            ip_addr = b"\x06" + ip.encode() + b'\x00\x01' * 2
+            return id + unhexlify('81800001000100000001') + ip_addr + (
+                unhexlify('c00c00010001000000a60004') + unhexlify("acd90b2e0000290200000000000000")# + ip.encode()
+            )
+            return example_google
             packet += self.data[:2] + b"\x81\x80"
             # Q&A Counts
             packet += self.data[4:6] + self.data[4:6] + b'\x00\x00\x00\x00'
             # Domain question
             packet += self.data[12:]
+            #print("domain question: {}".format(self.data[12:]))
+
+            # TODO Everything until next todo is new
+            print("domain {}".format(self.domain))
+            packet += self.domain.encode()
+            # A + IN fields
+            packet += b'\x00\x01' * 2
+            packet += ip.encode()
+
+            return packet
+            # TODO Everything after this is bad, ignore
             # Pointer to domain name
             packet += b'\xc0\x0c'
             # Response type, ttl and resource data length
