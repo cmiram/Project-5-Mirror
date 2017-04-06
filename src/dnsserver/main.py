@@ -33,8 +33,8 @@ class DNSServer:
         self.name = name
         self.port = port
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        print("Binding to (\"{}\", {})".format(name, port))
-        self.sock.bind((name, port))
+        print("Binding to (\"{}\", {})".format('', port))
+        self.sock.bind(('', port))
         # Client connections, which are tuples of (<socket>, <address(str)>)
         self.clients = []
 
@@ -49,7 +49,7 @@ class DNSServer:
                 print("Got data from {}".format(address))
                 # TODO Don't give the origin server as a place to go
                 query.domain = server
-                packet = query.respond(server)
+                packet = query.respond(server, self.name)
                 self.sock.sendto(packet, address)
                 print("Packet sent w/ ip {}".format(server))
                 # TODO Lookup address in hashmap, send them to that one.
@@ -79,17 +79,15 @@ class DNSQuery:
                 ini += length + 1
                 length = data[ini]
 
-    def respond(self, ip):
+    def respond(self, ip, name):
         packet=bytes()
         if self.domain:
             id = self.data[:2]
-            example_google = id + unhexlify('8180000100010000000106676f6f676c6503636f6d0000010001c00c00010001000000a60004acd90b2e0000290200000000000000')
-            # TODO This should work for google.
-            # Uncomment this out for it to work, make it work w/ input google.com
-            # FIXME TODO: Make this work w/ input == google.com, scale out
-            # ip_addr = unhexlify("06676f6f676c6503636f6d0000010001")
-            ip_addr = b"\x06" + ip.encode() + b'\x00\x01' * 2
-            return id + unhexlify('81800001000100000001') + ip_addr + (
+            domain_name = b"\x10" + (
+                name.encode().replace(b'.', b'\x03') +
+                b'\x00\x00\x01' +
+                b'\x00\x01')
+            return id + unhexlify('81800001000100000001') + domain_name + (
                 unhexlify('c00c00010001000000a60004') + unhexlify("acd90b2e0000290200000000000000")# + ip.encode()
             )
             return example_google
@@ -125,7 +123,7 @@ def main():
     port = args.p
     name = args.n
     global server
-    server = DNSServer("", port)
+    server = DNSServer(name, port)
     def sigint_handler(signal, frame):
         global server
         server.close()
