@@ -1,4 +1,4 @@
-server_name="cs5700cdnproject.ccs.neu.edu"
+server_name="cs5700cdn.example.com"
 # This should be the SAME port as the HTTP server!
 port=40000
 bin_name=dnsserver

@@ -63,8 +63,8 @@ class DNSQuery:
 
     def respond(self, ip, name):
         id = self.data[:2]
-        domain_name = b"\x10" + (
-            name.encode().replace(b'.', b'\x03') +
+        domain_name = b"\x09" + (
+            name.encode().replace(b'.', b'\x07', 1).replace(b'.', b'\x03') +
             b'\x00\x00\x01' +
             b'\x00\x01')
         return id + (
