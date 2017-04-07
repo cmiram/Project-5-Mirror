@@ -54,7 +54,7 @@ class HTTPServer(object):
                 self.parse_request(request);
                 if self.path not in self.cache:
                     try:
-                        request = 'http://' + self.origin + ':' + str(self.port) + self.path.decode()
+                        request = 'http://' + self.origin + ':8080' + self.path.decode()
                         res = urlopen(request)
                         client_conn.send(b"""HTTP/1.0 200 OK
     Content-Type: text/html
