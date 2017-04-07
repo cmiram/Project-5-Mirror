@@ -1,10 +1,16 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python2
 
-import requests
 import argparse
 import socket
-import urllib
-from urllib.error import HTTPError, URLError
+try:
+    from urllib.error import HTTPError, URLError
+    from urllib import request
+    from urllib.request import urlopen
+except ImportError:
+    # Python 2
+    from urllib2 import HTTPError, URLError, Request as request
+    from urllib import urlopen
+    import urllib2 as urllib
 import os
 import errno
 
@@ -52,7 +58,7 @@ class HTTPServer(object):
                 if self.path not in self.cache:
                     try:
                         request = 'http://' + self.origin + ':' + str(self.port) + self.path.decode()
-                        res = urllib.request.urlopen(request)
+                        res = urlopen(request)
                         client_conn.send(b"""HTTP/1.0 200 OK
     Content-Type: text/html
 
