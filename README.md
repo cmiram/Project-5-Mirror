@@ -11,5 +11,5 @@ The DNS server also opens a socket and listens in an infinite loop for a client 
 request it encodes the http header info and returns the requested information to the client. The logic 
 for picking a server is still pretty basic, we just focused on getting it up and running for the milestone.
 
-Preson: 
+Preson: Http server, dns server, caching
 Chris: Http server, caching logic
