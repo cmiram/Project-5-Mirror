@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Fruit - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fruit","wgTitle":"Fruit","wgCurRevisionId":6833,"wgRevisionId":6833,"wgArticleId":6833,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category template with no category set","Commons category with page title different than on Wikidata","Fruit","Fruit morphology","Pollination"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fruit","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Fruit skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Fruit</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<a href="/w/index.php?title=Template:Pp-semiprotected&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-semiprotected (page does not exist)">Template:Pp-semiprotected</a>
+<a href="/w/index.php?title=Template:Pp-move-indef&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-move-indef (page does not exist)">Template:Pp-move-indef</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Fruit_Stall_in_Barcelona_Market.jpg" title="File:Fruit Stall in Barcelona Market.jpg">File:Fruit Stall in Barcelona Market.jpg</a>  <div class="thumbcaption">Several <a href="/w/index.php?title=List_of_culinary_fruits&amp;action=edit&amp;redlink=1" class="new" title="List of culinary fruits (page does not exist)">culinary fruits</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Culinary_fruits_front_view.jpg" title="File:Culinary fruits front view.jpg">File:Culinary fruits front view.jpg</a>  <div class="thumbcaption">Culinary fruits</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Fruit_Basket.jpg" title="File:Fruit Basket.jpg">File:Fruit Basket.jpg</a>  <div class="thumbcaption">Fruit basket painted by <a href="/w/index.php?title=Balthasar_van_der_Ast&amp;action=edit&amp;redlink=1" class="new" title="Balthasar van der Ast (page does not exist)">Balthasar van der Ast</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bartolomeo_Bimbi.jpg" title="File:Bartolomeo Bimbi.jpg">File:Bartolomeo Bimbi.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Medici&amp;action=edit&amp;redlink=1" class="new" title="Medici (page does not exist)">Medici</a> <a href="/wiki/Citrus" title="Citrus">citrus</a> collection by <a href="/w/index.php?title=Bartolomeo_Bimbi&amp;action=edit&amp;redlink=1" class="new" title="Bartolomeo Bimbi (page does not exist)">Bartolomeo Bimbi</a>, 1715</div></div></div>
+<p>In <a href="/wiki/Botany" title="Botany">botany</a>, a <b>fruit</b> is a part of a <a href="/wiki/Angiosperms" title="Angiosperms" class="mw-redirect">flowering plant</a> that derives from specific <a href="/wiki/Tissue_(biology)" title="Tissue (biology)">tissues</a> of the <a href="/w/index.php?title=Flower&amp;action=edit&amp;redlink=1" class="new" title="Flower (page does not exist)">flower</a>, one or more <a href="/w/index.php?title=Ovary_(plants)&amp;action=edit&amp;redlink=1" class="new" title="Ovary (plants) (page does not exist)">ovaries</a>, and in some cases accessory tissues. Fruits are the means by which these plants disseminate <a href="/wiki/Seed" title="Seed">seeds</a>. Many of them that bear edible fruits, in particular, have propagated with the movements of <a href="/wiki/Homo_sapiens" title="Homo sapiens">humans</a> and animals in a <a href="/wiki/Symbiosis" title="Symbiosis">symbiotic relationship</a> as a means for <a href="/wiki/Seed_dispersal" title="Seed dispersal">seed dispersal</a> and <a href="/wiki/Nutrition" title="Nutrition">nutrition</a>, respectively; in fact, humans and many animals have become dependent on fruits as a source of food.<sup id="cite_ref-Lewis375_1-0" class="reference"><a href="#cite_note-Lewis375-1">[1]</a></sup> Fruits account for a substantial fraction of the world's <a href="/wiki/Agriculture" title="Agriculture">agricultural</a> output, and some (such as the apple and the <a href="/wiki/Pomegranate" title="Pomegranate">pomegranate</a>) have acquired extensive cultural and symbolic meanings.
+</p><p>In common language usage, "fruit" normally means the fleshy seed-associated structures of a plant that are sweet or sour and edible in the raw state, such as <a href="/w/index.php?title=Apple&amp;action=edit&amp;redlink=1" class="new" title="Apple (page does not exist)">apples</a>, <a href="/w/index.php?title=Orange_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Orange (fruit) (page does not exist)">oranges</a>, <a href="/wiki/Grape" title="Grape">grapes</a>, <a href="/w/index.php?title=Garden_strawberry&amp;action=edit&amp;redlink=1" class="new" title="Garden strawberry (page does not exist)">strawberries</a>, <a href="/wiki/Banana" title="Banana">bananas</a>, and <a href="/wiki/Lemons" title="Lemons" class="mw-redirect">lemons</a>. On the other hand, the botanical sense of "fruit" includes many structures that are not commonly called "fruits", such as <a href="/wiki/Bean" title="Bean">bean</a> pods, <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">corn</a> <a href="/wiki/Seed" title="Seed">kernels</a>, <a href="/wiki/Wheat" title="Wheat">wheat</a> grains, and <a href="/w/index.php?title=Tomato&amp;action=edit&amp;redlink=1" class="new" title="Tomato (page does not exist)">tomatoes</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-Mauseth271_3-0" class="reference"><a href="#cite_note-Mauseth271-3">[3]</a></sup>
+</p><p>The section of a <a href="/w/index.php?title=Fungus&amp;action=edit&amp;redlink=1" class="new" title="Fungus (page does not exist)">fungus</a> that produces <a href="/wiki/Spore" title="Spore">spores</a> is also called a fruiting body.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Botanic_fruit_and_culinary_fruit"><span class="tocnumber">1</span> <span class="toctext">Botanic fruit and culinary fruit</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Fruit_development"><span class="tocnumber">2</span> <span class="toctext">Fruit development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Simple_fruit"><span class="tocnumber">2.1</span> <span class="toctext">Simple fruit</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Aggregate_fruit"><span class="tocnumber">2.2</span> <span class="toctext">Aggregate fruit</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Multiple_fruits"><span class="tocnumber">2.3</span> <span class="toctext">Multiple fruits</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Berries"><span class="tocnumber">2.4</span> <span class="toctext">Berries</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Accessory_fruit"><span class="tocnumber">2.5</span> <span class="toctext">Accessory fruit</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Table_of_fruit_examples"><span class="tocnumber">2.6</span> <span class="toctext">Table of fruit examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Seedless_fruits"><span class="tocnumber">3</span> <span class="toctext">Seedless fruits</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Seed_dissemination"><span class="tocnumber">4</span> <span class="toctext">Seed dissemination</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Uses"><span class="tocnumber">5</span> <span class="toctext">Uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Nutritional_value"><span class="tocnumber">5.1</span> <span class="toctext">Nutritional value</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Nonfood_uses"><span class="tocnumber">5.2</span> <span class="toctext">Nonfood uses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Safety"><span class="tocnumber">6</span> <span class="toctext">Safety</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Production"><span class="tocnumber">7</span> <span class="toctext">Production</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Storage"><span class="tocnumber">8</span> <span class="toctext">Storage</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Botanic_fruit_and_culinary_fruit">Botanic fruit and culinary fruit</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Botanical_Fruit_and_Culinary_Vegetables.png" title="File:Botanical Fruit and Culinary Vegetables.png">File:Botanical Fruit and Culinary Vegetables.png</a>  <div class="thumbcaption"><a href="/wiki/Venn_diagram" title="Venn diagram">Venn diagram</a> representing the relationship between (culinary) vegetables and botanical fruits</div></div></div>
+<p>In the culinary sense of these words, a fruit is usually any sweet-tasting plant product, especially those associated with seeds; a <a href="/w/index.php?title=Vegetable&amp;action=edit&amp;redlink=1" class="new" title="Vegetable (page does not exist)">vegetable</a> is any <a href="/wiki/Umami" title="Umami">savory</a> or less sweet plant product; and a nut is any hard, oily, and shelled plant product.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</p><p>These culinary vegetables that are botanically fruit include <a href="/wiki/Cucurbitaceae" title="Cucurbitaceae">cucurbits</a> (e.g., <a href="/wiki/Squash_(plant)" title="Squash (plant)" class="mw-redirect">squash</a>, <a href="/w/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">pumpkin</a>, and <a href="/wiki/Cucumber" title="Cucumber">cucumber</a>), <a href="/w/index.php?title=Tomato&amp;action=edit&amp;redlink=1" class="new" title="Tomato (page does not exist)">tomatoes</a>, <a href="/wiki/Pea" title="Pea">peas</a>, <a href="/wiki/Bean" title="Bean">beans</a>, <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">corn</a>, <a href="/wiki/Eggplant" title="Eggplant">eggplant</a>, and sweet <a href="/wiki/Bell_pepper" title="Bell pepper">pepper</a>. In addition, some <a href="/wiki/Spice" title="Spice">spices</a>, such as <a href="/wiki/Allspice" title="Allspice">allspice</a> and <a href="/wiki/Chili_pepper" title="Chili pepper">chilies</a>, are fruits, botanically speaking.<sup id="cite_ref-McGee247_6-0" class="reference"><a href="#cite_note-McGee247-6">[6]</a></sup> In contrast, <a href="/wiki/Rhubarb" title="Rhubarb">rhubarb</a> is often referred to as a fruit, because it is used to make sweet desserts such as pies, though only the <a href="/w/index.php?title=Petiole_(botany)&amp;action=edit&amp;redlink=1" class="new" title="Petiole (botany) (page does not exist)">petiole</a> (leaf stalk) of the rhubarb plant is edible.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Edible gymnosperm seeds are often given fruit names, e.g., <a href="/w/index.php?title=Pine_Nut&amp;action=edit&amp;redlink=1" class="new" title="Pine Nut (page does not exist)">pine nuts</a>, <a href="/wiki/Ginkgo_biloba" title="Ginkgo biloba">ginkgo</a> nuts.
+</p><p>Botanically, a <a href="/wiki/Cereal" title="Cereal">cereal</a> grain, such as <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">corn</a>, <a href="/wiki/Wheat" title="Wheat">wheat</a> or <a href="/wiki/Rice" title="Rice">rice</a>, is also a kind of fruit, termed a <a href="/wiki/Caryopsis" title="Caryopsis">caryopsis</a>. However, the fruit wall is very thin, and is fused to the seed coat, so almost all of the edible grain is actually a seed.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+</p><p>Many common terms for seeds and fruit do not correspond to the botanical classifications. In botany, seeds are ripened ovules; fruits are the ripened ovaries or carpels that contain the seeds and a <a href="/wiki/Nut_(fruit)" title="Nut (fruit)">nut</a> is a type of fruit and not a seed.<sup id="cite_ref-McGee247_6-1" class="reference"><a href="#cite_note-McGee247-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fruit_development">Fruit development</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Nectarine_Fruit_Development.jpg" title="File:Nectarine Fruit Development.jpg">File:Nectarine Fruit Development.jpg</a>  <div class="thumbcaption">The development sequence of a typical <a href="/wiki/Drupe" title="Drupe">drupe</a>, the <a href="/wiki/Nectarine" title="Nectarine" class="mw-redirect">nectarine</a> (<i>Prunus persica</i>) over a 7.5 month period, from bud formation in early winter to fruit ripening in midsummer (see <a href="/w/index.php?title=File:Nectarine_Fruit_Development.jpg&amp;action=edit&amp;redlink=1" class="new" title="File:Nectarine Fruit Development.jpg (page does not exist)">image page</a> for further information)</div></div></div>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>A fruit results from maturation of one or more flowers, and the <a href="/w/index.php?title=Gynoecium&amp;action=edit&amp;redlink=1" class="new" title="Gynoecium (page does not exist)">gynoecium</a> of the flower(s) forms all or part of the fruit.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p><p>Inside the ovary/ovaries are one or more <a href="/wiki/Ovule" title="Ovule">ovules</a> where the <a href="/w/index.php?title=Megagametophyte&amp;action=edit&amp;redlink=1" class="new" title="Megagametophyte (page does not exist)">megagametophyte</a> contains the egg cell.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> After <a href="/w/index.php?title=Double_fertilization&amp;action=edit&amp;redlink=1" class="new" title="Double fertilization (page does not exist)">double fertilization</a>, these ovules will become seeds. The ovules are fertilized in a process that starts with <a href="/wiki/Pollination" title="Pollination">pollination</a>, which involves the movement of pollen from the stamens to the stigma of flowers. After pollination, a tube grows from the pollen through the stigma into the ovary to the ovule and two sperm are transferred from the pollen to the megagametophyte. Within the megagametophyte one of the two sperm unites with the egg, forming a <a href="/wiki/Zygote" title="Zygote">zygote</a>, and the second sperm enters the central cell forming the endosperm mother cell, which completes the double fertilization process.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Later the zygote will give rise to the embryo of the seed, and the endosperm mother cell will give rise to <a href="/wiki/Endosperm" title="Endosperm">endosperm</a>, a nutritive tissue used by the embryo.
+</p><p>As the ovules develop into seeds, the ovary begins to ripen and the ovary wall, the <i>pericarp</i>, may become fleshy (as in berries or <a href="/wiki/Drupe" title="Drupe">drupes</a>), or form a hard outer covering (as in nuts). In some multiseeded fruits, the extent to which the flesh develops is proportional to the number of fertilized ovules.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The pericarp is often differentiated into two or three distinct layers called the <i>exocarp</i> (outer layer, also called epicarp), <i>mesocarp</i> (middle layer), and <i>endocarp</i> (inner layer). In some fruits, especially simple fruits derived from an <a href="/w/index.php?title=Inferior_ovary&amp;action=edit&amp;redlink=1" class="new" title="Inferior ovary (page does not exist)">inferior ovary</a>, other parts of the flower (such as the floral tube, including the <a href="/wiki/Petal" title="Petal">petals</a>, <a href="/wiki/Sepal" title="Sepal">sepals</a>, and <a href="/wiki/Stamen" title="Stamen">stamens</a>), fuse with the ovary and ripen with it. In other cases, the sepals, petals and/or stamens and <a href="/w/index.php?title=Gynoecium&amp;action=edit&amp;redlink=1" class="new" title="Gynoecium (page does not exist)">style</a> of the flower fall off. When such other floral parts are a significant part of the fruit, it is called an <i><a href="/wiki/Accessory_fruit" title="Accessory fruit">accessory fruit</a></i>. Since other parts of the flower may contribute to the structure of the fruit, it is important to study flower structure to understand how a particular fruit forms.<sup id="cite_ref-Mauseth271_3-1" class="reference"><a href="#cite_note-Mauseth271-3">[3]</a></sup>
+</p><p>There are three general modes of fruit development:
+</p>
+<ul>
+<li> Apocarpous fruits develop from a single flower having one or more separate carpels, and they are the simplest fruits.
+</li>
+<li> Syncarpous fruits develop from a single gynoecium having two or more carpels fused together.
+</li>
+<li> Multiple fruits form from many different flowers.
+</li>
+</ul>
+<p>Plant scientists have grouped fruits into three main groups, simple fruits, aggregate fruits, and composite or multiple fruits.<sup id="cite_ref-plants_systematics_14-0" class="reference"><a href="#cite_note-plants_systematics-14">[14]</a></sup> The groupings are not evolutionarily relevant, since many diverse plant <a href="/wiki/Taxa" title="Taxa" class="mw-redirect">taxa</a> may be in the same group, but reflect how the flower organs are arranged and how the fruits develop.
+</p>
+<h3><span class="mw-headline" id="Simple_fruit">Simple fruit</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Vaccinium.jpg" title="File:Vaccinium.jpg">File:Vaccinium.jpg</a>  <div class="thumbcaption">Epigynous berries are simple fleshy fruit. Clockwise from top right: <a href="/wiki/Cranberry" title="Cranberry">cranberries</a>, <a href="/wiki/Lingonberries" title="Lingonberries" class="mw-redirect">lingonberries</a>, <a href="/wiki/Blueberries" title="Blueberries" class="mw-redirect">blueberries</a> red <a href="/w/index.php?title=Huckleberry&amp;action=edit&amp;redlink=1" class="new" title="Huckleberry (page does not exist)">huckleberries</a></div></div></div>
+<p>Simple fruits can be either dry or fleshy, and result from the ripening of a simple or compound ovary in a flower with only one <a href="/wiki/Carpel" title="Carpel" class="mw-redirect">pistil</a>. Dry fruits may be either <a href="/w/index.php?title=Dehiscent&amp;action=edit&amp;redlink=1" class="new" title="Dehiscent (page does not exist)">dehiscent</a> (opening to discharge seeds), or indehiscent (not opening to discharge seeds).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Types of dry, simple fruits, with examples of each, are:
+</p>
+<ul>
+<li><a href="/wiki/Achene" title="Achene">achene</a> - Most commonly seen in aggregate fruits (e.g. <a href="/w/index.php?title=Strawberry&amp;action=edit&amp;redlink=1" class="new" title="Strawberry (page does not exist)">strawberry</a>)
+</li>
+<li><a href="/w/index.php?title=Capsule_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Capsule (fruit) (page does not exist)">capsule</a> – (<a href="/wiki/Brazil_nut" title="Brazil nut">Brazil nut</a>)
+</li>
+<li><a href="/wiki/Caryopsis" title="Caryopsis">caryopsis</a> – (<a href="/wiki/Wheat" title="Wheat">wheat</a>)
+</li>
+<li><a href="/wiki/Achene" title="Achene">Cypsela</a> - An achene-like fruit derived from the individual florets in a <a href="/wiki/Head_(botany)" title="Head (botany)" class="mw-redirect">capitulum</a> (e.g. <a href="/w/index.php?title=Dandelion&amp;action=edit&amp;redlink=1" class="new" title="Dandelion (page does not exist)">dandelion</a>).
+</li>
+<li><a href="/wiki/Drupe" title="Drupe">fibrous drupe</a> – (<a href="/wiki/Coconut" title="Coconut">coconut</a>, <a href="/w/index.php?title=Walnut&amp;action=edit&amp;redlink=1" class="new" title="Walnut (page does not exist)">walnut</a>)
+</li>
+<li><a href="/w/index.php?title=Follicle_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Follicle (fruit) (page does not exist)">follicle</a> – is formed from a single carpel, and opens by one suture (e.g. <a href="/wiki/Milkweed" title="Milkweed" class="mw-redirect">milkweed</a>). More commonly seen in aggregate fruits (e.g. <a href="/wiki/Magnolia" title="Magnolia">magnolia</a>)
+</li>
+<li><a href="/wiki/Legume" title="Legume">legume</a> – (<a href="/wiki/Pea" title="Pea">pea</a>, <a href="/wiki/Bean" title="Bean">bean</a>, <a href="/wiki/Peanut" title="Peanut">peanut</a>)
+</li>
+<li><a href="/w/index.php?title=Loment&amp;action=edit&amp;redlink=1" class="new" title="Loment (page does not exist)">loment</a> - a type of <a href="/w/index.php?title=Indehiscent&amp;action=edit&amp;redlink=1" class="new" title="Indehiscent (page does not exist)">indehiscent</a> legume
+</li>
+<li><a href="/wiki/Nut_(fruit)" title="Nut (fruit)">nut</a> – (<a href="/wiki/Hazelnut" title="Hazelnut">hazelnut</a>, <a href="/wiki/Beech" title="Beech">beech</a>, oak <a href="/wiki/Acorn" title="Acorn">acorn</a>)
+</li>
+<li><a href="/wiki/Samara_(fruit)" title="Samara (fruit)">samara</a> – (<a href="/wiki/Elm" title="Elm">elm</a>, <a href="/w/index.php?title=Ash_tree&amp;action=edit&amp;redlink=1" class="new" title="Ash tree (page does not exist)">ash</a>, <a href="/w/index.php?title=Maple&amp;action=edit&amp;redlink=1" class="new" title="Maple (page does not exist)">maple</a> key)
+</li>
+<li><a href="/w/index.php?title=Schizocarp&amp;action=edit&amp;redlink=1" class="new" title="Schizocarp (page does not exist)">schizocarp</a> – (<a href="/w/index.php?title=Carrot&amp;action=edit&amp;redlink=1" class="new" title="Carrot (page does not exist)">carrot</a> seed)
+</li>
+<li><a href="/w/index.php?title=Silique&amp;action=edit&amp;redlink=1" class="new" title="Silique (page does not exist)">silique</a> – (<a href="/wiki/Radish" title="Radish">radish</a> seed)
+</li>
+<li><a href="/w/index.php?title=Silicle&amp;action=edit&amp;redlink=1" class="new" title="Silicle (page does not exist)">silicle</a> – (<a href="/wiki/Shepherd%27s_purse" title="Shepherd's purse" class="mw-redirect">shepherd's purse</a>)
+</li>
+<li><a href="/w/index.php?title=Utricle_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Utricle (fruit) (page does not exist)">utricle</a> – (<a href="/w/index.php?title=Beet&amp;action=edit&amp;redlink=1" class="new" title="Beet (page does not exist)">beet</a>)
+</li>
+</ul>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Lilyfruit.jpg" title="File:Lilyfruit.jpg">File:Lilyfruit.jpg</a>  <div class="thumbcaption"><i><a href="/wiki/Lilium" title="Lilium">Lilium</a></i> unripe capsule fruit</div></div></div>
+<p>Fruits in which part or all of the <i>pericarp</i> (fruit wall) is fleshy at maturity are <i>simple fleshy fruits</i>. Types of fleshy, simple fruits (with examples) are:
+</p>
+<ul>
+<li><a href="/wiki/Berry" title="Berry">berry</a> – (<a href="/wiki/Redcurrant" title="Redcurrant">redcurrant</a>, <a href="/wiki/Gooseberry" title="Gooseberry">gooseberry</a>, <a href="/w/index.php?title=Tomato&amp;action=edit&amp;redlink=1" class="new" title="Tomato (page does not exist)">tomato</a>, <a href="/wiki/Cranberry" title="Cranberry">cranberry</a>)
+</li>
+<li>stone fruit or <a href="/wiki/Drupe" title="Drupe">drupe</a> (<a href="/wiki/Plum" title="Plum">plum</a>, <a href="/wiki/Cherry" title="Cherry">cherry</a>, <a href="/wiki/Peach" title="Peach">peach</a>, <a href="/wiki/Apricot" title="Apricot">apricot</a>, <a href="/wiki/Olive" title="Olive">olive</a>)
+</li>
+</ul>
+<div class="thumb tleft"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:DewberriesWeb.jpg" title="File:DewberriesWeb.jpg">File:DewberriesWeb.jpg</a>  <div class="thumbcaption"><a href="/wiki/Dewberry" title="Dewberry">Dewberry</a> flowers. Note the multiple <a href="/wiki/Pistil" title="Pistil" class="mw-redirect">pistils</a>, each of which will produce a <a href="/wiki/Drupe" title="Drupe">drupelet</a>. Each flower will become a blackberry-like <a href="/w/index.php?title=Aggregate_fruit&amp;action=edit&amp;redlink=1" class="new" title="Aggregate fruit (page does not exist)">aggregate fruit</a>.</div></div></div>
+<p>An aggregate fruit, or <i>etaerio</i>, develops from a single flower with numerous simple pistils.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<ul>
+<li><a href="/wiki/Magnolia" title="Magnolia">Magnolia</a> and <a href="/wiki/Peony" title="Peony">Peony</a>, collection of follicles developing from one flower.
+</li>
+<li><a href="/wiki/Sweet_gum" title="Sweet gum" class="mw-redirect">Sweet gum</a>, collection of capsules.
+</li>
+<li><a href="/wiki/Sycamore" title="Sycamore">Sycamore</a>, collection of achenes.
+</li>
+<li><a href="/wiki/Teasel" title="Teasel" class="mw-redirect">Teasel</a>, collection of cypsellas
+</li>
+<li><a href="/wiki/Tuliptree" title="Tuliptree" class="mw-redirect">Tuliptree</a>, collection of samaras.
+</li>
+</ul>
+<p>The <a href="/wiki/Pome" title="Pome">pome</a> fruits of the family <a href="/wiki/Rosaceae" title="Rosaceae">Rosaceae</a>, (including <a href="/w/index.php?title=Apple&amp;action=edit&amp;redlink=1" class="new" title="Apple (page does not exist)">apples</a>, <a href="/wiki/Pear" title="Pear">pears</a>, <a href="/wiki/Rosehip" title="Rosehip" class="mw-redirect">rosehips</a>, and <a href="/w/index.php?title=Saskatoon_berry&amp;action=edit&amp;redlink=1" class="new" title="Saskatoon berry (page does not exist)">saskatoon berry</a>) are a syncarpous fleshy fruit, a simple fruit, developing from a half-inferior ovary.<sup id="cite_ref-evolutionary_trends_in_flowering_plants_17-0" class="reference"><a href="#cite_note-evolutionary_trends_in_flowering_plants-17">[17]</a></sup>
+</p><p><a href="/w/index.php?title=Schizocarp&amp;action=edit&amp;redlink=1" class="new" title="Schizocarp (page does not exist)">Schizocarp</a> fruits form from a syncarpous ovary and do not really <a href="/wiki/Dehiscence_(botany)" title="Dehiscence (botany)">dehisce</a>, but split into segments with one or more seeds; they include a number of different forms from a wide range of families.<sup id="cite_ref-plants_systematics_14-1" class="reference"><a href="#cite_note-plants_systematics-14">[14]</a></sup> Carrot seed is an example.
+</p>
+<h3><span class="mw-headline" id="Aggregate_fruit">Aggregate fruit</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Longitudinal_section_of_raspberry_flower.gif" title="File:Longitudinal section of raspberry flower.gif">File:Longitudinal section of raspberry flower.gif</a>  <div class="thumbcaption">Detail of raspberry <a href="/w/index.php?title=Flower&amp;action=edit&amp;redlink=1" class="new" title="Flower (page does not exist)">flower</a>.</div></div></div>
+<p>Aggregate fruits form from single flowers that have multiple carpels which are not joined together, i.e. each pistil contains one carpel. Each pistil forms a fruitlet, and collectively the fruitlets are called an etaerio. Four types of aggregate fruits include etaerios of achenes, follicles, drupelets, and berries. Ranunculaceae species, including <i><a href="/wiki/Clematis" title="Clematis">Clematis</a></i> and <i><a href="/wiki/Ranunculus" title="Ranunculus">Ranunculus</a></i> have an etaerio of achenes, <i><a href="/w/index.php?title=Calotropis&amp;action=edit&amp;redlink=1" class="new" title="Calotropis (page does not exist)">Calotropis</a></i> has an etaerio of follicles, and <i><a href="/wiki/Rubus" title="Rubus">Rubus</a></i> species like raspberry, have an etaerio of drupelets. <i><a href="/wiki/Annona" title="Annona">Annona</a></i> have Etaerio of berries.<sup id="cite_ref-Gupta_18-0" class="reference"><a href="#cite_note-Gupta-18">[18]</a></sup><a href="/w/index.php?title=Template:Dead_link&amp;action=edit&amp;redlink=1" class="new" title="Template:Dead link (page does not exist)">Template:Dead link</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><a href="/w/index.php?title=Template:Dead_link&amp;action=edit&amp;redlink=1" class="new" title="Template:Dead link (page does not exist)">Template:Dead link</a>
+</p><p>The <a href="/wiki/Raspberry" title="Raspberry">raspberry</a>, whose pistils are termed <i>drupelets</i> because each is like a small <a href="/wiki/Drupe" title="Drupe">drupe</a> attached to the receptacle. In some <a href="/wiki/Bramble" title="Bramble">bramble</a> fruits (such as <a href="/wiki/Blackberry" title="Blackberry">blackberry</a>) the receptacle is elongated and part of the ripe fruit, making the blackberry an <i>aggregate-accessory</i> fruit.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> The <a href="/w/index.php?title=Strawberry&amp;action=edit&amp;redlink=1" class="new" title="Strawberry (page does not exist)">strawberry</a> is also an aggregate-accessory fruit, only one in which the seeds are contained in <a href="/wiki/Achene" title="Achene">achenes</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> In all these examples, the fruit develops from a single flower with numerous pistils.
+</p>
+<h3><span class="mw-headline" id="Multiple_fruits">Multiple fruits</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+A multiple fruit is one formed from a cluster of flowers (called an <i><a href="/wiki/Inflorescence" title="Inflorescence">inflorescence</a></i>). Each flower produces a fruit, but these mature into a single mass.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Examples are the <a href="/wiki/Pineapple" title="Pineapple">pineapple</a>, <a href="/wiki/Ficus" title="Ficus">fig</a>, <a href="/w/index.php?title=Mulberry&amp;action=edit&amp;redlink=1" class="new" title="Mulberry (page does not exist)">mulberry</a>, <a href="/w/index.php?title=Osage-orange&amp;action=edit&amp;redlink=1" class="new" title="Osage-orange (page does not exist)">osage-orange</a>, and <a href="/wiki/Breadfruit" title="Breadfruit">breadfruit</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Noni_fruit_dev.jpg" title="File:Noni fruit dev.jpg">File:Noni fruit dev.jpg</a>  <div class="thumbcaption">In some plants, such as this <a href="/w/index.php?title=Noni&amp;action=edit&amp;redlink=1" class="new" title="Noni (page does not exist)">noni</a>, flowers are produced regularly along the stem and it is possible to see together examples of flowering, fruit development, and fruit ripening.</div></div></div>
+<p>In the photograph on the right, stages of flowering and fruit development in the <a href="/w/index.php?title=Noni&amp;action=edit&amp;redlink=1" class="new" title="Noni (page does not exist)">noni</a> or Indian mulberry (<i>Morinda citrifolia</i>) can be observed on a single branch. First an inflorescence of white flowers called a head is produced. After <a href="/w/index.php?title=Fertilization&amp;action=edit&amp;redlink=1" class="new" title="Fertilization (page does not exist)">fertilization</a>, each flower develops into a drupe, and as the drupes expand, they become <i>connate</i> (merge) into a <i>multiple fleshy fruit</i> called a <i>syncarpet</i>.
+</p>
+<h3><span class="mw-headline" id="Berries">Berries</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Berries are another type of fleshy fruit; they are simple fruit created from a single ovary. The ovary may be compound, with several carpels. Type include (examples follow in the table below):
+</p>
+<ul>
+<li> <a href="/wiki/Berry" title="Berry">Pepo</a> – Berries where the skin is hardened, <a href="/wiki/Cucurbitaceae" title="Cucurbitaceae">cucurbits</a>
+</li>
+<li> <a href="/w/index.php?title=Hesperidium&amp;action=edit&amp;redlink=1" class="new" title="Hesperidium (page does not exist)">Hesperidium</a> – Berries with a rind and a juicy interior, like most <a href="/wiki/Citrus" title="Citrus">citrus</a> fruit
+</li>
+</ul>
+<h3><span class="mw-headline" id="Accessory_fruit">Accessory fruit</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Some or all of the edible part of accessory fruit is not generated by the ovary.
+</p>
+<h3><span class="mw-headline" id="Table_of_fruit_examples">Table of fruit examples</span></h3>
+<table class="wikitable">
+<caption> Types of fleshy fruits
+</caption>
+<tr>
+<th> True berry
+</th>
+<th> Pepo
+</th>
+<th> Hesperidium
+</th>
+<th> Aggregate fruit
+</th>
+<th> Multiple fruit
+</th>
+<th> Accessory fruit
+</th></tr>
+<tr>
+<td> <a href="/wiki/Blackcurrant" title="Blackcurrant">Blackcurrant</a>, <a href="/wiki/Redcurrant" title="Redcurrant">Redcurrant</a>, <a href="/wiki/Gooseberry" title="Gooseberry">Gooseberry</a>, <a href="/w/index.php?title=Tomato&amp;action=edit&amp;redlink=1" class="new" title="Tomato (page does not exist)">Tomato</a>, <a href="/wiki/Eggplant" title="Eggplant">Eggplant</a>, <a href="/wiki/Guava" title="Guava">Guava</a>, <a href="/w/index.php?title=Lucuma&amp;action=edit&amp;redlink=1" class="new" title="Lucuma (page does not exist)">Lucuma</a>, <a href="/wiki/Chili_pepper" title="Chili pepper">Chili pepper</a>, <a href="/wiki/Pomegranate" title="Pomegranate">Pomegranate</a>, <a href="/wiki/Kiwifruit" title="Kiwifruit">Kiwifruit</a>, <a href="/wiki/Grape" title="Grape">Grape</a>, <a href="/wiki/Cranberry" title="Cranberry">Cranberry</a>, <a href="/w/index.php?title=Blueberry&amp;action=edit&amp;redlink=1" class="new" title="Blueberry (page does not exist)">Blueberry</a>
+</td>
+<td> <a href="/w/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">Pumpkin</a>, <a href="/wiki/Gourd" title="Gourd">Gourd</a>, <a href="/wiki/Cucumber" title="Cucumber">Cucumber</a>, <a href="/w/index.php?title=Melon&amp;action=edit&amp;redlink=1" class="new" title="Melon (page does not exist)">Melon</a>
+</td>
+<td> <a href="/w/index.php?title=Orange_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Orange (fruit) (page does not exist)">Orange</a>, <a href="/w/index.php?title=Lemon&amp;action=edit&amp;redlink=1" class="new" title="Lemon (page does not exist)">Lemon</a>, <a href="/wiki/Lime_(fruit)" title="Lime (fruit)">Lime</a>, <a href="/wiki/Grapefruit" title="Grapefruit">Grapefruit</a>
+</td>
+<td> <a href="/wiki/Blackberry" title="Blackberry">Blackberry</a>, <a href="/wiki/Raspberry" title="Raspberry">Raspberry</a>, <a href="/wiki/Boysenberry" title="Boysenberry">Boysenberry</a>
+</td>
+<td> <a href="/wiki/Pineapple" title="Pineapple">Pineapple</a>, <a href="/wiki/Ficus" title="Ficus">Fig</a>, <a href="/w/index.php?title=Mulberry&amp;action=edit&amp;redlink=1" class="new" title="Mulberry (page does not exist)">Mulberry</a>, <a href="/w/index.php?title=Hedge_apple&amp;action=edit&amp;redlink=1" class="new" title="Hedge apple (page does not exist)">Hedge apple</a>
+</td>
+<td> <a href="/w/index.php?title=Apple&amp;action=edit&amp;redlink=1" class="new" title="Apple (page does not exist)">Apple</a>, <a href="/wiki/Rose_hip" title="Rose hip">Rose hip</a>, <a href="/w/index.php?title=Strawberry&amp;action=edit&amp;redlink=1" class="new" title="Strawberry (page does not exist)">Strawberry</a>
+</td></tr></table>
+<h2><span class="mw-headline" id="Seedless_fruits">Seedless fruits</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:FruitArrangement.jpg" title="File:FruitArrangement.jpg">File:FruitArrangement.jpg</a>  <div class="thumbcaption">An arrangement of fruits commonly thought of as vegetables, including <a href="/w/index.php?title=Tomato&amp;action=edit&amp;redlink=1" class="new" title="Tomato (page does not exist)">tomatoes</a> and various <a href="/w/index.php?title=Squash_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Squash (fruit) (page does not exist)">squash</a></div></div></div>
+<p>Seedlessness is an important feature of some fruits of commerce. Commercial <a href="/wiki/Cultivars" title="Cultivars" class="mw-redirect">cultivars</a> of <a href="/wiki/Banana" title="Banana">bananas</a> and <a href="/wiki/Pineapples" title="Pineapples" class="mw-redirect">pineapples</a> are examples of <a href="/w/index.php?title=Seedless_fruit&amp;action=edit&amp;redlink=1" class="new" title="Seedless fruit (page does not exist)">seedless fruits</a>. Some cultivars of <a href="/wiki/Citrus" title="Citrus">citrus</a> fruits (especially navel <a href="/w/index.php?title=Orange_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Orange (fruit) (page does not exist)">oranges</a>), <a href="/w/index.php?title=Mikan&amp;action=edit&amp;redlink=1" class="new" title="Mikan (page does not exist)">satsumas</a>, <a href="/wiki/Mandarin_orange" title="Mandarin orange">mandarin oranges</a>, <a href="/wiki/Table_grape" title="Table grape">table grapes</a>, <a href="/wiki/Grapefruit" title="Grapefruit">grapefruit</a>, and <a href="/w/index.php?title=Watermelon&amp;action=edit&amp;redlink=1" class="new" title="Watermelon (page does not exist)">watermelons</a> are valued for their seedlessness. In some species, seedlessness is the result of <i><a href="/wiki/Parthenocarpy" title="Parthenocarpy">parthenocarpy</a></i>, where fruits set without fertilization. Parthenocarpic fruit set may or may not require pollination but most seedless citrus fruits require stimulus from pollination to produce fruit.
+</p><p>Seedless bananas and grapes are <a href="/wiki/Triploid" title="Triploid" class="mw-redirect">triploids</a>, and seedlessness results from the abortion of the <a href="/wiki/Embryo" title="Embryo">embryonic</a> plant that is produced by fertilization, a phenomenon known as <i><a href="/w/index.php?title=Stenospermocarpy&amp;action=edit&amp;redlink=1" class="new" title="Stenospermocarpy (page does not exist)">stenospermocarpy</a></i> which requires normal pollination and fertilization.<sup id="cite_ref-Spiegel87_23-0" class="reference"><a href="#cite_note-Spiegel87-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Seed_dissemination">Seed dissemination</span></h2>
+<p>Variations in fruit structures largely depend on the <a href="/wiki/Biological_dispersal" title="Biological dispersal">mode of dispersal</a> of the seeds they contain. This dispersal can be achieved by animals, wind, water, or <a href="/w/index.php?title=Explosive_dehiscence&amp;action=edit&amp;redlink=1" class="new" title="Explosive dehiscence (page does not exist)">explosive dehiscence</a>.<sup id="cite_ref-Capon198_24-0" class="reference"><a href="#cite_note-Capon198-24">[24]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Grape_Mango_Rezowan.JPG" title="File:Grape Mango Rezowan.JPG">File:Grape Mango Rezowan.JPG</a>  <div class="thumbcaption">Grapes and Mangoes</div></div></div>
+<p>Some fruits have coats covered with spikes or hooked burrs, either to prevent themselves from being eaten by <a href="/w/index.php?title=Animal&amp;action=edit&amp;redlink=1" class="new" title="Animal (page does not exist)">animals</a> or to stick to the hairs, feathers or legs of animals, using them as dispersal agents. Examples include <a href="/wiki/Cocklebur" title="Cocklebur">cocklebur</a> and <a href="/w/index.php?title=Unicorn_plant&amp;action=edit&amp;redlink=1" class="new" title="Unicorn plant (page does not exist)">unicorn plant</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+</p><p>The sweet flesh of many fruits is "deliberately" appealing to animals, so that the seeds held within are eaten and "unwittingly" carried away and deposited at a distance from the parent. Likewise, the nutritious, oily kernels of <a href="/wiki/Nut_(fruit)" title="Nut (fruit)">nuts</a> are appealing to rodents (such as <a href="/wiki/Squirrel" title="Squirrel">squirrels</a>) who <a href="/wiki/Hoarding" title="Hoarding">hoard</a> them in the soil in order to avoid starving during the winter, thus giving those seeds that remain uneaten the chance to <a href="/wiki/Germination" title="Germination">germinate</a> and grow into a new plant away from their parent.<sup id="cite_ref-McGee247_6-2" class="reference"><a href="#cite_note-McGee247-6">[6]</a></sup>
+</p><p>Other fruits are elongated and flattened out naturally and so become thin, like wings or helicopter blades, e.g. <a href="/w/index.php?title=Maple&amp;action=edit&amp;redlink=1" class="new" title="Maple (page does not exist)">maple</a>, <a href="/wiki/Tuliptree" title="Tuliptree" class="mw-redirect">tuliptree</a> and <a href="/wiki/Elm" title="Elm">elm</a>. This is an <a href="/wiki/Evolution" title="Evolution">evolutionary</a> mechanism to increase dispersal distance away from the parent via wind. Other wind-dispersed fruit have tiny <i>parachutes</i>, e.g. <a href="/w/index.php?title=Dandelion&amp;action=edit&amp;redlink=1" class="new" title="Dandelion (page does not exist)">dandelion</a> and <a href="/w/index.php?title=Salsify&amp;action=edit&amp;redlink=1" class="new" title="Salsify (page does not exist)">salsify</a>.<sup id="cite_ref-Capon198_24-1" class="reference"><a href="#cite_note-Capon198-24">[24]</a></sup>
+</p><p><a href="/wiki/Coconut" title="Coconut">Coconut</a> fruits can float thousands of miles in the ocean to spread seeds. Some other fruits that can disperse via water are <a href="/wiki/Nipa_palm" title="Nipa palm" class="mw-redirect">nipa palm</a> and <a href="/wiki/Screw_pine" title="Screw pine" class="mw-redirect">screw pine</a>.<sup id="cite_ref-Capon198_24-2" class="reference"><a href="#cite_note-Capon198-24">[24]</a></sup>
+</p><p>Some fruits fling seeds substantial distances (up to 100&#160;m in <a href="/w/index.php?title=Sandbox_tree&amp;action=edit&amp;redlink=1" class="new" title="Sandbox tree (page does not exist)">sandbox tree</a>) via <a href="/w/index.php?title=Explosive_dehiscence&amp;action=edit&amp;redlink=1" class="new" title="Explosive dehiscence (page does not exist)">explosive dehiscence</a> or other mechanisms, e.g. <a href="/wiki/Impatiens" title="Impatiens">impatiens</a> and <a href="/w/index.php?title=Squirting_cucumber&amp;action=edit&amp;redlink=1" class="new" title="Squirting cucumber (page does not exist)">squirting cucumber</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Stewed_nectarines.JPG" title="File:Stewed nectarines.JPG">File:Stewed nectarines.JPG</a>  <div class="thumbcaption"><a href="/wiki/Nectarine" title="Nectarine" class="mw-redirect">Nectarines</a> are one of many fruits that can be easily stewed.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Misc_fruit.jpg" title="File:Misc fruit.jpg">File:Misc fruit.jpg</a>  <div class="thumbcaption">Oranges, bananas, pears, apples, and a watermelon</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Fruit_bowl.jpg" title="File:Fruit bowl.jpg">File:Fruit bowl.jpg</a>  <div class="thumbcaption">Fruit bowl containing <a href="/wiki/Pomegranate" title="Pomegranate">pomegranate</a>, <a href="/wiki/Pear" title="Pear">pears</a>, <a href="/w/index.php?title=Apple&amp;action=edit&amp;redlink=1" class="new" title="Apple (page does not exist)">apples</a>, <a href="/wiki/Banana" title="Banana">bananas</a>, an <a href="/w/index.php?title=Orange_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Orange (fruit) (page does not exist)">orange</a> and a <a href="/wiki/Guava" title="Guava">guava</a></div></div></div>
+<p>Many hundreds of fruits, including fleshy fruits like <a href="/w/index.php?title=Apple&amp;action=edit&amp;redlink=1" class="new" title="Apple (page does not exist)">apple</a>, <a href="/wiki/Peach" title="Peach">peach</a>, <a href="/wiki/Pear" title="Pear">pear</a>, <a href="/wiki/Kiwifruit" title="Kiwifruit">kiwifruit</a>, <a href="/w/index.php?title=Watermelon&amp;action=edit&amp;redlink=1" class="new" title="Watermelon (page does not exist)">watermelon</a> and <a href="/wiki/Mango" title="Mango">mango</a> are commercially valuable as <a href="/wiki/Human" title="Human">human</a> food, eaten both fresh and as jams, marmalade and other <a href="/wiki/Food_preservation" title="Food preservation">preserves</a>. Fruits are also used in manufactured foods like <a href="/wiki/Cookie" title="Cookie">cookies</a>, <a href="/wiki/Muffin" title="Muffin">muffins</a>, <a href="/wiki/Yogurt" title="Yogurt">yogurt</a>, <a href="/wiki/Ice_cream" title="Ice cream">ice cream</a>, <a href="/wiki/Cake" title="Cake">cakes</a>, and many more. Many fruits are used to make beverages, such as fruit juices (<a href="/wiki/Orange_juice" title="Orange juice">orange juice</a>, <a href="/wiki/Apple_juice" title="Apple juice">apple juice</a>, <a href="/w/index.php?title=Grape_juice&amp;action=edit&amp;redlink=1" class="new" title="Grape juice (page does not exist)">grape juice</a>, etc.) or <a href="/wiki/Alcoholic_beverages" title="Alcoholic beverages" class="mw-redirect">alcoholic beverages</a>, such as <a href="/wiki/Wine" title="Wine">wine</a> or <a href="/wiki/Brandy" title="Brandy">brandy</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> <a href="/w/index.php?title=Apple&amp;action=edit&amp;redlink=1" class="new" title="Apple (page does not exist)">Apples</a> are often used to make <a href="/wiki/Vinegar" title="Vinegar">vinegar</a>. Fruits are also used for gift giving, <a href="/wiki/Fruit_Basket" title="Fruit Basket" class="mw-redirect">Fruit Basket</a> and <a href="/w/index.php?title=Fruit_Bouquet&amp;action=edit&amp;redlink=1" class="new" title="Fruit Bouquet (page does not exist)">Fruit Bouquet</a> are some common forms of fruit gifts.
+</p><p>Many vegetables are botanical fruits, including <a href="/w/index.php?title=Tomato&amp;action=edit&amp;redlink=1" class="new" title="Tomato (page does not exist)">tomato</a>, <a href="/wiki/Bell_pepper" title="Bell pepper">bell pepper</a>, <a href="/wiki/Eggplant" title="Eggplant">eggplant</a>, <a href="/wiki/Okra" title="Okra">okra</a>, <a href="/w/index.php?title=Squash_(fruit)&amp;action=edit&amp;redlink=1" class="new" title="Squash (fruit) (page does not exist)">squash</a>, <a href="/w/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">pumpkin</a>, <a href="/wiki/Green_bean" title="Green bean">green bean</a>, <a href="/wiki/Cucumber" title="Cucumber">cucumber</a> and <a href="/wiki/Zucchini" title="Zucchini">zucchini</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> <a href="/wiki/Olive" title="Olive">Olive</a> fruit is pressed for <a href="/wiki/Olive_oil" title="Olive oil">olive oil</a>. Spices like <a href="/wiki/Vanilla" title="Vanilla">vanilla</a>, <a href="/wiki/Paprika" title="Paprika">paprika</a>, <a href="/wiki/Allspice" title="Allspice">allspice</a> and <a href="/wiki/Black_pepper" title="Black pepper">black pepper</a> are derived from berries.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Nutritional_value">Nutritional value</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Fruit_Nutrition.png" title="File:Fruit Nutrition.png">File:Fruit Nutrition.png</a>  <div class="thumbcaption">Each point refers to a 100 g serving of the fresh fruit, the daily recommended allowance of vitamin C is on the X axis and mg of Potassium (K) on the Y (offset by 100 mg which every fruit has) and the size of the disk represents amount of fiber (key in upper right). Oranges and bananas have the highest amount of fiber and are also furthest away from the bottom left indicating their superior nutrition. Watermelon which has almost no fiber and low levels of vitamin C and potassium comes in last place.</div></div></div>
+<p>Fruits are generally high in <a href="/wiki/Fiber" title="Fiber">fiber</a>, <a href="/wiki/Water" title="Water">water</a>, <a href="/wiki/Vitamin_C" title="Vitamin C">vitamin C</a> and sugars, although this latter varies widely from traces as in lime, to 61% of the fresh weight of the <a href="/w/index.php?title=Phoenix_dactylifera&amp;action=edit&amp;redlink=1" class="new" title="Phoenix dactylifera (page does not exist)">date</a>.<sup id="cite_ref-Hulme1970_31-0" class="reference"><a href="#cite_note-Hulme1970-31">[31]</a></sup> Fruits also contain various <a href="/wiki/Phytochemicals" title="Phytochemicals" class="mw-redirect">phytochemicals</a> that do not yet have an RDA/RDI listing under most nutritional factsheets, and which research indicates are required for proper long-term cellular health and disease prevention. Regular consumption of fruit is associated with reduced risks of cancer, cardiovascular disease (especially coronary heart disease), stroke, Alzheimer disease, cataracts, and some of the functional declines associated with aging.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
+</p><p>Diets that include a sufficient amount of potassium from fruits and vegetables also help reduce the chance of developing kidney stones and may help reduce the effects of bone-loss. Fruits are also low in calories which would help lower one's calorie intake as part of a weight-loss diet.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Nonfood_uses">Nonfood uses</span></h3>
+<p>Because fruits have been such a major part of the human diet, different cultures have developed many different uses for various fruits that they do not depend on as being edible. Many dry fruits are used as decorations or in dried flower arrangements, such as <a href="/w/index.php?title=Unicorn_plant&amp;action=edit&amp;redlink=1" class="new" title="Unicorn plant (page does not exist)">unicorn plant</a>, <a href="/wiki/Nelumbo" title="Nelumbo">lotus</a>, <a href="/wiki/Wheat" title="Wheat">wheat</a>, <a href="/w/index.php?title=Annual_honesty&amp;action=edit&amp;redlink=1" class="new" title="Annual honesty (page does not exist)">annual honesty</a> and <a href="/wiki/Milkweed" title="Milkweed" class="mw-redirect">milkweed</a>. Ornamental trees and shrubs are often cultivated for their colorful fruits, including <a href="/w/index.php?title=Holly&amp;action=edit&amp;redlink=1" class="new" title="Holly (page does not exist)">holly</a>, <a href="/wiki/Pyracantha" title="Pyracantha">pyracantha</a>, <a href="/wiki/Viburnum" title="Viburnum">viburnum</a>, <a href="/w/index.php?title=Skimmia&amp;action=edit&amp;redlink=1" class="new" title="Skimmia (page does not exist)">skimmia</a>, <a href="/wiki/Beautyberry" title="Beautyberry" class="mw-redirect">beautyberry</a> and <a href="/wiki/Cotoneaster" title="Cotoneaster">cotoneaster</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
+</p><p>Fruits of <a href="/w/index.php?title=Opium_poppy&amp;action=edit&amp;redlink=1" class="new" title="Opium poppy (page does not exist)">opium poppy</a> are the source of <a href="/wiki/Opium" title="Opium">opium</a> which contains the drugs <a href="/wiki/Morphine" title="Morphine">morphine</a> and <a href="/w/index.php?title=Codeine&amp;action=edit&amp;redlink=1" class="new" title="Codeine (page does not exist)">codeine</a>, as well as the biologically inactive chemical theabaine from which the drug oxycodone is synthesized.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> <a href="/wiki/Osage_orange" title="Osage orange" class="mw-redirect">Osage orange</a> fruits are used to repel <a href="/w/index.php?title=Cockroach&amp;action=edit&amp;redlink=1" class="new" title="Cockroach (page does not exist)">cockroaches</a>.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> <a href="/wiki/Bayberry" title="Bayberry" class="mw-redirect">Bayberry</a> fruits provide a wax often used to make candles.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> Many fruits provide <a href="/w/index.php?title=Natural_dye&amp;action=edit&amp;redlink=1" class="new" title="Natural dye (page does not exist)">natural dyes</a>, e.g. <a href="/w/index.php?title=Walnut&amp;action=edit&amp;redlink=1" class="new" title="Walnut (page does not exist)">walnut</a>, <a href="/wiki/Sumac" title="Sumac">sumac</a>, <a href="/wiki/Cherry" title="Cherry">cherry</a> and <a href="/w/index.php?title=Mulberry&amp;action=edit&amp;redlink=1" class="new" title="Mulberry (page does not exist)">mulberry</a>.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> Dried <a href="/wiki/Gourd" title="Gourd">gourds</a> are used as decorations, water jugs, bird houses, musical instruments, cups and dishes. <a href="/w/index.php?title=Pumpkin&amp;action=edit&amp;redlink=1" class="new" title="Pumpkin (page does not exist)">Pumpkins</a> are carved into <a href="/wiki/Jack-o%27-lantern" title="Jack-o'-lantern">Jack-o'-lanterns</a> for <a href="/wiki/Halloween" title="Halloween">Halloween</a>. The spiny fruit of <a href="/w/index.php?title=Burdock&amp;action=edit&amp;redlink=1" class="new" title="Burdock (page does not exist)">burdock</a> or <a href="/wiki/Cocklebur" title="Cocklebur">cocklebur</a> were the inspiration for the invention of <a href="/w/index.php?title=Velcro&amp;action=edit&amp;redlink=1" class="new" title="Velcro (page does not exist)">Velcro</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</p><p><a href="/wiki/Coir" title="Coir">Coir</a> is a fiber from the fruit of <a href="/wiki/Coconut" title="Coconut">coconut</a> that is used for doormats, brushes, mattresses, floortiles, sacking, insulation and as a growing medium for container plants. The shell of the coconut fruit is used to make souvenir heads, cups, bowls, musical instruments and bird houses.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>
+</p><p>Fruit is often used as a subject of <a href="/wiki/Still_life" title="Still life">still life</a> paintings.
+</p>
+<h2><span class="mw-headline" id="Safety">Safety</span></h2>
+<p>For <a href="/w/index.php?title=Food_safety&amp;action=edit&amp;redlink=1" class="new" title="Food safety (page does not exist)">food safety</a>, the <a href="/wiki/Centers_for_Disease_Control_and_Prevention" title="Centers for Disease Control and Prevention">CDC</a> recommends proper fruit handling and preparation to reduce the risk of <a href="/w/index.php?title=Food_contamination&amp;action=edit&amp;redlink=1" class="new" title="Food contamination (page does not exist)">food contamination</a> and <a href="/wiki/Foodborne_illness" title="Foodborne illness">foodborne illness</a>. Fresh fruits and vegetables should be carefully selected. At the store, they should not be damaged or bruised and pre-cut pieces should be refrigerated or surrounded by ice. All fruits and vegetables should be rinsed before eating. This recommendation also applies to produce with rinds or skins that are not eaten. It should be done just before preparing or eating to avoid premature spoilage. Fruits and vegetables should be kept separate from raw foods like meat, poultry, and seafood, as well as utensils that have come in contact with raw foods. Fruits and vegetables, if they are not going to be cooked, should be thrown away if they have touched raw meat, poultry, seafood or eggs. All cut, peeled, or cooked fruits and vegetables should be refrigerated within two hours. After a certain time, harmful bacteria may grow on them and increase the risk of foodborne illness.<sup id="cite_ref-cdc_41-0" class="reference"><a href="#cite_note-cdc-41">[41]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+<p>Most fruit is produced using traditional farming practices. However, the yield of fruit from <a href="/wiki/Organic_farming" title="Organic farming">organic farming</a> is growing.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h2><span class="mw-headline" id="Storage">Storage</span></h2>
+<p>The plant hormone <a href="/wiki/Ethylene#Ethylene_as_a_plant_hormone" title="Ethylene">ethylene</a> causes <a href="/wiki/Ripening" title="Ripening">ripening</a> of many types of fruit. Maintaining most fruits in an efficient <a href="/w/index.php?title=Cold_chain&amp;action=edit&amp;redlink=1" class="new" title="Cold chain (page does not exist)">cold chain</a> is optimal for post harvest storage, with the aim of extending and ensuring shelf life. All fruits benefit from proper post harvest care.<sup id="cite_ref-pxkf_42-0" class="reference"><a href="#cite_note-pxkf-42">[42]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/wiki/Fruit_tree" title="Fruit tree">Fruit tree</a>
+</li>
+<li> <a href="/wiki/Fruitarianism" title="Fruitarianism">Fruitarianism</a>
+</li>
+<li> <a href="/w/index.php?title=List_of_culinary_fruits&amp;action=edit&amp;redlink=1" class="new" title="List of culinary fruits (page does not exist)">List of culinary fruits</a>
+</li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<dl>
+<dt>Books
+</dt>
+</dl>
+<ul>
+<li> Gollner, Adam J. (2010). <i>The Fruit Hunters: A Story of Nature, Adventure, Commerce, and Obsession</i>. Scribner. <a href="/wiki/Special:BookSources/9780743296953" class="internal mw-magiclink-isbn">ISBN 978-0-7432-9695-3</a>
+</li>
+<li> Watson, R.R. / Preedy, V.R. (2010, eds.). <i>Bioactive Foods in Promoting Health: Fruits and Vegetables</i>. Academic Press. <a href="/wiki/Special:BookSources/9780123746283" class="internal mw-magiclink-isbn">ISBN 978-0-12-374628-3</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cas.vanderbilt.edu/bioimages/pages/fruit-devel.htm">Images of fruit development from flowers</a> at bioimages.vanderbilt.edu
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.cas.vanderbilt.edu/bioimages/pages/fruit-seed-dispersal.htm">Fruit and seed dispersal images</a> at bioimages.vanderbilt.edu
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.crfg.org/pubs/frtfacts.html">Fruit Facts</a> from California Rare Fruit Growers, Inc.
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.1911encyclopedia.org/Fruit">Encyclopædia Britannica 1911 on Fruit</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://crosstree.info/Documents/Fruit%20ID0.pdf">Photo ID of Fruits</a> by Capt. Pawanexh Kohli
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Botany&amp;action=edit&amp;redlink=1" class="new" title="Template:Botany (page does not exist)">Template:Botany</a>
+{{#invoke: Navbox | navbox }}
+<a href="/w/index.php?title=Template:Agriculture_country_lists&amp;action=edit&amp;redlink=1" class="new" title="Template:Agriculture country lists (page does not exist)">Template:Agriculture country lists</a>
+{{#invoke: Navbox | navbox }}
+<a href="/w/index.php?title=Template:Vegetarianism&amp;action=edit&amp;redlink=1" class="new" title="Template:Vegetarianism (page does not exist)">Template:Vegetarianism</a><a href="/w/index.php?title=Template:Link_GA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link GA (page does not exist)">Template:Link GA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.684 seconds
+Real time usage: 0.937 seconds
+Preprocessor visited node count: 1024/1000000
+Preprocessor generated node count: 5797/1000000
+Post‐expand include size: 1415/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:6833-0!*!0!!en!2!* and timestamp 20170407172812
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Fruit&amp;oldid=6833">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Fruit&amp;oldid=6833</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_template_with_no_category_set&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category template with no category set (page does not exist)">Commons category template with no category set</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_page_title_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with page title different than on Wikidata (page does not exist)">Commons category with page title different than on Wikidata</a></li><li><a href="/wiki/Category:Fruit" title="Category:Fruit">Fruit</a></li><li><a href="/w/index.php?title=Category:Fruit_morphology&amp;action=edit&amp;redlink=1" class="new" title="Category:Fruit morphology (page does not exist)">Fruit morphology</a></li><li><a href="/w/index.php?title=Category:Pollination&amp;action=edit&amp;redlink=1" class="new" title="Category:Pollination (page does not exist)">Pollination</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fruit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Fruit"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Fruit&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Fruit" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Fruit&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fruit&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fruit" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fruit" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Fruit&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Fruit&amp;oldid=6833" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Fruit&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2014, at 00:59.</li>
+											<li id="footer-info-viewcount">This page has been accessed 160 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.219 secs. -->
+	</body>
+</html>

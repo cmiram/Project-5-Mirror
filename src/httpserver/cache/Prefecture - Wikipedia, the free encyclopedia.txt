@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Prefecture - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Prefecture","wgTitle":"Prefecture","wgCurRevisionId":49521,"wgRevisionId":49521,"wgArticleId":49521,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Prefectures"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Prefecture","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Prefecture skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Prefecture</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Expand_Japanese&amp;action=edit&amp;redlink=1" class="new" title="Template:Expand Japanese (page does not exist)">Template:Expand Japanese</a>
+{{ safesubst:#invoke:Unsubst||$N=Unreferenced |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Ambox&amp;action=edit&amp;redlink=1" class="new" title="Template:Ambox (page does not exist)">Template:Ambox</a>
+}}
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<dl>
+<dd><i>For subsequent types of </i>praefectura<i>, see </i><a href="/wiki/Prefect" title="Prefect">Prefect</a><i>.</i>
+</dd>
+</dl>
+<p>A <b>prefecture</b> (from the <a href="/wiki/Latin" title="Latin">Latin</a> <i>Praefectura</i>) is an administrative jurisdiction or subdivision in any of various countries and within some international church structures, and in antiquity a Roman district governed by an appointed prefect.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Literal_prefectures"><span class="tocnumber">1</span> <span class="toctext">Literal prefectures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Antiquity"><span class="tocnumber">1.1</span> <span class="toctext">Antiquity</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ecclesiastic"><span class="tocnumber">1.2</span> <span class="toctext">Ecclesiastic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Analogous_prefectures"><span class="tocnumber">2</span> <span class="toctext">Analogous prefectures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Brazilian_equivalent_of_prefecture"><span class="tocnumber">2.1</span> <span class="toctext">Brazilian equivalent of <i>prefecture</i></span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Greek_equivalent_of_prefecture"><span class="tocnumber">2.2</span> <span class="toctext">Greek equivalent of <i>prefecture</i></span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Chinese_equivalents_of_prefecture"><span class="tocnumber">2.3</span> <span class="toctext">Chinese equivalents of <i>prefecture</i></span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#The_ancient_sense"><span class="tocnumber">2.3.1</span> <span class="toctext">The ancient sense</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#The_modern_sense"><span class="tocnumber">2.3.2</span> <span class="toctext">The modern sense</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Italian_prefettura"><span class="tocnumber">2.4</span> <span class="toctext">Italian <i>prefettura</i></span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#French_pr.C3.A9fecture"><span class="tocnumber">2.5</span> <span class="toctext">French <i>préfecture</i></span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Japanese_sense_of_prefecture"><span class="tocnumber">2.6</span> <span class="toctext">Japanese sense of <i>prefecture</i></span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Korean_equivalents_of_prefecture"><span class="tocnumber">2.7</span> <span class="toctext">Korean equivalents of <i>prefecture</i></span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Mongolian_equivalent"><span class="tocnumber">2.8</span> <span class="toctext">Mongolian equivalent</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Moroccan_Pr.C3.A9fecture"><span class="tocnumber">2.9</span> <span class="toctext">Moroccan <i>Préfecture</i></span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Venezuelan_equivalent"><span class="tocnumber">2.10</span> <span class="toctext">Venezuelan equivalent</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Moscow.2C_Russia"><span class="tocnumber">3</span> <span class="toctext">Moscow, Russia</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Literal_prefectures">Literal prefectures</span></h2>
+<h3><span class="mw-headline" id="Antiquity">Antiquity</span></h3>
+<p><i>Prefecture</i> most commonly refers to a self-governing body or area since the <a href="/wiki/Tetrarchy" title="Tetrarchy">tetrarchy</a> when Emperor <a href="/wiki/Diocletian" title="Diocletian">Diocletian</a> divided the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a> into four districts (each divided into <a href="/w/index.php?title=Roman_diocese&amp;action=edit&amp;redlink=1" class="new" title="Roman diocese (page does not exist)">dioceses</a>, grouped under <i>a <a href="/wiki/Vicarius" title="Vicarius">Vicarius</a></i> (a number of <a href="/wiki/Roman_province" title="Roman province">Roman provinces</a>, listed under that article), although he maintained two pretorian prefectures as an administrative level above the also surviving dioceses (a few of which were split).
+</p>
+<h3><span class="mw-headline" id="Ecclesiastic">Ecclesiastic</span></h3>
+<p>As <a href="/w/index.php?title=Canon_law_(Catholic_Church)&amp;action=edit&amp;redlink=1" class="new" title="Canon law (Catholic Church) (page does not exist)">canon law</a> is strongly inspired by Roman law, it is not surprising that the Catholic Church has several offices under a prefect. That term occurs also in otherwise styled offices, such as the head of a congregation or department of the <a href="/wiki/Roman_Curia" title="Roman Curia">Roman Curia</a>. Various ecclesiastical areas, too small for a <a href="/wiki/Diocese" title="Diocese">diocese</a>, are termed prefects.
+</p>
+<h2><span class="mw-headline" id="Analogous_prefectures">Analogous prefectures</span></h2>
+<h3><span class="mw-headline" id="Brazilian_equivalent_of_prefecture">Brazilian equivalent of <i>prefecture</i></span></h3>
+<p>In <a href="/wiki/Brazil" title="Brazil">Brazil</a>, the prefecture (<i>prefeitura</i> or <i>prefeitura municipal</i> in <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>) is the <a href="/wiki/Executive_(government)" title="Executive (government)">executive branch</a> of the government of each Brazilian <a href="/wiki/Municipality" title="Municipality">municipality</a> (<i>município</i> in Portuguese). The term also refers to the office of the <a href="/wiki/Mayor" title="Mayor">mayor</a> (<i>prefeito</i> in Portuguese).
+</p>
+<h3><span class="mw-headline" id="Greek_equivalent_of_prefecture">Greek equivalent of <i>prefecture</i></span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+From 1836 until 2011, modern <a href="/wiki/Greece" title="Greece">Greece</a> was divided into <i><a href="/wiki/Nome_(Greece)" title="Nome (Greece)" class="mw-redirect">nomoi</a></i> (<a href="/w/index.php?title=Template:Lang-el&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-el (page does not exist)">Template:Lang-el</a>, singular νομός, <i>nomos') which formed the country's main administrative units. These are most commonly translated into <a href="/w/index.php?title=English_language&amp;action=edit&amp;redlink=1" class="new" title="English language (page does not exist)">English</a> as "prefectures"or "counties".</i>
+</p><p>Each <i>nomos</i> was headed by a prefect (νομάρχης, <i><a href="/wiki/Nomarch" title="Nomarch">nomarches</a></i>), who was a ministerial appointee until ca. 1990, but was then elected by direct popular vote in a process of decentralization that saw the prefectures become <a href="/wiki/Local_government" title="Local government">local government</a> units. Municipal elections in Greece are held every four years and voting for the election of prefects and mayors was carried out concurrently but with separate ballots.
+</p><p>The 2010 <a href="/w/index.php?title=Kallikratis_plan&amp;action=edit&amp;redlink=1" class="new" title="Kallikratis plan (page does not exist)">Kallikratis plan</a>, which took effect on 1 January 2011, abolished the prefectures as separate administrative units, and transformed them into <a href="/w/index.php?title=Regional_units_of_Greece&amp;action=edit&amp;redlink=1" class="new" title="Regional units of Greece (page does not exist)">regional units</a> within the country's thirteen <a href="/w/index.php?title=Regions_of_Greece&amp;action=edit&amp;redlink=1" class="new" title="Regions of Greece (page does not exist)">administrative regions</a>.
+</p>
+<h3><span class="mw-headline" id="Chinese_equivalents_of_prefecture">Chinese equivalents of <i>prefecture</i></span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<h4><span class="mw-headline" id="The_ancient_sense">The ancient sense</span></h4>
+<dl>
+<dt>Xian<i> (县/縣)</i>
+</dt>
+</dl>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+When used in the context of <a href="/wiki/Chinese_history" title="Chinese history" class="mw-redirect">Chinese history</a>, especially China before the <a href="/wiki/Tang_Dynasty" title="Tang Dynasty">Tang Dynasty</a>, the word "prefecture" is used to translate <i>xian</i> (县/縣). This unit of administration is translated as "county" when used in a contemporary context. That's because of the increase of the number of "xian" and the decrease of  their sizes over time in the Chinese history. 
+</p>
+<dl>
+<dt><i>Zhou</i>
+</dt>
+</dl>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+In the context of Chinese history during or after the <a href="/wiki/Tang_Dynasty" title="Tang Dynasty">Tang Dynasty</a>, the word "prefecture" is used to translate <i>zhou</i> (Wade-Giles <i>chou</i> (州), another ancient unit of administration in China, equivalent to the modern <i>province</i>.
+</p>
+<h4><span class="mw-headline" id="The_modern_sense">The modern sense</span></h4>
+<p>In modern-day <a href="/w/index.php?title=People%27s_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="People's Republic of China (page does not exist)">People's Republic of China</a>, the prefecture (地区; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: dìqū) is an administrative division found in the <a href="/w/index.php?title=Administrative_divisions_of_the_People%27s_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of the People's Republic of China (page does not exist)">second level</a> of the administrative hierarchy. In addition to prefectures, this level also includes autonomous prefectures, <a href="/w/index.php?title=League_(Inner_Mongolia)&amp;action=edit&amp;redlink=1" class="new" title="League (Inner Mongolia) (page does not exist)">leagues</a>, and <a href="/wiki/Prefecture-level_city" title="Prefecture-level city">prefecture-level cities</a>. The prefecture level comes under the <a href="/w/index.php?title=Province-level_divisions_of_the_People%27s_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Province-level divisions of the People's Republic of China (page does not exist)">province level</a>, and in turn oversees the <a href="/w/index.php?title=County-level_division&amp;action=edit&amp;redlink=1" class="new" title="County-level division (page does not exist)">county level</a>.
+</p>
+<h3><span class="mw-headline" id="Italian_prefettura">Italian <i>prefettura</i></span></h3>
+<p>In <a href="/wiki/Italy" title="Italy">Italy</a> a <i>prefettura</i> is the office of <a href="/w/index.php?title=Prefetto&amp;action=edit&amp;redlink=1" class="new" title="Prefetto (page does not exist)">prefetto</a>; like in <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a> he is the representative of the Government in each <a href="/wiki/Provincia" title="Provincia" class="mw-redirect">provincia</a>.
+</p>
+<h3><span class="mw-headline" id="French_pr.C3.A9fecture">French <i>préfecture</i></span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+In <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a>, a <i>préfecture</i> is the <a href="/w/index.php?title=Capital_(political)&amp;action=edit&amp;redlink=1" class="new" title="Capital (political) (page does not exist)">capital</a> city of a <i><a href="/w/index.php?title=D%C3%A9partement&amp;action=edit&amp;redlink=1" class="new" title="Département (page does not exist)">département</a></i>. As there are 100 départements in France, there are 100 <i>préfectures</i> in France. A <i>préfecture de région</i> is the capital city of a <i><a href="/wiki/Regions_of_France" title="Regions of France">région</a></i>. This is the city where the <a href="/w/index.php?title=Pr%C3%A9fet&amp;action=edit&amp;redlink=1" class="new" title="Préfet (page does not exist)">préfet</a> - the appointed government representative - resides.
+</p>
+<h3><span class="mw-headline" id="Japanese_sense_of_prefecture">Japanese sense of <i>prefecture</i></span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>In English, "prefecture" is used as the translation for <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, which are the main subdivisions of Japan, consisting of 47 prefectures, or 1 <i>to</i>, 1 <i>dō</i>, 2 <i>fu</i>, and 43 <i>ken</i>.
+</p>
+<h3><span class="mw-headline" id="Korean_equivalents_of_prefecture">Korean equivalents of <i>prefecture</i></span></h3>
+<p>Until 1894, prefecture was an administrative division in the administrative district system. "Hyeon("현"; 縣)" was an administrative division in the lowest level, being minor to "Gun(군, 郡; "county")", of the administrative hierarchy; it can be translated into "Petty Prefecture" in a modern sense.
+</p><p>"Dohobu("도호부"; 都護府)" was an administrative division in a high level, being higher than "Gun(군, 郡; "county")", of the administrative hierarchy, and can be translated into "Protectorate General", "Greater Prefecture", "Metropolitan Prefecture", or "Martial Prefecture" in a modern sense. The capital, Hanyang (<a href="/w/index.php?title=Seoul&amp;action=edit&amp;redlink=1" class="new" title="Seoul (page does not exist)">Seoul</a>), can sometimes be translated as "Hanseong Prefecture".
+</p><p>In 1895, "Hyeon" and "Dohobu" were abolished. From 1910 to 1949, the term "prefecture" was used for "Bu"(부; 府). Since then, both the terms "Hyeon", "Bu" and the English translation "prefecture" are no longer used in the current administrative district division system both in South Korea and North Korea until now.
+</p>
+<h3><span class="mw-headline" id="Mongolian_equivalent">Mongolian equivalent</span></h3>
+<p>Mongolian prefectures (<a href="/w/index.php?title=Aimags_of_Mongolia&amp;action=edit&amp;redlink=1" class="new" title="Aimags of Mongolia (page does not exist)">Aimags</a>) were adopted during <a href="/w/index.php?title=Mongolia_during_Qing_rule&amp;action=edit&amp;redlink=1" class="new" title="Mongolia during Qing rule (page does not exist)">Qing Dynasty's rule</a>. Today these are usually translated as "provinces".
+</p>
+<h3><span class="mw-headline" id="Moroccan_Pr.C3.A9fecture">Moroccan <i>Préfecture</i></span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+In <a href="/wiki/Morocco" title="Morocco">Morocco</a>, the 61 second-level <a href="/w/index.php?title=Administrative_divisions_of_Morocco&amp;action=edit&amp;redlink=1" class="new" title="Administrative divisions of Morocco (page does not exist)">administrative subdivisions</a> are 13 prefectures  and 48 <a href="/wiki/Provinces" title="Provinces" class="mw-redirect">provinces</a>. They are subdivisions of the 16 <a href="/w/index.php?title=Regions_of_Morocco&amp;action=edit&amp;redlink=1" class="new" title="Regions of Morocco (page does not exist)">regions of Morocco</a>. Each prefecture and province are subdivided in their turn into <a href="/wiki/District" title="District">districts</a> (<i>cercles</i>, sing. <i>cercle</i>), <a href="/wiki/Municipality" title="Municipality">municipalities</a> (<i>communes</i>, sing. <i>commune</i>) or urban municipalities (<i>communes urbaines</i>, sing. <i>commune urbaine</i>), and <i><a href="/wiki/Arrondissement" title="Arrondissement">arrondissements</a></i> in some metropolitan areas.
+</p>
+<h3><span class="mw-headline" id="Venezuelan_equivalent">Venezuelan equivalent</span></h3>
+<p>Traditionally the prefecture as being the <a href="/wiki/City_Hall" title="City Hall" class="mw-redirect">City Hall</a> and the prefect as being the equivalent of a mayor and commissioner until recently; now the prefectures and prefect are analogous with the figure of <a href="/w/index.php?title=Town_Clerk&amp;action=edit&amp;redlink=1" class="new" title="Town Clerk (page does not exist)">Town Clerk</a>.
+</p>
+<h2><span class="mw-headline" id="Moscow.2C_Russia">Moscow, Russia</span></h2>
+<p><a href="/w/index.php?title=Template:See&amp;action=edit&amp;redlink=1" class="new" title="Template:See (page does not exist)">Template:See</a>
+<a href="/w/index.php?title=Template:Expand_section&amp;action=edit&amp;redlink=1" class="new" title="Template:Expand section (page does not exist)">Template:Expand section</a>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/County" title="County">County</a>
+</li>
+<li><a href="/w/index.php?title=Politics_of_the_People%27s_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="Politics of the People's Republic of China (page does not exist)">Politics of the People's Republic of China</a>
+</li>
+<li><a href="/wiki/Politics_of_Japan" title="Politics of Japan">Politics of Japan</a>
+</li>
+<li><a href="/wiki/Politics_of_the_Republic_of_China" title="Politics of the Republic of China">Politics of the Republic of China</a>
+</li>
+<li><a href="/wiki/Politics_of_Mongolia" title="Politics of Mongolia">Politics of Mongolia</a>
+</li>
+<li><a href="/w/index.php?title=Province&amp;action=edit&amp;redlink=1" class="new" title="Province (page does not exist)">Province</a>
+</li>
+<li><a href="/wiki/Subprefecture" title="Subprefecture">Subprefecture</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Types_of_administrative_country_subdivision&amp;action=edit&amp;redlink=1" class="new" title="Template:Types of administrative country subdivision (page does not exist)">Template:Types of administrative country subdivision</a>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.120 seconds
+Real time usage: 0.127 seconds
+Preprocessor visited node count: 134/1000000
+Preprocessor generated node count: 1557/1000000
+Post‐expand include size: 614/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:49521-0!*!0!!en!*!* and timestamp 20170407172451
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Prefecture&amp;oldid=49521">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Prefecture&amp;oldid=49521</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Prefectures" title="Category:Prefectures">Prefectures</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Prefecture" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Prefecture"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Prefecture&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Prefecture" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Prefecture&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Prefecture&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Prefecture" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Prefecture" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Prefecture&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Prefecture&amp;oldid=49521" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Prefecture&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 January 2014, at 22:49.</li>
+											<li id="footer-info-viewcount">This page has been accessed 106 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.413 secs. -->
+	</body>
+</html>

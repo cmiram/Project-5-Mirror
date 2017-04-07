@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Honey - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Honey","wgTitle":"Honey","wgCurRevisionId":9140,"wgRevisionId":9140,"wgArticleId":9140,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Honey","Beekeeping","Demulcents","Non-timber forest products","Sweeteners","Vermont cuisine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Honey","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Honey skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Honey</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+</p><p><a href="/w/index.php?title=Template:Multiple_image&amp;action=edit&amp;redlink=1" class="new" title="Template:Multiple image (page does not exist)">Template:Multiple image</a>
+<b>Honey</b> <a href="/w/index.php?title=Template:IPAc-en&amp;action=edit&amp;redlink=1" class="new" title="Template:IPAc-en (page does not exist)">Template:IPAc-en</a> is a sweet food made by bees using <a href="/w/index.php?title=Nectar_(plant)&amp;action=edit&amp;redlink=1" class="new" title="Nectar (plant) (page does not exist)">nectar</a> from flowers. The variety produced by <a href="/wiki/Honey_bee" title="Honey bee">honey bees</a> (the <a href="/wiki/Genus" title="Genus">genus</a> <i>Apis</i>) is the one most commonly referred to, as it is the type of honey collected by most <a href="/wiki/Beekeeper" title="Beekeeper">beekeepers</a> and consumed by humans. Honeys produced by other <a href="/wiki/Bee" title="Bee">bees</a> (<a href="/wiki/Bumblebee" title="Bumblebee">bumblebees</a>, <a href="/w/index.php?title=Stingless_bee&amp;action=edit&amp;redlink=1" class="new" title="Stingless bee (page does not exist)">stingless bees</a>) and insects (<a href="/w/index.php?title=Honey_wasp&amp;action=edit&amp;redlink=1" class="new" title="Honey wasp (page does not exist)">honey wasps</a>) have different properties, and they are not discussed in this article.
+</p><p>Honey bees transform nectar into honey by a process of <a href="/w/index.php?title=Regurgitation_(digestion)&amp;action=edit&amp;redlink=1" class="new" title="Regurgitation (digestion) (page does not exist)">regurgitation</a> and evaporation. They store it as a primary food source in wax <a href="/wiki/Honeycomb" title="Honeycomb">honeycombs</a> inside the <a href="/wiki/Beehive" title="Beehive">beehive</a>.
+</p><p>Honey gets its sweetness from the <a href="/wiki/Monosaccharides" title="Monosaccharides" class="mw-redirect">monosaccharides</a> <a href="/wiki/Fructose" title="Fructose">fructose</a> and <a href="/wiki/Glucose" title="Glucose">glucose</a>, and has approximately the same relative <a href="/wiki/Sweetness" title="Sweetness">sweetness</a> as <a href="/wiki/Sucrose" title="Sucrose">granulated sugar</a>.<sup id="cite_ref-NHB_carbs_1-0" class="reference"><a href="#cite_note-NHB_carbs-1">[1]</a></sup><sup id="cite_ref-Oregon_State_University_2-0" class="reference"><a href="#cite_note-Oregon_State_University-2">[2]</a></sup> It has attractive chemical properties for baking and a distinctive flavor that leads some people to prefer it over sugar and other sweeteners.<sup id="cite_ref-NHB_carbs_1-1" class="reference"><a href="#cite_note-NHB_carbs-1">[1]</a></sup> Most <a href="/wiki/Microorganism" title="Microorganism">microorganisms</a> do not grow in honey because of its low <a href="/w/index.php?title=Water_activity&amp;action=edit&amp;redlink=1" class="new" title="Water activity (page does not exist)">water activity</a> of 0.6.<sup id="cite_ref-Prescott_1999_3-0" class="reference"><a href="#cite_note-Prescott_1999-3">[3]</a></sup> However, honey sometimes contains dormant <a href="/wiki/Endospore" title="Endospore">endospores</a> of the bacterium <i><a href="/wiki/Clostridium_botulinum" title="Clostridium botulinum">Clostridium botulinum</a></i>, which can be dangerous to infants, as the endospores can transform into toxin-producing bacteria in infants' immature intestinal tracts, leading to illness and even death.<sup id="cite_ref-botulism_4-0" class="reference"><a href="#cite_note-botulism-4">[4]</a></sup>
+</p><p>Honey has a long history in human consumption, and is used in various foods and beverages as a sweetener and flavoring. It also has a role in religion and symbolism. Flavors of honey vary based on the nectar source, and various types and grades of honey are available. It is also used in various medicinal traditions to treat ailments.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}  The study of <a href="/wiki/Pollen" title="Pollen">pollens</a> and <a href="/wiki/Spore" title="Spore">spores</a> in raw honey (<a href="/wiki/Melissopalynology" title="Melissopalynology">melissopalynology</a>) can determine floral sources of honey.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>  Bees carry an <a href="/wiki/Electrostatic_charge" title="Electrostatic charge" class="mw-redirect">electrostatic charge</a> whereby they attract other particles in addition to pollen, which become incorporated into their honey; the honey can be analysed by the techniques of <a href="/wiki/Melissopalynology" title="Melissopalynology">melissopalynology</a> in area environmental studies of <a href="/wiki/Radioactive_decay" title="Radioactive decay">radioactive</a> particles, <a href="/wiki/Dust" title="Dust">dust</a> and particulate <a href="/wiki/Pollution" title="Pollution">pollution</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Formation"><span class="tocnumber">1</span> <span class="toctext">Formation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Physical_and_chemical_properties"><span class="tocnumber">2</span> <span class="toctext">Physical and chemical properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Phase_transitions"><span class="tocnumber">2.1</span> <span class="toctext">Phase transitions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Viscosity"><span class="tocnumber">2.2</span> <span class="toctext">Viscosity</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Electrical_and_optical_properties"><span class="tocnumber">2.3</span> <span class="toctext">Electrical and optical properties</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hygroscopy_and_fermentation"><span class="tocnumber">2.4</span> <span class="toctext">Hygroscopy and fermentation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Thermal_characteristics"><span class="tocnumber">2.5</span> <span class="toctext">Thermal characteristics</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Acid_content"><span class="tocnumber">2.6</span> <span class="toctext">Acid content</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#In_history.2C_culture.2C_and_folklore"><span class="tocnumber">3</span> <span class="toctext">In history, culture, and folklore</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Ancient_times"><span class="tocnumber">3.1</span> <span class="toctext">Ancient times</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Religious_significance"><span class="tocnumber">3.2</span> <span class="toctext">Religious significance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Collecting_honey"><span class="tocnumber">4</span> <span class="toctext">Collecting honey</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Modern_uses"><span class="tocnumber">5</span> <span class="toctext">Modern uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#As_a_food_and_in_cooking"><span class="tocnumber">5.1</span> <span class="toctext">As a food and in cooking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Nutrition"><span class="tocnumber">6</span> <span class="toctext">Nutrition</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Classification"><span class="tocnumber">7</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Floral_source"><span class="tocnumber">7.1</span> <span class="toctext">Floral source</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Blended"><span class="tocnumber">7.1.1</span> <span class="toctext">Blended</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Polyfloral"><span class="tocnumber">7.1.2</span> <span class="toctext">Polyfloral</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Monofloral"><span class="tocnumber">7.1.3</span> <span class="toctext">Monofloral</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Honeydew_honey"><span class="tocnumber">7.1.4</span> <span class="toctext">Honeydew honey</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#Classification_by_packaging_and_processing"><span class="tocnumber">7.2</span> <span class="toctext">Classification by packaging and processing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Preservation"><span class="tocnumber">8</span> <span class="toctext">Preservation</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Distinguishing_honey"><span class="tocnumber">9</span> <span class="toctext">Distinguishing honey</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Honey_grading"><span class="tocnumber">9.1</span> <span class="toctext">Honey grading</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Indicators_of_quality"><span class="tocnumber">9.2</span> <span class="toctext">Indicators of quality</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#In_medicine"><span class="tocnumber">10</span> <span class="toctext">In medicine</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Osmotic_effect"><span class="tocnumber">10.1</span> <span class="toctext">Osmotic effect</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Hydrogen_peroxide"><span class="tocnumber">10.2</span> <span class="toctext">Hydrogen peroxide</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Use_for_diabetic_ulcers"><span class="tocnumber">10.3</span> <span class="toctext">Use for diabetic ulcers</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Acidity"><span class="tocnumber">10.4</span> <span class="toctext">Acidity</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Methylglyoxal"><span class="tocnumber">10.5</span> <span class="toctext">Methylglyoxal</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Nutraceutical_effects"><span class="tocnumber">10.6</span> <span class="toctext">Nutraceutical effects</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Use_for_sore_throats_and_coughs"><span class="tocnumber">10.7</span> <span class="toctext">Use for sore throats and coughs</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Other_medical_applications"><span class="tocnumber">10.8</span> <span class="toctext">Other medical applications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#Health_hazards"><span class="tocnumber">11</span> <span class="toctext">Health hazards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#Botulism"><span class="tocnumber">11.1</span> <span class="toctext">Botulism</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Toxic_honey"><span class="tocnumber">11.2</span> <span class="toctext">Toxic honey</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="#New_Zealand"><span class="tocnumber">11.2.1</span> <span class="toctext">New Zealand</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-40"><a href="#Honey-producing_and_consuming_countries"><span class="tocnumber">12</span> <span class="toctext">Honey-producing and consuming countries</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#Gallery_of_honey_harvesting"><span class="tocnumber">13</span> <span class="toctext">Gallery of honey harvesting</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#See_also"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-44"><a href="#Bibliography"><span class="tocnumber">16</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-45"><a href="#External_links"><span class="tocnumber">17</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Formation">Formation</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bee_on_-calyx_935.jpg" title="File:Bee on -calyx 935.jpg">File:Bee on -calyx 935.jpg</a>  <div class="thumbcaption">A <a href="/wiki/Honey_bee" title="Honey bee">honey bee</a> on <a href="/w/index.php?title=Calyx_(botany)&amp;action=edit&amp;redlink=1" class="new" title="Calyx (botany) (page does not exist)">calyx</a> of <a href="/wiki/Goldenrod" title="Goldenrod">goldenrod</a></div></div></div>
+<p>Honey's natural sugars are dehydrated, which prevents fermentation, with added enzymes to modify and transform their chemical composition and pH. Invertases and digestive acids hydrolyze sucrose to give the monosaccharides glucose and fructose.
+The <a href="/wiki/Invertase" title="Invertase">invertase</a> is one of these <a href="/wiki/Enzyme" title="Enzyme">enzymes</a> synthesized by the body of the insect.
+</p><p>Honey bees transform <a href="/wiki/Carbohydrate" title="Carbohydrate">saccharides</a> into honey by a process of <a href="/w/index.php?title=Regurgitation_(digestion)&amp;action=edit&amp;redlink=1" class="new" title="Regurgitation (digestion) (page does not exist)">regurgitation</a>, a number of times, until it is partially digested. The bees do the regurgitation and digestion as a group. After the last regurgitation, the aqueous <a href="/wiki/Solution" title="Solution">solution</a> is still high in water, so the process continues by <a href="/wiki/Evaporation" title="Evaporation">evaporation</a> of much of the <a href="/wiki/Water" title="Water">water</a> and enzymatic transformation.
+</p><p>Honey is produced by bees as a food source. To produce a single jar of honey, foraging honey bees have to travel the equivalent of three times around the world.<sup id="cite_ref-IBRA_Bee_trivia_8-0" class="reference"><a href="#cite_note-IBRA_Bee_trivia-8">[8]</a></sup> In cold weather or when fresh food sources are scarce, bees use their stored honey as their source of energy.<sup id="cite_ref-NHB_Bee_facts_9-0" class="reference"><a href="#cite_note-NHB_Bee_facts-9">[9]</a></sup> By contriving for bee <a href="/wiki/Swarming_(honey_bee)" title="Swarming (honey bee)">swarms</a> to nest in artificial <a href="/wiki/Beehive" title="Beehive">hives</a>, people have been able to <a href="/wiki/Domestication#Degrees" title="Domestication">semidomesticate</a> the insects, and harvest excess honey. In the hive (or in a wild nest), there are three types of bees:
+</p>
+<ul>
+<li> a single female <a href="/wiki/Queen_bee" title="Queen bee">queen bee</a>
+</li>
+<li> a seasonally variable number of male <a href="/wiki/Drone_(bee)" title="Drone (bee)">drone bees</a> to fertilize new queens
+</li>
+<li> some 20,000 to 40,000 female <a href="/wiki/Worker_bee" title="Worker bee">worker bees</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+</li>
+</ul>
+<p>The worker bees raise larvae and collect the nectar that will become honey in the hive. Leaving the hive, they collect sugar-rich flower <a href="/w/index.php?title=Nectar&amp;action=edit&amp;redlink=1" class="new" title="Nectar (page does not exist)">nectar</a> and return.
+</p><p>In the hive, the bees use their "honey stomachs" to ingest and <a href="/w/index.php?title=Regurgitation_(digestion)&amp;action=edit&amp;redlink=1" class="new" title="Regurgitation (digestion) (page does not exist)">regurgitate</a> the nectar a number of times until it is partially digested.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Invertase synthesized by the bees and digestive acids hydrolyze sucrose to give the same mixture of glucose and fructose. The bees work together as a group with the regurgitation and digestion until the product reaches a desired quality. It is then stored in <a href="/wiki/Honeycomb" title="Honeycomb">honeycomb</a> cells. After the final regurgitation, the honeycomb is left unsealed. However, the nectar is still high in both water content and natural yeasts, which, unchecked, would cause the sugars in the nectar to ferment.<sup id="cite_ref-NHB_Bee_facts_9-1" class="reference"><a href="#cite_note-NHB_Bee_facts-9">[9]</a></sup> The process continues as bees inside the hive fan their wings, creating a strong draft across the honeycomb, which enhances <a href="/wiki/Evaporation" title="Evaporation">evaporation</a> of much of the water from the nectar.<sup id="cite_ref-NHB_Bee_facts_9-2" class="reference"><a href="#cite_note-NHB_Bee_facts-9">[9]</a></sup> This reduction in water content raises the sugar concentration and prevents <a href="/w/index.php?title=Fermentation_(food)&amp;action=edit&amp;redlink=1" class="new" title="Fermentation (food) (page does not exist)">fermentation</a>. Ripe honey, as removed from the hive by a <a href="/wiki/Beekeeper" title="Beekeeper">beekeeper</a>, has a long shelf life, and will not ferment if properly sealed.<sup id="cite_ref-NHB_Bee_facts_9-3" class="reference"><a href="#cite_note-NHB_Bee_facts-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Physical_and_chemical_properties">Physical and chemical properties</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Crystallized_honey_with_close-up.jpg" title="File:Crystallized honey with close-up.jpg">File:Crystallized honey with close-up.jpg</a>  <div class="thumbcaption">Crystallized honey. The inset shows a close-up of the honey, showing the individual glucose grains in the fructose mixture.</div></div></div>
+<p>The physical properties of honey vary, depending on water content, the type of flora used to produce it (pasturage), temperature, and the proportion of the specific sugars it contains. Fresh honey is a <a href="/wiki/Supersaturation" title="Supersaturation">supersaturated</a> liquid, containing more sugar than the water can typically dissolve at ambient temperatures. At room temperature, honey is a <a href="/wiki/Supercooling" title="Supercooling">supercooled</a> liquid, in which the <a href="/wiki/Glucose" title="Glucose">glucose</a> will precipitate into solid granules. This forms a semisolid solution of <a href="/wiki/Precipitation_(chemistry)" title="Precipitation (chemistry)">precipitated</a> glucose <a href="/wiki/Crystal" title="Crystal">crystals</a> in a solution of <a href="/wiki/Fructose" title="Fructose">fructose</a> and other ingredients.
+</p>
+<h3><span class="mw-headline" id="Phase_transitions">Phase transitions</span></h3>
+<p>The melting point of crystallized honey is between <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, depending on its composition. Below this temperature, honey can be either in a <a href="/wiki/Metastable" title="Metastable" class="mw-redirect">metastable</a> state, meaning that it will not crystallize until a <a href="/wiki/Seed_crystal" title="Seed crystal">seed crystal</a> is added, or, more often, it is in a "labile" state, being saturated with enough sugars to crystallize spontaneously.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> The rate of crystallization is affected by many factors, but the primary factor is the ratio of the main sugars: fructose to glucose. Honeys that are supersaturated with a very high percentage of glucose, such as <a href="/wiki/Brassica" title="Brassica">brassica</a> honey, will crystallize almost immediately after harvesting, while honeys with a low percentage of glucose, such as chestnut or <a href="/wiki/Tupelo" title="Tupelo">tupelo</a> honey, do not crystallize. Some types of honey may produce very large but few crystals, while others will produce many small crystals.<sup id="cite_ref-Piotr_Tomasik_p._74_13-0" class="reference"><a href="#cite_note-Piotr_Tomasik_p._74-13">[13]</a></sup>
+</p><p>Crystallization is also affected by water content, because a high percentage of water will inhibit crystallization, as will a high <a href="/wiki/Dextrin" title="Dextrin">dextrin</a> content. Temperature also affects the rate of crystallization, with the fastest growth occurring between <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. Crystal nuclei (seeds) tend to form more readily if the honey is disturbed, by stirring, shaking or agitating, rather than if left at rest. However, the <a href="/wiki/Nucleation" title="Nucleation">nucleation</a> of microscopic seed-crystals is greatest between <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. Therefore, larger but fewer crystals tend to form at higher temperatures, while smaller but more-numerous crystals usually form at lower temperatures. Below 5 °C, the honey will not crystallize and, thus, the original texture and flavor can be preserved indefinitely.<sup id="cite_ref-Piotr_Tomasik_p._74_13-1" class="reference"><a href="#cite_note-Piotr_Tomasik_p._74-13">[13]</a></sup>
+</p><p>Since honey normally exists below its melting point, it is a supercooled liquid. At very low temperatures, honey will not freeze solid. Instead, as the temperatures become colder, the viscosity of honey increases. Like most <a href="/w/index.php?title=Viscous_liquid&amp;action=edit&amp;redlink=1" class="new" title="Viscous liquid (page does not exist)">viscous liquids</a>, the honey will become thick and sluggish with decreasing temperature. At <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, honey may appear or even feel solid, but it will continue to flow at very slow rates. Honey has a <a href="/w/index.php?title=Glass_transition&amp;action=edit&amp;redlink=1" class="new" title="Glass transition (page does not exist)">glass transition</a> between <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. Below this temperature, honey enters a <a href="/wiki/Glass" title="Glass">glassy</a> state and will become an <a href="/wiki/Amorphous_solid" title="Amorphous solid">amorphous solid</a> (noncrystalline).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Viscosity">Viscosity</span></h3>
+<p>The <a href="/w/index.php?title=Viscosity&amp;action=edit&amp;redlink=1" class="new" title="Viscosity (page does not exist)">viscosity</a> of honey is affected greatly by both temperature and water content. The higher the humidity, the easier honey will flow. Above its melting point, however, water has little effect on viscosity. Aside from water content, the composition of honey also has little effect on viscosity, with the exception of a few types. At <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, honey with 14% humidity will generally have a viscosity of around 400 <a href="/wiki/Poise" title="Poise">poise</a>, while a honey containing 20% humidity will have a viscosity of around 20 poise. Viscosity increase due to temperature occurs very slowly at first. A honey containing 16% humidity, at <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, will have a viscosity of around 2 poise, while at <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, the viscosity will be around 70 poise. As cooling progresses, honey will become more viscous at an increasingly rapid rate, reaching 600 poise around <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. However, while honey is very viscous, it has rather low <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-bee-hexagon.net_17-0" class="reference"><a href="#cite_note-bee-hexagon.net-17">[17]</a></sup>
+</p><p>A few types of honey have unusual viscous properties. Honey from <a href="/w/index.php?title=Calluna_vulgaris&amp;action=edit&amp;redlink=1" class="new" title="Calluna vulgaris (page does not exist)">heather</a> or <a href="/wiki/Leptospermum_scoparium" title="Leptospermum scoparium">manuka</a> display <a href="/wiki/Thixotropic" title="Thixotropic" class="mw-redirect">thixotropic</a> properties. These types of honey enter a gel-like state when motionless, but then liquify when stirred.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Electrical_and_optical_properties">Electrical and optical properties</span></h3>
+<p>Since honey contains <a href="/wiki/Electrolyte" title="Electrolyte">electrolytes</a>, in the form of acids and minerals, it exhibits varying degrees of <a href="/wiki/Electrical_conductivity" title="Electrical conductivity" class="mw-redirect">electrical conductivity</a>. Measurements of the electrical conductivity are used to determine the quality of honey in terms of ash content.<sup id="cite_ref-bee-hexagon.net_17-1" class="reference"><a href="#cite_note-bee-hexagon.net-17">[17]</a></sup>
+</p><p>The effect honey has on light is useful for determining the type and quality. Variations in the water content alter the <a href="/wiki/Refractive_index" title="Refractive index">refractive index</a> of honey. Water content can easily be measured with a <a href="/w/index.php?title=Refractometer&amp;action=edit&amp;redlink=1" class="new" title="Refractometer (page does not exist)">refractometer</a>. Typically, the refractive index for honey will range from 1.504 at 13% humidity, to 1.474 at 25%. Honey also has an effect on <a href="/wiki/Polarized_light" title="Polarized light" class="mw-redirect">polarized light</a>, in that it will rotate the polarization plane. The fructose will give a negative rotation, while the glucose will give a positive one. The overall rotation can be used to measure the ratio of the mixture.<sup id="cite_ref-bee-hexagon.net_17-2" class="reference"><a href="#cite_note-bee-hexagon.net-17">[17]</a></sup><sup id="cite_ref-Bee_Culture.27_Page_348_19-0" class="reference"><a href="#cite_note-Bee_Culture.27_Page_348-19">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hygroscopy_and_fermentation">Hygroscopy and fermentation</span></h3>
+<p>Honey has the ability to absorb moisture directly from the air, a phenomenon called <a href="/wiki/Hygroscopy" title="Hygroscopy">hygroscopy</a>. The amount of water the honey will absorb is dependent on the relative humidity of the air. Because honey contains <a href="/wiki/Yeast" title="Yeast">yeast</a>, this hygroscopic nature requires that honey be stored in sealed containers to prevent <a href="/w/index.php?title=Fermentation_(food)&amp;action=edit&amp;redlink=1" class="new" title="Fermentation (food) (page does not exist)">fermentation</a>, which usually begins if the honey's humidity rises much above 25%. Honey will tend to absorb more water in this manner than the individual sugars would allow on their own, which may be due to other ingredients it contains.<sup id="cite_ref-Bee_Culture.27_Page_348_19-1" class="reference"><a href="#cite_note-Bee_Culture.27_Page_348-19">[19]</a></sup>
+</p><p>Fermentation of honey will usually occur after crystallization because, without the glucose, the liquid portion of the honey primarily consists of a concentrated mixture of the fructose, acids, and water, providing the yeast with enough of an increase in the water percentage for growth. Honey that is to be stored at room temperature for long periods of time is often <a href="/wiki/Pasteurized" title="Pasteurized" class="mw-redirect">pasteurized</a>, to kill any yeast, by heating it above <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>.<sup id="cite_ref-Bee_Culture.27_Page_348_19-2" class="reference"><a href="#cite_note-Bee_Culture.27_Page_348-19">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Thermal_characteristics">Thermal characteristics</span></h3>
+<p>Like all sugar compounds, honey will <a href="/wiki/Caramelization" title="Caramelization">caramelize</a> if heated sufficiently, becoming darker in color and eventually burning. However, honey contains fructose, which caramelizes at lower temperatures than the glucose.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> The temperature at which caramelization begins varies, depending on the composition, but is typically between <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> and <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. Honey also contains acids, which act as <a href="/wiki/Catalyst" title="Catalyst" class="mw-redirect">catalysts</a>, decreasing the caramelization temperature even more.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Of these acids, the amino acids, which occur in very small amounts, play an important role in the darkening of honey. The amino acids form darkened compounds called <a href="/w/index.php?title=Melanoidin&amp;action=edit&amp;redlink=1" class="new" title="Melanoidin (page does not exist)">melanoidins</a>, during a <a href="/wiki/Maillard_reaction" title="Maillard reaction">Maillard reaction</a>. The Maillard reaction will occur slowly at room temperature, taking from a few to several months to show visible darkening, but will speed-up dramatically with increasing temperatures. However, the reaction can also be slowed by storing the honey at colder temperatures.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</p><p>Unlike many other liquids, honey has very poor <a href="/wiki/Thermal_conductivity" title="Thermal conductivity">thermal conductivity</a>, taking a long time to reach <a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">thermal equilibrium</a>. Melting crystallized honey can easily result in localized caramelization if the heat source is too hot, or if it is not evenly distributed. However, honey will take substantially longer to liquify when just above the melting point than it will at elevated temperatures.<sup id="cite_ref-bee-hexagon.net_17-3" class="reference"><a href="#cite_note-bee-hexagon.net-17">[17]</a></sup> Melting 20 kilograms of crystallized honey, at <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, can take up to 24 hours, while 50 kilograms may take twice as long. These times can be cut nearly in half by heating at <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. However, many of the minor substances in honey can be affected greatly by heating, changing the flavor, aroma, or other properties, so heating is usually done at the lowest temperature possible for the shortest amount of time.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Acid_content">Acid content</span></h3>
+<p>The average <a href="/wiki/PH" title="PH">pH</a> of honey is 3.9, but can range from 3.4 to 6.1. Honey contains many kinds of <a href="/wiki/Acid" title="Acid">acids</a>, both <a href="/wiki/Organic_acid" title="Organic acid">organic</a> and <a href="/wiki/Amino_acid" title="Amino acid">amino</a>. However, the different types and their amounts vary considerably, depending on the type of honey. These acids may be <a href="/wiki/Aromaticity" title="Aromaticity">aromatic</a> or <a href="/wiki/Aliphatic_compound#Aliphatic_acids" title="Aliphatic compound">aliphatic</a> (non-aromatic). The aliphatic acids contribute greatly to the flavor of honey by interacting with the flavors of other ingredients. <a href="/wiki/Gluconic_acid" title="Gluconic acid">Gluconic acid</a>, for instance, is a flavor enhancer.
+</p><p>Honey can contain up to 18 of the 20 amino acids. However, amino acid content is almost negligible in honey, accounting for only 0.05–0.1% of the composition. The main amino acid is <a href="/wiki/Proline" title="Proline">proline</a>. Amino acids are derived almost solely from the bodies of the bees.
+</p><p>Organic acids comprise most of the acids in honey, accounting for 0.17–1.17% of the mixture. Gluconic acid is the most prevalent. Gluconic acid is formed by the actions of an enzyme called <a href="/wiki/Glucose_oxidase" title="Glucose oxidase">glucose oxidase</a>. Other organic acids are minor, consisting of <a href="/wiki/Formic_acid" title="Formic acid">formic</a>, <a href="/w/index.php?title=Acetic_acid&amp;action=edit&amp;redlink=1" class="new" title="Acetic acid (page does not exist)">acetic</a>, <a href="/wiki/Butyric_acid" title="Butyric acid">butyric</a>, <a href="/wiki/Citric_acid" title="Citric acid">citric</a>, <a href="/wiki/Lactic_acid" title="Lactic acid">lactic</a>, malic, <a href="/wiki/Pyroglutamic_acid" title="Pyroglutamic acid">pyroglutamic</a>, <a href="/w/index.php?title=Propionic_acid&amp;action=edit&amp;redlink=1" class="new" title="Propionic acid (page does not exist)">propionic</a>, <a href="/wiki/Valeric_acid" title="Valeric acid">valeric</a>, <a href="/w/index.php?title=Capronic_acid&amp;action=edit&amp;redlink=1" class="new" title="Capronic acid (page does not exist)">capronic</a>, <a href="/wiki/Palmitic_acid" title="Palmitic acid">palmitic</a>, and <a href="/wiki/Succinic_acid" title="Succinic acid">succinic</a>, among many others.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_history.2C_culture.2C_and_folklore">In history, culture, and folklore</span></h2>
+<p>Honey use and production has a long and varied history. In many cultures, honey has associations that go beyond its use as a food. Honey is frequently used as a <a href="/w/index.php?title=Amulet&amp;action=edit&amp;redlink=1" class="new" title="Amulet (page does not exist)">talisman</a> and <a href="/wiki/Symbol" title="Symbol">symbol</a> of sweetness.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h3><span class="mw-headline" id="Ancient_times">Ancient times</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Cueva_arana.jpg" title="File:Cueva arana.jpg">File:Cueva arana.jpg</a>  <div class="thumbcaption">Honey seeker depicted on 8000 year old cave painting. At <a href="/w/index.php?title=Cuevas_de_la_Ara%C3%B1a_en_Bicorp&amp;action=edit&amp;redlink=1" class="new" title="Cuevas de la Araña en Bicorp (page does not exist)">Araña Caves</a> in Spain.</div></div></div>
+<p>Honey collection is an ancient activity. Humans apparently began hunting for honey at least 8,000 years ago, as evidenced by a cave painting in <a href="/w/index.php?title=Valencian_Community&amp;action=edit&amp;redlink=1" class="new" title="Valencian Community (page does not exist)">Valencia</a>, <a href="/wiki/Spain" title="Spain">Spain</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> The painting is a <a href="/wiki/Mesolithic" title="Mesolithic">Mesolithic</a> rock painting, showing two honey-hunters collecting honey and honeycomb from a wild bee nest. The figures are depicted carrying baskets or gourds, and using a <a href="/wiki/Ladder" title="Ladder">ladder</a> or series of ropes to reach the wild nest.
+</p><p>The <a href="/wiki/Greater_Honeyguide" title="Greater Honeyguide">Greater Honeyguide</a> bird guides humans to wild bee hives<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> and this behavior may have evolved with early hominids<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+</p><p>So far, the oldest remains of honey have been found in <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a>. Archaeologists have found honey remains on the inner surface of clay vessels unearthed an ancient tomb, dating back to some 4,700–5,500 years ago.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> In ancient Georgia, honey was packed for people's journeys into the afterlife. And more than one type, too – along for the trip were linden, berry, and a meadow-flower variety.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
+</p><p>In <a href="/wiki/Ancient_Egypt" title="Ancient Egypt">ancient Egypt</a>, honey was used to sweeten cakes and biscuits, and was used in many other dishes. Ancient Egyptian and <a href="/wiki/Middle_East" title="Middle East">Middle Eastern</a> peoples also used honey for <a href="/wiki/Embalming" title="Embalming">embalming</a> the dead.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>  The fertility god of Egypt, <a href="/wiki/Min_(god)" title="Min (god)">Min</a>, was offered honey.
+</p><p>The spiritual and therapeutic use of honey in <a href="/wiki/India" title="India">ancient India</a> is documented in both the <a href="/wiki/Vedas" title="Vedas">Vedas</a> and the <a href="/wiki/Ayurveda" title="Ayurveda">Ayurveda</a> texts, which were both composed at least 4,000 years ago.<sup id="cite_ref-Pe.C4.87anac-_34-0" class="reference"><a href="#cite_note-Pe.C4.87anac--34">[34]</a></sup>
+</p><p><a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">Pliny the Elder</a> devotes considerable space in his book <i><a href="/wiki/Natural_History_(Pliny)" title="Natural History (Pliny)">Naturalis Historia</a></i> to the bee and honey, and its many uses.  In the absence of sugar, Honey was an integral sweetening ingredient in Roman recipes, and references to its use in food can be found in the work of many Roman authors including <a href="/wiki/Athenaeus" title="Athenaeus">Athenaeus</a>, <a href="/wiki/Cato_the_Younger" title="Cato the Younger">Cato</a> and <a href="/w/index.php?title=Bassus&amp;action=edit&amp;redlink=1" class="new" title="Bassus (page does not exist)">Bassus</a><a href="/w/index.php?title=Template:Disambiguation_needed&amp;action=edit&amp;redlink=1" class="new" title="Template:Disambiguation needed (page does not exist)">Template:Disambiguation needed</a>. Some of these are collected in the book <i>Roman cookery</i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+</p><p>The art of beekeeping in <a href="/w/index.php?title=Ancient_China&amp;action=edit&amp;redlink=1" class="new" title="Ancient China (page does not exist)">ancient China</a> has existed since <a href="/wiki/Time_immemorial" title="Time immemorial">time immemorial</a> and appears to be untraceable to its origin. In the book "Golden Rules of Business Success" written by <a href="/wiki/Fan_Li" title="Fan Li">Fan Li</a> (or Tao Zhu Gong) during the <a href="/w/index.php?title=Spring_and_Autumn_Period&amp;action=edit&amp;redlink=1" class="new" title="Spring and Autumn Period (page does not exist)">Spring and Autumn Period</a>, there are some parts mentioning the art of beekeeping and the importance of the quality of the wooden box for bee keeping that can affect the quality of its honey.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Honey was also cultivated in ancient <a href="/w/index.php?title=Mesoamerica&amp;action=edit&amp;redlink=1" class="new" title="Mesoamerica (page does not exist)">Mesoamerica</a>. The <a href="/wiki/Maya_peoples" title="Maya peoples">Maya</a> used honey from the <a href="/w/index.php?title=Stingless_bee&amp;action=edit&amp;redlink=1" class="new" title="Stingless bee (page does not exist)">stingless bee</a> for culinary purposes, and continue to do so today. The Maya also regard the bee as sacred (see <a href="/w/index.php?title=Stingless_bee&amp;action=edit&amp;redlink=1" class="new" title="Stingless bee (page does not exist)">Mayan stingless bees of Central America</a>).
+</p><p>Some cultures believed honey had many practical health uses. It was used as an ointment for rashes and burns, and to help soothe sore throats when no other practices were available.
+</p>
+<h3><span class="mw-headline" id="Religious_significance">Religious significance</span></h3>
+<p>In <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a>, honey (<a href="/w/index.php?title=Madhu&amp;action=edit&amp;redlink=1" class="new" title="Madhu (page does not exist)">Madhu</a>) is one of the five elixirs of immortality (<a href="/wiki/Panchamrita" title="Panchamrita">Panchamrita</a>). In temples, honey is poured over the deities in a ritual called <a href="/w/index.php?title=Madhu&amp;action=edit&amp;redlink=1" class="new" title="Madhu (page does not exist)">Madhu</a> <a href="/w/index.php?title=Abhisheka&amp;action=edit&amp;redlink=1" class="new" title="Abhisheka (page does not exist)">abhisheka</a>. The Vedas and other ancient literature mention the use of honey as a great medicinal and health food.<sup id="cite_ref-fjnet.com_36-0" class="reference"><a href="#cite_note-fjnet.com-36">[36]</a></sup>
+</p><p>In Jewish tradition, honey is a symbol for the new year, <a href="/w/index.php?title=Rosh_Hashanah&amp;action=edit&amp;redlink=1" class="new" title="Rosh Hashanah (page does not exist)">Rosh Hashanah</a>. At the traditional meal for that holiday, apple slices are dipped in honey and eaten to bring a sweet new year. Some Rosh Hashanah greetings show honey and an apple, symbolizing the feast. In some congregations, small straws of honey are given out to usher in the new year.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>The <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a> contains many references to honey. In the <a href="/wiki/Book_of_Judges" title="Book of Judges">Book of Judges</a>, Samson found a swarm of bees and honey in the carcass of a lion (14:8). In Old Testament law, offerings were made in the temple to God. The <a href="/wiki/Book_of_Leviticus" title="Book of Leviticus">Book of Leviticus</a> says that “Every grain offering you bring to the Lord must be made without yeast, for you are not to burn any yeast or honey in a food offering presented to the Lord” (2:11). In the <a href="/wiki/Books_of_Samuel" title="Books of Samuel">Books of Samuel</a> Jonathan is forced into a confrontation with his father King Saul after eating honey in violation of a rash oath Saul made (14:24–47). The <a href="/wiki/Book_of_Exodus" title="Book of Exodus">Book of Exodus</a> famously describes the <a href="/wiki/Promised_Land" title="Promised Land">Promised Land</a> as a "land flowing with <a href="/wiki/Milk" title="Milk">milk</a> and honey" (33:3). However, the claim has been advanced that the original Hebrew (דבש <i>devash</i>) actually refers to the sweet syrup produced from the juice of <a href="/w/index.php?title=Phoenix_dactylifera&amp;action=edit&amp;redlink=1" class="new" title="Phoenix dactylifera (page does not exist)">dates</a>.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> Pure honey is considered <a href="/wiki/Kashrut" title="Kashrut">kosher</a> even though it is produced by a flying insect, a nonkosher creature; other products of nonkosher animals are not kosher.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+</p><p>In Buddhism, honey plays an important role in the festival of <a href="/w/index.php?title=Madhu_Purnima&amp;action=edit&amp;redlink=1" class="new" title="Madhu Purnima (page does not exist)">Madhu Purnima</a>, celebrated in <a href="/wiki/India" title="India">India</a> and <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>. The day commemorates <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Buddha</a>'s making peace among his disciples by retreating into the wilderness. The legend has it that while he was there, a <a href="/wiki/Old_World_monkey" title="Old World monkey">monkey</a> brought him honey to eat. On Madhu Purnima, Buddhists remember this act by giving honey to <a href="/w/index.php?title=Buddhist_monasticism&amp;action=edit&amp;redlink=1" class="new" title="Buddhist monasticism (page does not exist)">monks</a>. The monkey's gift is frequently depicted in <a href="/w/index.php?title=Buddhist_art&amp;action=edit&amp;redlink=1" class="new" title="Buddhist art (page does not exist)">Buddhist art</a>.<sup id="cite_ref-fjnet.com_36-1" class="reference"><a href="#cite_note-fjnet.com-36">[36]</a></sup>
+</p><p>In the Christian <a href="/wiki/New_Testament" title="New Testament">New Testament</a>, <a href="/wiki/Matthew_3:4" title="Matthew 3:4">Matthew 3:4</a>, John the Baptist is said to have lived for a long period of time in the wilderness on a diet consisting of locusts and wild honey.
+</p><p>In Islam, there is an entire <a href="/wiki/Sura" title="Sura">Surah</a> in the <a href="/w/index.php?title=Qur%27an&amp;action=edit&amp;redlink=1" class="new" title="Qur'an (page does not exist)">Qur'an</a> called an-Nahl (the Bee). According to <a href="/wiki/Hadith" title="Hadith">hadith</a>, Prophet <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> strongly recommended honey for healing purposes.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> The Qur'an promotes honey as a nutritious and healthy food. Below is the English translation of those specific verses.
+</p>
+<blockquote>"And thy Lord taught the Bee to build its cells in hills, on trees, and in (men's) habitations; Then to eat of all the produce (of the earth), and find with skill the spacious paths of its Lord: there issues from within their bodies a drink of varying colours, wherein is healing for men: verily in this is a Sign for those who give thought" [Al-Quran 16:68–69].<sup id="cite_ref-.27Abdullah_Yusuf_.27Ali_40-0" class="reference"><a href="#cite_note-.27Abdullah_Yusuf_.27Ali-40">[40]</a></sup></blockquote>
+<h2><span class="mw-headline" id="Collecting_honey">Collecting honey</span></h2>
+<p>Honey is collected from wild bee colonies, or from domesticated <a href="/wiki/Beehive" title="Beehive">beehives</a>. Wild bee nests are sometimes located by following a <a href="/wiki/Honeyguide" title="Honeyguide">honeyguide</a> bird.
+</p><p>Collecting honey is typically achieved by using smoke from a <a href="/w/index.php?title=Bee_smoker&amp;action=edit&amp;redlink=1" class="new" title="Bee smoker (page does not exist)">bee smoker</a> to pacify the bees; this causes the bees to attempt to save the resources of the hive from a possible forest fire, and makes them far less aggressive. The <a href="/wiki/Honeycomb" title="Honeycomb">honeycomb</a> is removed from the hive and the honey is extracted from that, often using a <a href="/wiki/Honey_extractor" title="Honey extractor">honey extractor</a>. The honey is then filtered.  After the honey is harvested the beekeeper provides the hive with a honey substitute such as sugar water (in the fall) or crystalline sugar (in the winter - a "candyboard") so that the hive does not starve.
+</p>
+<h2><span class="mw-headline" id="Modern_uses">Modern uses</span></h2>
+<h3><span class="mw-headline" id="As_a_food_and_in_cooking">As a food and in cooking</span></h3>
+<p>The main uses of honey are in <a href="/wiki/Cooking" title="Cooking">cooking</a>, baking, as a spread on <a href="/wiki/Bread" title="Bread">bread</a>, and as an addition to various beverages, such as <a href="/wiki/Tea" title="Tea">tea</a>, and as a sweetener in some commercial beverages. According to The National Honey Board (a USDA-overseen organization), "honey stipulates a pure product that does not allow for the addition of any other substance...this includes, but is not limited to, water or other <a href="/wiki/Sugar_substitute" title="Sugar substitute">sweeteners</a>".<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> Honey barbecue and honey mustard are common and popular sauce flavors.
+</p><p>Honey is the main ingredient in the alcoholic beverage <a href="/wiki/Mead" title="Mead">mead</a>, which is also known as "honey wine" or "honey beer". Historically, the ferment for mead was honey's naturally occurring yeast. Honey is also used as an <a href="/wiki/Adjuncts" title="Adjuncts">adjunct</a> in some <a href="/wiki/Beer" title="Beer">beers</a>.
+</p><p>Honey wine, or mead, is typically (modern era) made with a honey and water mixture with a pack of yeast added for fermentation. Primary fermentation usually takes 40 days, after which the <a href="/wiki/Must" title="Must">must</a> needs to be racked into a secondary fermentation vessel and left to sit about 35–40 more days. If done properly, fermentation will be finished by this point (though if a sparkling mead is desired, fermentation can be restarted after bottling by the addition of a small amount of sugar), but most meads require aging for 6–9 months or more in order to be palatable.
+</p>
+<h2><span class="mw-headline" id="Nutrition">Nutrition</span></h2>
+<p><a href="/w/index.php?title=Template:Nutritional_value&amp;action=edit&amp;redlink=1" class="new" title="Template:Nutritional value (page does not exist)">Template:Nutritional value</a>
+Honey is a mixture of sugars and other compounds. With respect to carbohydrates, honey is mainly <a href="/wiki/Fructose" title="Fructose">fructose</a> (about 38.5%) and <a href="/wiki/Glucose" title="Glucose">glucose</a> (about 31.0%),<sup id="cite_ref-NHB_carbs_1-2" class="reference"><a href="#cite_note-NHB_carbs-1">[1]</a></sup> making it similar to the synthetically produced <a href="/wiki/Inverted_sugar_syrup" title="Inverted sugar syrup">inverted sugar syrup</a>, which is approximately 48% fructose, 47% glucose, and 5% <a href="/wiki/Sucrose" title="Sucrose">sucrose</a>. Honey's remaining carbohydrates include <a href="/wiki/Maltose" title="Maltose">maltose</a>, sucrose, and other <a href="/wiki/Oligosaccharide" title="Oligosaccharide">complex carbohydrates</a>.<sup id="cite_ref-NHB_carbs_1-3" class="reference"><a href="#cite_note-NHB_carbs-1">[1]</a></sup> As with all nutritive sweeteners, honey is mostly sugars and contains only trace amounts of <a href="/wiki/Vitamin" title="Vitamin">vitamins</a> or <a href="/w/index.php?title=Dietary_mineral&amp;action=edit&amp;redlink=1" class="new" title="Dietary mineral (page does not exist)">minerals</a>.<sup id="cite_ref-sugaralliance_42-0" class="reference"><a href="#cite_note-sugaralliance-42">[42]</a></sup><sup id="cite_ref-Nutrient_Data_43-0" class="reference"><a href="#cite_note-Nutrient_Data-43">[43]</a></sup> Honey also contains tiny amounts of several compounds thought to function as <a href="/wiki/Antioxidant" title="Antioxidant">antioxidants</a>, including <a href="/w/index.php?title=Chrysin&amp;action=edit&amp;redlink=1" class="new" title="Chrysin (page does not exist)">chrysin</a>, <a href="/w/index.php?title=Pinobanksin&amp;action=edit&amp;redlink=1" class="new" title="Pinobanksin (page does not exist)">pinobanksin</a>, <a href="/wiki/Vitamin_C" title="Vitamin C">vitamin C</a>, <a href="/wiki/Catalase" title="Catalase">catalase</a>, and <a href="/w/index.php?title=Pinocembrin&amp;action=edit&amp;redlink=1" class="new" title="Pinocembrin (page does not exist)">pinocembrin</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup><a href="/w/index.php?title=Template:Vague&amp;action=edit&amp;redlink=1" class="new" title="Template:Vague (page does not exist)">Template:Vague</a> The specific composition of any batch of honey depends on the flowers available to the bees that produced the honey.<sup id="cite_ref-sugaralliance_42-1" class="reference"><a href="#cite_note-sugaralliance-42">[42]</a></sup>
+</p><p>Typical honey analysis:<sup id="cite_ref-Comp_46-0" class="reference"><a href="#cite_note-Comp-46">[46]</a></sup>
+</p>
+<ul>
+<li> <a href="/wiki/Fructose" title="Fructose">Fructose</a>: 38.2%
+</li>
+<li> <a href="/wiki/Glucose" title="Glucose">Glucose</a>: 31.3%
+</li>
+<li> <a href="/wiki/Maltose" title="Maltose">Maltose</a>: 7.1%
+</li>
+<li> <a href="/wiki/Sucrose" title="Sucrose">Sucrose</a>: 1.3%
+</li>
+<li> <a href="/wiki/Water" title="Water">Water</a>: 17.2%
+</li>
+<li> Higher <a href="/wiki/Sugar" title="Sugar">sugars</a>: 1.5%
+</li>
+<li> <a href="/w/index.php?title=Ash_(analytical_chemistry)&amp;action=edit&amp;redlink=1" class="new" title="Ash (analytical chemistry) (page does not exist)">Ash</a>: 0.2%
+</li>
+<li> Other/undetermined: 3.2%
+</li>
+</ul>
+<p>Its <a href="/wiki/Glycemic_index" title="Glycemic index">glycemic index</a> ranges from 31 to 78, depending on the variety.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>
+</p><p>Honey has a <a href="/wiki/Density" title="Density">density</a> of about 1.36 kilograms per litre (36% denser than water).<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup>
+</p><p><a href="/w/index.php?title=Isotope_ratio_mass_spectrometry&amp;action=edit&amp;redlink=1" class="new" title="Isotope ratio mass spectrometry (page does not exist)">Isotope ratio mass spectrometry</a> can be used to detect addition of <a href="/wiki/Corn_syrup" title="Corn syrup">corn syrup</a> and <a href="/wiki/Sugar_cane" title="Sugar cane" class="mw-redirect">cane sugar</a> by the carbon <a href="/w/index.php?title=Isotopic_signature&amp;action=edit&amp;redlink=1" class="new" title="Isotopic signature (page does not exist)">isotopic signature</a>. Addition of sugars originating from corn or sugar cane (<a href="/wiki/C4_carbon_fixation" title="C4 carbon fixation">C4 plants</a>, unlike the plants used by bees, and also <a href="/wiki/Sugar_beet" title="Sugar beet">sugar beet</a>, which are predominantly <a href="/wiki/C3_carbon_fixation" title="C3 carbon fixation">C3 plants</a>) skews the isotopic ratio of sugars present in honey,<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup> but does not influence the isotopic ratio of proteins; in an unadulterated honey, the carbon isotopic ratios of sugars and proteins should match. As low as 7% level of addition can be detected.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span></h2>
+<p>Honey is classified by its floral source, and there are also divisions according to the packaging and processing used. There are also <a href="/w/index.php?title=Regional_honeys&amp;action=edit&amp;redlink=1" class="new" title="Regional honeys (page does not exist)">regional honeys</a>. Honey is also graded on its color and optical density by <a href="/wiki/United_States_Department_of_Agriculture" title="United States Department of Agriculture">USDA</a> standards, graded on a scale called the Pfund scale, which ranges from 0 for "water white" honey to more than 114 for "dark amber" honey.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Floral_source">Floral source</span></h3>
+<p>Generally, honey is classified by the floral source of the nectar from which it was made. Honeys can be from specific types of flower nectars or can be blended after collection. The pollen in honey is traceable to floral source and therefore region of origin.  The <a href="/wiki/Rheology" title="Rheology">rheological</a> &amp; <a href="/wiki/Melissopalynology" title="Melissopalynology">mellisopalynological</a> properties of honey can be used to identify the major plant nectar source used in its production.<sup id="cite_ref-honeyRheo_52-0" class="reference"><a href="#cite_note-honeyRheo-52">[52]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Blended">Blended</span></h4>
+<p>Most commercially available honey is blended, meaning it is a mixture of two or more honeys differing in floral source, color, flavor, density or geographic origin.<sup id="cite_ref-honeydefs_53-0" class="reference"><a href="#cite_note-honeydefs-53">[53]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Polyfloral">Polyfloral</span></h4>
+<p>Polyfloral honey, also known as wildflower honey,<sup id="cite_ref-Honey_Floral_Source_Guide_54-0" class="reference"><a href="#cite_note-Honey_Floral_Source_Guide-54">[54]</a></sup> is derived from the nectar of many types of flowers.<sup id="cite_ref-honeybook_polyfloral_55-0" class="reference"><a href="#cite_note-honeybook_polyfloral-55">[55]</a></sup>
+</p><p>The taste may vary from year to year, and the aroma and the flavor can be more or less intense, depending on which bloomings are prevalent.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Monofloral">Monofloral</span></h4>
+<p><a href="/wiki/Monofloral_honey" title="Monofloral honey">Monofloral honey</a> is made primarily from the nectar of one type of flower. Different monofloral honeys have a distinctive flavor and color because of differences between their principal <a href="/wiki/Nectar_source" title="Nectar source">nectar sources</a>.<sup id="cite_ref-mieliditalia1_57-0" class="reference"><a href="#cite_note-mieliditalia1-57">[57]</a></sup> To produce monofloral honey, beekeepers keep beehives in an area where the bees have access to only one type of flower. In practice, because of the difficulties in containing bees, a small proportion of any honey will be from additional nectar from other flower types.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Typical examples of North American monofloral honeys are clover, orange blossom, blueberry, sage, tupelo, buckwheat, fireweed, mesquite and sourwood. Some typical European examples include thyme, thistle, <a href="/wiki/Ericaceae" title="Ericaceae">heather</a>, acacia, dandelion, sunflower, honeysuckle, and varieties from <a href="/wiki/Tilia" title="Tilia">lime</a> and <a href="/wiki/Chestnut" title="Chestnut">chestnut</a> trees.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} In <a href="/wiki/North_Africa" title="North Africa">North Africa</a> (e.g. <a href="/w/index.php?title=Egypt&amp;action=edit&amp;redlink=1" class="new" title="Egypt (page does not exist)">Egypt</a>) examples include <a href="/wiki/Clover" title="Clover">clover</a>, <a href="/wiki/Cotton" title="Cotton">cotton</a>, and <a href="/wiki/Citrus" title="Citrus">citrus</a> (mainly <a href="/w/index.php?title=Orange_blossoms&amp;action=edit&amp;redlink=1" class="new" title="Orange blossoms (page does not exist)">orange blossoms</a>).{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h4><span class="mw-headline" id="Honeydew_honey">Honeydew honey</span></h4>
+<p>Instead of taking nectar, bees can take <a href="/w/index.php?title=Honeydew_(secretion)&amp;action=edit&amp;redlink=1" class="new" title="Honeydew (secretion) (page does not exist)">honeydew</a>, the sweet secretions of <a href="/wiki/Aphid" title="Aphid">aphids</a> or other plant sap-sucking insects. Honeydew honey is very dark brown in color, with a rich fragrance of stewed fruit or fig jam, and is not as sweet as nectar honeys.<sup id="cite_ref-mieliditalia1_57-1" class="reference"><a href="#cite_note-mieliditalia1-57">[57]</a></sup> <a href="/wiki/Germany" title="Germany">Germany</a>'s <a href="/wiki/Black_Forest" title="Black Forest">Black Forest</a> is a well known source of honeydew-based honeys, as well as some regions in Bulgaria, <a href="/wiki/Tara_(mountain)" title="Tara (mountain)">Tara (mountain)</a> in <a href="/wiki/Serbia" title="Serbia">Serbia</a> and Northern California in the United States. In Greece, <a href="/w/index.php?title=Pine_honey&amp;action=edit&amp;redlink=1" class="new" title="Pine honey (page does not exist)">pine honey</a> (a type of honeydew honey) constitutes 60–65% of the annual honey production.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup> Honeydew honey is popular in some areas, but in other areas beekeepers have difficulty selling the stronger flavored product.
+</p><p>The production of honeydew honey has some complications and dangers. The honey has a much larger proportion of indigestibles than light floral honeys, thus causing <a href="/w/index.php?title=Diseases_of_the_honey_bee&amp;action=edit&amp;redlink=1" class="new" title="Diseases of the honey bee (page does not exist)">dysentery</a> to the bees, resulting in the death of colonies in areas with cold winters. Good beekeeping management requires the removal of honeydew prior to winter in colder areas. Bees collecting this resource also have to be fed protein supplements, as honeydew lacks the protein-rich pollen accompaniment gathered from flowers.
+</p>
+<h3><span class="mw-headline" id="Classification_by_packaging_and_processing">Classification by packaging and processing</span></h3>
+<p>Generally, honey is bottled in its familiar liquid form. However, honey is sold in other forms, and can be subjected to a variety of processing methods.
+</p><p><a href="/w/index.php?title=Template:Multiple_image&amp;action=edit&amp;redlink=1" class="new" title="Template:Multiple image (page does not exist)">Template:Multiple image</a>
+</p>
+<ul>
+<li> <b>Crystallized honey</b> is honey in which some of the glucose content has spontaneously crystallized from solution as the monohydrate. Also called "granulated honey" or "candied honey." Honey that has crystallized (or commercially purchased crystallized) can be returned to a liquid state by warming.<sup id="cite_ref-Flottum2010_59-0" class="reference"><a href="#cite_note-Flottum2010-59">[59]</a></sup>
+</li>
+<li> <b>Pasteurized honey</b> is honey that has been heated in a <a href="/wiki/Pasteurization" title="Pasteurization">pasteurization</a> process which requires temperatures of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> or higher. Pasteurization destroys yeast cells. It also liquefies any microcrystals in the honey, which delays the onset of visible crystallization. However, excessive heat exposure also results in product deterioration, as it increases the level of <a href="/w/index.php?title=Hydroxymethylfurfural&amp;action=edit&amp;redlink=1" class="new" title="Hydroxymethylfurfural (page does not exist)">hydroxymethylfurfural</a> (HMF){{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} and reduces enzyme (e.g. diastase) activity. Heat also affects appearance (darkens the natural honey color), taste, and fragrance.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>
+</p>
+<ul>
+<li> <b>Raw honey</b> is honey as it exists in the beehive or as obtained by extraction, settling or straining, without adding heat (although some honey that has been "minimally processed" is often labeled as raw honey).<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup> Raw honey contains some pollen and may contain small particles of wax. Some <a href="/wiki/Allergy" title="Allergy">allergy</a> sufferers try using raw, local honey to build up a tolerance to the pollen in the air. However, <a href="/wiki/Hay_fever" title="Hay fever" class="mw-redirect">hay fever</a> is typically caused by pollen in the air, which is mostly from trees, weeds, and grass, rather than flowers.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup>
+</li>
+<li> <b>Strained honey</b> has been passed through a mesh material to remove particulate material (pieces of wax, <a href="/w/index.php?title=Propolis&amp;action=edit&amp;redlink=1" class="new" title="Propolis (page does not exist)">propolis</a>, other defects) without removing pollen, minerals or enzymes.
+</li>
+<li> <b>Filtered honey</b> is honey of any type that has been filtered to the extent that all or most of the fine particles, pollen grains, air bubbles, or other materials normally found in suspension, have been removed.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup> The process typically heats honey to <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> to more easily pass through the filter.<sup id="cite_ref-Damerow2011_64-0" class="reference"><a href="#cite_note-Damerow2011-64">[64]</a></sup> Filtered honey is very clear and will not crystallize as quickly,<sup id="cite_ref-Damerow2011_64-1" class="reference"><a href="#cite_note-Damerow2011-64">[64]</a></sup> making it preferred by the supermarket trade.<sup id="cite_ref-FRTWfB_65-0" class="reference"><a href="#cite_note-FRTWfB-65">[65]</a></sup>
+</li>
+<li> <b>Ultrasonicated honey</b> has been processed by <a href="/wiki/Sonication" title="Sonication">ultrasonication</a>, a non-thermal processing alternative for honey. When honey is exposed to ultrasonication, most of the yeast cells are destroyed. Those cells that survive sonication generally lose their ability to grow, which reduces the rate of honey fermentation substantially. Ultrasonication also eliminates existing crystals and inhibits further crystallization in honey. Ultrasonically aided liquefaction can work at substantially lower temperatures of approximately <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> and can reduce liquefaction time to less than 30 seconds.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup>
+</li>
+<li> <b><a href="/wiki/Creamed_honey" title="Creamed honey">Creamed honey</a></b>, also called whipped honey, spun honey, churned honey, candied honey, honey fondant, and (in the UK) set honey, has been processed to control <a href="/wiki/Crystallization" title="Crystallization">crystallization</a>. Creamed honey contains a large number of small crystals, which prevent the formation of larger crystals that can occur in unprocessed honey. The processing also produces a honey with a smooth, spreadable consistency.<sup id="cite_ref-Sharma2005_67-0" class="reference"><a href="#cite_note-Sharma2005-67">[67]</a></sup>
+</li>
+<li> <b>Dried honey</b> has the moisture extracted from liquid honey to create completely solid, nonsticky granules. This process may or may not include the use of drying and <a href="/wiki/Anticaking_agent" title="Anticaking agent">anticaking agents</a>.<sup id="cite_ref-Krell1996_68-0" class="reference"><a href="#cite_note-Krell1996-68">[68]</a></sup> Dried honey is used in baked goods,<sup id="cite_ref-Krell1996_68-1" class="reference"><a href="#cite_note-Krell1996-68">[68]</a></sup> and to garnish desserts. {{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<ul>
+<li> <b><a href="/wiki/Comb_honey" title="Comb honey">Comb honey</a></b> is honey still in the honeybees' wax comb. It traditionally is collected by using standard wooden <a href="/w/index.php?title=Frame_(beehive)&amp;action=edit&amp;redlink=1" class="new" title="Frame (beehive) (page does not exist)">frames</a> in <a href="/wiki/Honey_super" title="Honey super">honey supers</a>. The frames are collected and the comb is cut out in chunks before packaging. As an alternative to this labor intensive method, plastic rings or cartridges can be used that do not require manual cutting of the comb, and speed packaging. Comb honey harvested in the traditional manner is also referred to as "cut-comb honey".<sup id="cite_ref-Flottum2010_59-1" class="reference"><a href="#cite_note-Flottum2010-59">[59]</a></sup><a href="/w/index.php?title=Template:Rp&amp;action=edit&amp;redlink=1" class="new" title="Template:Rp (page does not exist)">Template:Rp</a><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup> In India, honey is harvested from forests in bee's natural habitat. It is said that honey will be consumed by the bees on the <a href="/wiki/New_moon" title="New moon">new moon</a> day, so it is cultivated the day before. {{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<ul>
+<li> <b>Chunk honey</b> is packed in widemouth containers consisting of one or more pieces of comb honey immersed in extracted liquid honey.<sup id="cite_ref-Flottum2010_59-2" class="reference"><a href="#cite_note-Flottum2010-59">[59]</a></sup><a href="/w/index.php?title=Template:Rp&amp;action=edit&amp;redlink=1" class="new" title="Template:Rp (page does not exist)">Template:Rp</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Preservation">Preservation</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Sealed_Honey_in_frame.JPG" title="File:Sealed Honey in frame.JPG">File:Sealed Honey in frame.JPG</a>  <div class="thumbcaption">Sealed frame of honey</div></div></div>
+<p>Because of its unique composition and chemical properties, honey is suitable for long-term storage, and is easily assimilated even after long preservation. Honey, and objects immersed in honey, have been preserved for decades and even centuries.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup><sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup> The key to preservation is limiting access to humidity. In its cured state, honey has a sufficiently high sugar content to inhibit fermentation. If exposed to moist air, its hydrophilic properties will pull moisture into the honey, eventually diluting it to the point that fermentation can begin.
+</p><p>Regardless of preservation, honey may crystallize over time. The crystals can be dissolved by heating the honey.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Distinguishing_honey">Distinguishing honey</span></h2>
+<h3><span class="mw-headline" id="Honey_grading">Honey grading</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+In the US, honey grading is performed voluntarily (USDA does offer inspection and grading "as on-line (in-plant) or lot inspection...upon application, on a fee-for-service basis.") based upon <a href="/wiki/United_States_Department_of_Agriculture" title="United States Department of Agriculture">USDA</a> standards. Honey is graded based upon a number of factors, including water content, flavor and aroma, absence of defects and clarity. Honey is also classified by color though it is not a factor in the grading scale.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup>
+The honey grade scale is:
+</p>
+<table class="wikitable">
+
+<tr>
+<th> Grade
+</th>
+<th> Water content
+</th>
+<th> Flavor and aroma
+</th>
+<th> Absence of defects
+</th>
+<th> Clarity
+</th></tr>
+<tr>
+<th> A
+</th>
+<td> &lt; 18.6%
+</td>
+<td> Good—has a good, normal flavor and aroma for the predominant floral source and is free from caramelization, smoke, fermentation, chemicals and other odor causes
+</td>
+<td> Practically free—practically no defects that affect appearance or edibility
+</td>
+<td> Clear—may contain air bubbles that do not materially affect the appearance; may contain a trace of pollen grains or other finely divided particles of suspended material that do not affect appearance
+</td></tr>
+<tr>
+<th> B
+</th>
+<td> &gt; 18.6% and &lt; 20.0%
+</td>
+<td> Reasonably good—practically free from caramelization; free from smoke, fermentation, chemicals, and other causes
+</td>
+<td> Reasonably free—do not materially affect appearance or edibility
+</td>
+<td> Reasonably clear—may contain air bubbles, pollen grains, or other finely divided particles of suspended material that do not materially affect appearance
+</td></tr>
+<tr>
+<th> C
+</th>
+<td> &lt; 20.0%
+</td>
+<td> Fairly good—reasonably free from caramelization; free from smoke, fermentation, chemicals, and other causes
+</td>
+<td> Fairly free—do not seriously affect the appearance or edibility
+</td>
+<td> Fairly clear—may contain air bubbles, pollen grains, or other finely divided particles of suspended material that do not seriously affect appearance
+</td></tr>
+<tr>
+<th> Substandard
+</th>
+<td> &gt; 20.0%
+</td>
+<td> Fails Grade C
+</td>
+<td> Fails Grade C
+</td>
+<td> Fails Grade C
+</td></tr></table>
+<p>Other countries may have differing standards on the grading of honey. <a href="/wiki/India" title="India">India</a>, for example, certifies honey grades based on additional factors, such as the Fiehe's test, and other empirical measurements.<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[75]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Indicators_of_quality">Indicators of quality</span></h3>
+<p>High-quality honey can be distinguished by fragrance, taste, and consistency. Ripe, freshly collected, high-quality honey at <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> should flow from a knife in a straight stream, without breaking into separate drops.<sup id="cite_ref-Honey_production_76-0" class="reference"><a href="#cite_note-Honey_production-76">[76]</a></sup> After falling down, the honey should form a bead. The honey, when poured, should form small, temporary layers that disappear fairly quickly, indicating high viscosity. If not, it indicates excessive water content (over 20%)<sup id="cite_ref-Honey_production_76-1" class="reference"><a href="#cite_note-Honey_production-76">[76]</a></sup>
+of the product. Honey with excessive water content is not suitable for long-term preservation.<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[77]</a></sup>
+</p><p>In jars, fresh honey should appear as a pure, consistent fluid, and should not set in layers. Within a few weeks to a few months of extraction, many varieties of honey crystallize into a cream-colored solid. Some varieties of honey, including tupelo, acacia, and sage, crystallize less regularly. Honey may be heated during bottling at temperatures of 40–49°C (104–120°F) to delay or inhibit crystallization. Overheating is indicated by change in enzyme levels, for instance, <a href="/wiki/Diastase" title="Diastase">diastase</a> activity, which can be determined with the Schade or the <a href="/w/index.php?title=Phadebas&amp;action=edit&amp;redlink=1" class="new" title="Phadebas (page does not exist)">Phadebas</a> methods. A fluffy film on the surface of the honey (like a white foam), or marble-colored or white-spotted crystallization on a containers sides, is formed by air bubbles trapped during the bottling process.
+</p><p>A 2008 <a href="/wiki/Italy" title="Italy">Italian</a> study determined <a href="/wiki/Nuclear_magnetic_resonance_spectroscopy" title="Nuclear magnetic resonance spectroscopy">nuclear magnetic resonance spectroscopy</a> can be used to distinguish between different honey types, and can be used to pinpoint the area where it was produced. Researchers were able to identify differences in acacia and polyfloral honeys by the differing proportions of <a href="/wiki/Fructose" title="Fructose">fructose</a> and <a href="/wiki/Sucrose" title="Sucrose">sucrose</a>, as well as differing levels of aromatic <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a> <a href="/wiki/Phenylalanine" title="Phenylalanine">phenylalanine</a> and <a href="/wiki/Tyrosine" title="Tyrosine">tyrosine</a>. This ability allows greater ease of selecting compatible stocks.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[78]</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_medicine">In medicine</span></h2>
+<p>Historically, honey has been used by humans both orally and topically to treat various ailments including gastric disturbances, ulcers, wounds, and burns. However, it is only recently that the mechanisms underlying the antiseptic and antibacterial properties of honey have come to be understood.  Much scientific research has been performed, with emphasis of late on fighting infections in wounds.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[79]</a></sup><sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[80]</a></sup> Antibacterial constituents and mechanisms identified include <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>)</a>, <a href="/w/index.php?title=Methylglyoxal&amp;action=edit&amp;redlink=1" class="new" title="Methylglyoxal (page does not exist)">methylglyoxal</a> (MGO), <a href="/w/index.php?title=Bee_defensin-1&amp;action=edit&amp;redlink=1" class="new" title="Bee defensin-1 (page does not exist)">bee defensin-1</a>, the osmotic effect, and pH effects.<sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[81]</a></sup>
+</p><p>In <a href="/wiki/Ayurveda" title="Ayurveda">Ayurveda</a>, a 4000-year-old treatise on medicine originating from India, honey is considered to positively affect all three primitive material imbalances of the body. <a href="/wiki/Charaka" title="Charaka">Charaka</a> and <a href="/w/index.php?title=Sushruta&amp;action=edit&amp;redlink=1" class="new" title="Sushruta (page does not exist)">Sushruta</a> applied honey to dressings for sores.<sup id="cite_ref-Pe.C4.87anac-_34-1" class="reference"><a href="#cite_note-Pe.C4.87anac--34">[34]</a></sup> "<i>Vaatalam guru sheetam cha raktapittakaphapaham| Sandhatru cchedanam ruksham kashayam madhuram madhu||</i> "It has sweetness with added astringent as end taste. It is heavy, dry and cold. Its effect on <i>doshas</i> (imbalances) is that it aggravates <i>vata (air / moving forces), scrapes </i>kapha<i> (mucus / holding forces) and normalizes </i>pitta<i> (catabolic fire) and </i>rakta<i> (blood). It promotes the healing process."</i>
+
+</p><p>The 3rd century Greek philosopher Celsus used mixes of honey and bran to treat burns.<sup id="cite_ref-Pe.C4.87anac-_34-2" class="reference"><a href="#cite_note-Pe.C4.87anac--34">[34]</a></sup>
+</p><p>Some wound gels which contain antibacterial raw honey and have regulatory approval are now available to help treat drug-resistant strains of bacteria (<a href="/wiki/Methicillin-resistant_Staphylococcus_aureus" title="Methicillin-resistant Staphylococcus aureus">MRSA</a>).{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} One New Zealand researcher says a particular type of honey (<a href="/w/index.php?title=Manuka_honey&amp;action=edit&amp;redlink=1" class="new" title="Manuka honey (page does not exist)">manuka honey</a>) may be useful in treating MRSA infections.<sup id="cite_ref-bbc_healing_82-0" class="reference"><a href="#cite_note-bbc_healing-82">[82]</a></sup>
+</p><p>As an antimicrobial agent honey is useful in treating a variety of ailments. Antibacterial properties of honey are the result of the low <a href="/w/index.php?title=Water_activity&amp;action=edit&amp;redlink=1" class="new" title="Water activity (page does not exist)">water activity</a> causing osmosis, <a href="/wiki/Chelation" title="Chelation">chelation</a> of free iron, its slow release of <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>,<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[83]</a></sup> high acidity,<sup id="cite_ref-antimicrobial_84-0" class="reference"><a href="#cite_note-antimicrobial-84">[84]</a></sup> and the antibacterial activity of <a href="/w/index.php?title=Methylglyoxal&amp;action=edit&amp;redlink=1" class="new" title="Methylglyoxal (page does not exist)">methylglyoxal</a>.<sup id="cite_ref-manuka_85-0" class="reference"><a href="#cite_note-manuka-85">[85]</a></sup>
+</p><p>Honey appears to be effective in killing drug-resistant <a href="/wiki/Biofilm" title="Biofilm">biofilms</a> which are implicated in chronic <a href="/w/index.php?title=Rhinosinusitis&amp;action=edit&amp;redlink=1" class="new" title="Rhinosinusitis (page does not exist)">rhinosinusitis</a>.<sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[86]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Osmotic_effect">Osmotic effect</span></h3>
+<p>Honey has an <a href="/wiki/Osmotic_pressure" title="Osmotic pressure">osmotic effect</a>.<sup id="cite_ref-Lusby_87-0" class="reference"><a href="#cite_note-Lusby-87">[87]</a></sup> Honey is primarily a saturated mixture of two <a href="/wiki/Monosaccharides" title="Monosaccharides" class="mw-redirect">monosaccharides</a>, with a low <a href="/w/index.php?title=Water_activity&amp;action=edit&amp;redlink=1" class="new" title="Water activity (page does not exist)">water activity</a>; most of the water molecules are associated with the sugars and few remain available for microorganisms, so it is a poor environment for their growth. If water is mixed with honey, it loses its low water activity, and therefore no longer possesses this antimicrobial property.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h3><span class="mw-headline" id="Hydrogen_peroxide">Hydrogen peroxide</span></h3>
+<p><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">Hydrogen peroxide</a> is formed in a slow-release manner by the enzyme <a href="/wiki/Glucose_oxidase" title="Glucose oxidase">glucose oxidase</a> present in honey. It becomes active only when honey is diluted, requires oxygen to be available for the reaction (thus it may not work under wound dressings, in wound cavities or in the gut), is active only when the acidity of honey is neutralized by body fluids, can be destroyed by the protein-digesting enzymes present in wound fluids, and is destroyed when honey is exposed to heat and light.<sup id="cite_ref-manuka_85-1" class="reference"><a href="#cite_note-manuka-85">[85]</a></sup> Honey <a href="/wiki/Chelation" title="Chelation">chelates</a> and deactivates free iron, which would otherwise catalyze the formation of oxygen <a href="/w/index.php?title=Radical_(chemistry)&amp;action=edit&amp;redlink=1" class="new" title="Radical (chemistry) (page does not exist)">free radicals</a> from hydrogen peroxide, leading to inflammation. Also, the antioxidant constituents in honey help clean up oxygen free radicals present.<sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[88]</a></sup>
+</p>
+<dl>
+<dd><a href="/wiki/Glucose" title="Glucose">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></a> + H<sub>2</sub>O + O<sub>2</sub> → <a href="/wiki/Gluconic_acid" title="Gluconic acid">C<sub>6</sub>H<sub>12</sub>O<sub>7</sub></a> + <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a> (glucose oxidase reaction)
+</dd>
+</dl>
+<p>When honey is used topically (as, for example, a wound dressing), hydrogen peroxide is produced by dilution of the honey with body fluids. As a result, hydrogen peroxide is released slowly and acts as an antibacterial.<sup id="cite_ref-pmid21479349_89-0" class="reference"><a href="#cite_note-pmid21479349-89">[89]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Use_for_diabetic_ulcers">Use for diabetic ulcers</span></h3>
+<p>Topical honey has been used successfully in a comprehensive treatment of <a href="/w/index.php?title=Chronic_wound&amp;action=edit&amp;redlink=1" class="new" title="Chronic wound (page does not exist)">diabetic ulcers</a> when the patient cannot use topical antibiotics.<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[90]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Acidity">Acidity</span></h3>
+<p>The <a href="/wiki/PH" title="PH">pH</a> of honey is commonly between 3.2 and 4.5.<sup id="cite_ref-antimicrobial_84-1" class="reference"><a href="#cite_note-antimicrobial-84">[84]</a></sup> This relatively acidic pH level prevents the growth of many bacteria.
+</p>
+<h3><span class="mw-headline" id="Methylglyoxal">Methylglyoxal</span></h3>
+<p>The nonperoxide antibiotic activity is due to <a href="/w/index.php?title=Methylglyoxal&amp;action=edit&amp;redlink=1" class="new" title="Methylglyoxal (page does not exist)">methylglyoxal</a> (MGO) and <a href="/w/index.php?title=Bee_defensin-1&amp;action=edit&amp;redlink=1" class="new" title="Bee defensin-1 (page does not exist)">bee defensin-1</a>.<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[91]</a></sup> Most honeys contain very low levels of MGO, but manuka honey contains very high levels. The presence of the synergist in manuka honey more than doubles MGO antibacterial activity.<sup id="cite_ref-manuka_85-2" class="reference"><a href="#cite_note-manuka-85">[85]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Nutraceutical_effects">Nutraceutical effects</span></h3>
+<p>Antioxidants in honey have even been associated with reducing the damage done to the colon in <a href="/wiki/Colitis" title="Colitis">colitis</a> in a study involving administering honey <a href="/wiki/Enemas" title="Enemas" class="mw-redirect">enemas</a> to rats.<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[92]</a></sup> Such claims are consistent with its use in many traditions of <a href="/wiki/Folk_medicine" title="Folk medicine">folk medicine</a>.<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[93]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Use_for_sore_throats_and_coughs">Use for sore throats and coughs</span></h3>
+<p>Honey has also been used for centuries as a treatment for sore throats and coughs and, according to recent research, may be an effective soothing agent for coughs.<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[94]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Other_medical_applications">Other medical applications</span></h3>
+<p>Unfiltered, pasteurized honey is widely believed to alleviate allergies, though neither commercially filtered nor raw honey was shown to be more effective than <a href="/wiki/Placebo" title="Placebo">placebo</a> in a controlled study of 36 participants with <a href="/wiki/Allergic_conjunctivitis" title="Allergic conjunctivitis">ocular allergies</a>.<sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[95]</a></sup> Nearly 1 in 3 of the volunteers dropped out of the study because they couldn't tolerate eating one tablespoon of honey every day due to the overly sweet taste.<sup id="cite_ref-More.2C_MD_96-0" class="reference"><a href="#cite_note-More.2C_MD-96">[96]</a></sup> The official conclusion: "This study does not confirm the widely held belief that honey relieves the symptoms of allergic rhinoconjunctivitis." A more recent study has shown pollen collected by bees to exert an antiallergenic effect, mediated by an inhibition of IgE immunoglobulin binding to <a href="/wiki/Mast_cells" title="Mast cells" class="mw-redirect">mast cells</a>. This inhibited mast cell degranulation and thus reduced allergic reaction.<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[97]</a></sup> The risk of experiencing <a href="/wiki/Anaphylaxis" title="Anaphylaxis">anaphylaxis</a> as an immune system reaction may outweigh any potential allergy relief.<sup id="cite_ref-More.2C_MD_96-1" class="reference"><a href="#cite_note-More.2C_MD-96">[96]</a></sup>
+</p><p>A review in the Cochrane Library suggests honey could reduce the time it takes for a mild burn to heal — up to four days sooner in some cases. The review included 19 studies with 2,554 participants. Although the honey treatment healed mild burns faster than traditional dressings did, the author recommends viewing the findings with caution, since a single research centre performed all of the burn studies.<sup id="cite_ref-Jull_98-0" class="reference"><a href="#cite_note-Jull-98">[98]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Health_hazards">Health hazards</span></h2>
+<h3><span class="mw-headline" id="Botulism">Botulism</span></h3>
+<p>Because of the natural presence of <a href="/wiki/Clostridium_botulinum" title="Clostridium botulinum">botulinum</a> <a href="/wiki/Endospore" title="Endospore">endospores</a> in honey,<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[99]</a></sup> children under one year of age should not be given honey. The more-developed digestive system of older children and adults generally destroys the spores. Infants, however, can contract <a href="/wiki/Botulism" title="Botulism">botulism</a> from honey.<sup id="cite_ref-NHB_botulism_100-0" class="reference"><a href="#cite_note-NHB_botulism-100">[100]</a></sup> Medical grade honey can be treated with gamma radiation to reduce the risk of botulinum spores being present.<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[101]</a></sup> Gamma radiation evidently does not affect honey's antibacterial activity, whether or not the particular honey's antibacterial activity is dependent upon peroxide generation.<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[102]</a></sup>
+</p><p>Infantile botulism shows geographical variation. In the UK, only six cases have been reported between 1976 and 2006,<sup id="cite_ref-FSA_botulism_103-0" class="reference"><a href="#cite_note-FSA_botulism-103">[103]</a></sup> yet the U.S. has much higher rates: 1.9 per 100,000 live births, 47.2% of which are in California.<sup id="cite_ref-CdcBotulism_104-0" class="reference"><a href="#cite_note-CdcBotulism-104">[104]</a></sup> While the risk honey poses to infant health is small, it is recommended not to take the risk.<sup id="cite_ref-ENY128_105-0" class="reference"><a href="#cite_note-ENY128-105">[105]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Toxic_honey">Toxic honey</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Honey produced from flowers of <a href="/w/index.php?title=Oleander&amp;action=edit&amp;redlink=1" class="new" title="Oleander (page does not exist)">oleanders</a>, <a href="/wiki/Rhododendron" title="Rhododendron">rhododendrons</a>, <a href="/wiki/Kalmia_latifolia" title="Kalmia latifolia">mountain laurels</a>, <a href="/w/index.php?title=Sheep_laurel&amp;action=edit&amp;redlink=1" class="new" title="Sheep laurel (page does not exist)">sheep laurel</a>, and <a href="/wiki/Azalea" title="Azalea">azaleas</a> may cause <a href="/wiki/Grayanotoxin" title="Grayanotoxin">honey intoxication</a>. Symptoms include dizziness, weakness, excessive perspiration, nausea, and vomiting. Less commonly, low blood pressure, shock, heart rhythm irregularities, and convulsions may occur, with rare cases resulting in death. Honey intoxication is more likely when using "natural" unprocessed honey and honey from farmers who may have a small number of hives. Commercial processing, with pooling of honey from numerous sources, is thought to dilute any toxins.<sup id="cite_ref-FDA_106-0" class="reference"><a href="#cite_note-FDA-106">[106]</a></sup>
+</p>
+<h4><span class="mw-headline" id="New_Zealand">New Zealand</span></h4>
+<p>Toxic honey may also result when bees are proximate to <a href="/wiki/Tutu_(plant)" title="Tutu (plant)">tutu</a> bushes (<i>Coriaria arborea</i>) and the vine hopper insect (<i><a href="/w/index.php?title=Scolypopa_australis&amp;action=edit&amp;redlink=1" class="new" title="Scolypopa australis (page does not exist)">Scolypopa australis</a></i>). Both are found throughout New Zealand. Bees gather honeydew produced by the vine hopper insects feeding on the tutu plant. This introduces the poison <a href="/w/index.php?title=Tutin_(toxin)&amp;action=edit&amp;redlink=1" class="new" title="Tutin (toxin) (page does not exist)">tutin</a> into honey.<sup id="cite_ref-NBA_107-0" class="reference"><a href="#cite_note-NBA-107">[107]</a></sup> Only a few areas in New Zealand (Coromandel Peninsula, Eastern Bay of Plenty and the Marlborough Sound) frequently produce toxic honey. Symptoms of tutin poisoning include vomiting, delirium, giddiness, increased excitability, stupor, coma, and violent convulsions. To reduce the risk of tutin poisoning, humans should not eat honey taken from feral hives in the risk areas of New Zealand. Since December 2001, New Zealand beekeepers have been required to reduce the risk of producing toxic honey by closely monitoring tutu, vine hopper, and foraging conditions within <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of their apiary.
+</p>
+<h2><span class="mw-headline" id="Honey-producing_and_consuming_countries">Honey-producing and consuming countries</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:2005honey_(natural).PNG" title="File:2005honey (natural).PNG">File:2005honey (natural).PNG</a>  <div class="thumbcaption">2005 Honey-producing countries</div></div></div>
+<table class="wikitable" style="float:right; margin: 0 0 0.5em 1em">
+<caption> Top Five Natural Honey Producing Countries <br />(in metric tons)
+</caption>
+<tr>
+<th>Rank
+</th>
+<th>Country
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th></tr>
+<tr>
+<td> 1 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_China&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data China (page does not exist)">Template:Country data China</a> </td>
+<td> 407,367 </td>
+<td> 409,149 </td>
+<td> 446,089
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Turkey&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Turkey (page does not exist)">Template:Country data Turkey</a> </td>
+<td> 82,003 </td>
+<td> 81,115 </td>
+<td> 94,245
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Ukraine&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Ukraine (page does not exist)">Template:Country data Ukraine</a> </td>
+<td> 74,100 </td>
+<td> 70,900 </td>
+<td> 70,300
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_United_States&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data United States (page does not exist)">Template:Country data United States</a> </td>
+<td> 66,413 </td>
+<td> 80,042 </td>
+<td> 67,294
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Russia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Russia (page does not exist)">Template:Country data Russia</a> </td>
+<td> 53,598 </td>
+<td> 51,535 </td>
+<td> 60,010
+</td></tr>
+<tr bgcolor="#CCCCCC">
+<td> — </td>
+<td> <i><a href="/wiki/World" title="World">World</a></i> </td>
+<td> 1,199,943 </td>
+<td> 1,212,586 </td>
+<td> 1,282,102
+</td></tr>
+<tr>
+<td colspan="5"> <center> <i>Source: <a href="/w/index.php?title=FAO&amp;action=edit&amp;redlink=1" class="new" title="FAO (page does not exist)">UN Food &amp; Agriculture Organization</a></i> <sup id="cite_ref-108" class="reference"><a href="#cite_note-108">[108]</a></sup>
+</td></tr></table>
+<p>In 2012, <a href="/wiki/China" title="China">China</a>, <a href="/w/index.php?title=Turkey&amp;action=edit&amp;redlink=1" class="new" title="Turkey (page does not exist)">Turkey</a>, and <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> were the top producers of natural honey.<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">[109]</a></sup>
+</p><p>Significant regional producers of honey include <a href="/wiki/United_States_of_America" title="United States of America" class="mw-redirect">United States of America</a> (ranked fourth worldwide) and <a href="/wiki/Russia" title="Russia">Russia</a> (ranked fifth worldwide).
+</p><p><a href="/w/index.php?title=Mexico&amp;action=edit&amp;redlink=1" class="new" title="Mexico (page does not exist)">Mexico</a> is also an important producer of honey, providing more than 4% of the world's supply.<sup id="cite_ref-110" class="reference"><a href="#cite_note-110">[110]</a></sup> Much of this (about one-third) comes from the <a href="/wiki/Yucat%C3%A1n_Peninsula" title="Yucatán Peninsula">Yucatán Peninsula</a>. Honey production began there when the <i>Apis mellifera</i> and the <i>A. mellifera ligustica</i> were introduced there early in the 20th century. Most of Mexico's Yucatán producers are small, family operations who use original traditional techniques, moving hives to take advantage of the various tropical and subtropical flowers.<sup id="cite_ref-MexDes_111-0" class="reference"><a href="#cite_note-MexDes-111">[111]</a></sup>
+</p><p>Honey is also one of the gourmet products of the French island of <a href="/w/index.php?title=Corsica&amp;action=edit&amp;redlink=1" class="new" title="Corsica (page does not exist)">Corsica</a>. Corsican honey is certified as to its origin (<i><a href="/wiki/Appellation_d%27origine_contr%C3%B4l%C3%A9e" title="Appellation d'origine contrôlée">Appellation d'origine contrôlée</a></i>) just as are French wines, like Champagne.<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">[112]</a></sup>
+</p><p>Honey consumption per capita per year exceeds one kilogram in some countries like Austria, Germany and Switzerland.<sup id="cite_ref-113" class="reference"><a href="#cite_note-113">[113]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Gallery_of_honey_harvesting">Gallery of honey harvesting</span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Beehives.jpg</div>
+			<div class="gallerytext">
+<p>Modern beehives
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Smoker.jpg</div>
+			<div class="gallerytext">
+<p>Smoking the hive
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Bee blower 9124.JPG</div>
+			<div class="gallerytext">
+<p>Using a blower to remove bees from honey prior to removal to honey house
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Protection.jpg</div>
+			<div class="gallerytext">
+<p>A beekeeper removing frames from the hive
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Langstroth Frames.jpg</div>
+			<div class="gallerytext">
+<p>A capped honey super frame
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Opening-cells .jpg</div>
+			<div class="gallerytext">
+<p>Opening the cells: Uncapping
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Fork-Beekeeping .jpg</div>
+			<div class="gallerytext">
+<p>An uncapping fork
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Discovered honey .jpg</div>
+			<div class="gallerytext">
+<p>Uncapping the cells by hand using an uncapping knife
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Extractor Beekeeping.jpg</div>
+			<div class="gallerytext">
+<p>Extracting the honey
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Filtering of honey .jpg</div>
+			<div class="gallerytext">
+<p>Filtering the honey
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Honey-miel.jpg</div>
+			<div class="gallerytext">
+<p>Pouring in pots
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 195px"><div style="width: 195px">
+			<div class="thumb" style="height: 150px;">Honey Al Jabal Alkhdar.jpg</div>
+			<div class="gallerytext">
+<p>View Honey Al Jabal Alkhdar near the city of <a href="/wiki/Bayda,_Libya" title="Bayda, Libya">Bayda</a>, <a href="/wiki/Libya" title="Libya">Libya</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p><a href="/w/index.php?title=Template:Colbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Colbegin (page does not exist)">Template:Colbegin</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Bee_bread&amp;action=edit&amp;redlink=1" class="new" title="Bee bread (page does not exist)">Bee bread</a>
+</li>
+<li> <a href="/wiki/Folk_medicine" title="Folk medicine">Folk medicine</a>
+</li>
+<li> <a href="/wiki/Food" title="Food">Food</a>
+</li>
+<li> <a href="/w/index.php?title=Health_effects_of_honey&amp;action=edit&amp;redlink=1" class="new" title="Health effects of honey (page does not exist)">Health effects of honey</a>
+</li>
+<li> <a href="/wiki/Honey_flow" title="Honey flow">Honey flow</a>
+</li>
+<li> <a href="/w/index.php?title=Honey_hunting&amp;action=edit&amp;redlink=1" class="new" title="Honey hunting (page does not exist)">Honey hunting</a>
+</li>
+<li> <a href="/w/index.php?title=Honey_varieties&amp;action=edit&amp;redlink=1" class="new" title="Honey varieties (page does not exist)">Honey varieties</a>
+</li>
+<li> <i><a href="/w/index.php?title=More_Than_Honey&amp;action=edit&amp;redlink=1" class="new" title="More Than Honey (page does not exist)">More Than Honey</a></i>—a 2012 Swiss documentary film on the current state of honey bees and beekeeping
+</li>
+<li> <a href="/w/index.php?title=National_honey_show&amp;action=edit&amp;redlink=1" class="new" title="National honey show (page does not exist)">National honey show</a>
+</li>
+<li> <a href="/wiki/Royal_jelly" title="Royal jelly">Royal jelly</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Colend&amp;action=edit&amp;redlink=1" class="new" title="Template:Colend (page does not exist)">Template:Colend</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.honey.com/">U.S. National Honey Board</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.mieliditalia.it/colori/inglese/home.htm">Honey varieties with pictures</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.fao.org/docrep/w0076e/w0076e00.htm#con">Value-Added Products From Beekeeping, Food and Agriculture Organization of the United Nations</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.fao.org/docrep/006/y5110e/y5110e00.htm">Beekeeping and Sustainable Livelihoods, Food and Agriculture Organization of the United Nations</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:BeeColonyMemberTypes&amp;action=edit&amp;redlink=1" class="new" title="Template:BeeColonyMemberTypes (page does not exist)">Template:BeeColonyMemberTypes</a>
+<a href="/w/index.php?title=Template:Vegetarianism&amp;action=edit&amp;redlink=1" class="new" title="Template:Vegetarianism (page does not exist)">Template:Vegetarianism</a>
+<a href="/w/index.php?title=Template:Non-timber_forest_products&amp;action=edit&amp;redlink=1" class="new" title="Template:Non-timber forest products (page does not exist)">Template:Non-timber forest products</a><a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+</p>
+<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a></center>
+<p><br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 1.176 seconds
+Real time usage: 2.316 seconds
+Preprocessor visited node count: 2770/1000000
+Preprocessor generated node count: 14469/1000000
+Post‐expand include size: 2963/2097152 bytes
+Template argument size: 37/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:9140-0!*!0!!en!2!* and timestamp 20170407172737
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Honey&amp;oldid=9140">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Honey&amp;oldid=9140</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Honey&amp;action=edit&amp;redlink=1" class="new" title="Category:Honey (page does not exist)">Honey</a></li><li><a href="/wiki/Category:Beekeeping" title="Category:Beekeeping">Beekeeping</a></li><li><a href="/w/index.php?title=Category:Demulcents&amp;action=edit&amp;redlink=1" class="new" title="Category:Demulcents (page does not exist)">Demulcents</a></li><li><a href="/w/index.php?title=Category:Non-timber_forest_products&amp;action=edit&amp;redlink=1" class="new" title="Category:Non-timber forest products (page does not exist)">Non-timber forest products</a></li><li><a href="/wiki/Category:Sweeteners" title="Category:Sweeteners">Sweeteners</a></li><li><a href="/w/index.php?title=Category:Vermont_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Category:Vermont cuisine (page does not exist)">Vermont cuisine</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Honey" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Honey"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Honey&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Honey" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Honey&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Honey&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Honey" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Honey" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Honey&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Honey&amp;oldid=9140" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Honey&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 February 2014, at 03:13.</li>
+											<li id="footer-info-viewcount">This page has been accessed 154 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 2.891 secs. -->
+	</body>
+</html>

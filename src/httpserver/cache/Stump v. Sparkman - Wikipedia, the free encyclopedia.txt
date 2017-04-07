@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Stump v. Sparkman - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Stump_v._Sparkman","wgTitle":"Stump v. Sparkman","wgCurRevisionId":686327,"wgRevisionId":686327,"wgArticleId":686327,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","United States Supreme Court cases","United States civil rights case law","United States children's rights case law","United States disability case law","DeKalb County, Indiana","Auburn, Indiana","United States reproductive rights case law","1978 in United States case law"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Stump_v._Sparkman","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Stump_v_Sparkman skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Stump v. Sparkman</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Lead_too_short&amp;action=edit&amp;redlink=1" class="new" title="Template:Lead too short (page does not exist)">Template:Lead too short</a>
+<a href="/w/index.php?title=Template:SCOTUSCase&amp;action=edit&amp;redlink=1" class="new" title="Template:SCOTUSCase (page does not exist)">Template:SCOTUSCase</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:DeKalb_County_IN_Court_House.jpg" title="File:DeKalb County IN Court House.jpg">File:DeKalb County IN Court House.jpg</a>  <div class="thumbcaption">DeKalb County Court House, Auburn, Indiana. The chambers of the Circuit Court judge are at upper left.</div></div></div>
+<p><i><b>Stump v. Sparkman</b></i>, <a href="/wiki/Case_citation" title="Case citation">435 U.S. 349</a> (1978), is the leading <a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">United States Supreme Court</a> decision on <a href="/w/index.php?title=Judicial_immunity&amp;action=edit&amp;redlink=1" class="new" title="Judicial immunity (page does not exist)">judicial immunity</a>. It involved an <a href="/w/index.php?title=Indiana&amp;action=edit&amp;redlink=1" class="new" title="Indiana (page does not exist)">Indiana</a> judge who was sued by a young woman who had been <a href="/w/index.php?title=Human_sterilization_(surgical_procedure)&amp;action=edit&amp;redlink=1" class="new" title="Human sterilization (surgical procedure) (page does not exist)">sterilized</a> in accordance with the judge's order. The Supreme Court held that the judge was immune from being sued for issuing the order because it was issued as a judicial function.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Facts"><span class="tocnumber">1</span> <span class="toctext">Facts</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Background"><span class="tocnumber">2</span> <span class="toctext">Background</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#The_case_below"><span class="tocnumber">2.1</span> <span class="toctext">The case below</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#The_holding"><span class="tocnumber">3</span> <span class="toctext">The holding</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Test_of_a_.22judicial_act.22"><span class="tocnumber">3.1</span> <span class="toctext">Test of a "judicial act"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#The_dissent"><span class="tocnumber">4</span> <span class="toctext">The dissent</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Justice_Stewart.27s_dissent"><span class="tocnumber">4.1</span> <span class="toctext">Justice Stewart's dissent</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Justice_Powell.27s_dissent"><span class="tocnumber">4.2</span> <span class="toctext">Justice Powell's dissent</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Linda_Sparkman_and_Indiana_eugenics_marker.2C_2007"><span class="tocnumber">5</span> <span class="toctext">Linda Sparkman and Indiana eugenics marker, 2007</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Law_review_articles"><span class="tocnumber">7</span> <span class="toctext">Law review articles</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Books"><span class="tocnumber">8</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Facts">Facts</span></h2>
+<p>In 1971, Judge <a href="/w/index.php?title=Harold_D._Stump&amp;action=edit&amp;redlink=1" class="new" title="Harold D. Stump (page does not exist)">Harold D. Stump</a> granted a mother's petition to have a <a href="/wiki/Tubal_ligation" title="Tubal ligation">tubal ligation</a> performed on her 15-year-old daughter, who the mother alleged was "somewhat <a href="/w/index.php?title=Mental_retardation&amp;action=edit&amp;redlink=1" class="new" title="Mental retardation (page does not exist)">retarded</a>."  The petition was granted the same day that it was filed.  The judge did not hold a <a href="/wiki/Hearing_(law)" title="Hearing (law)">hearing</a> to receive <a href="/wiki/Evidence_(law)" title="Evidence (law)">evidence</a> or appoint a <a href="/wiki/Lawyer" title="Lawyer">lawyer</a> to protect the daughter's interests.  The daughter underwent the <a href="/wiki/Surgery" title="Surgery">surgery</a> a week later, having been told that she was to have her <a href="/wiki/Vermiform_appendix" title="Vermiform appendix">appendix</a> removed.
+</p><p>The daughter married two years later.  Failing to become <a href="/wiki/Pregnant" title="Pregnant" class="mw-redirect">pregnant</a>, she learned that she had been sterilized during the 1971 operation.  The daughter and her husband sued the judge and others associated with the sterilization in <a href="/wiki/United_States_district_court" title="United States district court">federal district court</a>.
+</p><p>The district court found that the judge was immune from suit. The Seventh Circuit <a href="/w/index.php?title=Court_of_Appeals&amp;action=edit&amp;redlink=1" class="new" title="Court of Appeals (page does not exist)">Court of Appeals</a> reversed the decision, holding that the judge had lost his immunity because he failed to observe "elementary principles of <a href="/wiki/Due_process" title="Due process">due process</a>" when he ordered the sterilization.  Finally, in 1978, the U.S. Supreme Court, in a 5-3 decision, reversed the Court of Appeals, announcing a test for deciding when <a href="/w/index.php?title=Judicial_immunity&amp;action=edit&amp;redlink=1" class="new" title="Judicial immunity (page does not exist)">judicial immunity</a> should apply and holding that the judge could not be sued.
+</p>
+<h2><span class="mw-headline" id="Background">Background</span></h2>
+<p>On July 9, 1971, Ora Spitler McFarlin of <a href="/wiki/Auburn,_Indiana" title="Auburn, Indiana">Auburn, Indiana</a>, through her attorney Warren G. Sunday, presented a petition to Judge Harold D. Stump of the <a href="/w/index.php?title=DeKalb_County,_Indiana&amp;action=edit&amp;redlink=1" class="new" title="DeKalb County, Indiana (page does not exist)">DeKalb County</a> Circuit Court asking to have her 15-year-old daughter, Linda Spitler, surgically sterilized.  The petition alleged that the daughter was "somewhat retarded," was associating with "older youth and young men" and that it would be in the daughter's best interest to undergo a tubal ligation "to prevent unfortunate circumstances." <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Judge Stump signed the requested order <a href="/wiki/Ex_parte" title="Ex parte">ex parte</a> the same day that he received the petition.  The daughter had no notice of it.  No <a href="/wiki/Guardian_ad_litem" title="Guardian ad litem" class="mw-redirect">guardian ad litem</a> was appointed to represent her interest, and no hearing was held.  Neither the petition nor the order was filed with the clerk of the circuit court, nor did the order cite any <a href="/wiki/Statute" title="Statute">statutory</a> authority for the action being taken.
+</p><p>On July 15, Linda Spitler entered DeKalb Memorial Hospital, just four blocks from her home.  She was told that she was to have her appendix removed.  The next day a tubal ligation was performed on her by Dr. John H. Hines, M.D., assisted by Dr. Harry M. Covell, M.D., and <a href="/wiki/Anesthesiologist" title="Anesthesiologist">anesthesiologist</a> Dr. John C. Harvey, M.D.
+</p><p>In 1973, Linda Spitler married Leo Sparkman.  Failing to become pregnant, she learned from Dr. Hines in 1975 that she had been sterilized.  The Sparkmans then brought an action for damages under <a href="/w/index.php?title=42_U.S.C._%C2%A7_1983&amp;action=edit&amp;redlink=1" class="new" title="42 U.S.C. § 1983 (page does not exist)">42 U.S.C. § 1983</a> and <a href="/w/index.php?title=42_U.S.C._%C2%A7_1985(3)&amp;action=edit&amp;redlink=1" class="new" title="42 U.S.C. § 1985(3) (page does not exist)">42 U.S.C. § 1985(3)</a> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> for alleged deprivation of Linda Sparkman's civil rights against Ora McFarlin, her attorney, Judge Stump, the doctors who performed the operation and the hospital where it was performed.  Leo Sparkman asserted a <a href="/wiki/Pendent_jurisdiction" title="Pendent jurisdiction" class="mw-redirect">pendent</a> claim under state law for loss of potential fatherhood.  Linda Sparkman also asserted pendent state claims for assault and battery and medical malpractice. The case was filed in the <a href="/w/index.php?title=U.S._District_Court_for_the_Northern_District_of_Indiana&amp;action=edit&amp;redlink=1" class="new" title="U.S. District Court for the Northern District of Indiana (page does not exist)">U.S. District Court for the Northern District of Indiana</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_case_below">The case below</span></h3>
+<p>The district court judge, <a href="/w/index.php?title=Jesse_E._Eschbach&amp;action=edit&amp;redlink=1" class="new" title="Jesse E. Eschbach (page does not exist)">Jesse E. Eschbach</a>, dismissed the case, holding that the only state action, which was necessary to the federal claims, was Judge Stump's approval of the petition and that he was "clothed with absolute judicial immunity," thereby cutting off the claims against the other defendants as well.  The Sparkmans appealed to the <a href="/w/index.php?title=United_States_Court_of_Appeals&amp;action=edit&amp;redlink=1" class="new" title="United States Court of Appeals (page does not exist)">U.S. Court of Appeals</a> for the <a href="/wiki/United_States_Court_of_Appeals_for_the_Seventh_Circuit" title="United States Court of Appeals for the Seventh Circuit">Seventh Circuit</a>, which reversed the dismissal.
+</p><p>Applying the doctrine of judicial immunity adopted by the U. S. Supreme Court in <i><a href="/w/index.php?title=Bradley_v._Fisher&amp;action=edit&amp;redlink=1" class="new" title="Bradley v. Fisher (page does not exist)">Bradley v. Fisher</a></i> <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> in 1871 and held applicable to § 1983 actions in <i><a href="/w/index.php?title=Pierson_v._Ray&amp;action=edit&amp;redlink=1" class="new" title="Pierson v. Ray (page does not exist)">Pierson v. Ray</a></i> <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> in 1967, Judge <a href="/w/index.php?title=Luther_Merritt_Swygert&amp;action=edit&amp;redlink=1" class="new" title="Luther Merritt Swygert (page does not exist)">Luther M. Swygert</a>, writing for himself and Judges <a href="/w/index.php?title=Harlington_Wood,_Jr.&amp;action=edit&amp;redlink=1" class="new" title="Harlington Wood, Jr. (page does not exist)">Harlington Wood, Jr.</a>, and <a href="/w/index.php?title=William_G._East&amp;action=edit&amp;redlink=1" class="new" title="William G. East (page does not exist)">William G. East</a>, found that immunity is available only when a judge has <a href="/wiki/Jurisdiction" title="Jurisdiction">jurisdiction</a> over the <a href="/wiki/Subject-matter_jurisdiction" title="Subject-matter jurisdiction">subject-matter</a> of a case and that it is not available when he acts in "clear absence of all jurisdiction."  Although Indiana statute law permitted the sterilization of institutionalized persons under certain circumstances, it provided for the right to notice, the opportunity to defend and the right to appeal.  The Court of Appeals found no basis in statutory or common law for a court to order the sterilization of a minor child simply upon a parent's petition. It also held that Judge Stump's action could not be justified as a valid exercise of the power of courts to fashion new common law.  Concluding, Judge Swygert wrote:
+</p>
+<blockquote>Even if defendant Stump had not been foreclosed under the Indiana statutory scheme from fashioning a new common law remedy in this case, we would still find his action to be an illegitimate exercise of his common law power because of his failure to comply with elementary principles of procedural due process.  Here a juvenile was ordered sterilized without the taking of the slightest steps to ensure that her rights were protected.  Not only was the plaintiff not given representation, she was not even told what was happening to her.  She was afforded no opportunity to contest the validity of her mother's allegations or to have a higher court examine whether the substance of those allegations, even if true, warranted her sterilization.  Finally, the petition and order were never filed in court.  This kind of purported justice does not fall within the categories of cases at law or in equity.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></blockquote>
+<p>Judge Stump and his co-defendants appealed to the U.S. Supreme Court, which granted <a href="/wiki/Certiorari" title="Certiorari">certiorari</a> and reversed the Court of Appeals.
+</p>
+<h2><span class="mw-headline" id="The_holding">The holding</span></h2>
+<p>Associate Justice <a href="/wiki/Byron_White" title="Byron White">Byron White</a>, writing for the five-member majority, disagreed with the determination by the Court of Appeals that there was a "clear absence of all jurisdiction" for Judge Stump to consider Ora McFarlin's petition, noting that Indiana law gave circuit courts "original exclusive jurisdiction in all cases at law and in equity" and jurisdiction over "all other causes, matters and proceedings where exclusive jurisdiction thereof is not conferred by law upon some other court, board or officer." Justice White acknowledged an intervening decision of the <a href="/w/index.php?title=Indiana_Court_of_Appeals&amp;action=edit&amp;redlink=1" class="new" title="Indiana Court of Appeals (page does not exist)">Indiana Court of Appeals</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> in 1975 that held that a parent has no common-law right to have a minor child sterilized; but he reasoned that when presented with a petition like Ora McFarlin's, an Indiana circuit judge "should deny it on its merits rather than dismiss it for lack of jurisdiction."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Noting that Judge Swygert found no Indiana law that authorized Judge Stump's action, Justice White observed:
+</p>
+<blockquote>...[I]t is more significant that there was no Indiana statute and no case law in 1971 prohibiting a circuit court, a court of <a href="/w/index.php?title=General_jurisdiction&amp;action=edit&amp;redlink=1" class="new" title="General jurisdiction (page does not exist)">general jurisdiction</a>, from considering a petition of the type presented to Judge Stump.<sup id="cite_ref-supreme359_9-0" class="reference"><a href="#cite_note-supreme359-9">[9]</a></sup></blockquote>
+<p>Addressing Judge Swygert's assertion that even if Judge Stump had jurisdiction he was deprived of immunity because of his failure to observe elementary principles of procedural due process, Justice White countered:
+</p>
+<blockquote>A judge is absolutely immune from liability for his judicial acts even if his exercise of authority is flawed by the commission of grave procedural errors. The Court made this point clear in Bradley, <a href="/wiki/Case_citation" title="Case citation">13 Wall., at 357</a>, where it stated "[T]his erroneous matter in which [the court's] jurisdiction was exercised, however it may have affected the validity of the act, did not make it any less a judicial act; nor did it render the defendant liable to answer in damages for it at the suit of the plaintiff, as though the court had proceeded without having any jurisdiction whatever....<sup id="cite_ref-supreme359_9-1" class="reference"><a href="#cite_note-supreme359-9">[9]</a></sup></blockquote>
+<h3><span class="mw-headline" id="Test_of_a_.22judicial_act.22">Test of a "judicial act"</span></h3>
+<p>The majority opinion went on to decide that the factors determining whether an act by a judge is a judicial act "relate to the nature of the act itself":
+</p>
+<ol>
+<li>whether it is a function normally performed by a judge; and
+</li>
+<li>whether the parties dealt with the judge in his judicial capacity.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+</li>
+</ol>
+<p>In the view of the majority, Judge Stump's action passed this test. Even if his decision was erroneous, it was within his jurisdiction to consider Ora McFarlin's petition. Moreover, the parties dealt with Judge Stump in his capacity as a judge, not as a private individual. Accordingly, he could not be held liable for the consequences of his actions, even if they were arguably tragic.
+</p>
+<h2><span class="mw-headline" id="The_dissent">The dissent</span></h2>
+<h3><span class="mw-headline" id="Justice_Stewart.27s_dissent">Justice Stewart's dissent</span></h3>
+<p>Associate Justice <a href="/wiki/Potter_Stewart" title="Potter Stewart">Potter Stewart</a> entered a vigorous dissent.  Agreeing that judges of general jurisdiction enjoy absolute immunity for their judicial acts, he wrote, "...what Judge Stump did...was beyond the pale of anything that could sensibly be called a judicial act."<sup id="cite_ref-supreme366_11-0" class="reference"><a href="#cite_note-supreme366-11">[11]</a></sup>  Stating that it was "factually untrue"<sup id="cite_ref-supreme366_11-1" class="reference"><a href="#cite_note-supreme366-11">[11]</a></sup> that what Judge Stump did was an act "normally performed by a judge," he wrote. "...there is no reason to believe that such an act has ever been performed by any other Indiana judge, either before or since."<sup id="cite_ref-supreme368_12-0" class="reference"><a href="#cite_note-supreme368-12">[12]</a></sup>
+</p><p>Justice Stewart also denounced it as "legally unsound" to rule that Judge Stump had acted in a "judicial capacity".<sup id="cite_ref-supreme368_12-1" class="reference"><a href="#cite_note-supreme368-12">[12]</a></sup> "A judge is not free, like a loose cannon," he wrote, "to inflict indiscriminate damage whenever he announces that he is acting in his judicial capacity."<sup id="cite_ref-supreme368_12-2" class="reference"><a href="#cite_note-supreme368-12">[12]</a></sup>
+</p><p>Concluding, Justice Stewart argued that the majority misapplied the law of the Pierson case:
+</p>
+<blockquote>
+Not one of the considerations...summarized in the Pierson opinion was present here. There was no "case," controversial or otherwise. There were no litigants. There was and could be no appeal. And there was not even the pretext of principled decisionmaking. The total absence of any of these normal attributes of a judicial proceeding convinces me that the conduct complained of in this case was not a judicial act.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></blockquote>
+<h3><span class="mw-headline" id="Justice_Powell.27s_dissent">Justice Powell's dissent</span></h3>
+<p>Joining in Justice Stewart's opinion, Justice <a href="/w/index.php?title=Lewis_Franklin_Powell,_Jr.&amp;action=edit&amp;redlink=1" class="new" title="Lewis Franklin Powell, Jr. (page does not exist)">Lewis Powell</a> filed a separate dissent that emphasized what he called "...the central feature of this case - Judge Stump's preclusion of any possibility for the vindication of respondents' rights elsewhere in the judicial system."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Continuing, he wrote:
+</p>
+<blockquote>Underlying the Bradley immunity...is the notion that private rights can be sacrificied in some degree to the achievement of the greater public good deriving from a completely independent judiciary, because there exist alternative forums and methods for vindicating those rights.
+<p>But where a judicial officer acts in a manner that precludes all resort to appellate or other judicial remedies that otherwise would be available, the underlying assumption of the Bradley doctrine is inoperative.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+&lt;/blockquote&gt;
+
+<h2><span class="mw-headline" id="Linda_Sparkman_and_Indiana_eugenics_marker.2C_2007">Linda Sparkman and Indiana eugenics marker, 2007</span></h2>
+<p><a href="/w/index.php?title=Template:Externalimage&amp;action=edit&amp;redlink=1" class="new" title="Template:Externalimage (page does not exist)">Template:Externalimage</a>
+</p><p>2007 marked the centennial of the 1907 Indiana sterilization law, the first of its kind in the world. Although Linda Sparkman was not sterilized under any of the <a href="/wiki/Eugenics" title="Eugenics">eugenics</a> laws still on the books in Indiana in 1971, she was invited to unveil a state historic marker describing the original law on April 12, 2007, in Indianapolis.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Indiana repealed all laws concerning sterilization of the mentally ill in 1974.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><i><a href="/wiki/Buck_v._Bell" title="Buck v. Bell">Buck v. Bell</a></i>
+</li>
+<li><i><a href="/wiki/Skinner_v._Oklahoma" title="Skinner v. Oklahoma">Skinner v. Oklahoma</a></i>
+</li>
+<li><a href="/wiki/Compulsory_sterilization" title="Compulsory sterilization">Compulsory sterilization</a>
+</li>
+<li><a href="/w/index.php?title=List_of_United_States_Supreme_Court_cases,_volume_435&amp;action=edit&amp;redlink=1" class="new" title="List of United States Supreme Court cases, volume 435 (page does not exist)">List of United States Supreme Court cases, volume 435</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Law_review_articles">Law review articles</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2753&amp;context=dlj">J. Randolph Block, <i>Stump v. Sparkman and the History of Judicial Immunity,</i> Duke L.J. 879, No. 5 (1980)</a>
+</li>
+<li>Irene Merker Rosenberg, <i>Stump v. Sparkman: The Doctrine of Judicial Impunity,</i> 64 Virginia L.Rev. 833 (1978)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Books">Books</span></h2>
+<ul>
+<li>Jamie Renae Coleman and Paula Bateman Headley, <i>The Blanket She Carried</i>, Bloomington, Indiana: AuthorHouse, 2003 <a href="/wiki/Special:BookSources/1403381194" class="internal mw-magiclink-isbn">ISBN 1-4033-8119-4</a> contains Linda Sparkman's recollections of her childhood, although it does not directly address this case.
+</li>
+<li>Joel D. Joseph, <i>Black Mondays: Worst Decisions of the Supreme Court</i>, Bethesda, MD: National Press, 1987, pp.&#160;247–257. <a href="/wiki/Special:BookSources/0915765659" class="internal mw-magiclink-isbn">ISBN 0-915765-65-9</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a href="/w/index.php?title=Template:Caselaw_source&amp;action=edit&amp;redlink=1" class="new" title="Template:Caselaw source (page does not exist)">Template:Caselaw source</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://vlex.com/vid/36848536">Full text of <i>Sparkman v. McFarlin</i>, 552 Fd. 172 (7th Cir. 1977)</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.iupui.edu/~eugenics/">Indiana Eugenics: History and Legacy, 1907-2007</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://kobescent.com/eugenics">Eugenics in Indiana</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.hmdb.org/marker.asp?marker=1829">Indiana Eugenics Law historical marker dedication, April 12, 2007</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Full text of the petition and order is at 435 U.S. 349, 352-353, <a rel="nofollow" class="external text" href="http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&amp;vol=435&amp;invol=349#f1">Footnote 1.</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">42 U.S.C. § 1985(3) permits recovery of damages upon proof of a conspiracy "for the purpose of depriving, either directly or indirectly, any person or class of persons of the equal protection of the laws, or of equal privileges and immunities under the laws."</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Civ.No. F-75-129 (N.D. Ind.)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">13 Wall. 335, 80 U.S. 335, 20 L.Ed. 646</a>  For full text, see <a rel="nofollow" class="external text" href="http://supreme.justia.com/us/80/335/case.html">Justia.com</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">386 U.S. 547, 87 S.Ct. 1213, 18 L.Ed.2d 1288</a> For full text, see <a rel="nofollow" class="external text" href="http://supreme.justia.com/us/386/547/case.html">Justia.com</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">552 F.2d 172, 176</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><i>A.L. v. G.H.R.</i>, <a href="/wiki/Case_citation" title="Case citation">163 Ind. App. 636, 325 N.E.2d 501</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 360</a></span>
+</li>
+<li id="cite_note-supreme359-9"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-supreme359_9-0">9.0</a></sup> <sup><a href="#cite_ref-supreme359_9-1">9.1</a></sup></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 359</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 363</a></span>
+</li>
+<li id="cite_note-supreme366-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-supreme366_11-0">11.0</a></sup> <sup><a href="#cite_ref-supreme366_11-1">11.1</a></sup></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 366</a></span>
+</li>
+<li id="cite_note-supreme368-12"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-supreme368_12-0">12.0</a></sup> <sup><a href="#cite_ref-supreme368_12-1">12.1</a></sup> <sup><a href="#cite_ref-supreme368_12-2">12.2</a></sup></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 368</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 369370</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 370</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a href="/wiki/Case_citation" title="Case citation">435 U.S. 349, 371</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hmdb.org/marker.asp?marker=1829">Indiana Eugenics Law historical marker dedication, April 12, 2007</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Public Law No. 60, Indiana Acts, 1974, p. 262.</span>
+</li>
+</ol></p>
+</blockquote>
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.352 seconds
+Real time usage: 1.270 seconds
+Preprocessor visited node count: 468/1000000
+Preprocessor generated node count: 1870/1000000
+Post‐expand include size: 107/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:686327-0!*!0!!en!2!* and timestamp 20170407172440
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Stump_v._Sparkman&amp;oldid=686327">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Stump_v._Sparkman&amp;oldid=686327</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:United_States_Supreme_Court_cases&amp;action=edit&amp;redlink=1" class="new" title="Category:United States Supreme Court cases (page does not exist)">United States Supreme Court cases</a></li><li><a href="/w/index.php?title=Category:United_States_civil_rights_case_law&amp;action=edit&amp;redlink=1" class="new" title="Category:United States civil rights case law (page does not exist)">United States civil rights case law</a></li><li><a href="/w/index.php?title=Category:United_States_children%27s_rights_case_law&amp;action=edit&amp;redlink=1" class="new" title="Category:United States children's rights case law (page does not exist)">United States children's rights case law</a></li><li><a href="/w/index.php?title=Category:United_States_disability_case_law&amp;action=edit&amp;redlink=1" class="new" title="Category:United States disability case law (page does not exist)">United States disability case law</a></li><li><a href="/wiki/Category:DeKalb_County,_Indiana" title="Category:DeKalb County, Indiana">DeKalb County, Indiana</a></li><li><a href="/w/index.php?title=Category:Auburn,_Indiana&amp;action=edit&amp;redlink=1" class="new" title="Category:Auburn, Indiana (page does not exist)">Auburn, Indiana</a></li><li><a href="/w/index.php?title=Category:United_States_reproductive_rights_case_law&amp;action=edit&amp;redlink=1" class="new" title="Category:United States reproductive rights case law (page does not exist)">United States reproductive rights case law</a></li><li><a href="/w/index.php?title=Category:1978_in_United_States_case_law&amp;action=edit&amp;redlink=1" class="new" title="Category:1978 in United States case law (page does not exist)">1978 in United States case law</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Stump+v.+Sparkman" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Stump_v._Sparkman"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Stump_v._Sparkman&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Stump_v._Sparkman" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Stump_v._Sparkman&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Stump_v._Sparkman&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Stump_v._Sparkman" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Stump_v._Sparkman" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Stump_v._Sparkman&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Stump_v._Sparkman&amp;oldid=686327" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Stump_v._Sparkman&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2014, at 04:51.</li>
+											<li id="footer-info-viewcount">This page has been accessed 103 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 2.049 secs. -->
+	</body>
+</html>

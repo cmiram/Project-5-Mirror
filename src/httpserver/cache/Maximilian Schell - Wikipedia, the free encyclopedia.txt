@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Maximilian Schell - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maximilian_Schell","wgTitle":"Maximilian Schell","wgCurRevisionId":117627,"wgRevisionId":117627,"wgArticleId":117627,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","1930 births","2014 deaths","People from Vienna","People from the canton of Zürich","Austrian male film actors","Swiss male film actors","20th-century actors","21st-century actors","German-language film directors","Best Actor Academy Award winners","Best Drama Actor Golden Globe (film) winners","Best Supporting Actor Golden Globe (television) winners","Golden Orange Honorary Award winners","Officers Crosses of the Order of Merit of the Federal Republic of Germany","Recipients of the Austrian Cross of Honour for Science and Art, 1st class","Recipients of the Bambi (prize)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maximilian_Schell","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Maximilian_Schell skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Maximilian Schell</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Infobox_person&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox person (page does not exist)">Template:Infobox person</a>
+<b>Maximilian Schell</b> (8 December 1930 – 1 February 2014) was an Austrian-Swiss film and stage actor, who also wrote, directed and produced some of his own films. He won the <a href="/w/index.php?title=Academy_Award_for_Best_Actor&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Best Actor (page does not exist)">Academy Award for Best Actor</a> for the 1961 American film <i><a href="/wiki/Judgment_at_Nuremberg" title="Judgment at Nuremberg">Judgment at Nuremberg</a></i>, his second acting role in Hollywood.  His parents were involved in the arts and he grew up surrounded by acting and literature. While he was a child, his family was forced to flee Vienna in 1938 when Austria was annexed by Nazi Germany, and they settled in Zurich, Switzerland. After World War II ended, Schell took up acting or directing full time. He appeared in numerous German films, often anti-war, before moving on to Hollywood.
+</p><p>Schell was top billed in a number of Nazi-era themed films, as he could speak both English and German. Among those were two films for which he was Oscar nominated as best actor: <i><a href="/wiki/The_Man_in_the_Glass_Booth" title="The Man in the Glass Booth">The Man in the Glass Booth</a></i> (1975), where he played a character with two identities, and <i><a href="/wiki/Julia_(1977_film)" title="Julia (1977 film)">Julia</a></i> (1977), where he helps the underground in Nazi Germany.
+</p><p>His range of acting went beyond German characters, however, and during his career, he also played personalities as diverse as Venezuelan leader Simón Bolívar, Russian emperor Peter the Great, and scientist Albert Einstein. For his role as Lenin in the TV series, <i>Stalin</i> (1992), he won the <a href="/wiki/Golden_Globe_Award" title="Golden Globe Award">Golden Globe Award</a>. On stage, Schell acted in a number of plays, and his was considered "one of the greatest Hamlets ever."
+</p><p>In Schell's private life, he was an accomplished pianist and conductor, performing with <a href="/wiki/Claudio_Abbado" title="Claudio Abbado">Claudio Abbado</a> and <a href="/wiki/Leonard_Bernstein" title="Leonard Bernstein">Leonard Bernstein</a>, and with orchestras in Berlin and Vienna. His sister, <a href="/wiki/Maria_Schell" title="Maria Schell">Maria Schell</a>, was also a noted Hollywood actress, about whom he produced the documentary, <i>My Sister Maria,</i> in 2002.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Judgment_at_Nuremberg_.281961.29"><span class="tocnumber">2.1</span> <span class="toctext"><i>Judgment at Nuremberg</i> (1961)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Independent_filmmaker"><span class="tocnumber">2.2</span> <span class="toctext">Independent filmmaker</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#World_War_II_themes"><span class="tocnumber">2.3</span> <span class="toctext">World War II themes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Character_actor"><span class="tocnumber">2.4</span> <span class="toctext">Character actor</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Documentaries"><span class="tocnumber">2.5</span> <span class="toctext">Documentaries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Death"><span class="tocnumber">4</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Filmography"><span class="tocnumber">5</span> <span class="toctext">Filmography</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Other_awards_and_nominations"><span class="tocnumber">6</span> <span class="toctext">Other awards and nominations</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span></h2>
+<p>Schell was born in <a href="/wiki/Vienna" title="Vienna">Vienna</a>, <a href="/w/index.php?title=First_Austrian_Republic&amp;action=edit&amp;redlink=1" class="new" title="First Austrian Republic (page does not exist)">Austria</a>, the son of Margarethe (née Noe von Nordberg), an actress who ran an acting school, and <a href="/w/index.php?title=De:Hermann_Ferdinand_Schell&amp;action=edit&amp;redlink=1" class="new" title="De:Hermann Ferdinand Schell (page does not exist)">Hermann Ferdinand Schell</a>, a Swiss poet, novelist, playwright and pharmacy owner.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Ross_2-0" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup> His parents were <a href="/wiki/Roman_Catholic" title="Roman Catholic" class="mw-redirect">Roman Catholic</a>.<sup id="cite_ref-Ross_2-1" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</p><p>Schell's father was never enthusiastic about young Maximilian becoming an actor like his mother, feeling that it could not lead to "real happiness." However, Schell was surrounded by acting in his early youth:
+</p>
+<blockquote class="templatequote">I grew up in a theatre atmosphere and took it for granted. I remember the theatre, as a child, the way most people remember their mother's cooking. Acting was all around me, and so was poetry. I made my debut in the theatre at the age of three, in Vienna . . .<sup id="cite_ref-Ross_2-2" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</blockquote>
+<p>The Schell family was forced to flee Vienna in 1938 to get "away from <a href="/w/index.php?title=Hitler&amp;action=edit&amp;redlink=1" class="new" title="Hitler (page does not exist)">Hitler</a>" after the <a href="/w/index.php?title=Anschluss&amp;action=edit&amp;redlink=1" class="new" title="Anschluss (page does not exist)">Anschluss</a>, when Austria was annexed by Nazi Germany. They resettled in <a href="/w/index.php?title=Zurich&amp;action=edit&amp;redlink=1" class="new" title="Zurich (page does not exist)">Zurich</a>, Switzerland.<sup id="cite_ref-Edlinger_3-0" class="reference"><a href="#cite_note-Edlinger-3">[3]</a></sup>
+</p><p>In Zurich, Schell "grew up reading the <a href="/wiki/Classics" title="Classics">classics</a>," and when he was ten, wrote his first play.<sup id="cite_ref-Ross_2-3" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup> Schell recalls that as a child, growing up surrounded by the theatre, he took acting for granted and didn't want to become an actor at first: "What I wanted was to become a painter, a musician, or a playwright," like his father.<sup id="cite_ref-Ross_2-4" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</p><p>Schell later attended the <a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a> for a year, where he also played soccer and was on the rowing team, along with writing for newspapers as a part-time journalist for income. Following the end of <a href="/wiki/World_War_II" title="World War II">World War II</a>, he moved to Germany where he enrolled in the <a href="/wiki/University_of_Munich" title="University of Munich" class="mw-redirect">University of Munich</a> and studied philosophy and art history. During breaks, he would sometimes return home to Zurich or stay at his family's farm in the country so he could write in seclusion:
+</p>
+<blockquote class="templatequote">My father and my uncle hunt deer there, but I do not like to hunt. I like to walk through the forest by myself. In 1948 and 1949, when I wrote part of my first novel, which I have never shown to anyone, I isolated myself in one of the hunting cabins for three months, without a telephone, without electricity, with heat only from a large open fireplace.<sup id="cite_ref-Ross_2-5" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</blockquote>
+<p>Schell then returned to Zurich, where he served in the <a href="/wiki/Swiss_Army" title="Swiss Army" class="mw-redirect">Swiss Army</a> for a year, after which he re-entered the University of Zurich for another year, and later, the <a href="/wiki/University_of_Basel" title="University of Basel">University of Basel</a> for six months. During that period, he acted professionally in small parts, in both classical and modern plays, and decided that he would from then on devote his life to acting rather than pursue academic studies:
+</p>
+<blockquote class="templatequote">I then decided, either you are a scientist or an artist. . . . To me it is much more important . . . to admire and feel and be stimulated and inspired. . . Art comes out of chaos, not out of a mechanical analyzing. So as soon as I made up my mind, there was no sense any more in continuing to study and in getting a degree. It is like an award; it does not mean anything in itself. . . . A university degree is just a title. I don't think an artist should have a title. It was time for me to concentrate on acting.<sup id="cite_ref-Ross_2-6" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</blockquote>
+<p>Schell began acting at the Basel Theatre.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Schell's late elder sister, <a href="/wiki/Maria_Schell" title="Maria Schell">Maria Schell</a>, was also an actress, as are their two other siblings, Carl and Immy (Immaculata) Schell.
+</p>
+<h2><span class="mw-headline" id="Career">Career</span></h2>
+<p>Schell's film debut was in the German anti-war film <i><a href="/w/index.php?title=Kinder,_M%C3%BCtter_und_ein_General&amp;action=edit&amp;redlink=1" class="new" title="Kinder, Mütter und ein General (page does not exist)">Kinder, Mütter und ein General</a></i> (<i>Children, Mothers, and a General</i>, 1955). It was the story of five mothers who confronted a German general at the front line, after learning that their sons, some as young as 15, had been "slated to be cannon fodder on behalf of the Third Reich." The film co-starred <a href="/wiki/Klaus_Kinski" title="Klaus Kinski">Klaus Kinski</a> as an officer, with Schell playing the part of an officer-<a href="/wiki/Deserter" title="Deserter" class="mw-redirect">deserter</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The story, which according to one critic, "depicts the insanity of continuing to fight a war that is lost," would become a "trademark" for many of Schell's future roles: "Schell's sensitivity in his portrayal of a young deserter disillusioned with fighting became a trademark of his acting."<sup id="cite_ref-Reimer_6-0" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup>
+</p><p>Schell subsequently acted in seven more films made in Europe before going to the U.S.<sup id="cite_ref-Monush_7-0" class="reference"><a href="#cite_note-Monush-7">[7]</a></sup> Among those was <i><a href="/w/index.php?title=The_Plot_to_Assassinate_Hitler&amp;action=edit&amp;redlink=1" class="new" title="The Plot to Assassinate Hitler (page does not exist)">The Plot to Assassinate Hitler</a></i> (also 1955).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Later in the same year he had a supporting role in <i><a href="/wiki/Jackboot_Mutiny" title="Jackboot Mutiny">Jackboot Mutiny</a></i>, in which he plays "a sensitive philosopher," who uses <a href="/wiki/Ethics" title="Ethics">ethics</a> to privately debate the arguments for assassinating Hitler.<sup id="cite_ref-Reimer_6-1" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup>
+</p><p>In 1958 Schell was invited to the United States to act in the Broadway play, "Interlock" by <a href="/wiki/Ira_Levin" title="Ira Levin">Ira Levin</a>, in which Schell played the role of an aspiring concert pianist.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> He made his <a href="/wiki/Hollywood" title="Hollywood">Hollywood</a> debut in the <a href="/wiki/World_War_II" title="World War II">World War II</a> film, <a href="/w/index.php?title=The_Young_Lions_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Young Lions (film) (page does not exist)"><i>The Young Lions</i></a> (1958), as the commanding German officer in another anti-war story, with <a href="/wiki/Marlon_Brando" title="Marlon Brando">Marlon Brando</a> and <a href="/wiki/Montgomery_Clift" title="Montgomery Clift">Montgomery Clift</a>. German film historian Robert C. Reimer writes that the film, directed by <a href="/wiki/Edward_Dmytryk" title="Edward Dmytryk">Edward Dmytryk</a>, again drew on Schell's powerful German characterisation to "portray young officers disillusioned with a war that no longer made sense."<sup id="cite_ref-Reimer_6-2" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup>
+</p><p>In 1960, Schell returned to Germany and played the title role in <a href="/wiki/William_Shakespeare" title="William Shakespeare">William Shakespeare</a>'s <i><a href="/wiki/Hamlet" title="Hamlet">Hamlet</a></i> for German TV, a role that he would play on two more occasions in live theatre productions during his career. Along with <a href="/wiki/Laurence_Olivier" title="Laurence Olivier">Laurence Olivier</a>, Schell is considered "one of the greatest Hamlets ever," according to some.<sup id="cite_ref-Boheme_10-0" class="reference"><a href="#cite_note-Boheme-10">[10]</a></sup> Schell recalled that when he played Hamlet for the first time, "it was like falling in love with a woman.&#160;... not until I acted the part of Hamlet did I have a moment when I knew I was in love with acting."<sup id="cite_ref-Ross_2-7" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup> Schell's performance of Hamlet was featured as one of the last episodes of the American comedy series <i><a href="/wiki/Mystery_Science_Theater_3000" title="Mystery Science Theater 3000">Mystery Science Theater 3000</a></i> in 1999.
+</p>
+<h3><span class="mw-headline" id="Judgment_at_Nuremberg_.281961.29"><i>Judgment at Nuremberg</i> (1961)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Maximilian_Schell_-_1961-jn.jpg" title="File:Maximilian Schell - 1961-jn.jpg">File:Maximilian Schell - 1961-jn.jpg</a>  <div class="thumbcaption">In <i>Judgment at Nuremberg</i> (1961)</div></div></div>
+<p>In 1959, Schell acted in the role of a defense attorney in an edition of <i><a href="/wiki/Playhouse_90" title="Playhouse 90">Playhouse 90</a></i> a live TV production of <i><a href="/wiki/Judgment_at_Nuremberg" title="Judgment at Nuremberg">Judgment at Nuremberg</a></i>, a fictionalized re-creation of the <a href="/wiki/Nuremberg_War_Trials" title="Nuremberg War Trials" class="mw-redirect">Nuremberg War Trials</a>. His performance in the TV drama was considered so good that he and <a href="/wiki/Werner_Klemperer" title="Werner Klemperer">Werner Klemperer</a> were the only members of the original cast selected to play the same parts in the 1961 film version. He won the <a href="/w/index.php?title=Academy_Award_for_Best_Actor&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Best Actor (page does not exist)">Academy Award for Best Actor</a>, which was the first win for a German-speaking actor since World War II.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+</p><p>After also winning the <a href="/w/index.php?title=New_York_Film_Critics&amp;action=edit&amp;redlink=1" class="new" title="New York Film Critics (page does not exist)">New York Film Critics</a> award for his role, Schell recalled the pride he felt upon receiving a letter from his older sister, <a href="/wiki/Maria_Schell" title="Maria Schell">Maria Schell</a>, who was already an award-winning actress:
+</p>
+<blockquote class="templatequote">I received the most wonderful letter from Maria. She wrote, 'Now, when you have my letter in your hand, a beautiful day is coming for you. I will be with you, proud, because I knew such recognition would come one day, leading to something even greater and better. . . . not only because you are close to me but because I count you among the truly great actors, and it is wonderful that besides that you are my brother.' Maria and I are very close.<sup id="cite_ref-Ross_2-8" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</blockquote>
+<p>According to Reimer, Schell gave a "bravura performance," where he tried to defend his clients, Nazi judges, "by arguing that all Germans share a collective guilt" for what happened.<sup id="cite_ref-Reimer_6-3" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup> Biographer James Curtis notes that Schell prepared for his part in the movie by "reading the entire forty-volume record of the Nuremberg trials."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Author Barry Monush describes the impact of Schell's acting:
+</p>
+<blockquote class="templatequote">Again, on the big screen, he was nothing short of electrifying as the counselor whose determination to place the blame for the <a href="/w/index.php?title=Holocaust&amp;action=edit&amp;redlink=1" class="new" title="Holocaust (page does not exist)">Holocaust</a> on anyone else but his clients, and brings morality into question.<sup id="cite_ref-Monush_7-1" class="reference"><a href="#cite_note-Monush-7">[7]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</blockquote>
+<p>Producer-director <a href="/wiki/Stanley_Kramer" title="Stanley Kramer">Stanley Kramer</a> assembled a star-studded <a href="/wiki/Ensemble_cast" title="Ensemble cast">ensemble cast</a> which included <a href="/wiki/Spencer_Tracy" title="Spencer Tracy">Spencer Tracy</a> and <a href="/wiki/Burt_Lancaster" title="Burt Lancaster">Burt Lancaster</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> They "worked for nominal wages out of a desire to see the film made and for the opportunity to appear in it," notes film historian George McManus.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Actor <a href="/w/index.php?title=William_Shatner&amp;action=edit&amp;redlink=1" class="new" title="William Shatner (page does not exist)">William Shatner</a> remembers that prior to the actual filming, "we understood the importance of the film we were making."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> It was nominated for eleven Academy Awards, winning two.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In 2011, Schell appeared at a 50th anniversary tribute to the film and his Oscar win, held in Los Angeles at the <a href="/wiki/Academy_of_Motion_Picture_Arts_and_Sciences" title="Academy of Motion Picture Arts and Sciences">Academy of Motion Picture Arts and Sciences</a>, where he spoke about his career and the film.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Independent_filmmaker">Independent filmmaker</span></h3>
+<p>Beginning in 1968 Schell began writing, producing, directing and acting in a number of his own films: Among those were <a href="/w/index.php?title=The_Castle_(1968_film)&amp;action=edit&amp;redlink=1" class="new" title="The Castle (1968 film) (page does not exist)"><i>The Castle</i></a> (1968), a German film based on the novel by <a href="/wiki/Franz_Kafka" title="Franz Kafka">Franz Kafka</a>, about a man trapped in a <a href="/wiki/Bureaucratic" title="Bureaucratic" class="mw-redirect">bureaucratic</a> nightmare. Soon after he made <a href="/w/index.php?title=First_Love_(1970_film)&amp;action=edit&amp;redlink=1" class="new" title="First Love (1970 film) (page does not exist)"><i>Erste Liebe (First Love)</i></a> (1970), based on a novel by <a href="/wiki/Ivan_Turgenev" title="Ivan Turgenev">Ivan Turgenev</a>. The film was nominated for the <a href="/wiki/Academy_Award_for_Best_Foreign_Language_Film" title="Academy Award for Best Foreign Language Film">Academy Award for Best Foreign Language Film</a>.
+</p><p>Schell's next film, <i><a href="/w/index.php?title=The_Pedestrian_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Pedestrian (film) (page does not exist)">The Pedestrian</a></i> (1974), is about a German tycoon "haunted by his Nazi past".  In this film, notes one critic, "Schell probes the conscience and guilt in terms of the individual and of society, reaching to the universal heart of responsibility and moral inertia."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> It was nominated for the <a href="/wiki/Academy_Award_for_Best_Foreign_Language_Film" title="Academy Award for Best Foreign Language Film">Best Foreign Language Film</a> Oscar<sup id="cite_ref-Oscars1974_20-0" class="reference"><a href="#cite_note-Oscars1974-20">[20]</a></sup> and was a "great and commercial success in Germany," notes <a href="/wiki/Roger_Ebert" title="Roger Ebert">Roger Ebert</a>.<sup id="cite_ref-Ebert_21-0" class="reference"><a href="#cite_note-Ebert-21">[21]</a></sup>
+</p><p>Schell then produced, directed and acted as a supporting character in <i><a href="/w/index.php?title=End_of_the_Game&amp;action=edit&amp;redlink=1" class="new" title="End of the Game (page does not exist)">End of the Game</a></i> (1975), a German crime thriller starring <a href="/wiki/Jon_Voight" title="Jon Voight">Jon Voight</a> and <a href="/wiki/Jacqueline_Bisset" title="Jacqueline Bisset">Jacqueline Bisset</a>. A few years later he co-wrote and directed the Austrian film, <a href="/w/index.php?title=Tales_from_the_Vienna_Woods_(1979_film)&amp;action=edit&amp;redlink=1" class="new" title="Tales from the Vienna Woods (1979 film) (page does not exist)"><i>Tales from the Vienna Woods</i></a> (1979).
+</p>
+<h3><span class="mw-headline" id="World_War_II_themes">World War II themes</span></h3>
+<p>During his career, as one of the few German-speaking actors working in English-language films, Schell was top billed in a number of <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi</a>-era themed films, including <i><a href="/w/index.php?title=Counterpoint_(1968_film)&amp;action=edit&amp;redlink=1" class="new" title="Counterpoint (1968 film) (page does not exist)">Counterpoint</a></i> (1968), <i><a href="/w/index.php?title=The_Odessa_File_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Odessa File (film) (page does not exist)">The Odessa File</a></i> (1974)<i>, <a href="/wiki/The_Man_in_the_Glass_Booth" title="The Man in the Glass Booth">The Man in the Glass Booth</a></i> (1975), <i><a href="/w/index.php?title=A_Bridge_Too_Far_(1977_film)&amp;action=edit&amp;redlink=1" class="new" title="A Bridge Too Far (1977 film) (page does not exist)">A Bridge Too Far</a></i> (1977), <i><a href="/wiki/Cross_of_Iron" title="Cross of Iron">Cross of Iron</a></i> (1977)  and <i><a href="/wiki/Julia_(1977_film)" title="Julia (1977 film)">Julia</a></i> (1977). For the latter film, directed by <a href="/wiki/Fred_Zinnemann" title="Fred Zinnemann">Fred Zinnemann</a>, Schell was again nominated for an Oscar for his supporting role as an anti-Nazi activist.<sup id="cite_ref-Bock_22-0" class="reference"><a href="#cite_note-Bock-22">[22]</a></sup>
+</p><p>In a number of films Schell played the role of a Jewish character: as Otto Frank, Anne Frank's father, in <i><a href="/w/index.php?title=The_Diary_of_Anne_Frank_(1980_film)&amp;action=edit&amp;redlink=1" class="new" title="The Diary of Anne Frank (1980 film) (page does not exist)">The Diary of Anne Frank</a></i> (1980); as the modern Zionist father in <i><a href="/w/index.php?title=The_Chosen_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Chosen (film) (page does not exist)">The Chosen</a></i> (1981); in 1996, he played an <a href="/wiki/Auschwitz" title="Auschwitz" class="mw-redirect">Auschwitz</a> survivor in <i><a href="/w/index.php?title=Through_Roses&amp;action=edit&amp;redlink=1" class="new" title="Through Roses (page does not exist)">Through Roses</a></i>, a German film, written and directed by <a href="/wiki/J%C3%BCrgen_Flimm" title="Jürgen Flimm">Jürgen Flimm</a>;<sup id="cite_ref-Bock_22-1" class="reference"><a href="#cite_note-Bock-22">[22]</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> and in <a href="/w/index.php?title=Left_Luggage_(film)&amp;action=edit&amp;redlink=1" class="new" title="Left Luggage (film) (page does not exist)"><i>Left Luggage</i></a> (1998) he played the father of a Jewish family.
+</p><p>In <i><a href="/wiki/The_Man_in_the_Glass_Booth" title="The Man in the Glass Booth">The Man in the Glass Booth</a></i> (1975), adapted from the stage play by <a href="/wiki/Robert_Shaw_(British_actor)" title="Robert Shaw (British actor)">Robert Shaw</a>, Schell played both a Nazi officer and a Jewish Holocaust survivor, in a character with a double identity. <a href="/wiki/Roger_Ebert" title="Roger Ebert">Roger Ebert</a>  describes the main character, Albert Goldman, as "mad, and immensely complicated, and he is hidden in a maze of identities so thick that no one knows for sure who he really is."<sup id="cite_ref-Ebert_21-1" class="reference"><a href="#cite_note-Ebert-21">[21]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> Schell, who at that period in his career saw himself primarily as a director, felt compelled to accept the part when it was offered to him:
+</p>
+<blockquote class="templatequote">It's just that once in a long while a role comes along that I simply can't turn down. This was a role like that — how could I say no to it?<sup id="cite_ref-Ebert_21-2" class="reference"><a href="#cite_note-Ebert-21">[21]</a></sup>
+</blockquote>
+<p>Schell's acting in the film has been compared favorably to his other leading roles, with film historian Annette Insdorf writing, "Maximilian Schell is even more compelling as the quick-tempered, quicksilver Goldman than in his previous Holocaust-related roles, including <i>Judgment at Nuremberg</i> and <i>The Condemned of Altona</i>". She gives a number of examples of Schell's acting intensity, including the courtroom scenes, where Schell's character, after supposedly being exposed as a German officer, "attacks Jewish meekness" in his defense, and "boasts that the Jews were sheep who didn't believe what was happening." The film eventually suggests that Schell's character is in fact a Jew, but one whose sanity has been compromised by "<a href="/wiki/Survivor_guilt" title="Survivor guilt">survivor guilt</a>."<sup id="cite_ref-Insdorf_25-0" class="reference"><a href="#cite_note-Insdorf-25">[25]</a></sup> Schell was nominated for the <a href="/w/index.php?title=Academy_Award_for_Best_Actor&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Best Actor (page does not exist)">Academy Award for Best Actor</a> and the <a href="/wiki/Golden_Globe_Award_for_Best_Actor_%E2%80%93_Motion_Picture_Drama" title="Golden Globe Award for Best Actor – Motion Picture Drama">Golden Globe Award for Best Actor</a> for his performance.
+</p>
+<h3><span class="mw-headline" id="Character_actor">Character actor</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Maximilian_Schell_edit.jpg" title="File:Maximilian Schell edit.jpg">File:Maximilian Schell edit.jpg</a>  <div class="thumbcaption">Schell in 2006</div></div></div>
+<p>To avoid being <a href="/wiki/Typecasting_(acting)" title="Typecasting (acting)">typecast</a>, Schell also played more diverse characters in numerous films throughout his career: he played a museum treasure thief in <i><a href="/wiki/Topkapi_(film)" title="Topkapi (film)">Topkapi</a></i> (1964); a Venezuelan leader  in <a href="/w/index.php?title=Sim%C3%B3n_Bol%C3%ADvar_(1969_film)&amp;action=edit&amp;redlink=1" class="new" title="Simón Bolívar (1969 film) (page does not exist)"><i>Simón Bolívar</i></a> (1969); a 19th-century ship captain in  <i><a href="/wiki/Krakatoa,_East_of_Java" title="Krakatoa, East of Java">Krakatoa, East of Java</a></i> (1969); a mad scientist in the science fiction film,  <i><a href="/wiki/The_Black_Hole" title="The Black Hole">The Black Hole</a></i> (1979); the Russian emperor in the television miniseries, <i><a href="/w/index.php?title=Peter_the_Great_(TV_Series)&amp;action=edit&amp;redlink=1" class="new" title="Peter the Great (TV Series) (page does not exist)">Peter the Great</a></i> (1986), opposite <a href="/wiki/Laurence_Olivier" title="Laurence Olivier">Laurence Olivier</a>, <a href="/wiki/Vanessa_Redgrave" title="Vanessa Redgrave">Vanessa Redgrave</a> and <a href="/wiki/Trevor_Howard" title="Trevor Howard">Trevor Howard</a>, which won an <a href="/wiki/Emmy_Award" title="Emmy Award">Emmy Award</a>; a comedy role with <a href="/wiki/Marlon_Brando" title="Marlon Brando">Marlon Brando</a> in <i><a href="/w/index.php?title=The_Freshman_(1990_film)&amp;action=edit&amp;redlink=1" class="new" title="The Freshman (1990 film) (page does not exist)">The Freshman</a></i> (1990); a Cardinal in  <i><a href="/wiki/John_Carpenter%27s_Vampires" title="John Carpenter's Vampires" class="mw-redirect">John Carpenter's Vampires</a></i> (1998); as <a href="/wiki/Frederick_the_Great" title="Frederick the Great">Frederick the Great</a> in a TV film, <i>Young Catherine</i> (1991); as <a href="/w/index.php?title=Vladimir_Lenin&amp;action=edit&amp;redlink=1" class="new" title="Vladimir Lenin (page does not exist)">Vladimir Lenin</a> in the TV series, <i><a href="/w/index.php?title=Stalin_(TV_film)&amp;action=edit&amp;redlink=1" class="new" title="Stalin (TV film) (page does not exist)">Stalin</a></i> (1992), for which he won the <a href="/wiki/Golden_Globe_Award" title="Golden Globe Award">Golden Globe Award</a>;<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> a Russian KBG colonel in <i><a href="/w/index.php?title=Candles_in_the_Dark&amp;action=edit&amp;redlink=1" class="new" title="Candles in the Dark (page does not exist)">Candles in the Dark</a></i> (1993); the Pharaoh in <a href="/w/index.php?title=Abraham_(film)&amp;action=edit&amp;redlink=1" class="new" title="Abraham (film) (page does not exist)"><i>Abraham</i></a> (1994); and a father in the science fiction thriller, <a href="/wiki/Deep_Impact_(film)" title="Deep Impact (film)"><i>Deep Impact</i></a> (1998).
+</p><p>From the 1990s until late in his career, Schell appeared in many <a href="/wiki/German_language" title="German language">German-language</a> made-for-TV films, such as the 2003 film <i><a href="/w/index.php?title=Alles_Gl%C3%BCck_dieser_Erde&amp;action=edit&amp;redlink=1" class="new" title="Alles Glück dieser Erde (page does not exist)">Alles Glück dieser Erde</a></i> (<i>All the Luck in the World</i>) opposite <a href="/wiki/Uschi_Glas" title="Uschi Glas">Uschi Glas</a> and in the television miniseries <i><a href="/w/index.php?title=The_Return_of_the_Dancing_Master&amp;action=edit&amp;redlink=1" class="new" title="The Return of the Dancing Master (page does not exist)">The Return of the Dancing Master</a></i> (2004), which was based on <a href="/wiki/Henning_Mankell" title="Henning Mankell">Henning Mankell</a>'s novel. In 2006 he appeared in the stage play of <a href="/wiki/Arthur_Miller" title="Arthur Miller">Arthur Miller</a>'s <i><a href="/wiki/Resurrection_Blues" title="Resurrection Blues">Resurrection Blues</a></i>, directed by <a href="/wiki/Robert_Altman" title="Robert Altman">Robert Altman</a>, which played in London at the <a href="/w/index.php?title=Old_Vic&amp;action=edit&amp;redlink=1" class="new" title="Old Vic (page does not exist)">Old Vic</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> In 2007, he played the role of <a href="/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> on the German television series <i>Giganten</i> (Giants), which enacted the lives of people important in German history.<sup id="cite_ref-Reimer_6-4" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Maximilian_and_Maria_Schell_-_1959.jpg" title="File:Maximilian and Maria Schell - 1959.jpg">File:Maximilian and Maria Schell - 1959.jpg</a>  <div class="thumbcaption">With his sister, actress <a href="/wiki/Maria_Schell" title="Maria Schell">Maria Schell</a>, in 1959</div></div></div>
+<h3><span class="mw-headline" id="Documentaries">Documentaries</span></h3>
+<p>Schell also served as a writer, producer and director for a variety of films, including the problematic <a href="/wiki/Documentary_film" title="Documentary film">documentary film</a>, <i><a href="/w/index.php?title=Marlene_(1984_film)&amp;action=edit&amp;redlink=1" class="new" title="Marlene (1984 film) (page does not exist)">Marlene</a></i> (1984), with the unwilling participation of <a href="/wiki/Marlene_Dietrich" title="Marlene Dietrich">Marlene Dietrich</a>. It was nominated for an Oscar, received the <a href="/w/index.php?title=New_York_Film_Critics_Award&amp;action=edit&amp;redlink=1" class="new" title="New York Film Critics Award (page does not exist)">New York Film Critics Award</a> and the <a href="/w/index.php?title=German_Film_Award&amp;action=edit&amp;redlink=1" class="new" title="German Film Award (page does not exist)">German Film Award</a>. Originally, Dietrich, then 83 years of age, had agreed to allow Schell to interview and film her in the privacy of her apartment. However, after he began filming, she changed her mind and refused to allow any actual video footage of her be shown. During a videotaped interview, Schell described the difficulties he had while making the film.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+</p><p>Schell creatively showed only <a href="/wiki/Silhouette" title="Silhouette">silhouettes</a> of her along with old film clips during their interview soundtrack.<sup id="cite_ref-Reimer_6-5" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup> According to one review, "the true originality of the movie is the way it pursues the clash of temperament between interviewer and star. . . . he draws her out, taunting her into a fascinating display of egotism, lying and contentiousness."<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+</p><p>In 2002, Schell produced his most intimate film, <i><a href="/w/index.php?title=My_Sister_Maria&amp;action=edit&amp;redlink=1" class="new" title="My Sister Maria (page does not exist)">My Sister Maria</a></i>, a documentary about his sister, noted actress <a href="/wiki/Maria_Schell" title="Maria Schell">Maria Schell</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> In the film, he chronicles her life, career and eventual diminished capacity due to illness.<sup id="cite_ref-IMDB_33-0" class="reference"><a href="#cite_note-IMDB-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> The film, made three years before her death, shows her mental and physical frailty, leading to her withdrawing from the world.<sup id="cite_ref-Reimer_6-6" class="reference"><a href="#cite_note-Reimer-6">[6]</a></sup> In 2002, upon the completion of the film, they both received <a href="/w/index.php?title=Bambi_(prize)&amp;action=edit&amp;redlink=1" class="new" title="Bambi (prize) (page does not exist)">Bambi Awards</a>, and were honored for their lifetime achievements and in recognition of the film.<sup id="cite_ref-Boheme_10-1" class="reference"><a href="#cite_note-Boheme-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Schell_and_Bernstein-83-1.jpg" title="File:Schell and Bernstein-83-1.jpg">File:Schell and Bernstein-83-1.jpg</a>  <div class="thumbcaption">Leonard Bernstein and Schell during a TV series in 1983</div></div></div>
+<p>Schell was a semi-professional pianist for much of his life. He had a piano when he lived in <a href="/wiki/Munich" title="Munich">Munich</a> and said that he would play for hours at a time for his own pleasure and to help him relax: "I find I need to rest. An actor must have pauses in between work, to renew himself, to read, to walk, to chop wood."<sup id="cite_ref-Ross_2-9" class="reference"><a href="#cite_note-Ross-2">[2]</a></sup>
+</p><p>Conductor <a href="/wiki/Leonard_Bernstein" title="Leonard Bernstein">Leonard Bernstein</a> claimed that Schell was a "remarkably good pianist." In 1982, on a program filmed for the U.S. television network <a href="/w/index.php?title=PBS&amp;action=edit&amp;redlink=1" class="new" title="PBS (page does not exist)">PBS</a>, before Bernstein conducted the Vienna Philharmonic playing Beethoven symphonies, Schell read from Beethoven's letters to the audience. In 1983, he and Bernstein co-hosted an 11-part TV series, <i>Bernstein/Beethoven</i>, featuring nine live symphonies, along with discussions between Bernstein and Schell about Beethoven's works.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+</p><p>On other occasions, Schell worked with Italian conductor <a href="/wiki/Claudio_Abbado" title="Claudio Abbado">Claudio Abbado</a> and the <a href="/wiki/Berlin_Philharmonic" title="Berlin Philharmonic">Berlin Philharmonic</a>, which included a performance in Chicago of <a href="/wiki/Igor_Stravinsky" title="Igor Stravinsky">Igor Stravinsky</a>'s <a href="/w/index.php?title=Oedipus_rex_(opera)&amp;action=edit&amp;redlink=1" class="new" title="Oedipus rex (opera) (page does not exist)"><i>Oedipus Rex</i></a>, and another in <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, of <a href="/wiki/Arnold_Schoenberg" title="Arnold Schoenberg">Arnold Schoenberg</a>'s <i><a href="/w/index.php?title=A_Survivor_from_Warsaw&amp;action=edit&amp;redlink=1" class="new" title="A Survivor from Warsaw (page does not exist)">A Survivor from Warsaw</a></i>.<sup id="cite_ref-Edlinger_3-1" class="reference"><a href="#cite_note-Edlinger-3">[3]</a></sup> Schell also produced and directed a number of live operas, including <a href="/wiki/Richard_Wagner" title="Richard Wagner">Richard Wagner</a>'s <a href="/wiki/Lohengrin_(opera)" title="Lohengrin (opera)"><i>Lohengrin</i></a> for the <a href="/wiki/Los_Angeles_Opera" title="Los Angeles Opera">Los Angeles Opera</a>. He  worked on the film project <i>Beethoven's Fidelio,</i> with <a href="/wiki/Pl%C3%A1cido_Domingo" title="Plácido Domingo">Plácido Domingo</a> and <a href="/w/index.php?title=Kent_Nagano&amp;action=edit&amp;redlink=1" class="new" title="Kent Nagano (page does not exist)">Kent Nagano</a>.<sup id="cite_ref-Boheme_10-2" class="reference"><a href="#cite_note-Boheme-10">[10]</a></sup>
+</p><p>Schell was a guest professor at the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> and was awarded an Honorary Doctorate from <a href="/w/index.php?title=Spertus_Institute_for_Jewish_Learning_and_Leadership&amp;action=edit&amp;redlink=1" class="new" title="Spertus Institute for Jewish Learning and Leadership (page does not exist)">Spertus Institute for Jewish Learning and Leadership</a> in Chicago.<sup id="cite_ref-Boheme_10-3" class="reference"><a href="#cite_note-Boheme-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Death">Death</span></h2>
+<p>Schell died age 83 on February 1, 2014, in <a href="/wiki/Innsbruck" title="Innsbruck">Innsbruck</a>, Austria after a "sudden and serious illness".<sup id="cite_ref-obit_36-0" class="reference"><a href="#cite_note-obit-36">[36]</a></sup> The German television news service <a href="/wiki/Tagesschau_(Germany)" title="Tagesschau (Germany)">Tagesschau</a> reported that he had been receiving treatment for <a href="/wiki/Pneumonia" title="Pneumonia">pneumonia</a>.<sup id="cite_ref-tagesschau_37-0" class="reference"><a href="#cite_note-tagesschau-37">[37]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span></h2>
+<table class="wikitable sortable">
+
+<tr>
+<th> Title
+</th>
+<th> Year
+</th>
+<th> Role
+</th>
+<th class="unsortable"> Notes
+</th></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Children,_Mother,_and_the_General&amp;action=edit&amp;redlink=1" class="new" title="Children, Mother, and the General (page does not exist)">Kinder, Mütter und ein General</a></i>
+</td>
+<td> 1955
+</td>
+<td> Deserteur
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Last_Ones_Shall_Be_First&amp;action=edit&amp;redlink=1" class="new" title="The Last Ones Shall Be First (page does not exist)">The Last Ones Shall Be First</a></i>
+</td>
+<td> 1957
+</td>
+<td> Lorenz Darrandt
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Young_Lions_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Young Lions (film) (page does not exist)">The Young Lions</a></i>
+</td>
+<td> 1958
+</td>
+<td> Captain Hardenberg
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Judgment_at_Nuremberg" title="Judgment at Nuremberg">Judgment at Nuremberg</a></i>
+</td>
+<td> 1961
+</td>
+<td> Hans Rolfe
+</td>
+<td> <a href="/w/index.php?title=Academy_Award_for_Best_Actor&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Best Actor (page does not exist)">Academy Award for Best Actor</a><br /><a href="/wiki/Golden_Globe_Award_for_Best_Actor_%E2%80%93_Motion_Picture_Drama" title="Golden Globe Award for Best Actor – Motion Picture Drama">Golden Globe Award for Best Actor – Motion Picture Drama</a><br /><a href="/w/index.php?title=Laurel_Awards&amp;action=edit&amp;redlink=1" class="new" title="Laurel Awards (page does not exist)">Laurel Award for Top Male Dramatic Performance</a> (2nd place)<br /><a href="/w/index.php?title=New_York_Film_Critics_Circle_Award_for_Best_Actor&amp;action=edit&amp;redlink=1" class="new" title="New York Film Critics Circle Award for Best Actor (page does not exist)">New York Film Critics Circle Award for Best Actor</a><br />Nominated – <a href="/wiki/BAFTA_Award_for_Best_Actor_in_a_Leading_Role" title="BAFTA Award for Best Actor in a Leading Role">BAFTA Award for Best Actor in a Leading Role</a>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Five_Finger_Exercise_(film)&amp;action=edit&amp;redlink=1" class="new" title="Five Finger Exercise (film) (page does not exist)">Five Finger Exercise</a></i>
+</td>
+<td> 1962
+</td>
+<td> Walter
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Reluctant_Saint&amp;action=edit&amp;redlink=1" class="new" title="The Reluctant Saint (page does not exist)">The Reluctant Saint</a></i>
+</td>
+<td> 1962
+</td>
+<td> Giuseppe
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Condemned_of_Altona_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Condemned of Altona (film) (page does not exist)">The Condemned of Altona</a></i>
+</td>
+<td> 1962
+</td>
+<td> Franz von Gerlach
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Topkapi_(film)" title="Topkapi (film)">Topkapi</a></i>
+</td>
+<td> 1964
+</td>
+<td> Walter Harper
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Return_from_the_Ashes&amp;action=edit&amp;redlink=1" class="new" title="Return from the Ashes (page does not exist)">Return from the Ashes</a></i>
+</td>
+<td> 1965
+</td>
+<td> Stanislaus Pilgrin
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Deadly_Affair&amp;action=edit&amp;redlink=1" class="new" title="The Deadly Affair (page does not exist)">The Deadly Affair</a></i>
+</td>
+<td> 1966
+</td>
+<td> Dieter Frey
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Castle_(1968_film)&amp;action=edit&amp;redlink=1" class="new" title="The Castle (1968 film) (page does not exist)">The Castle</a></i>
+</td>
+<td> 1968
+</td>
+<td> 'K'
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Counterpoint_(1968_film)&amp;action=edit&amp;redlink=1" class="new" title="Counterpoint (1968 film) (page does not exist)">Counterpoint</a></i>
+</td>
+<td> 1968
+</td>
+<td> General Schiller
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Heidi_(1968_film)&amp;action=edit&amp;redlink=1" class="new" title="Heidi (1968 film) (page does not exist)">Heidi</a></i>
+</td>
+<td> 1968
+</td>
+<td> Richard Sessemann
+</td>
+<td> Television film
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Sim%C3%B3n_Bol%C3%ADvar_(1969_film)&amp;action=edit&amp;redlink=1" class="new" title="Simón Bolívar (1969 film) (page does not exist)">Simón Bolívar</a></i>
+</td>
+<td> 1969
+</td>
+<td> <a href="/wiki/Sim%C3%B3n_Bol%C3%ADvar" title="Simón Bolívar">Simón Bolívar</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Krakatoa,_East_of_Java" title="Krakatoa, East of Java">Krakatoa, East of Java</a></i>
+</td>
+<td> 1969
+</td>
+<td> Captain Hanson
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=First_Love_(1970_film)&amp;action=edit&amp;redlink=1" class="new" title="First Love (1970 film) (page does not exist)">Erste Liebe</a></i>
+</td>
+<td> 1970
+</td>
+<td> Father
+</td>
+<td> <a href="/w/index.php?title=San_Sebasti%C3%A1n_International_Film_Festival&amp;action=edit&amp;redlink=1" class="new" title="San Sebastián International Film Festival (page does not exist)">San Sebastián International Film Festival</a> Silver Seashell<br />Nominated-<a href="/wiki/Academy_Award_for_Best_Foreign_Language_Film" title="Academy Award for Best Foreign Language Film">Academy Award for Best Foreign Language Film</a><sup id="cite_ref-Oscars1971_38-0" class="reference"><a href="#cite_note-Oscars1971-38">[38]</a></sup>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Pope_Joan_(1972_film)&amp;action=edit&amp;redlink=1" class="new" title="Pope Joan (1972 film) (page does not exist)">Pope Joan</a></i>
+</td>
+<td> 1972
+</td>
+<td> Adrian
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Pedestrian_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Pedestrian (film) (page does not exist)">The Pedestrian</a></i>
+</td>
+<td> 1973
+</td>
+<td> Andreas Giese
+</td>
+<td> <a href="/wiki/Golden_Globe_Award_for_Best_Foreign_Language_Film" title="Golden Globe Award for Best Foreign Language Film">Golden Globe Award for Best Foreign Language Film</a><br />Nominated – <a href="/wiki/Academy_Award_for_Best_Foreign_Language_Film" title="Academy Award for Best Foreign Language Film">Academy Award for Best Foreign Language Film</a>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Odessa_File_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Odessa File (film) (page does not exist)">The Odessa File</a></i>
+</td>
+<td> 1974
+</td>
+<td> Eduard Roschmann
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Day_That_Shook_the_World&amp;action=edit&amp;redlink=1" class="new" title="The Day That Shook the World (page does not exist)">The Day That Shook the World</a></i>
+</td>
+<td> 1975
+</td>
+<td> Djuro Sarac
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=End_of_the_Game&amp;action=edit&amp;redlink=1" class="new" title="End of the Game (page does not exist)">Der Richter und sein Henker</a></i>
+</td>
+<td> 1975
+</td>
+<td> Robert Schmied on Audiotape
+</td>
+<td> Voice; uncredited role<br /><a href="/w/index.php?title=San_Sebasti%C3%A1n_International_Film_Festival&amp;action=edit&amp;redlink=1" class="new" title="San Sebastián International Film Festival (page does not exist)">San Sebastián International Film Festival</a> Silver Seashell
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/The_Man_in_the_Glass_Booth" title="The Man in the Glass Booth">The Man in the Glass Booth</a></i>
+</td>
+<td> 1975
+</td>
+<td> Arthur Goldman
+</td>
+<td> Nominated – <a href="/w/index.php?title=Academy_Award_for_Best_Actor&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Best Actor (page does not exist)">Academy Award for Best Actor</a><br />Nominated – <a href="/w/index.php?title=Golden_Globe_Award_for_Best_Actor_-_Motion_Picture_Drama&amp;action=edit&amp;redlink=1" class="new" title="Golden Globe Award for Best Actor - Motion Picture Drama (page does not exist)">Golden Globe Award for Best Actor - Motion Picture Drama</a>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=St._Ives_(1976_film)&amp;action=edit&amp;redlink=1" class="new" title="St. Ives (1976 film) (page does not exist)">St. Ives</a></i>
+</td>
+<td> 1976
+</td>
+<td> Dr. John Constable
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Cross_of_Iron" title="Cross of Iron">Cross of Iron</a></i>
+</td>
+<td> 1977
+</td>
+<td> Captain Stransky
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Julia_(1977_film)" title="Julia (1977 film)">Julia</a></i>
+</td>
+<td> 1977
+</td>
+<td> Johann
+</td>
+<td> <a href="/w/index.php?title=New_York_Film_Critics_Circle_Award_for_Best_Supporting_Actor&amp;action=edit&amp;redlink=1" class="new" title="New York Film Critics Circle Award for Best Supporting Actor (page does not exist)">New York Film Critics Circle Award for Best Supporting Actor</a><br /><a href="/w/index.php?title=National_Society_of_Film_Critics_Award_for_Best_Supporting_Actor&amp;action=edit&amp;redlink=1" class="new" title="National Society of Film Critics Award for Best Supporting Actor (page does not exist)">National Society of Film Critics Award for Best Supporting Actor</a> (3rd place)<br />Nominated – <a href="/w/index.php?title=Academy_Award_for_Best_Supporting_Actor&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Best Supporting Actor (page does not exist)">Academy Award for Best Supporting Actor</a><br />Nominated – <a href="/wiki/Golden_Globe_Award_for_Best_Supporting_Actor_%E2%80%93_Motion_Picture" title="Golden Globe Award for Best Supporting Actor – Motion Picture">Golden Globe Award for Best Supporting Actor</a>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/A_Bridge_Too_Far_(film)" title="A Bridge Too Far (film)">A Bridge Too Far</a></i>
+</td>
+<td> 1977
+</td>
+<td> Lieutenant General Bittrich
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Avalanche_Express&amp;action=edit&amp;redlink=1" class="new" title="Avalanche Express (page does not exist)">Avalanche Express</a></i>
+</td>
+<td> 1979
+</td>
+<td> Bunin
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/The_Black_Hole" title="The Black Hole">The Black Hole</a></i>
+</td>
+<td> 1979
+</td>
+<td> Dr. Hans Reinhardt
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Together%3F&amp;action=edit&amp;redlink=1" class="new" title="Together? (page does not exist)">Together?</a></i>
+</td>
+<td> 1979
+</td>
+<td> Giovanni
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Diary_of_Anne_Frank_(1980_film)&amp;action=edit&amp;redlink=1" class="new" title="The Diary of Anne Frank (1980 film) (page does not exist)">The Diary of Anne Frank</a></i>
+</td>
+<td> 1980
+</td>
+<td> <a href="/wiki/Otto_Frank" title="Otto Frank">Otto Frank</a>
+</td>
+<td> Television film
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Chosen_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Chosen (film) (page does not exist)">The Chosen</a></i>
+</td>
+<td> 1981
+</td>
+<td> Professor David Malter
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i>The Phantom of the Opera</i>
+</td>
+<td> 1983
+</td>
+<td> Sándor Korvin / The Phantom of the Opera
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Man_Under_Suspicion&amp;action=edit&amp;redlink=1" class="new" title="Man Under Suspicion (page does not exist)">Man Under Suspicion</a></i>
+</td>
+<td> 1984
+</td>
+<td> Lawyer Landau
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Assisi_Underground&amp;action=edit&amp;redlink=1" class="new" title="The Assisi Underground (page does not exist)">The Assisi Underground</a></i>
+</td>
+<td> 1985
+</td>
+<td> Col. Müller
+</td>
+<td> Television film 175 minutes
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Peter_the_Great_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="Peter the Great (TV series) (page does not exist)">Peter the Great</a></i>
+</td>
+<td> 1986
+</td>
+<td> <a href="/wiki/Peter_the_Great" title="Peter the Great">Peter the Great</a>
+</td>
+<td> TV miniseries
+</td></tr>
+<tr>
+<td> <i>The Rosegarden</i>
+</td>
+<td> 1989
+</td>
+<td> Aaron
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Freshman_(1990_film)&amp;action=edit&amp;redlink=1" class="new" title="The Freshman (1990 film) (page does not exist)">The Freshman</a></i>
+</td>
+<td> 1990
+</td>
+<td> Larry London
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Young_Catherine&amp;action=edit&amp;redlink=1" class="new" title="Young Catherine (page does not exist)">Young Catherine</a></i>
+</td>
+<td> 1991
+</td>
+<td> <a href="/wiki/Frederick_the_Great" title="Frederick the Great">Frederick the Great</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Stalin_(1992_film)&amp;action=edit&amp;redlink=1" class="new" title="Stalin (1992 film) (page does not exist)">Stalin</a></i>
+</td>
+<td> 1992
+</td>
+<td> <a href="/w/index.php?title=Vladimir_Lenin&amp;action=edit&amp;redlink=1" class="new" title="Vladimir Lenin (page does not exist)">Vladimir Lenin</a>
+</td>
+<td> Television film<br /><a href="/w/index.php?title=Golden_Globe_Award_for_Best_Supporting_Actor_-_Series,_Miniseries_or_Television_Film&amp;action=edit&amp;redlink=1" class="new" title="Golden Globe Award for Best Supporting Actor - Series, Miniseries or Television Film (page does not exist)">Golden Globe Award for Best Supporting Actor - Series, Miniseries or Television Film</a><br />Nominated – <a href="/w/index.php?title=Primetime_Emmy_Award_for_Outstanding_Supporting_Actor_in_a_Miniseries_or_a_Movie&amp;action=edit&amp;redlink=1" class="new" title="Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie (page does not exist)">Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie</a>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Candles_in_the_Dark&amp;action=edit&amp;redlink=1" class="new" title="Candles in the Dark (page does not exist)">Candles in the Dark</a></i>
+</td>
+<td> 1993
+</td>
+<td> Colonel Arkush
+</td>
+<td> Television film<br />Also director
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Justice_(1993_film)&amp;action=edit&amp;redlink=1" class="new" title="Justice (1993 film) (page does not exist)">Justice</a></i>
+</td>
+<td> 1993
+</td>
+<td> Isaak Kohler
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=A_Far_Off_Place&amp;action=edit&amp;redlink=1" class="new" title="A Far Off Place (page does not exist)">A Far Off Place</a></i>
+</td>
+<td> 1993
+</td>
+<td> Colonel Mopani Theron
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Abraham_(film)&amp;action=edit&amp;redlink=1" class="new" title="Abraham (film) (page does not exist)">Abraham</a></i>
+</td>
+<td> 1994
+</td>
+<td> <a href="/wiki/Pharaoh" title="Pharaoh">Pharaoh</a>
+</td>
+<td> Television film
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Little_Odessa" title="Little Odessa">Little Odessa</a></i>
+</td>
+<td> 1995
+</td>
+<td> Arkady Shapira
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Thorn_Birds:_The_Missing_Years&amp;action=edit&amp;redlink=1" class="new" title="The Thorn Birds: The Missing Years (page does not exist)">The Thorn Birds: The Missing Years</a></i>
+</td>
+<td> 1996
+</td>
+<td> Cardinal Vittorio
+</td>
+<td> TV miniseries
+</td></tr>
+<tr>
+<td> <i>The Eighteenth Angel</i>
+</td>
+<td> 1998
+</td>
+<td> Father Simeon
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Left_Luggage_(film)&amp;action=edit&amp;redlink=1" class="new" title="Left Luggage (film) (page does not exist)">Left Luggage</a></i>
+</td>
+<td> 1998
+</td>
+<td> Mr. Silberschmidt
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Vampires_(film)" title="Vampires (film)">Vampires</a></i>
+</td>
+<td> 1998
+</td>
+<td> Cardinal Alba
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Deep_Impact_(film)" title="Deep Impact (film)">Deep Impact</a></i>
+</td>
+<td> 1998
+</td>
+<td> Jason Lerner
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Joan_of_Arc_(miniseries)&amp;action=edit&amp;redlink=1" class="new" title="Joan of Arc (miniseries) (page does not exist)">Joan of Arc</a></i>
+</td>
+<td> 1999
+</td>
+<td> Brother Jean le Maistre
+</td>
+<td> TV miniseries
+</td></tr>
+<tr>
+<td> <i>I Love You, Baby</i>
+</td>
+<td> 2000
+</td>
+<td> Walter Ekland
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Festival_in_Cannes&amp;action=edit&amp;redlink=1" class="new" title="Festival in Cannes (page does not exist)">Festival in Cannes</a></i>
+</td>
+<td> 2001
+</td>
+<td> Viktor Kovner
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Coast_to_Coast_(2003_film)&amp;action=edit&amp;redlink=1" class="new" title="Coast to Coast (2003 film) (page does not exist)">Coast to Coast</a></i>
+</td>
+<td> 2003
+</td>
+<td> Casimir
+</td>
+<td> Television film
+</td></tr>
+<tr>
+<td> <i>The House of Sleeping Beauties</i>
+</td>
+<td> 2006
+</td>
+<td> Kogi
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Shell_Seekers_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Shell Seekers (film) (page does not exist)">The Shell Seekers</a></i>
+</td>
+<td> 2006
+</td>
+<td> Lawrence Sterne
+</td>
+<td> TV miniseries
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Brothers_Bloom&amp;action=edit&amp;redlink=1" class="new" title="The Brothers Bloom (page does not exist)">The Brothers Bloom</a></i>
+</td>
+<td> 2008
+</td>
+<td> Diamond Dog
+</td>
+<td>
+</td></tr></table>
+<h2><span class="mw-headline" id="Other_awards_and_nominations">Other awards and nominations</span></h2>
+<p><a href="/w/index.php?title=Template:Iw-ref&amp;action=edit&amp;redlink=1" class="new" title="Template:Iw-ref (page does not exist)">Template:Iw-ref</a>
+</p>
+<ul>
+<li> 1965: <a href="/w/index.php?title=Ondas_Award&amp;action=edit&amp;redlink=1" class="new" title="Ondas Award (page does not exist)">Ondas Award</a> (Best Actor)
+</li>
+<li> 1979: <a href="/w/index.php?title=Golden_Hugo_Award&amp;action=edit&amp;redlink=1" class="new" title="Golden Hugo Award (page does not exist)">Golden Hugo Award</a> for <i>Tales from the Vienna Woods</i>
+</li>
+<li> 1980: German Film Award in Silver (program-filling feature film) for <i>Tales from the Vienna Woods</i>
+</li>
+<li> 1984: German Film Award, Film Award for the role <i>Morning in Alabama</i>
+</li>
+<li> 1985: Golden Globe nomination (documentary) for <i>Marlene</i>
+</li>
+<li> 1985: <a href="/w/index.php?title=Merit_Cross_1st_Class_of_the_Federal_Republic_of_Germany&amp;action=edit&amp;redlink=1" class="new" title="Merit Cross 1st Class of the Federal Republic of Germany (page does not exist)">Merit Cross 1st Class of the Federal Republic of Germany</a> (<i>Verdienstkreuz 1. Klasse</i>)
+</li>
+<li> 1985: Nominated for <a href="/w/index.php?title=Academy_Award_for_Documentary_Feature&amp;action=edit&amp;redlink=1" class="new" title="Academy Award for Documentary Feature (page does not exist)">Academy Award for Documentary Feature</a> for <i>Marlene</i>
+</li>
+<li> 1990: Honorary Award of the <a href="/w/index.php?title=German_Film_Award&amp;action=edit&amp;redlink=1" class="new" title="German Film Award (page does not exist)">German Film Award</a>
+</li>
+<li> 1992: <a href="/wiki/Emmy_Award" title="Emmy Award">Emmy Award</a> nomination (Best Actor) in the TV film <a href="/w/index.php?title=Miss_Rose_White&amp;action=edit&amp;redlink=1" class="new" title="Miss Rose White (page does not exist)">Miss Rose White</a>
+</li>
+<li> 1999: Method Fest for Lifetime Achievement
+</li>
+<li> 1999: <a href="/w/index.php?title=Platinum_Romy&amp;action=edit&amp;redlink=1" class="new" title="Platinum Romy (page does not exist)">Platinum Romy</a> for Lifetime Achievement
+</li>
+<li> 2000: <a href="/w/index.php?title=Satellite_Award&amp;action=edit&amp;redlink=1" class="new" title="Satellite Award (page does not exist)">Satellite Award</a>, Mary Pickford Award for Lifetime Achievement
+</li>
+<li> 2002: <a href="/w/index.php?title=Austrian_Cross_of_Honour_for_Science_and_Art,_1st_class&amp;action=edit&amp;redlink=1" class="new" title="Austrian Cross of Honour for Science and Art, 1st class (page does not exist)">Austrian Cross of Honour for Science and Art, 1st class</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</li>
+<li> 2002: <a href="/w/index.php?title=Bambi_(prize)&amp;action=edit&amp;redlink=1" class="new" title="Bambi (prize) (page does not exist)">Bambi Award</a>
+</li>
+<li> 2006: Honorary Award of the <a href="/w/index.php?title=Bavarian_Film_Awards&amp;action=edit&amp;redlink=1" class="new" title="Bavarian Film Awards (page does not exist)">Bavarian Film Awards</a> for artistic mastery and humanism
+</li>
+<li> 2008: <a href="/w/index.php?title=Diva_Award&amp;action=edit&amp;redlink=1" class="new" title="Diva Award (page does not exist)">Diva Award</a> for Lifetime Achievement
+</li>
+<li> 2009: <a href="/w/index.php?title=Premio_Roma&amp;action=edit&amp;redlink=1" class="new" title="Premio Roma (page does not exist)">Premio Roma</a>
+</li>
+<li> 2009: Bambi Award for Lifetime Achievement
+</li>
+<li> 2011: Honorary Award of the Bernhard Wicki Film Award - <a href="/w/index.php?title=The_Bridge&amp;action=edit&amp;redlink=1" class="new" title="The Bridge (page does not exist)">The Bridge</a><a href="/w/index.php?title=Template:Disambiguation_needed&amp;action=edit&amp;redlink=1" class="new" title="Template:Disambiguation needed (page does not exist)">Template:Disambiguation needed</a><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=List_of_German-speaking_Academy_Award_winners_and_nominees&amp;action=edit&amp;redlink=1" class="new" title="List of German-speaking Academy Award winners and nominees (page does not exist)">List of German-speaking Academy Award winners and nominees</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0001703/"></a><a href="/w/index.php?title=Template:Title_without_disambig&amp;action=edit&amp;redlink=1" class="new" title="Template:Title without disambig (page does not exist)">Template:Title without disambig</a><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0001703/"></a> at the <a href="/w/index.php?title=Internet_Movie_Database&amp;action=edit&amp;redlink=1" class="new" title="Internet Movie Database (page does not exist)">Internet Movie Database</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.ibdb.com/person.asp?ID=59263">Maximilian Schell</a> at the <a href="/wiki/Internet_Broadway_Database" title="Internet Broadway Database">Internet Broadway Database</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Navboxes&amp;action=edit&amp;redlink=1" class="new" title="Template:Navboxes (page does not exist)">Template:Navboxes</a>
+<a href="/w/index.php?title=Template:Authority_control&amp;action=edit&amp;redlink=1" class="new" title="Template:Authority control (page does not exist)">Template:Authority control</a>
+</p><p><a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.632 seconds
+Real time usage: 0.650 seconds
+Preprocessor visited node count: 1180/1000000
+Preprocessor generated node count: 5318/1000000
+Post‐expand include size: 3008/2097152 bytes
+Template argument size: 2228/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:117627-0!*!0!!en!2!* and timestamp 20170407172226
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Maximilian_Schell&amp;oldid=117627">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Maximilian_Schell&amp;oldid=117627</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/wiki/Category:1930_births" title="Category:1930 births">1930 births</a></li><li><a href="/w/index.php?title=Category:2014_deaths&amp;action=edit&amp;redlink=1" class="new" title="Category:2014 deaths (page does not exist)">2014 deaths</a></li><li><a href="/w/index.php?title=Category:People_from_Vienna&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Vienna (page does not exist)">People from Vienna</a></li><li><a href="/w/index.php?title=Category:People_from_the_canton_of_Z%C3%BCrich&amp;action=edit&amp;redlink=1" class="new" title="Category:People from the canton of Zürich (page does not exist)">People from the canton of Zürich</a></li><li><a href="/w/index.php?title=Category:Austrian_male_film_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:Austrian male film actors (page does not exist)">Austrian male film actors</a></li><li><a href="/w/index.php?title=Category:Swiss_male_film_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:Swiss male film actors (page does not exist)">Swiss male film actors</a></li><li><a href="/w/index.php?title=Category:20th-century_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:20th-century actors (page does not exist)">20th-century actors</a></li><li><a href="/w/index.php?title=Category:21st-century_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:21st-century actors (page does not exist)">21st-century actors</a></li><li><a href="/w/index.php?title=Category:German-language_film_directors&amp;action=edit&amp;redlink=1" class="new" title="Category:German-language film directors (page does not exist)">German-language film directors</a></li><li><a href="/w/index.php?title=Category:Best_Actor_Academy_Award_winners&amp;action=edit&amp;redlink=1" class="new" title="Category:Best Actor Academy Award winners (page does not exist)">Best Actor Academy Award winners</a></li><li><a href="/w/index.php?title=Category:Best_Drama_Actor_Golden_Globe_(film)_winners&amp;action=edit&amp;redlink=1" class="new" title="Category:Best Drama Actor Golden Globe (film) winners (page does not exist)">Best Drama Actor Golden Globe (film) winners</a></li><li><a href="/w/index.php?title=Category:Best_Supporting_Actor_Golden_Globe_(television)_winners&amp;action=edit&amp;redlink=1" class="new" title="Category:Best Supporting Actor Golden Globe (television) winners (page does not exist)">Best Supporting Actor Golden Globe (television) winners</a></li><li><a href="/w/index.php?title=Category:Golden_Orange_Honorary_Award_winners&amp;action=edit&amp;redlink=1" class="new" title="Category:Golden Orange Honorary Award winners (page does not exist)">Golden Orange Honorary Award winners</a></li><li><a href="/w/index.php?title=Category:Officers_Crosses_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany&amp;action=edit&amp;redlink=1" class="new" title="Category:Officers Crosses of the Order of Merit of the Federal Republic of Germany (page does not exist)">Officers Crosses of the Order of Merit of the Federal Republic of Germany</a></li><li><a href="/w/index.php?title=Category:Recipients_of_the_Austrian_Cross_of_Honour_for_Science_and_Art,_1st_class&amp;action=edit&amp;redlink=1" class="new" title="Category:Recipients of the Austrian Cross of Honour for Science and Art, 1st class (page does not exist)">Recipients of the Austrian Cross of Honour for Science and Art, 1st class</a></li><li><a href="/w/index.php?title=Category:Recipients_of_the_Bambi_(prize)&amp;action=edit&amp;redlink=1" class="new" title="Category:Recipients of the Bambi (prize) (page does not exist)">Recipients of the Bambi (prize)</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maximilian+Schell" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Maximilian_Schell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Maximilian_Schell&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Maximilian_Schell" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Maximilian_Schell&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Maximilian_Schell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Maximilian_Schell" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Maximilian_Schell" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Maximilian_Schell&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Maximilian_Schell&amp;oldid=117627" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Maximilian_Schell&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2014, at 21:41.</li>
+											<li id="footer-info-viewcount">This page has been accessed 210 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.939 secs. -->
+	</body>
+</html>

@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Roman numerals - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Roman_numerals","wgTitle":"Roman numerals","wgCurRevisionId":16853,"wgRevisionId":16853,"wgArticleId":16853,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category template with no category set","Commons category with page title different than on Wikidata","Numerals","Numeral systems","Roman mathematics","Latin alphabet"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Roman_numerals","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Roman_numerals skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Roman numerals</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Colosseum-Entrance_LII.jpg" title="File:Colosseum-Entrance LII.jpg">File:Colosseum-Entrance LII.jpg</a>  <div class="thumbcaption">Entrance to section <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (52) of the <a href="/wiki/Colosseum" title="Colosseum">Colosseum</a>, with numerals still visible</div></div></div>
+<p><b>Roman numerals</b>, the <a href="/w/index.php?title=Numeric_system&amp;action=edit&amp;redlink=1" class="new" title="Numeric system (page does not exist)">numeric system</a> used in <a href="/wiki/Ancient_Rome" title="Ancient Rome">ancient Rome</a>, employs combinations of letters from the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a> to signify values.  The numbers 1 to 10 can be expressed in Roman numerals as follows:
+</p>
+<dl>
+<dd><a href="/w/index.php?title=Template:Bigmath&amp;action=edit&amp;redlink=1" class="new" title="Template:Bigmath (page does not exist)">Template:Bigmath</a>.
+</dd>
+</dl>
+<p>The Roman numeral system is a cousin of <a href="/wiki/Etruscan_numerals" title="Etruscan numerals">Etruscan numerals</a>.  Use of Roman numerals continued after the decline of the Roman Empire.  From the 14th century on, Roman numerals began to be replaced in most contexts by more convenient <a href="/w/index.php?title=Hindu-Arabic_numerals&amp;action=edit&amp;redlink=1" class="new" title="Hindu-Arabic numerals (page does not exist)">Hindu-Arabic numerals</a>; however this process was gradual, and the use of Roman numerals in some minor applications continues to this day.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reading_Roman_numerals"><span class="tocnumber">1</span> <span class="toctext">Reading Roman numerals</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Alternative_forms"><span class="tocnumber">1.1</span> <span class="toctext">Alternative forms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Pre-Roman_times_and_Ancient_Rome"><span class="tocnumber">2.1</span> <span class="toctext">Pre-Roman times and Ancient Rome</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Hypotheses_About_the_Origin_of_Roman_Numerals"><span class="tocnumber">2.1.1</span> <span class="toctext">Hypotheses About the Origin of Roman Numerals</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Tally_sticks"><span class="tocnumber">2.1.1.1</span> <span class="toctext">Tally sticks</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Hand_signals"><span class="tocnumber">2.1.1.2</span> <span class="toctext">Hand signals</span></a></li>
+<li class="toclevel-4 tocsection-8"><a href="#Intermediate_symbols_deriving_from_few_original_symbols"><span class="tocnumber">2.1.1.3</span> <span class="toctext">Intermediate symbols deriving from few original symbols</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Middle_Ages_and_Renaissance"><span class="tocnumber">2.2</span> <span class="toctext">Middle Ages and Renaissance</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Modern_usage"><span class="tocnumber">2.3</span> <span class="toctext">Modern usage</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Modern_non-English-speaking_usage"><span class="tocnumber">2.3.1</span> <span class="toctext">Modern non-English-speaking usage</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Special_values"><span class="tocnumber">3</span> <span class="toctext">Special values</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Zero"><span class="tocnumber">3.1</span> <span class="toctext">Zero</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Fractions"><span class="tocnumber">3.2</span> <span class="toctext">Fractions</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Large_numbers"><span class="tocnumber">3.3</span> <span class="toctext">Large numbers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Reading_Roman_numerals">Reading Roman numerals</span></h2>
+<table style="text-align:center;float:right">
+
+<tr>
+<td><a href="/w/index.php?title=Template:Symb&amp;action=edit&amp;redlink=1" class="new" title="Template:Symb (page does not exist)">Template:Symb</a>
+</td></tr>
+<tr>
+<td>"2017" as a Roman numeral
+</td></tr></table>
+<p>Roman Numerals, as used today, are based on seven symbols:<sup id="cite_ref-gordon_1-0" class="reference"><a href="#cite_note-gordon-1">[1]</a></sup>
+</p>
+<table class="wikitable">
+
+<tr>
+<th> Symbol
+</th>
+<th> Value
+</th></tr>
+<tr>
+<td> [[I|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/wiki/1_(number)" title="1 (number)">1</a>
+</td></tr>
+<tr>
+<td> [[V|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/w/index.php?title=5_(number)&amp;action=edit&amp;redlink=1" class="new" title="5 (number) (page does not exist)">5</a>
+</td></tr>
+<tr>
+<td> [[X|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/wiki/10_(number)" title="10 (number)">10</a>
+</td></tr>
+<tr>
+<td> [[L|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/wiki/50_(number)" title="50 (number)">50</a>
+</td></tr>
+<tr>
+<td> [[C|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/wiki/100_(number)" title="100 (number)">100</a>
+</td></tr>
+<tr>
+<td> [[D|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/wiki/500_(number)" title="500 (number)">500</a>
+</td></tr>
+<tr>
+<td> [[M|<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>]]
+</td>
+<td> <a href="/wiki/1000_(number)" title="1000 (number)">1,000</a>
+</td></tr></table>
+<p>Numbers are formed by combining symbols together and adding the values. So <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> is two ones, i.e. 2, and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> is a ten and three ones, i.e. 13. There is no zero in this system, so 207, for example, is <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, using the symbols for two hundreds, a five and two ones. 1066 is <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, one thousand, fifty and ten, a five and a one.
+</p><p>Symbols are placed from left to right in order of value, starting with the largest. However, in a few specific cases,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> to avoid four characters being repeated in succession (such as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) these can be reduced using <a href="/wiki/Subtractive_notation" title="Subtractive notation">subtractive notation</a> as follows:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-martelli_4-0" class="reference"><a href="#cite_note-martelli-4">[4]</a></sup> 
+</p>
+<ul>
+<li> the numeral <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> can be placed before <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> to make 4 units (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) and 9 units (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> respectively)
+</li>
+<li> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> can be placed before <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> to make 40 (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) and 90 (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> respectively)
+</li>
+<li> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> can be placed before <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> to make 400 (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) and 900 (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) according to the same pattern<sup id="cite_ref-sun_5-0" class="reference"><a href="#cite_note-sun-5">[5]</a></sup> 
+</li>
+</ul>
+<p>An example using the above rules would be 1904: this is composed of 1 (one thousand), 9 (nine hundreds), 0 (zero tens), and 4 (four units).  To write the Roman numeral, each of the non-zero digits should be treated separately.  Thus 1,000 = <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, 900 = <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, and 4 = <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.  Therefore, 1904 is <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.
+</p><p>Below are some examples of the modern use of Roman Numerals.
+</p>
+<ul>
+<li> 1954 as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (Trailer for the movie <i><a href="/w/index.php?title=The_Last_Time_I_Saw_Paris&amp;action=edit&amp;redlink=1" class="new" title="The Last Time I Saw Paris (page does not exist)">The Last Time I Saw Paris</a></i>)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+</li>
+<li> 1990 as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (The title of musical project <a href="/wiki/Enigma_(musical_project)" title="Enigma (musical project)">Enigma</a>'s debut album <i><a href="/wiki/MCMXC_a.D." title="MCMXC a.D.">MCMXC a.D.</a></i>, named after the year of its release.)
+</li>
+<li> 2014 as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> - the year of the games of the <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (22nd, Winter) <a href="/wiki/Olympiad" title="Olympiad">Olympiad</a> (in <a href="/wiki/2014_Winter_Olympics" title="2014 Winter Olympics">Sochi</a>)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Alternative_forms">Alternative forms</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:BadSalzdetfurthBadenburgerStr060529.jpg" title="File:BadSalzdetfurthBadenburgerStr060529.jpg">File:BadSalzdetfurthBadenburgerStr060529.jpg</a>  <div class="thumbcaption">A typical clock face with Roman numerals in <a href="/wiki/Bad_Salzdetfurth" title="Bad Salzdetfurth">Bad Salzdetfurth</a>, Germany</div></div></div>
+<p>The "standard" forms described above reflect typical modern usage rather than a universally accepted convention. Roman usage varied greatly and later use has not been consistent.<sup id="cite_ref-adams_7-0" class="reference"><a href="#cite_note-adams-7">[7]</a></sup>
+</p><p>Roman inscriptions, especially in official contexts, tend to use additive forms such as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> rather than subtractive forms such as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>. Both methods appear in documents from the Roman era, even within the same document. "Double subtractives" also occur, such as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or even <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> instead of <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>. Sometimes <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> are not used, with instances such as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> rather than <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:AdmiraltyArchLondonCloseup.jpg" title="File:AdmiraltyArchLondonCloseup.jpg">File:AdmiraltyArchLondonCloseup.jpg</a>  <div class="thumbcaption">An inscription on <a href="/wiki/Admiralty_Arch" title="Admiralty Arch">Admiralty Arch</a>, London. The number is 1910, for which <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> would be more usual</div></div></div>
+<p>Such variation and inconsistency continued through the medieval period and into modern times, even becoming conventional. <a href="/wiki/Clock_face" title="Clock face">Clock faces</a> that use Roman numerals normally show <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> for four o’clock but <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> for nine o’clock,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-pickover_11-0" class="reference"><a href="#cite_note-pickover-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> a practice that goes back to very early clocks such as the <a href="/w/index.php?title=Wells_Cathedral_clock&amp;action=edit&amp;redlink=1" class="new" title="Wells Cathedral clock (page does not exist)">Wells Cathedral clock</a>. This is far from being an unvarying convention; the clock in Elizabeth Tower on the <a href="/wiki/Palace_of_Westminster" title="Palace of Westminster">Palace of Westminster</a> in <a href="/wiki/London" title="London">London</a> (aka "<a href="/w/index.php?title=Big_Ben&amp;action=edit&amp;redlink=1" class="new" title="Big Ben (page does not exist)">Big Ben</a>"), for example, uses <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.<sup id="cite_ref-pickover_11-1" class="reference"><a href="#cite_note-pickover-11">[11]</a></sup> Inscribed dates appear in different forms even in the modern era; on <a href="/wiki/Admiralty_Arch" title="Admiralty Arch">Admiralty Arch</a>, London, 1910 is shown as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> rather than the “standard” <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and on the north entrance to the <a href="/wiki/Saint_Louis_Art_Museum" title="Saint Louis Art Museum">Saint Louis Art Museum</a> 1903 was inscribed as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> rather than <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<h3><span class="mw-headline" id="Pre-Roman_times_and_Ancient_Rome">Pre-Roman times and Ancient Rome</span></h3>
+<p>Although Roman numerals came to be written with letters of the Roman alphabet, they were originally independent symbols. The <a href="/wiki/Etruscans" title="Etruscans" class="mw-redirect">Etruscans</a>, for example, used <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, for <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, of which only <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> happened to be letters in their alphabet.
+</p>
+<h4><span class="mw-headline" id="Hypotheses_About_the_Origin_of_Roman_Numerals">Hypotheses About the Origin of Roman Numerals</span></h4>
+<h5><span class="mw-headline" id="Tally_sticks">Tally sticks</span></h5>
+<p>One hypothesis is that the Etrusco-Roman numerals actually derive from notches on <a href="/w/index.php?title=Tally_stick&amp;action=edit&amp;redlink=1" class="new" title="Tally stick (page does not exist)">tally sticks</a>, which continued to be used by Italian and <a href="/wiki/Dalmatia" title="Dalmatia">Dalmatian</a> shepherds into the 19th century.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</p><p>Thus, <a href="/w/index.php?title=Template:Angbr&amp;action=edit&amp;redlink=1" class="new" title="Template:Angbr (page does not exist)">Template:Angbr</a> descends not from the letter <a href="/w/index.php?title=Template:Angbr&amp;action=edit&amp;redlink=1" class="new" title="Template:Angbr (page does not exist)">Template:Angbr</a> but from a notch scored across the stick. Every fifth notch was double cut i.e. <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <i>etc.</i>), and every tenth was cross cut (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, much like European <a href="/wiki/Tally_marks" title="Tally marks">tally marks</a> today. This produced a positional system: <i>Eight</i> on a counting stick was eight tallies, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, or the eighth of a longer series of tallies; either way, it could be abbreviated <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), as the existence of a <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> implies four prior notches. By extension, <i>eighteen</i> was the eighth tally after the first ten, which could be abbreviated <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, and so was <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>. Likewise, number <i>four</i> on the stick was the I-notch that could be felt just before the cut of the <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), so it could be written as either <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>). Thus the system was neither additive nor subtractive in its conception, but <i><a href="/w/index.php?title=Ordinal_number_(linguistics)&amp;action=edit&amp;redlink=1" class="new" title="Ordinal number (linguistics) (page does not exist)">ordinal</a></i>. When the tallies were transferred to writing, the marks were easily identified with the existing Roman letters <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.
+The tenth <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> along the stick received an extra stroke. Thus 50 was written variously as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <i>etc.</i>, but perhaps most often as a chicken-track shape like a superimposed <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>: <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>. This had flattened to <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (an inverted T) by the time of <a href="/wiki/Augustus" title="Augustus">Augustus</a>, and soon thereafter became identified with the graphically similar letter <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>. Likewise, 100 was variously <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, or as any of the symbols for 50 above plus an extra stroke. The form <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (that is, a superimposed <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) came to predominate. It was written variously as <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, was then abbreviated to <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, with <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> variant finally winning out because, as a letter, it stood for <span lang="la"><i>centum</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, Latin for "hundred".
+</p><p>The hundredth <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> was marked with a box or circle. Thus 500 was like a <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> superimposed on a <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> — that is, like a <a href="/w/index.php?title=Template:Angbr&amp;action=edit&amp;redlink=1" class="new" title="Template:Angbr (page does not exist)">Template:Angbr</a> with a cross bar,— becoming <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> by the time of Augustus, under the graphic influence of the letter <a href="/w/index.php?title=Template:Angbr&amp;action=edit&amp;redlink=1" class="new" title="Template:Angbr (page does not exist)">Template:Angbr</a>. It was later identified <i>as</i> the letter D; an alternative symbol for "thousand" was <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rnor</a> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), and half of a thousand or "five hundred" is the right half of the symbol, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rnor</a> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), and this may have been converted into <a href="/w/index.php?title=Template:Angbr&amp;action=edit&amp;redlink=1" class="new" title="Template:Angbr (page does not exist)">Template:Angbr</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> This at least was the false etymology given to it later on.
+</p><p>Meanwhile, 1000 was a circled or boxed X: <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, and by Augustinian times was partially identified with the Greek letter Φ <i><a href="/wiki/Phi" title="Phi">phi</a></i>.  Over time, the symbol changed to <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.  The latter symbol further evolved into <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, then <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, and eventually changed to <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> under the influence of the Latin word <span lang="la"><i>mille</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> "thousand".
+</p>
+<h5><span class="mw-headline" id="Hand_signals">Hand signals</span></h5>
+<p>Alfred Hooper has an alternative hypothesis for the origin of the Roman numeral system, for small numbers.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Hooper contends that the digits are related to hand signals. For example, the numbers <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> correspond to the number of fingers held up for another to see. <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, then represents that hand upright with fingers together and thumb apart. Numbers 6–10, are represented with two hands as follows (left hand, right hand) 6=(<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>,<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), 7=(<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>,<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), 8=(<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>,<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), 9=(<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>,<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>), 10=(<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>,<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> results from either crossing of the thumbs, or holding both hands up in a cross.
+</p>
+<h5><span class="mw-headline" id="Intermediate_symbols_deriving_from_few_original_symbols">Intermediate symbols deriving from few original symbols</span></h5>
+<p>A third hypothesis about the origins states that the basic ciphers were <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> (or <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>) and that the intermediary ones were derived from taking half of those (half a <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> is <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, half a <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> is <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and half a <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> is <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Middle_Ages_and_Renaissance">Middle Ages and Renaissance</span></h3>
+<table class="vertical-navbox nowraplinks hlist navbox" cellspacing="5" cellpadding="0" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;"><tr>
+<th class="" style="padding:0.1em;;;">
+<a href="/wiki/Numeral_system" title="Numeral system">Numeral systems</a> by culture</th>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<dl>
+<dt> <a href="/w/index.php?title=Hindu%E2%80%93Arabic_numeral_system&amp;action=edit&amp;redlink=1" class="new" title="Hindu–Arabic numeral system (page does not exist)">Hindu–Arabic numerals</a></dt>
+<dd>
+</dd>
+</dl>
+<ul>
+<li> <a href="/wiki/Arabic_numerals" title="Arabic numerals">Western Arabic</a>
+</li>
+<li> <a href="/w/index.php?title=Eastern_Arabic_numerals&amp;action=edit&amp;redlink=1" class="new" title="Eastern Arabic numerals (page does not exist)">Eastern Arabic</a>
+</li>
+<li> <a href="/w/index.php?title=Bengali_numerals&amp;action=edit&amp;redlink=1" class="new" title="Bengali numerals (page does not exist)">Bengali</a>
+</li>
+<li> <a href="/w/index.php?title=Burmese_numerals&amp;action=edit&amp;redlink=1" class="new" title="Burmese numerals (page does not exist)">Burmese</a>
+</li>
+<li> <a href="/wiki/Indian_numerals" title="Indian numerals">Indian family</a>
+</li>
+<li> <a href="/wiki/Khmer_numbers" title="Khmer numbers">Khmer</a>
+</li>
+<li> <a href="/wiki/Lao_alphabet#Numerals" title="Lao alphabet">Lao</a>
+</li>
+<li> <a href="/w/index.php?title=Mongolian_numerals&amp;action=edit&amp;redlink=1" class="new" title="Mongolian numerals (page does not exist)">Mongolian</a>
+</li>
+<li> <a href="/w/index.php?title=Sinhala_numerals&amp;action=edit&amp;redlink=1" class="new" title="Sinhala numerals (page does not exist)">Sinhala</a>
+</li>
+<li> <a href="/w/index.php?title=Tamil_numerals&amp;action=edit&amp;redlink=1" class="new" title="Tamil numerals (page does not exist)">Tamil</a>
+</li>
+<li> <a href="/w/index.php?title=Telugu_numerals&amp;action=edit&amp;redlink=1" class="new" title="Telugu numerals (page does not exist)">Telugu</a>
+</li>
+<li> <a href="/wiki/Thai_numerals" title="Thai numerals">Thai</a>
+</li>
+</ul>
+<dl>
+<dt> East Asian numerals</dt>
+<dd>
+</dd>
+</dl>
+<ul>
+<li> <a href="/wiki/Chinese_numerals" title="Chinese numerals">Chinese</a>
+</li>
+<li> <a href="/wiki/Japanese_numerals" title="Japanese numerals">Japanese</a>
+</li>
+<li> <i><a href="/wiki/Suzhou_numerals" title="Suzhou numerals">Suzhou</a></i>
+</li>
+<li> <a href="/wiki/Korean_numerals" title="Korean numerals">Korean</a>
+</li>
+<li> <a href="/w/index.php?title=Vietnamese_numerals&amp;action=edit&amp;redlink=1" class="new" title="Vietnamese numerals (page does not exist)">Vietnamese</a>
+</li>
+<li> <i><a href="/w/index.php?title=Counting_rods&amp;action=edit&amp;redlink=1" class="new" title="Counting rods (page does not exist)">Counting rods</a></i>
+</li>
+</ul>
+<dl>
+<dt> Alphabetic numerals</dt>
+<dd>
+</dd>
+</dl>
+<ul>
+<li> <a href="/w/index.php?title=Abjad_numerals&amp;action=edit&amp;redlink=1" class="new" title="Abjad numerals (page does not exist)">Abjad</a>
+</li>
+<li> <a href="/wiki/Armenian_numerals" title="Armenian numerals">Armenian</a>
+</li>
+<li> <a href="/w/index.php?title=%C4%80ryabha%E1%B9%ADa_numeration&amp;action=edit&amp;redlink=1" class="new" title="Āryabhaṭa numeration (page does not exist)">Āryabhaṭa</a>
+</li>
+<li> <a href="/wiki/Cyrillic_numerals" title="Cyrillic numerals">Cyrillic</a>
+</li>
+<li> <a href="/w/index.php?title=Ge%27ez_script&amp;action=edit&amp;redlink=1" class="new" title="Ge'ez script (page does not exist)">Ge'ez</a>
+</li>
+<li> <a href="/wiki/Greek_numerals" title="Greek numerals">Greek</a>
+</li>
+<li> <a href="/w/index.php?title=Georgian_numerals&amp;action=edit&amp;redlink=1" class="new" title="Georgian numerals (page does not exist)">Georgian</a>
+</li>
+<li> <a href="/wiki/Hebrew_numerals" title="Hebrew numerals">Hebrew</a>
+</li>
+</ul>
+<dl>
+<dt> Other historical systems</dt>
+<dd>
+</dd>
+</dl>
+<ul>
+<li> <a href="/w/index.php?title=Aegean_numerals&amp;action=edit&amp;redlink=1" class="new" title="Aegean numerals (page does not exist)">Aegean</a>
+</li>
+<li> <a href="/wiki/Attic_numerals" title="Attic numerals">Attic</a>
+</li>
+<li> <a href="/wiki/Babylonian_numerals" title="Babylonian numerals">Babylonian</a>
+</li>
+<li> <a href="/wiki/Brahmi_numerals" title="Brahmi numerals">Brahmi</a>
+</li>
+<li> <a href="/wiki/Egyptian_numerals" title="Egyptian numerals">Egyptian</a>
+</li>
+<li> <a href="/wiki/Etruscan_numerals" title="Etruscan numerals">Etruscan</a>
+</li>
+<li> <a href="/w/index.php?title=Inuit_numerals&amp;action=edit&amp;redlink=1" class="new" title="Inuit numerals (page does not exist)">Inuit</a>
+</li>
+<li> <a href="/w/index.php?title=Kharosthi_numerals&amp;action=edit&amp;redlink=1" class="new" title="Kharosthi numerals (page does not exist)">Kharosthi</a>
+</li>
+<li> <a href="/wiki/Maya_numerals" title="Maya numerals">Mayan</a>
+</li>
+<li> <a href="/wiki/Quipu" title="Quipu">Quipu</a>
+</li>
+<li> <strong class="selflink">Roman</strong></td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;;">
+<a href="/wiki/Positional_notation" title="Positional notation">Positional systems</a> by <a href="/wiki/Radix" title="Radix">base</a></th>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<a href="/wiki/Decimal" title="Decimal">Decimal</a> (10)</td>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Unary_numeral_system" title="Unary numeral system">1</a>
+</li>
+<li> <a href="/wiki/Binary_number" title="Binary number">2</a>
+</li>
+<li> <a href="/wiki/Ternary_numeral_system" title="Ternary numeral system">3</a>
+</li>
+<li> <a href="/wiki/Quaternary_numeral_system" title="Quaternary numeral system">4</a>
+</li>
+<li> <a href="/wiki/Quinary" title="Quinary">5</a>
+</li>
+<li> <a href="/wiki/Senary" title="Senary">6</a>
+</li>
+<li> <a href="/wiki/Septenary" title="Septenary">7</a>
+</li>
+<li> <a href="/wiki/Octal" title="Octal">8</a>
+</li>
+<li> <a href="/wiki/Nonary" title="Nonary">9</a>
+</li>
+<li> <a href="/w/index.php?title=Base_11&amp;action=edit&amp;redlink=1" class="new" title="Base 11 (page does not exist)">11</a>
+</li>
+<li> <a href="/wiki/Duodecimal" title="Duodecimal">12</a>
+</li>
+<li> <a href="/wiki/Base_13" title="Base 13">13</a>
+</li>
+<li> <a href="/w/index.php?title=Tetradecimal&amp;action=edit&amp;redlink=1" class="new" title="Tetradecimal (page does not exist)">14</a>
+</li>
+<li> <a href="/w/index.php?title=Pentadecimal&amp;action=edit&amp;redlink=1" class="new" title="Pentadecimal (page does not exist)">15</a>
+</li>
+<li> <a href="/wiki/Hexadecimal" title="Hexadecimal">16</a>
+</li>
+<li> <a href="/wiki/Vigesimal" title="Vigesimal">20</a>
+</li>
+<li> <a href="/w/index.php?title=Base_24&amp;action=edit&amp;redlink=1" class="new" title="Base 24 (page does not exist)">24</a>
+</li>
+<li> <a href="/wiki/Hexavigesimal" title="Hexavigesimal">26</a>
+</li>
+<li> <a href="/wiki/Base_27" title="Base 27">27</a>
+</li>
+<li> <a href="/w/index.php?title=Base_32&amp;action=edit&amp;redlink=1" class="new" title="Base 32 (page does not exist)">32</a>
+</li>
+<li> <a href="/w/index.php?title=Base_36&amp;action=edit&amp;redlink=1" class="new" title="Base 36 (page does not exist)">36</a>
+</li>
+<li> <a href="/wiki/Sexagesimal" title="Sexagesimal">60</a></td>
+</li>
+</ul>
+</tr><tr>
+<td class="" style="padding:0 0.1em 0.4em;;">
+<a href="/w/index.php?title=Non-standard_positional_numeral_systems&amp;action=edit&amp;redlink=1" class="new" title="Non-standard positional numeral systems (page does not exist)">Non-standard positional numeral systems</a></td>
+</tr><tr><td class="" style="padding:0.3em 0.4em 0.3em;font-weight:bold;">
+<a href="/w/index.php?title=List_of_numeral_systems&amp;action=edit&amp;redlink=1" class="new" title="List of numeral systems (page does not exist)">List of numeral systems</a></td>
+     </tr><tr><td style="text-align:right;font-size:115%;"><a href="/w/index.php?title=Template:Navbar&amp;action=edit&amp;redlink=1" class="new" title="Template:Navbar (page does not exist)">Template:Navbar</a></td></tr>
+</table>
+<p><a href="/wiki/Lower_case" title="Lower case" class="mw-redirect">Minuscule</a> (lower case) letters were developed in the Middle Ages, well after the demise of the <a href="/wiki/Western_Roman_Empire" title="Western Roman Empire">Western Roman Empire</a>, and lower-case versions of Roman numbers are now also commonly used: <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <i>etc.</i>  In the Middle Ages, a <i>j</i> was sometimes substituted for the final <i><a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a></i> of a number, such as <i>iij</i> for 3 or <i>vij</i> for 7. This <i>j</i> was considered a <a href="/w/index.php?title=Swash_(typography)&amp;action=edit&amp;redlink=1" class="new" title="Swash (typography) (page does not exist)">swash</a> variant of <i><a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.</i> The use of a final <i>j</i> is still used in <a href="/wiki/Medical_prescription" title="Medical prescription">medical prescriptions</a> to prevent tampering with or misinterpretation of a number after it is written.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</p><p>A unique, more comprehensive shorthand for writing Roman numerals was developed during the Middle Ages, which today are called "medieval Roman numerals." This system used almost every other letter of the Roman alphabet to stand as abbreviations for more longhand numbers (usually those that consisted of repetitions of the same symbol). They are still listed today in most dictionaries, although they are long out of use.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<table class="sortable wikitable">
+
+<tr>
+<th>Modern<br />number
+</th>
+<th>Medieval<br />abbreviation
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>5
+</td>
+<td>A
+</td>
+<td>Resembles an upside-down V. Also said to equal 500.
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>Ϛ
+</td>
+<td>Either a ligature of VI, or the Greek letter <a href="/w/index.php?title=Stigma_(letter)&amp;action=edit&amp;redlink=1" class="new" title="Stigma (letter) (page does not exist)">stigma</a> (Ϛ), having the same  numerical value.<sup id="cite_ref-PropN3218_21-0" class="reference"><a href="#cite_note-PropN3218-21">[21]</a></sup>
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>S, Z
+</td>
+<td>Presumed abbreviation of <i>septem</i>, Latin for 7.
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>O
+</td>
+<td>Presumed abbreviation of (e.g.) <i>onze</i>, French for 11.
+</td></tr>
+<tr>
+<td>40
+</td>
+<td>F
+</td>
+<td>Presumed abbreviation of English <i>forty</i>.
+</td></tr>
+<tr>
+<td>70
+</td>
+<td>S
+</td>
+<td>Also could stand for 7, and has same etymology.
+</td></tr>
+<tr>
+<td>80
+</td>
+<td>R
+</td>
+<td>
+</td></tr>
+<tr>
+<td>90
+</td>
+<td>N
+</td>
+<td>Presumed abbreviation of <i>nonaginta</i>, Latin for 90.
+</td></tr>
+<tr>
+<td>150
+</td>
+<td>Y
+</td>
+<td>Possibly derived from the lowercase y's shape.
+</td></tr>
+<tr>
+<td>151
+</td>
+<td>K
+</td>
+<td>This unusual abbreviation's origin is unknown; it has also been said to stand for 250.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</td></tr>
+<tr>
+<td>160
+</td>
+<td>T
+</td>
+<td>Possibly derived from Greek <i>tetra</i>, as 4 x 40 = 160.
+</td></tr>
+<tr>
+<td>200
+</td>
+<td>H
+</td>
+<td>
+</td></tr>
+<tr>
+<td>250
+</td>
+<td>E
+</td>
+<td>
+</td></tr>
+<tr>
+<td>300
+</td>
+<td>B
+</td>
+<td>
+</td></tr>
+<tr>
+<td>400
+</td>
+<td>P, G
+</td>
+<td>
+</td></tr>
+<tr>
+<td>500
+</td>
+<td>Q
+</td>
+<td>Redundant with D, abbreviation for <i>quingenti</i>, Latin for 500.
+</td></tr>
+<tr>
+<td>2000
+</td>
+<td>Z
+</td>
+<td>
+</td></tr></table>
+<p><a href="/wiki/Chronogram" title="Chronogram">Chronograms</a>, messages with a numbers encoded into them, were popular during the <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a> era.  The chronogram would be a phrase containing the letters <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>, and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.  By putting these letters together, the reader would obtain a number, usually indicating a particular year.
+</p>
+<h3><span class="mw-headline" id="Modern_usage">Modern usage</span></h3>
+<p>By the 11th century <a href="/w/index.php?title=Hindu%E2%80%93Arabic_numerals&amp;action=edit&amp;redlink=1" class="new" title="Hindu–Arabic numerals (page does not exist)">Hindu–Arabic numerals</a> had been introduced into Europe from <a href="/wiki/Al-Andalus" title="Al-Andalus">al-Andalus</a>, by way of <a href="/w/index.php?title=Arab&amp;action=edit&amp;redlink=1" class="new" title="Arab (page does not exist)">Arab</a> traders and arithmetic treatises. Roman numerals however proved very persistent, remaining in common use in the "west" well into the 14th and 15th centuries, even in accounting and other business records (where the actual calculations would have been by <a href="/wiki/Abacus" title="Abacus">abacus</a>). Their eventual <i>almost</i> complete replacement by their more convenient "Arabic" equivalents happened quite gradually, in fact Roman numerals are still used today in several niche contexts. A few examples of their current use are:
+</p>
+<div class="floatright"><a href="/wiki/File:Carlos_IV_Coin.jpg" title="File:Carlos IV Coin.jpg">Spanish Real using &quot;IIII&quot; instead of IV</a></div>
+<ul>
+<li> Names of monarchs and Popes, e.g. <a href="/w/index.php?title=Elizabeth_II&amp;action=edit&amp;redlink=1" class="new" title="Elizabeth II (page does not exist)">Elizabeth II</a> of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, <a href="/wiki/Pope_Benedict_XVI" title="Pope Benedict XVI">Pope Benedict XVI</a>. These are referred to as <a href="/wiki/Regnal_number" title="Regnal number">regnal numbers</a>; e.g. "<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>" is pronounced "the second". This tradition began in Europe sporadically in the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, gaining widespread use in England only during the reign of <a href="/w/index.php?title=Henry_VIII&amp;action=edit&amp;redlink=1" class="new" title="Henry VIII (page does not exist)">Henry VIII</a>. Previously, the monarch was not known by numeral but by an <a href="/wiki/Epithet" title="Epithet">epithet</a> such as <a href="/wiki/Edward_the_Confessor" title="Edward the Confessor">Edward the Confessor</a>. Some monarchs (e.g. <a href="/wiki/Charles_IV_of_Spain" title="Charles IV of Spain">Charles IV of Spain</a> and <a href="/wiki/Louis_XIV_of_France" title="Louis XIV of France">Louis XIV of France</a>) seem to have preferred the use of IIII instead of IV on their coinage - unless this was a whim of the designer.   
+</li>
+<li> <a href="/wiki/Suffix_(name)#Generational_titles" title="Suffix (name)">Generational suffixes</a>, particularly seen in the USA, for people who share the same name across generations, for example <a href="/wiki/William_Howard_Taft_IV" title="William Howard Taft IV">William Howard Taft IV</a>.
+</li>
+<li> The year of production of films, television shows and other works of art within the work itself. It has been suggested (by <a href="/wiki/BBC_News" title="BBC News">BBC News</a>, perhaps facetiously) that this was originally done "in an attempt to disguise the age of films or television programmes."<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> Outside reference to the work will use regular Hindu–Arabic numerals.
+</li>
+<li> Hour marks on timepieces. In this context 4 is usually written <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.
+</li>
+</ul>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:CuttySarkRomNum.jpg" title="File:CuttySarkRomNum.jpg">File:CuttySarkRomNum.jpg</a>  <div class="thumbcaption">Roman numbers on stern of <i><a href="/wiki/Cutty_Sark" title="Cutty Sark">Cutty Sark</a></i>, <a href="/wiki/Greenwich" title="Greenwich">Greenwich</a>, showing <a href="/w/index.php?title=Draft_(hull)&amp;action=edit&amp;redlink=1" class="new" title="Draft (hull) (page does not exist)">draft</a> in feet.</div></div></div>
+<ul>
+<li> The year of construction on building faces and <a href="/wiki/Cornerstone" title="Cornerstone">cornerstones</a>.
+</li>
+<li> Page numbering of prefaces and introductions of books.
+</li>
+<li> Book volume and chapter numbers.
+</li>
+<li> Sequels of movies, video games, and other works. (as in <a href="/w/index.php?title=Jaws_IV&amp;action=edit&amp;redlink=1" class="new" title="Jaws IV (page does not exist)">Jaws IV</a>).
+</li>
+<li> <a href="/w/index.php?title=Outline_(summary)&amp;action=edit&amp;redlink=1" class="new" title="Outline (summary) (page does not exist)">Outlines</a>, which use numbers to show hierarchical relationships.
+</li>
+<li> Occurrences of a recurring grand event, for instance:
+<ul>
+<li> The <a href="/wiki/Summer_Olympic_Games" title="Summer Olympic Games">Summer</a> and <a href="/wiki/Winter_Olympic_Games" title="Winter Olympic Games">Winter Olympic Games</a> (e.g. the XXI Olympic Winter Games; the Games of the XXX Olympiad)
+</li>
+<li> The <a href="/wiki/Super_Bowl" title="Super Bowl">Super Bowl</a>, the annual championship game of the <a href="/wiki/National_Football_League" title="National Football League">National Football League</a> (e.g. Super Bowl XLVII)
+</li>
+<li> <a href="/wiki/WrestleMania" title="WrestleMania">WrestleMania</a>, the annual <a href="/wiki/Professional_wrestling" title="Professional wrestling">professional wrestling</a> event for the <a href="/wiki/WWE" title="WWE">WWE</a> (e.g. the forthcoming <a href="/w/index.php?title=WrestleMania_XXX&amp;action=edit&amp;redlink=1" class="new" title="WrestleMania XXX (page does not exist)">WrestleMania XXX</a>)
+</li>
+</ul>
+</li>
+</ul>
+<p>In <a href="/wiki/Astronomy" title="Astronomy">astronomy</a>, the <a href="/wiki/Natural_satellite" title="Natural satellite">natural satellites</a> or "moons" of the <a href="/wiki/Planet" title="Planet">planets</a> are traditionally designated by capital Roman numerals.
+</p><p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, Roman numerals are often used to denote the <a href="/wiki/Group_(periodic_table)" title="Group (periodic table)">groups</a> of the <a href="/wiki/Periodic_table" title="Periodic table">periodic table</a>. They are also used in the <a href="/w/index.php?title=IUPAC_nomenclature_of_inorganic_chemistry&amp;action=edit&amp;redlink=1" class="new" title="IUPAC nomenclature of inorganic chemistry (page does not exist)">IUPAC nomenclature of inorganic chemistry</a>, for the <a href="/w/index.php?title=Oxidation_number&amp;action=edit&amp;redlink=1" class="new" title="Oxidation number (page does not exist)">oxidation number</a> of <a href="/wiki/Cation" title="Cation" class="mw-redirect">cations</a> which can take on several different positive charges. They are also used for naming <a href="/wiki/Phase_(matter)" title="Phase (matter)">phases</a> of <a href="/w/index.php?title=Polymorphism_(materials_science)&amp;action=edit&amp;redlink=1" class="new" title="Polymorphism (materials science) (page does not exist)">polymorphic</a> <a href="/wiki/Crystal" title="Crystal">crystals</a>, such as <a href="/wiki/Ice" title="Ice">ice</a>.
+</p><p>In earthquake <a href="/wiki/Seismology" title="Seismology">seismology</a>, Roman numerals are used to designate degrees of the <a href="/wiki/Mercalli_intensity_scale" title="Mercalli intensity scale">Mercalli intensity scale</a>.
+</p><p>{{#invoke:anchor|main}}In <a href="/wiki/Music_theory" title="Music theory">music theory</a>, the <a href="/wiki/Diatonic_function" title="Diatonic function">diatonic functions</a> are identified using Roman numerals. See: <a href="/w/index.php?title=Roman_numeral_analysis&amp;action=edit&amp;redlink=1" class="new" title="Roman numeral analysis (page does not exist)">Roman numeral analysis</a>.
+</p><p>In musical performance practice, individual strings of stringed instruments, such as the <a href="/wiki/Violin" title="Violin">violin</a>, are often denoted by Roman numerals, with higher numbers denoting lower strings.
+</p><p>In photography, Roman numerals (with zero) are used to denote varying levels of brightness when using the <a href="/wiki/Zone_System" title="Zone System">Zone System</a>.
+</p><p>In <a href="/wiki/Tarot" title="Tarot">Tarot</a>, Roman numerals (with zero) are also used to denote the cards of the Major Arcana.
+</p>
+<h4><span class="mw-headline" id="Modern_non-English-speaking_usage">Modern non-English-speaking usage</span></h4>
+<p>Capital Roman numerals are still occasionally used to denote <b>centuries</b> (e.g., <i><a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a></i> refers to the eighteenth century) in English. This style is much more widely followed in continental Europe.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Yeltsin-authograph-1988.gif" title="File:Yeltsin-authograph-1988.gif">File:Yeltsin-authograph-1988.gif</a>  <div class="thumbcaption"><a href="/w/index.php?title=Boris_Yeltsin&amp;action=edit&amp;redlink=1" class="new" title="Boris Yeltsin (page does not exist)">Boris Yeltsin</a>'s autograph, 10 November 1988. The month is specified by "<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>" rather than "11".</div></div></div>
+<p>In many European countries mixed Roman and Hindu-Arabic numerals are used to record <b>dates</b> (especially in formal letters and official documents, but also on tombstones). The month is written in Roman numerals while the day is in Hindu-Arabic numerals: 14. <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>. 1789 is 14 June 1789. 
+</p><p>In parts of Europe it is conventional to employ Roman numerals to represent the <i>days of the week</i> in hours-of-operation signs displayed in windows or on doors of businesses,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> and also sometimes in railway and bus timetables. Monday is represented by <i><a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a></i>, which is the initial day of the week. Sunday is represented by <i><a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a></i>, which is the final day of the week. The hours of operation signs are tables composed of two columns where the left column is the day of the week in Roman numerals and the right column is a range of hours of operation from starting time to closing time. The following example hours-of-operation table would be for a business whose hours of operation are 9:30&#160;AM to 5:30&#160;PM on Mondays, Wednesdays, and Thursdays; 9:30&#160;AM to 7:00&#160;PM on Tuesdays and Fridays; and 9:30&#160;AM to 1:00&#160;PM on Saturdays; and which is closed on Sundays.
+</p>
+<table class="wikitable">
+
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> 9:30–17:30
+</td></tr>
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> 9:30–19:00
+</td></tr>
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> 9:30–17:30
+</td></tr>
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> 9:30–17:30
+</td></tr>
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> 9:30–19:00
+</td></tr>
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> 9:30–13:00
+</td></tr>
+<tr>
+<td style="text-align:center;"> <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>
+</td>
+<td align="center"> —
+</td></tr></table>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:S6002447_cropped.jpg" title="File:S6002447 cropped.jpg">File:S6002447 cropped.jpg</a>  <div class="thumbcaption">Sign at km. 17·9 on route SS4 Salaria north of Rome</div></div></div>
+<p>In several European countries Roman numerals are used for <a href="/wiki/Floor_numbering" title="Floor numbering" class="mw-redirect">floor numbering</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>  For instance, apartments in central <a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a> are indicated as <i>138-<a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a></i>, with both an Hindu-Arabic numeral (number of the block or house) and a Roman numeral (floor number). The apartment on the ground floor is indicated as '<span lang="nl">138-huis</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>'.
+</p><p>In <a href="/wiki/Italy" title="Italy">Italy</a>, where roads outside built-up areas have <a href="/wiki/Milestone" title="Milestone">kilometer signs</a>, major roads and motorways also mark 100-metre subdivisionals, using Roman numerals from I to IX for the smaller intervals.  The sign IX | 17 thus marks km. 17·900.
+</p>
+<h2><span class="mw-headline" id="Special_values">Special values</span></h2>
+<h3><span class="mw-headline" id="Zero">Zero</span></h3>
+<p>The number <a href="/wiki/0_(number)" title="0 (number)">zero</a> does not have its own Roman numeral, but the word <i>nulla</i> (the <a href="/wiki/Latin" title="Latin">Latin</a> word meaning "none") was used by medieval <a href="/wiki/Computus" title="Computus">computists</a> in lieu of 0.  <a href="/wiki/Dionysius_Exiguus" title="Dionysius Exiguus">Dionysius Exiguus</a> was known to use <i>nulla</i> alongside Roman numerals in 525.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>  About 725, <a href="/wiki/Bede" title="Bede">Bede</a> or one of his colleagues used the letter <a href="/wiki/N" title="N">N</a>, the initial of <i>nulla</i>, in a table of <a href="/w/index.php?title=Epacts&amp;action=edit&amp;redlink=1" class="new" title="Epacts (page does not exist)">epacts</a>, all written in Roman numerals.<sup id="cite_ref-zero_29-0" class="reference"><a href="#cite_note-zero-29">[29]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Fractions">Fractions</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Vecchi_003.jpg" title="File:Vecchi 003.jpg">File:Vecchi 003.jpg</a>  <div class="thumbcaption">A <span lang="la"><i><a href="/wiki/Triens" title="Triens">triens</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> coin (1/3 or 4/12 of an <span lang="la"><i>as</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>). Note the four dots •••• indicating its value.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Semisse.jpg" title="File:Semisse.jpg">File:Semisse.jpg</a>  <div class="thumbcaption">A <span lang="la"><i><a href="/wiki/Semis" title="Semis">semis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> coin (1/2 or 6/12 of an <span lang="la"><i>as</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>). Note the S indicating its value.</div></div></div>
+<p>Though the Romans used a <a href="/wiki/Decimal" title="Decimal">decimal</a> system for whole numbers, reflecting how they counted in Latin, they used a <a href="/wiki/Duodecimal" title="Duodecimal">duodecimal</a> system for <a href="/w/index.php?title=Rational_number&amp;action=edit&amp;redlink=1" class="new" title="Rational number (page does not exist)">fractions</a>, because the <a href="/wiki/Divisibility" title="Divisibility" class="mw-redirect">divisibility</a> of twelve <span class="nowrap">(12 = 3 × 2 × 2)</span> makes it easier to handle the common <a href="/wiki/Fraction_(mathematics)" title="Fraction (mathematics)">fractions</a> of 1/3 and 1/4 than does a system based on ten <span class="nowrap">(10 = 2 × 5).</span> On <a href="/wiki/Coin" title="Coin">coins</a>, many of which had values that were <a href="/wiki/Duodecimal" title="Duodecimal">duodecimal</a> fractions of the unit <span lang="la"><i><a href="/w/index.php?title=As_(coin)&amp;action=edit&amp;redlink=1" class="new" title="As (coin) (page does not exist)">as</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, they used a tally-like notational system based on twelfths and halves. A dot (•) indicated an <span lang="la"><i>uncia</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> "twelfth", the source of the English words <i>inch</i> and <i>ounce</i>; dots were repeated for fractions up to five twelfths. Six twelfths (one half) was abbreviated as the letter S for <span lang="la"><i>semis</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> "half". <i>Uncia</i> dots were added to S for fractions from seven to eleven twelfths, just as tallies were added to <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> for whole numbers from six to nine.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+</p><p>Each of these fractions had a name, which was also the name of the corresponding coin:
+</p>
+<table class="wikitable">
+
+<tr>
+<th>Fraction
+</th>
+<th>Roman Numeral
+</th>
+<th>Name (nominative and genitive)
+</th>
+<th>Meaning
+</th></tr>
+<tr>
+<td> 1/12
+</td>
+<td> •
+</td>
+<td> <span lang="la"><i><a href="/wiki/Uncia_(coin)" title="Uncia (coin)">uncia, unciae</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "ounce"
+</td></tr>
+<tr>
+<td> 2/12 = 1/6
+</td>
+<td> •• or <b>:</b>
+</td>
+<td> <span lang="la"><i><a href="/wiki/Sextans_(coin)" title="Sextans (coin)">sextans, sextantis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "sixth"
+</td></tr>
+<tr>
+<td> 3/12 = 1/4
+</td>
+<td> ••• or <b>∴</b>
+</td>
+<td> <span lang="la"><i><a href="/wiki/Quadrans" title="Quadrans">quadrans, quadrantis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "quarter"
+</td></tr>
+<tr>
+<td> 4/12 = 1/3
+</td>
+<td> •••• or <b>::</b>
+</td>
+<td> <span lang="la"><i>triens, trientis</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "third"
+</td></tr>
+<tr>
+<td> 5/12
+</td>
+<td> ••••• or <b>:·:</b>
+</td>
+<td> <span lang="la"><i><a href="/wiki/Quincunx_(Roman_coin)" title="Quincunx (Roman coin)">quincunx, quincuncis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "five-ounce" (<i>quinque unciae</i> → <i>quincunx</i>)
+</td></tr>
+<tr>
+<td> 6/12 = 1/2
+</td>
+<td> S
+</td>
+<td> <span lang="la"><i>semis, semissis</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "half"
+</td></tr>
+<tr>
+<td> 7/12
+</td>
+<td> S•
+</td>
+<td> <span lang="la"><i><a href="/w/index.php?title=Septunx&amp;action=edit&amp;redlink=1" class="new" title="Septunx (page does not exist)">septunx, septuncis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "seven-ounce" (<i>septem unciae</i> → <i>septunx</i>)
+</td></tr>
+<tr>
+<td> 8/12 = 2/3
+</td>
+<td> S•• or S<b>:</b>
+</td>
+<td> <span lang="la"><i><a href="/wiki/Bes_(coin)" title="Bes (coin)">bes, bessis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "twice" (as in "twice a third")
+</td></tr>
+<tr>
+<td> 9/12 = 3/4
+</td>
+<td> S••• or S<b>:·</b>
+</td>
+<td> <span lang="la"><i><a href="/w/index.php?title=Dodrans&amp;action=edit&amp;redlink=1" class="new" title="Dodrans (page does not exist)">dodrans, dodrantis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a><br /><b>or</b> <span lang="la"><i>nonuncium, nonuncii</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "less a quarter" (<i>de-quadrans</i> → <i>dodrans</i>)<br /><b>or</b> "ninth ounce" (<i>nona uncia</i> → <i>nonuncium</i>)
+</td></tr>
+<tr>
+<td> 10/12 = 5/6
+</td>
+<td> S•••• or S<b>::</b>
+</td>
+<td> <span lang="la"><i><a href="/w/index.php?title=Dextans&amp;action=edit&amp;redlink=1" class="new" title="Dextans (page does not exist)">dextans, dextantis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a><br /><b>or</b> <span lang="la"><i>decunx, decuncis</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "less a sixth" (<i>de-sextans</i> → <i>dextans</i>)<br /><b>or</b> "ten ounces" (<i>decem unciae</i> → <i>decunx</i>)
+</td></tr>
+<tr>
+<td> 11/12
+</td>
+<td> S••••• or S<b>:·:</b>
+</td>
+<td> <span lang="la"><i><a href="/w/index.php?title=Deunx&amp;action=edit&amp;redlink=1" class="new" title="Deunx (page does not exist)">deunx, deuncis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "less an ounce" (<i>de-uncia</i> → <i>deunx</i>)
+</td></tr>
+<tr>
+<td> 12/12 = 1
+</td>
+<td> I
+</td>
+<td> <span lang="la"><i><a href="/wiki/As_(Roman_coin)" title="As (Roman coin)">as, assis</a></i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>
+</td>
+<td> "unit"
+</td></tr></table>
+<p>The arrangement of the dots was variable and not necessarily linear. Five dots arranged like (:·:) (as on the face of a <a href="/wiki/Dice" title="Dice">die</a>) are known as a <a href="/wiki/Quincunx" title="Quincunx">quincunx</a> from the name of the Roman fraction/coin. The Latin words <i>sextans</i> and <i>quadrans</i> are the source of the English words sextant and quadrant.
+</p><p>Other Roman fractions include the following:
+</p>
+<ul>
+<li> 1/8 <span lang="la"><i>sescuncia, sescunciae</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> (from <i><a href="/wiki/Numeral_prefix" title="Numeral prefix">sesqui-</a></i> + <i>uncia</i>, i.e. 1½ uncias), represented by a sequence of the symbols for the semuncia and the uncia.
+</li>
+<li> 1/24 <span lang="la"><i>semuncia, semunciae</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> (from <i><a href="/wiki/Numeral_prefix" title="Numeral prefix">semi-</a></i> + <i>uncia</i>, i.e. ½ uncia), represented by several variant glyphs deriving from the shape of the <a href="/wiki/Sigma" title="Sigma">Greek letter Sigma</a> (<span class="Unicode">Σ</span>), one variant resembling the <a href="/wiki/Pound_sign" title="Pound sign">pound sign</a> (<span class="Unicode">£</span>) without the horizontal line(s) and another resembling the <a href="/wiki/Ukrainian_Ye" title="Ukrainian Ye">Cyrillic letter (<span class="Unicode">Є</span>)</a>.
+</li>
+<li> 1/36 <span lang="la"><i>binae sextulae, binarum sextularum</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> ("two sextulas") or <span lang="la"><i><a href="/wiki/Duella" title="Duella">duella</a>, duellae</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, represented by (ƧƧ), a sequence of two <a href="/w/index.php?title=%C6%A7&amp;action=edit&amp;redlink=1" class="new" title="Ƨ (page does not exist)">reversed Ss</a>.
+</li>
+<li> 1/48 <span lang="la"><i>sicilicus, sicilici</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, represented by (<span class="Unicode">Ɔ</span>), a reversed C.
+</li>
+<li> 1/72 <span lang="la"><i>sextula, sextulae</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> (1/6 of an uncia), represented by (<span class="Unicode">Ƨ</span>), a reversed S.
+</li>
+<li> 1/144 = 12<sup>−2</sup> <span lang="la"><i>dimidia sextula, dimidiae sextulae</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> ("half a sextula"), represented by (<span class="Unicode">ƻ</span>), a reversed S crossed by a horizontal line.
+</li>
+<li> 1/288 <span lang="la"><i>scripulum, scripuli</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> (a <a href="/wiki/Apothecaries%27_system" title="Apothecaries' system">scruple</a>), represented by the symbol (<span class="Unicode">℈</span>).
+</li>
+<li> 1/1728 = 12<sup>−3</sup> <span lang="la"><i>siliqua, siliquae</i></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, represented by a symbol resembling closing guillemets (<span class="Unicode">»</span>).
+</li>
+</ul>
+<h3><span class="mw-headline" id="Large_numbers">Large numbers</span></h3>
+<p>{{ safesubst:#invoke:Unsubst||$N=Unreferenced section |date=__DATE__ |$B=
+{{ safesubst:#invoke:Unsubst||$N=Unreferenced |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Ambox&amp;action=edit&amp;redlink=1" class="new" title="Template:Ambox (page does not exist)">Template:Ambox</a>
+}}
+}}
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Westerkerk_MDCXXX.jpg" title="File:Westerkerk MDCXXX.jpg">File:Westerkerk MDCXXX.jpg</a>  <div class="thumbcaption">1630 on the <a href="/wiki/Westerkerk" title="Westerkerk">Westerkerk</a> in Amsterdam</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Roman_numerals_Bungus_1584-1585.png" title="File:Roman numerals Bungus 1584-1585.png">File:Roman numerals Bungus 1584-1585.png</a>  <div class="thumbcaption">Roman numerals, 16th century</div></div></div>
+<p>In the Middle Ages, a horizontal line was used above a particular numeral to represent one thousand times that numeral, and additional vertical lines on both sides of the numeral to denote one hundred times the number, as in these examples:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Overline&amp;action=edit&amp;redlink=1" class="new" title="Template:Overline (page does not exist)">Template:Overline</a> for <a href="/wiki/1000_(number)" title="1000 (number)">one thousand</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Overline&amp;action=edit&amp;redlink=1" class="new" title="Template:Overline (page does not exist)">Template:Overline</a> for <a href="/wiki/5000_(number)" title="5000 (number)">five thousand</a>
+</li>
+<li> |<a href="/w/index.php?title=Template:Overline&amp;action=edit&amp;redlink=1" class="new" title="Template:Overline (page does not exist)">Template:Overline</a>| for <a href="/wiki/100000_(number)" title="100000 (number)">one hundred thousand</a>
+</li>
+<li> |<a href="/w/index.php?title=Template:Overline&amp;action=edit&amp;redlink=1" class="new" title="Template:Overline (page does not exist)">Template:Overline</a>| for five hundred thousand
+</li>
+</ul>
+<p>The same overline was also used with a different meaning, to clarify that the characters were numerals. Sometimes both underline and overline were used, e.&#160;g. <u><a href="/w/index.php?title=Template:Overline&amp;action=edit&amp;redlink=1" class="new" title="Template:Overline (page does not exist)">Template:Overline</a></u>, and in certain (<a href="/wiki/Serif" title="Serif">serif</a>) <a href="/wiki/Typeface" title="Typeface">typefaces</a>, particularly <a href="/wiki/Times_New_Roman" title="Times New Roman">Times New Roman</a>, the capital letters when used without spaces simulates the appearance of the under/over bar, e.g. <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a>.
+</p><p>Sometimes 500, usually D, was written as original |Ɔ, while 1,000, usually M, was written as original C|Ɔ. This is a system of encasing numbers to denote thousands (imagine the <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rns</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rns</a> as parentheses), which has its origins in Etruscan numeral usage. The <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> and <a href="/w/index.php?title=Template:Rn&amp;action=edit&amp;redlink=1" class="new" title="Template:Rn (page does not exist)">Template:Rn</a> used to represent 500 and 1,000 were most likely derived from <span class="Unicode">IƆ</span> and <span class="Unicode">CIƆ</span>, respectively, and subsequently influenced by assumed abbreviations.
+</p><p>An extra <span class="Unicode">Ɔ</span> denoted 500, and multiple extra <span class="Unicode">Ɔ</span>s are used to denote 5,000, 50,000, etc. For example:
+</p>
+<table class="wikitable Unicode">
+
+<tr>
+<th>Base number
+</th>
+<td align="right">&#160;
+</td>
+<td align="right">CIƆ = 1,000
+</td>
+<td align="right">CCIƆƆ = 10,000
+</td>
+<td align="right">CCCIƆƆƆ = 100,000
+</td></tr>
+<tr>
+<th>1 extra Ɔ
+</th>
+<td align="right">IƆ = 500
+</td>
+<td align="right">CIƆƆ = 1,500
+</td>
+<td align="right">CCIƆƆƆ = 10,500
+</td>
+<td align="right">CCCIƆƆƆƆ = 100,500
+</td></tr>
+<tr>
+<th>2 extra Ɔs
+</th>
+<td align="right">IƆƆ = 5,000
+</td>
+<td align="right">&#160;
+</td>
+<td align="right">CCIƆƆƆƆ = 15,000
+</td>
+<td align="right">CCCIƆƆƆƆƆ = 105,000
+</td></tr>
+<tr>
+<th>3 extra Ɔs
+</th>
+<td align="right">IƆƆƆ = 50,000
+</td>
+<td align="right">&#160;
+</td>
+<td align="right">&#160;
+</td>
+<td align="right">CCCIƆƆƆƆƆƆ = 150,000
+</td></tr></table>
+<p>Sometimes <span class="Unicode">CIƆ</span> was reduced to <span class="Unicode">ↀ</span> for 1,000. <a href="/wiki/John_Wallis" title="John Wallis">John Wallis</a> is often credited for introducing the symbol for <a href="/w/index.php?title=Infinity&amp;action=edit&amp;redlink=1" class="new" title="Infinity (page does not exist)">infinity</a> (modern <span class="Unicode">∞</span>), and one conjecture is that he based it on this usage, since 1,000 was <a href="/wiki/Hyperbole" title="Hyperbole">hyperbolically</a> used to represent very large numbers. Similarly, <span class="Unicode">IƆƆ</span> for 5,000 was reduced to <span class="Unicode">ↁ</span>; <span class="Unicode">CCIƆƆ</span> for 10,000 to <span class="Unicode">ↂ</span>; <span class="Unicode">IƆƆƆ</span> for 50,000 to <span class="Unicode">ↇ</span>; and <span class="Unicode">CCCIƆƆƆ</span> for 100,000 to <span class="Unicode">ↈ</span>.
+<br style="clear:both;" />
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/wiki/Etruscan_numerals" title="Etruscan numerals">Etruscan numerals</a>
+</li>
+<li> <a href="/wiki/Kharosthi#Numerals" title="Kharosthi">Kharosthi</a>
+</li>
+<li> <a href="/wiki/Roman_abacus" title="Roman abacus">Roman abacus</a>
+</li>
+<li> <a href="/w/index.php?title=Unicode_numerals&amp;action=edit&amp;redlink=1" class="new" title="Unicode numerals (page does not exist)">Roman numerals in Unicode</a>
+</li>
+<li> <a href="/w/index.php?title=Urnfield_culture_numerals&amp;action=edit&amp;redlink=1" class="new" title="Urnfield culture numerals (page does not exist)">Urnfield culture numerals</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.ubr.com/clocks/faq/iiii.html">FAQ No. 1 Why do clocks with Roman numerals use "IIII" instead of "IV"?: </a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.greatmathsgames.com/roman_numerals/roman_numerals.htm">Child friendly roman numerals webquest</a>
+</li>
+<li> <a href="/w/index.php?title=File:Bescherelle_-_Grammaire_nationale.djvu&amp;action=edit&amp;redlink=1" class="new" title="File:Bescherelle - Grammaire nationale.djvu (page does not exist)">French book with 841 chapters, numbered up to DCCCXLI</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://sites.google.com/site/periczeljkosmederevoenglish/matematika/roman-ad-arabic-numerus-racio-et-vice-versa">Roman ad Arabic numerus racio et vice versa</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://cutedgesoft.com/our-products/cescnc-numerical-converter">CESCNC - a handy and easy-to use numeral converter</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://do-skoly.cz/en/courses/math/m-1/roman-arabic-numbers/calculator.aspx">Online converter of Roman numerals into Arabic numbers with check of correct notation and random tests</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Latin_alphabet&amp;action=edit&amp;redlink=1" class="new" title="Template:Latin alphabet (page does not exist)">Template:Latin alphabet</a>
+<a href="/w/index.php?title=Template:Ancient_Rome_topics&amp;action=edit&amp;redlink=1" class="new" title="Template:Ancient Rome topics (page does not exist)">Template:Ancient Rome topics</a>
+<a href="/w/index.php?title=Template:List_of_writing_systems&amp;action=edit&amp;redlink=1" class="new" title="Template:List of writing systems (page does not exist)">Template:List of writing systems</a>
+</p><p><a href="/w/index.php?title=Template:Use_mdy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use mdy dates (page does not exist)">Template:Use mdy dates</a><a href="/w/index.php?title=Template:Link_GA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link GA (page does not exist)">Template:Link GA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 1.064 seconds
+Real time usage: 1.288 seconds
+Preprocessor visited node count: 2153/1000000
+Preprocessor generated node count: 14222/1000000
+Post‐expand include size: 17212/2097152 bytes
+Template argument size: 4767/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:16853-0!*!0!!en!2!* and timestamp 20170407172849
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Roman_numerals&amp;oldid=16853">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Roman_numerals&amp;oldid=16853</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_template_with_no_category_set&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category template with no category set (page does not exist)">Commons category template with no category set</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_page_title_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with page title different than on Wikidata (page does not exist)">Commons category with page title different than on Wikidata</a></li><li><a href="/w/index.php?title=Category:Numerals&amp;action=edit&amp;redlink=1" class="new" title="Category:Numerals (page does not exist)">Numerals</a></li><li><a href="/w/index.php?title=Category:Numeral_systems&amp;action=edit&amp;redlink=1" class="new" title="Category:Numeral systems (page does not exist)">Numeral systems</a></li><li><a href="/w/index.php?title=Category:Roman_mathematics&amp;action=edit&amp;redlink=1" class="new" title="Category:Roman mathematics (page does not exist)">Roman mathematics</a></li><li><a href="/wiki/Category:Latin_alphabet" title="Category:Latin alphabet">Latin alphabet</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Roman+numerals" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Roman_numerals"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Roman_numerals&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Roman_numerals" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Roman_numerals&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Roman_numerals&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Roman_numerals" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Roman_numerals" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Roman_numerals&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Roman_numerals&amp;oldid=16853" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Roman_numerals&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2014, at 16:13.</li>
+											<li id="footer-info-viewcount">This page has been accessed 93 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.773 secs. -->
+	</body>
+</html>

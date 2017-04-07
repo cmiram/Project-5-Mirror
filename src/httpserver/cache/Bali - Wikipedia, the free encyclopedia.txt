@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Bali - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bali","wgTitle":"Bali","wgCurRevisionId":2397,"wgRevisionId":2397,"wgArticleId":2397,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Bali","Lesser Sunda Islands"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bali","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bali skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Bali</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<a href="/w/index.php?title=Template:EngvarB&amp;action=edit&amp;redlink=1" class="new" title="Template:EngvarB (page does not exist)">Template:EngvarB</a>
+<a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+{{#invoke:Infobox|infobox}}
+</p><p><b>Bali</b> is an island and the smallest province of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>, and includes a few smaller neighbouring islands, notably <a href="/w/index.php?title=Nusa_Penida&amp;action=edit&amp;redlink=1" class="new" title="Nusa Penida (page does not exist)">Nusa Penida</a>. It is located at the westernmost end of the <a href="/wiki/Lesser_Sunda_Islands" title="Lesser Sunda Islands">Lesser Sunda Islands</a>, between <a href="/w/index.php?title=Java_(island)&amp;action=edit&amp;redlink=1" class="new" title="Java (island) (page does not exist)">Java</a> to the west and <a href="/wiki/Lombok" title="Lombok">Lombok</a> to the east, and has its capital of <a href="/wiki/Denpasar" title="Denpasar">Denpasar</a> at the southern part of the island.
+</p><p>With a population of 3,890,757 in the 2010 census,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and currently 4.22 million,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> the island is home to most of <a href="/wiki/Hinduism_in_Indonesia" title="Hinduism in Indonesia">Indonesia's Hindu minority</a>. According to the 2010 Census, 84.5% of Bali's population adhered to <a href="/wiki/Balinese_Hinduism" title="Balinese Hinduism">Balinese Hinduism</a>,<sup id="cite_ref-census2010_3-0" class="reference"><a href="#cite_note-census2010-3">[3]</a></sup> 12% to <a href="/w/index.php?title=Islam&amp;action=edit&amp;redlink=1" class="new" title="Islam (page does not exist)">Islam</a>, while most of the remainder followed <a href="/wiki/Christianity" title="Christianity">Christianity</a>. Bali is also the largest tourist destination in the country and is renowned for its highly developed arts, including <a href="/w/index.php?title=Balinese_dance&amp;action=edit&amp;redlink=1" class="new" title="Balinese dance (page does not exist)">traditional and modern dance</a>, sculpture, painting, leather, <a href="/wiki/Metalworking" title="Metalworking">metalworking</a>, and <a href="/wiki/Balinese_music" title="Balinese music" class="mw-redirect">music</a>. A tourist haven for decades, the province has seen a further surge in tourist numbers in recent years.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ecology"><span class="tocnumber">3</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Environment"><span class="tocnumber">4</span> <span class="toctext">Environment</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Administrative_divisions"><span class="tocnumber">5</span> <span class="toctext">Administrative divisions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Economy"><span class="tocnumber">6</span> <span class="toctext">Economy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Agriculture"><span class="tocnumber">6.1</span> <span class="toctext">Agriculture</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Tourism"><span class="tocnumber">6.2</span> <span class="toctext">Tourism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Transportation"><span class="tocnumber">7</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Demographics"><span class="tocnumber">8</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Ethnic_origins"><span class="tocnumber">8.1</span> <span class="toctext">Ethnic origins</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Caste_system"><span class="tocnumber">8.2</span> <span class="toctext">Caste system</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Religion"><span class="tocnumber">8.3</span> <span class="toctext">Religion</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Language"><span class="tocnumber">8.4</span> <span class="toctext">Language</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Culture"><span class="tocnumber">9</span> <span class="toctext">Culture</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Gallery"><span class="tocnumber">10</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Sports"><span class="tocnumber">11</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Heritage_sites"><span class="tocnumber">12</span> <span class="toctext">Heritage sites</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Beauty_Pageant"><span class="tocnumber">13</span> <span class="toctext">Beauty Pageant</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Bibliography"><span class="tocnumber">16</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Further_reading"><span class="tocnumber">17</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">18</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>Bali was inhabited around 2000 BC by <a href="/w/index.php?title=Austronesian_people&amp;action=edit&amp;redlink=1" class="new" title="Austronesian people (page does not exist)">Austronesian people</a> who migrated originally from Southeast Asia and Oceania through <a href="/wiki/Maritime_Southeast_Asia" title="Maritime Southeast Asia">Maritime Southeast Asia</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-Hinzler_5-0" class="reference"><a href="#cite_note-Hinzler-5">[5]</a></sup> Culturally and linguistically, the Balinese are thus closely related to the people of the Indonesian archipelago, Malaysia, the Philippines, and Oceania.<sup id="cite_ref-Hinzler_5-1" class="reference"><a href="#cite_note-Hinzler-5">[5]</a></sup> Stone tools dating from this time have been found near the village of Cekik in the island's west.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-Lonely_7-0" class="reference"><a href="#cite_note-Lonely-7">[7]</a></sup>
+</p><p>In ancient Bali, nine Hindu sects existed, namely Pasupata, Bhairawa, Siwa Shidanta, Waisnawa, Bodha, Brahma, Resi, Sora and Ganapatya. Each sect revered a specific deity as its personal Godhead.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+</p><p>Balinese culture was strongly influenced by Indian, Chinese, and particularly <a href="/wiki/Hindu" title="Hindu">Hindu</a> culture, beginning around the 1st century AD. The name <i>Bali dwipa</i> ("Bali island") has been discovered from various inscriptions, including the Blanjong pillar inscription written by <a href="/w/index.php?title=Sri_Kesari_Warmadewa&amp;action=edit&amp;redlink=1" class="new" title="Sri Kesari Warmadewa (page does not exist)">Sri Kesari Warmadewa</a> in 914 AD and mentioning "Walidwipa". It was during this time that the complex irrigation system <i><a href="/w/index.php?title=Subak_(irrigation)&amp;action=edit&amp;redlink=1" class="new" title="Subak (irrigation) (page does not exist)">subak</a></i> was developed to grow rice. Some religious and cultural traditions still in existence today can be traced back to this period. The Hindu <a href="/w/index.php?title=Majapahit_Empire&amp;action=edit&amp;redlink=1" class="new" title="Majapahit Empire (page does not exist)">Majapahit Empire</a> (1293–1520 AD) on eastern <a href="/w/index.php?title=Java_(island)&amp;action=edit&amp;redlink=1" class="new" title="Java (island) (page does not exist)">Java</a> founded a Balinese colony in 1343. When the empire declined, there was an exodus of intellectuals, artists, priests, and musicians from Java to Bali in the 15th century.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Balinese_sculpture_with_umbrella.JPG" title="File:Balinese sculpture with umbrella.JPG">File:Balinese sculpture with umbrella.JPG</a>  <div class="thumbcaption">At religious festivals on Bali the sculptures get dressed up and umbrellas are placed by the temples.</div></div></div>
+<p>The first <a href="/w/index.php?title=European_ethnic_groups&amp;action=edit&amp;redlink=1" class="new" title="European ethnic groups (page does not exist)">European</a> contact with Bali is thought to have been made in 1585 when a Portuguese ship foundered off the <a href="/w/index.php?title=Bukit_Peninsula&amp;action=edit&amp;redlink=1" class="new" title="Bukit Peninsula (page does not exist)">Bukit Peninsula</a> and left a few Portuguese in the service of <a href="/w/index.php?title=Dewa_Agung&amp;action=edit&amp;redlink=1" class="new" title="Dewa Agung (page does not exist)">Dewa Agung</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In 1597 the Dutch explorer <a href="/wiki/Cornelis_de_Houtman" title="Cornelis de Houtman">Cornelis de Houtman</a> arrived at Bali and, with the establishment of the <a href="/wiki/Dutch_East_India_Company" title="Dutch East India Company">Dutch East India Company</a> in 1602, the stage was set for colonial control two and a half centuries later when Dutch control expanded across the Indonesian archipelago throughout the second half of the 19th century (see <a href="/w/index.php?title=Dutch_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Dutch East Indies (page does not exist)">Dutch East Indies</a>). Dutch political and economic control over Bali began in the 1840s on the island's north coast, when the Dutch pitted various distrustful Balinese realms against each other.<sup id="cite_ref-ctpqur_10-0" class="reference"><a href="#cite_note-ctpqur-10">[10]</a></sup> In the late 1890s, struggles between Balinese kingdoms in the island's south were exploited by the Dutch to increase their control.
+</p><p>In June 1860 the famous English naturalist <a href="/wiki/Alfred_Russel_Wallace" title="Alfred Russel Wallace">Alfred Russel Wallace</a> travelled to Bali from Singapore landing at Bileling on the northcoast of the island. Wallace's trip to Bali was instrumental in helping him devise his <a href="/wiki/Wallace_Line" title="Wallace Line">Wallace Line</a> theory. The Wallace Line is a faunal boundary that run through the strait between Bali and Lombok, which, though a short distance, is a boundary between species of Asiatic origin in the east and a mixture of Australian and Asian species to the west. In his travel memoir <a href="/w/index.php?title=%27%27The_Malay_Archipelago%27%27&amp;action=edit&amp;redlink=1" class="new" title="''The Malay Archipelago'' (page does not exist)">''The Malay Archipelago''</a> Wallace writes of his experience in Bali:
+</p>
+<blockquote>I was both astonished and delighted; for as my visit to Java was some years later, I had never beheld so beautiful and well-cultivated a district out of Europe. A slightly undulating plain extends from the seacoast about ten or twelve miles inland, where it is bounded by a fine range of wooded and cultivated hills. Houses and villages, marked out by dense clumps of coconut palms, tamarind and other fruit trees, are dotted about in every direction; while between them extend luxurious rice-grounds, watered by an elaborate system of irrigation that would be the pride of the best cultivated parts of Europe.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </blockquote>
+<p>The Dutch mounted large naval and ground <a href="/w/index.php?title=Dutch_intervention_in_Bali_(1906)&amp;action=edit&amp;redlink=1" class="new" title="Dutch intervention in Bali (1906) (page does not exist)">assaults at the Sanur region</a> in 1906 and were met by the thousands of members of the royal family and their followers who fought against the superior Dutch force in a suicidal <i><a href="/w/index.php?title=Puputan&amp;action=edit&amp;redlink=1" class="new" title="Puputan (page does not exist)">puputan</a></i> defensive assault rather than face the humiliation of surrender.<sup id="cite_ref-ctpqur_10-1" class="reference"><a href="#cite_note-ctpqur-10">[10]</a></sup> Despite Dutch demands for surrender, an estimated 200 Balinese marched to their death against the invaders.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> In the <a href="/w/index.php?title=Dutch_intervention_in_Bali_(1908)&amp;action=edit&amp;redlink=1" class="new" title="Dutch intervention in Bali (1908) (page does not exist)">Dutch intervention in Bali</a>, a similar massacre occurred in the face of a Dutch assault in <a href="/w/index.php?title=Klungkung&amp;action=edit&amp;redlink=1" class="new" title="Klungkung (page does not exist)">Klungkung</a>. Afterwards the Dutch governors were able to exercise administrative control over the island, but local control over religion and culture generally remained intact. Dutch rule over Bali came later and was never as well established as in other parts of Indonesia such as Java and <a href="/wiki/Maluku_Islands" title="Maluku Islands">Maluku</a>.
+</p><p>In the 1930s, anthropologists <a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a> and <a href="/wiki/Gregory_Bateson" title="Gregory Bateson">Gregory Bateson</a>, and artists <a href="/w/index.php?title=Miguel_Covarrubias&amp;action=edit&amp;redlink=1" class="new" title="Miguel Covarrubias (page does not exist)">Miguel Covarrubias</a> and <a href="/wiki/Walter_Spies" title="Walter Spies">Walter Spies</a>, and musicologist <a href="/wiki/Colin_McPhee" title="Colin McPhee">Colin McPhee</a> created a western image of Bali as "an enchanted land of <a href="/wiki/Aesthetics" title="Aesthetics">aesthetes</a> at peace with themselves and nature", and western tourism first developed on the island.<sup id="cite_ref-Friend_13-0" class="reference"><a href="#cite_note-Friend-13">[13]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Balinese_dancers.jpg" title="File:Balinese dancers.jpg">File:Balinese dancers.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Balinese_dance&amp;action=edit&amp;redlink=1" class="new" title="Balinese dance (page does not exist)">Balinese dancers</a> show for tourists, in <a href="/wiki/Ubud" title="Ubud">Ubud</a>.</div></div></div>
+<p><a href="/w/index.php?title=Imperial_Japan&amp;action=edit&amp;redlink=1" class="new" title="Imperial Japan (page does not exist)">Imperial Japan</a> occupied Bali during World War II. Bali Island was not originally a target in their Netherlands East Indies Campaign, but as the airfields on <a href="/wiki/Borneo" title="Borneo">Borneo</a> were inoperative due to heavy rains the <a href="/wiki/Imperial_Japanese_Army" title="Imperial Japanese Army">Imperial Japanese Army</a> decided to occupy Bali, which did not suffer from comparable weather. The island had no regular <a href="/wiki/Royal_Netherlands_East_Indies_Army" title="Royal Netherlands East Indies Army">Royal Netherlands East Indies Army</a> (KNIL) troops. There was only a Native Auxiliary Corps <i>Prajoda</i> (Korps Prajoda) consisting of about 600 native soldiers and several Dutch KNIL officers under command of KNIL Lieutenant Colonel W.P. Roodenburg. On 19 February 1942 the Japanese forces landed near the town of Senoer [Senur]. The island was quickly captured.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</p><p>During the Japanese occupation a Balinese military officer, <a href="/w/index.php?title=I_Gusti_Ngurah_Rai&amp;action=edit&amp;redlink=1" class="new" title="I Gusti Ngurah Rai (page does not exist)">Gusti Ngurah Rai</a>, formed a Balinese 'freedom army'. The lack of institutional changes from the time of Dutch rule however, and the harshness of war requisitions made Japanese rule worse than the Dutch one.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Following Japan's Pacific surrender in August 1945, the Dutch promptly returned to Indonesia, including Bali, immediately to reinstate their pre-war colonial administration. This was resisted by the Balinese rebels now using Japanese weapons. On 20 November 1946, the <a href="/w/index.php?title=Battle_of_Marga&amp;action=edit&amp;redlink=1" class="new" title="Battle of Marga (page does not exist)">Battle of Marga</a> was fought in Tabanan in central Bali. Colonel I Gusti Ngurah Rai, by then 29 years old, finally rallied his forces in east Bali at Marga Rana, where they made a <a href="/w/index.php?title=Suicide_attack&amp;action=edit&amp;redlink=1" class="new" title="Suicide attack (page does not exist)">suicide attack</a> on the heavily armed Dutch. The Balinese battalion was entirely wiped out, breaking the last thread of Balinese military resistance. In 1946 the Dutch constituted Bali as one of the 13 administrative districts of the newly proclaimed <a href="/w/index.php?title=State_of_East_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="State of East Indonesia (page does not exist)">State of East Indonesia</a>, a rival state to the Republic of Indonesia which was proclaimed and headed by <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a> and <a href="/wiki/Mohammad_Hatta" title="Mohammad Hatta">Hatta</a>. Bali was included in the "Republic of the United States of Indonesia" when the Netherlands recognised Indonesian independence on 29 December 1949.
+</p><p>The 1963 eruption of <a href="/wiki/Mount_Agung" title="Mount Agung">Mount Agung</a> killed thousands, created economic havoc and forced many displaced Balinese to be <i><a href="/wiki/Transmigration_program" title="Transmigration program">transmigrated</a></i> to other parts of Indonesia. Mirroring the widening of social divisions across Indonesia in the 1950s and early 1960s, Bali saw conflict between supporters of the traditional <a href="/wiki/Caste_system" title="Caste system" class="mw-redirect">caste system</a>, and those rejecting these traditional values. Politically, the opposition was represented by supporters of the <a href="/w/index.php?title=Indonesian_Communist_Party&amp;action=edit&amp;redlink=1" class="new" title="Indonesian Communist Party (page does not exist)">Indonesian Communist Party</a> (PKI) and the <a href="/w/index.php?title=Indonesian_Nationalist_Party&amp;action=edit&amp;redlink=1" class="new" title="Indonesian Nationalist Party (page does not exist)">Indonesian Nationalist Party</a> (PNI), with tensions and ill-feeling further increased by the PKI's land reform programs.<sup id="cite_ref-ctpqur_10-2" class="reference"><a href="#cite_note-ctpqur-10">[10]</a></sup> <a href="/w/index.php?title=30_September_Movement&amp;action=edit&amp;redlink=1" class="new" title="30 September Movement (page does not exist)">An attempted coup</a> in Jakarta was put down by forces led by General Suharto. The army became the dominant power as it instigated <a href="/w/index.php?title=Indonesian_killings_of_1965%E2%80%9366&amp;action=edit&amp;redlink=1" class="new" title="Indonesian killings of 1965–66 (page does not exist)">a violent anti-communist purge</a>, in which the army blamed the PKI for the coup. Most estimates suggest that at least 500,000 people were killed across Indonesia, with an estimated 80,000 killed in Bali, equivalent to 5% of the island's population.<sup id="cite_ref-ctpqur_10-3" class="reference"><a href="#cite_note-ctpqur-10">[10]</a></sup><sup id="cite_ref-Friend_13-1" class="reference"><a href="#cite_note-Friend-13">[13]</a></sup><sup id="cite_ref-Ricklefs_16-0" class="reference"><a href="#cite_note-Ricklefs-16">[16]</a></sup> With no Islamic forces involved as in Java and Sumatra, upper-caste PNI landlords led the extermination of PKI members.<sup id="cite_ref-Ricklefs_16-1" class="reference"><a href="#cite_note-Ricklefs-16">[16]</a></sup>
+</p><p>As a result of the 1965/66 upheavals, Suharto was able to manoeuvre Sukarno <a href="/w/index.php?title=Transition_to_the_New_Order&amp;action=edit&amp;redlink=1" class="new" title="Transition to the New Order (page does not exist)">out of the presidency</a>, and his <a href="/w/index.php?title=New_Order_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="New Order (Indonesia) (page does not exist)">"New Order"</a> government reestablished relations with western countries. The pre-War Bali as "paradise" was revived in a modern form, and the resulting large growth in tourism has led to a dramatic increase in Balinese standards of living and significant foreign exchange earned for the country.<sup id="cite_ref-ctpqur_10-4" class="reference"><a href="#cite_note-ctpqur-10">[10]</a></sup> <a href="/wiki/2002_Bali_bombings" title="2002 Bali bombings">A bombing in 2002</a> by militant <a href="/wiki/Islamist" title="Islamist" class="mw-redirect">Islamists</a> in the tourist area of <a href="/w/index.php?title=Kuta&amp;action=edit&amp;redlink=1" class="new" title="Kuta (page does not exist)">Kuta</a> killed 202 people, mostly foreigners. This attack, and <a href="/w/index.php?title=2005_Bali_bombings&amp;action=edit&amp;redlink=1" class="new" title="2005 Bali bombings (page does not exist)">another in 2005</a>, severely affected tourism, bringing much economic hardship to the island.
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bali_Labeled.png" title="File:Bali Labeled.png">File:Bali Labeled.png</a>  <div class="thumbcaption">Topography of the island</div></div></div>
+<p>The island of Bali lies 3.2&#160;km (2&#160;mi) east of <a href="/w/index.php?title=Java_(island)&amp;action=edit&amp;redlink=1" class="new" title="Java (island) (page does not exist)">Java</a>, and is approximately <a href="/w/index.php?title=8th_parallel_south&amp;action=edit&amp;redlink=1" class="new" title="8th parallel south (page does not exist)">8 degrees south</a> of the <a href="/w/index.php?title=Equator&amp;action=edit&amp;redlink=1" class="new" title="Equator (page does not exist)">equator</a>. Bali and Java are separated by the <a href="/w/index.php?title=Bali_Strait&amp;action=edit&amp;redlink=1" class="new" title="Bali Strait (page does not exist)">Bali Strait</a>. East to west, the island is approximately 153&#160;km (95&#160;mi) wide and spans approximately 112&#160;km (69&#160;mi) north to south; administratively it covers 5,780&#160;km<sup>2</sup>, or 5,577&#160;km<sup>2</sup> without <a href="/w/index.php?title=Nusa_Penida&amp;action=edit&amp;redlink=1" class="new" title="Nusa Penida (page does not exist)">Nusa Penida</a> District,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> its population density is roughly 750 people/km<sup>2</sup>.
+</p><p>Bali's central mountains include several peaks over 3,000 metres in elevation. The highest is <a href="/wiki/Mount_Agung" title="Mount Agung">Mount Agung</a> (3,031 m), known as the "mother mountain" which is an active <a href="/wiki/Volcano" title="Volcano">volcano</a>. Mountains range from centre to the eastern side, with Mount Agung the easternmost peak. Bali's volcanic nature has contributed to its exceptional fertility and its tall mountain ranges provide the high rainfall that supports the highly productive agriculture sector. South of the mountains is a broad, steadily descending area where most of Bali's large rice crop is grown. The northern side of the mountains slopes more steeply to the sea and is the main coffee producing area of the island, along with rice, vegetables and cattle. The longest river, <a href="/w/index.php?title=Ayung_River&amp;action=edit&amp;redlink=1" class="new" title="Ayung River (page does not exist)">Ayung River</a>, flows approximately 75&#160;km.
+</p><p>The island is surrounded by <a href="/wiki/Coral_reefs" title="Coral reefs" class="mw-redirect">coral reefs</a>. Beaches in the south tend to have white sand while those in the north and west have <a href="/wiki/Black_sand" title="Black sand">black sand</a>. Bali has no major waterways, although the Ho River is navigable by small <i><a href="/wiki/Sampan" title="Sampan">sampan</a></i> boats. Black sand beaches between Pasut and Klatingdukuh are being developed for tourism, but apart from the seaside temple of <a href="/w/index.php?title=Tanah_Lot&amp;action=edit&amp;redlink=1" class="new" title="Tanah Lot (page does not exist)">Tanah Lot</a>, they are not yet used for significant tourism.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:1_Tegalalang_rice_terrace_ubud_bali.jpg" title="File:1 Tegalalang rice terrace ubud bali.jpg">File:1 Tegalalang rice terrace ubud bali.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Subak_(irrigation)&amp;action=edit&amp;redlink=1" class="new" title="Subak (irrigation) (page does not exist)">Subak</a> irrigation system</div></div></div>
+<p>The largest city is the provincial capital, <a href="/wiki/Denpasar" title="Denpasar">Denpasar</a>, near the southern coast. Its population is around 491,500 (2002). Bali's second-largest city is the old colonial capital, <a href="/w/index.php?title=Singaraja&amp;action=edit&amp;redlink=1" class="new" title="Singaraja (page does not exist)">Singaraja</a>, which is located on the north coast and is home to around 100,000 people. Other important cities include the beach resort, <a href="/w/index.php?title=Kuta&amp;action=edit&amp;redlink=1" class="new" title="Kuta (page does not exist)">Kuta</a>, which is practically part of Denpasar's urban area, and <a href="/wiki/Ubud" title="Ubud">Ubud</a>, situated at the north of Denpasar, is the island's cultural centre.
+</p><p>Three small islands lie to the immediate south east and all are administratively part of the <a href="/w/index.php?title=Klungkung&amp;action=edit&amp;redlink=1" class="new" title="Klungkung (page does not exist)">Klungkung</a> regency of Bali: <a href="/w/index.php?title=Nusa_Penida&amp;action=edit&amp;redlink=1" class="new" title="Nusa Penida (page does not exist)">Nusa Penida</a>, <a href="/w/index.php?title=Nusa_Lembongan&amp;action=edit&amp;redlink=1" class="new" title="Nusa Lembongan (page does not exist)">Nusa Lembongan</a> and <a href="/w/index.php?title=Nusa_Ceningan&amp;action=edit&amp;redlink=1" class="new" title="Nusa Ceningan (page does not exist)">Nusa Ceningan</a>. These islands are separated from Bali by the Badung Strait.
+</p><p>To the east, the <a href="/wiki/Lombok_Strait" title="Lombok Strait">Lombok Strait</a> separates Bali from <a href="/wiki/Lombok" title="Lombok">Lombok</a> and marks the <a href="/wiki/Biogeography" title="Biogeography">biogeographical</a> division between the fauna of the <a href="/w/index.php?title=Indomalaya&amp;action=edit&amp;redlink=1" class="new" title="Indomalaya (page does not exist)">Indomalayan</a> <a href="/wiki/Ecozone" title="Ecozone">ecozone</a> and the distinctly different fauna of <a href="/w/index.php?title=Australasia&amp;action=edit&amp;redlink=1" class="new" title="Australasia (page does not exist)">Australasia</a>. The transition is known as the <a href="/wiki/Wallace_Line" title="Wallace Line">Wallace Line</a>, named after <a href="/wiki/Alfred_Russel_Wallace" title="Alfred Russel Wallace">Alfred Russel Wallace</a>, who first proposed a transition zone between these two major <a href="/wiki/Biome" title="Biome">biomes</a>. When sea levels dropped during the <a href="/w/index.php?title=Quaternary_glaciation&amp;action=edit&amp;redlink=1" class="new" title="Quaternary glaciation (page does not exist)">Pleistocene ice age</a>, Bali was connected to Java and <a href="/wiki/Sumatra" title="Sumatra">Sumatra</a> and to the mainland of Asia and shared the Asian fauna, but the deep water of the Lombok Strait continued to keep Lombok Island and the <a href="/wiki/Lesser_Sunda_Islands" title="Lesser Sunda Islands">Lesser Sunda archipelago</a> isolated.
+</p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span></h2>
+<p><a href="/w/index.php?title=Template:Refimprove_section&amp;action=edit&amp;redlink=1" class="new" title="Template:Refimprove section (page does not exist)">Template:Refimprove section</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Bali_Mynah_-_Houston_Zoo.jpg" title="File:Bali Mynah - Houston Zoo.jpg">File:Bali Mynah - Houston Zoo.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Bali_Starling&amp;action=edit&amp;redlink=1" class="new" title="Bali Starling (page does not exist)">Bali Starling</a> is found only on Bali and is critically endangered.</div></div></div>
+<p>Bali lies just to the west of the <a href="/wiki/Wallace_Line" title="Wallace Line">Wallace Line</a>, and thus has a fauna that is Asian in character, with very little Australasian influence, and has more in common with Java than with Lombok.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}  An exception is the <a href="/wiki/Yellow-crested_Cockatoo" title="Yellow-crested Cockatoo">Yellow-crested Cockatoo</a>, a member of a primarily Australasian family. There are around 280 species of birds, including the critically endangered <a href="/w/index.php?title=Bali_Starling&amp;action=edit&amp;redlink=1" class="new" title="Bali Starling (page does not exist)">Bali Starling</a>, which is <a href="/wiki/Endemism" title="Endemism">endemic</a>. Others Include <a href="/wiki/Barn_Swallow" title="Barn Swallow">Barn Swallow</a>, <a href="/w/index.php?title=Black-naped_Oriole&amp;action=edit&amp;redlink=1" class="new" title="Black-naped Oriole (page does not exist)">Black-naped Oriole</a>, <a href="/w/index.php?title=Black_Racket-tailed_Treepie&amp;action=edit&amp;redlink=1" class="new" title="Black Racket-tailed Treepie (page does not exist)">Black Racket-tailed Treepie</a>, <a href="/w/index.php?title=Crested_Serpent-eagle&amp;action=edit&amp;redlink=1" class="new" title="Crested Serpent-eagle (page does not exist)">Crested Serpent-eagle</a>, <a href="/wiki/Crested_Treeswift" title="Crested Treeswift">Crested Treeswift</a>, <a href="/wiki/Dollarbird" title="Dollarbird">Dollarbird</a>, <a href="/wiki/Java_Sparrow" title="Java Sparrow">Java Sparrow</a>, <a href="/wiki/Lesser_Adjutant" title="Lesser Adjutant">Lesser Adjutant</a>, <a href="/wiki/Long-tailed_Shrike" title="Long-tailed Shrike">Long-tailed Shrike</a>, <a href="/w/index.php?title=Milky_Stork&amp;action=edit&amp;redlink=1" class="new" title="Milky Stork (page does not exist)">Milky Stork</a>, <a href="/wiki/Pacific_Swallow" title="Pacific Swallow">Pacific Swallow</a>, <a href="/wiki/Red-rumped_Swallow" title="Red-rumped Swallow">Red-rumped Swallow</a>, <a href="/w/index.php?title=Sacred_Kingfisher&amp;action=edit&amp;redlink=1" class="new" title="Sacred Kingfisher (page does not exist)">Sacred Kingfisher</a>, <a href="/w/index.php?title=Sea_eagle_(bird)&amp;action=edit&amp;redlink=1" class="new" title="Sea eagle (bird) (page does not exist)">Sea Eagle</a>, <a href="/wiki/Woodswallow" title="Woodswallow">Woodswallow</a>, <a href="/w/index.php?title=Savanna_Nightjar&amp;action=edit&amp;redlink=1" class="new" title="Savanna Nightjar (page does not exist)">Savanna Nightjar</a>, <a href="/wiki/Stork-billed_Kingfisher" title="Stork-billed Kingfisher">Stork-billed Kingfisher</a>, <a href="/w/index.php?title=Yellow-vented_Bulbul&amp;action=edit&amp;redlink=1" class="new" title="Yellow-vented Bulbul (page does not exist)">Yellow-vented Bulbul</a>, <a href="/wiki/Great_Egret" title="Great Egret">White Heron</a>, <a href="/wiki/Great_Egret" title="Great Egret">Great Egret</a>.
+</p><p>Until the early 20th century, Bali was home to several large mammals: the wild <a href="/wiki/Banteng" title="Banteng">Banteng</a>, <a href="/wiki/Leopard" title="Leopard">leopard</a> and the endemic <a href="/w/index.php?title=Bali_tiger&amp;action=edit&amp;redlink=1" class="new" title="Bali tiger (page does not exist)">Bali tiger</a>. The Banteng still occurs in its domestic form, whereas leopards are found only in neighbouring Java, and the Bali tiger is extinct. The last definite record of a tiger on Bali dates from 1937, when one was shot, though the subspecies may have survived until the 1940s or 1950s.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> The relatively small size of the island, conflict with humans, poaching and habitat reduction drove the Bali tiger to extinction. This was the smallest and rarest of all tiger subspecies and was never caught on film or displayed in zoos, whereas few skins or bones remain in museums around the world. Today, the largest mammals are the <a href="/w/index.php?title=Javan_Rusa&amp;action=edit&amp;redlink=1" class="new" title="Javan Rusa (page does not exist)">Javan Rusa</a> deer and the <a href="/w/index.php?title=Wild_Boar&amp;action=edit&amp;redlink=1" class="new" title="Wild Boar (page does not exist)">Wild Boar</a>.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}  A second, smaller species of deer, the <a href="/w/index.php?title=Indian_Muntjac&amp;action=edit&amp;redlink=1" class="new" title="Indian Muntjac (page does not exist)">Indian Muntjac</a>, also occurs. <a href="/wiki/Saltwater_crocodile" title="Saltwater crocodile">Saltwater crocodiles</a> were once present on the island, but became locally extinct sometime during the last century.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Monkey_at_Ulu_Watu_Temple.jpg" title="File:Monkey at Ulu Watu Temple.jpg">File:Monkey at Ulu Watu Temple.jpg</a>  <div class="thumbcaption">Monkey at Ulu Watu Temple</div></div></div>
+<p><a href="/wiki/Squirrel" title="Squirrel">Squirrels</a> are quite commonly encountered, less often is the <a href="/w/index.php?title=Asian_Palm_Civet&amp;action=edit&amp;redlink=1" class="new" title="Asian Palm Civet (page does not exist)">Asian Palm Civet</a>, which is also kept in coffee farms to produce <a href="/wiki/Kopi_Luwak" title="Kopi Luwak">Kopi Luwak</a>. <a href="/w/index.php?title=Bat&amp;action=edit&amp;redlink=1" class="new" title="Bat (page does not exist)">Bats</a> are well represented, perhaps the most famous place to encounter them remaining the Goa Lawah (Temple of the Bats) where they are worshipped by the locals and also constitute a tourist attraction. They also occur in other cave temples, for instance at Gangga Beach. Two species of <a href="/wiki/Old_World_monkey" title="Old World monkey">monkey</a> occur.  The <a href="/w/index.php?title=Crab-eating_Macaque&amp;action=edit&amp;redlink=1" class="new" title="Crab-eating Macaque (page does not exist)">Crab-eating Macaque</a>, known locally as "kera", is quite common around human settlements and temples, where it becomes accustomed to being fed by humans, particularly in any of the three "monkey forest" temples, such as the popular one in the <a href="/wiki/Ubud" title="Ubud">Ubud</a> area. They are also quite often kept as pets by locals. The second monkey, endemic to Java and some surrounding islands such as Bali, is far rarer and more elusive is the <a href="/w/index.php?title=Javan_Langur&amp;action=edit&amp;redlink=1" class="new" title="Javan Langur (page does not exist)">Javan Langur</a>, locally known as "lutung". They occur in few places apart from the <a href="/w/index.php?title=Bali_Barat_National_Park&amp;action=edit&amp;redlink=1" class="new" title="Bali Barat National Park (page does not exist)">Bali Barat National Park</a>. They are born an orange colour, though by their first year they would have already changed to a more blackish colouration.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} In Java however, there is more of a tendency for this species to retain its juvenile orange colour into adulthood, and so you can see a mixture of black and orange monkeys together as a family. Other rarer mammals include the <a href="/w/index.php?title=Leopard_Cat&amp;action=edit&amp;redlink=1" class="new" title="Leopard Cat (page does not exist)">Leopard Cat</a>, <a href="/w/index.php?title=Sunda_Pangolin&amp;action=edit&amp;redlink=1" class="new" title="Sunda Pangolin (page does not exist)">Sunda Pangolin</a> and <a href="/w/index.php?title=Black_Giant_Squirrel&amp;action=edit&amp;redlink=1" class="new" title="Black Giant Squirrel (page does not exist)">Black Giant Squirrel</a>.
+</p><p>Snakes include the <a href="/w/index.php?title=King_Cobra&amp;action=edit&amp;redlink=1" class="new" title="King Cobra (page does not exist)">King Cobra</a> and <a href="/w/index.php?title=Reticulated_Python&amp;action=edit&amp;redlink=1" class="new" title="Reticulated Python (page does not exist)">Reticulated Python</a>. The <a href="/w/index.php?title=Water_Monitor&amp;action=edit&amp;redlink=1" class="new" title="Water Monitor (page does not exist)">Water Monitor</a> can grow to at least <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> in length and <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> and can move quickly.
+</p><p>The rich coral reefs around the coast, particularly around popular diving spots such as <a href="/w/index.php?title=Tulamben&amp;action=edit&amp;redlink=1" class="new" title="Tulamben (page does not exist)">Tulamben</a>, <a href="/w/index.php?title=Amed_(Bali)&amp;action=edit&amp;redlink=1" class="new" title="Amed (Bali) (page does not exist)">Amed</a>, Menjangan or neighbouring <a href="/w/index.php?title=Nusa_Penida&amp;action=edit&amp;redlink=1" class="new" title="Nusa Penida (page does not exist)">Nusa Penida</a>, host a wide range of marine life, for instance <a href="/wiki/Hawksbill_Turtle" title="Hawksbill Turtle" class="mw-redirect">Hawksbill Turtle</a>, <a href="/wiki/Mola_mola" title="Mola mola" class="mw-redirect">Giant Sunfish</a>, <a href="/wiki/Manta_ray" title="Manta ray">Giant Manta Ray</a>, <a href="/w/index.php?title=Giant_moray&amp;action=edit&amp;redlink=1" class="new" title="Giant moray (page does not exist)">Giant Moray Eel</a>, <a href="/w/index.php?title=Bumphead_Parrotfish&amp;action=edit&amp;redlink=1" class="new" title="Bumphead Parrotfish (page does not exist)">Bumphead Parrotfish</a>, <a href="/w/index.php?title=Hammerhead_Shark&amp;action=edit&amp;redlink=1" class="new" title="Hammerhead Shark (page does not exist)">Hammerhead Shark</a>, <a href="/wiki/Grey_reef_shark" title="Grey reef shark">Reef Shark</a>, <a href="/wiki/Barracuda" title="Barracuda">barracuda</a>, and <a href="/wiki/Sea_snake" title="Sea snake" class="mw-redirect">sea snakes</a>. Dolphins are commonly encountered on the north coast near <a href="/w/index.php?title=Singaraja&amp;action=edit&amp;redlink=1" class="new" title="Singaraja (page does not exist)">Singaraja</a> and <a href="/w/index.php?title=Lovina&amp;action=edit&amp;redlink=1" class="new" title="Lovina (page does not exist)">Lovina</a>.
+</p><p>A team of scientists conducted a survey from 29 April 2011 to 11 May 2011 at 33 sea sites around Bali. They discovered 952 species of reef fish of which 8 were new discoveries at <a href="/w/index.php?title=Pemuteran&amp;action=edit&amp;redlink=1" class="new" title="Pemuteran (page does not exist)">Pemuteran</a>, <a href="/w/index.php?title=Gilimanuk&amp;action=edit&amp;redlink=1" class="new" title="Gilimanuk (page does not exist)">Gilimanuk</a>, <a href="/w/index.php?title=Nusa_Dua&amp;action=edit&amp;redlink=1" class="new" title="Nusa Dua (page does not exist)">Nusa Dua</a>, <a href="/w/index.php?title=Tulamben&amp;action=edit&amp;redlink=1" class="new" title="Tulamben (page does not exist)">Tulamben</a> and <a href="/w/index.php?title=Candidasa&amp;action=edit&amp;redlink=1" class="new" title="Candidasa (page does not exist)">Candidasa</a>, and 393 coral species, including two new ones at <a href="/wiki/Padangbai" title="Padangbai">Padangbai</a> and between Padangbai and <a href="/w/index.php?title=Amed_(Bali)&amp;action=edit&amp;redlink=1" class="new" title="Amed (Bali) (page does not exist)">Amed</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+The average coverage level of healthy coral was 36% (better than in <a href="/w/index.php?title=Raja_Ampat&amp;action=edit&amp;redlink=1" class="new" title="Raja Ampat (page does not exist)">Raja Ampat</a> and <a href="/wiki/Halmahera" title="Halmahera">Halmahera</a> by 29% or in <a href="/w/index.php?title=Fakfak&amp;action=edit&amp;redlink=1" class="new" title="Fakfak (page does not exist)">Fakfak</a> and <a href="/w/index.php?title=Kaimana&amp;action=edit&amp;redlink=1" class="new" title="Kaimana (page does not exist)">Kaimana</a> by 25%) with the highest coverage found in <a href="/w/index.php?title=Gili_Selang&amp;action=edit&amp;redlink=1" class="new" title="Gili Selang (page does not exist)">Gili Selang</a> and <a href="/w/index.php?title=Gili_Mimpang&amp;action=edit&amp;redlink=1" class="new" title="Gili Mimpang (page does not exist)">Gili Mimpang</a> in <a href="/w/index.php?title=Candidasa&amp;action=edit&amp;redlink=1" class="new" title="Candidasa (page does not exist)">Candidasa</a>, <a href="/w/index.php?title=Karangasem&amp;action=edit&amp;redlink=1" class="new" title="Karangasem (page does not exist)">Karangasem</a> regency.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</p><p>Many plants have been introduced by humans within the last centuries, particularly since the 20th century, making it sometimes hard to distinguish what plants are really native.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Among the larger trees the most common are: <a href="/wiki/Banyan" title="Banyan">Banyan</a> trees, <a href="/wiki/Jackfruit" title="Jackfruit">Jackfruit</a>, <a href="/wiki/Coconut" title="Coconut">coconuts</a>, <a href="/wiki/Bamboo" title="Bamboo">bamboo</a> species, <a href="/wiki/Acacia" title="Acacia">acacia</a> trees and also endless rows of <a href="/wiki/Coconut" title="Coconut">coconuts</a> and banana species. Numerous flowers can be seen: <a href="/wiki/Hibiscus" title="Hibiscus">hibiscus</a>, <a href="/wiki/Frangipani" title="Frangipani" class="mw-redirect">frangipani</a>, <a href="/wiki/Bougainvillea" title="Bougainvillea">bougainvillea</a>, <a href="/wiki/Poinsettia" title="Poinsettia">poinsettia</a>, <a href="/w/index.php?title=Oleander&amp;action=edit&amp;redlink=1" class="new" title="Oleander (page does not exist)">oleander</a>, <a href="/wiki/Jasmine" title="Jasmine">jasmine</a>, <a href="/wiki/Nymphaeaceae" title="Nymphaeaceae">water lily</a>, <a href="/wiki/Nelumbo" title="Nelumbo">lotus</a>, <a href="/wiki/Rose" title="Rose">roses</a>, <a href="/wiki/Begonia" title="Begonia">begonias</a>, orchids and <a href="/wiki/Hydrangea" title="Hydrangea">hydrangeas</a> exist. On higher grounds that receive more moisture, for instance around <a href="/w/index.php?title=Kintamani,_Bali&amp;action=edit&amp;redlink=1" class="new" title="Kintamani, Bali (page does not exist)">Kintamani</a>, certain species of <a href="/wiki/Fern" title="Fern">fern</a> trees, <a href="/wiki/Mushroom" title="Mushroom">mushrooms</a> and even <a href="/wiki/Pine" title="Pine">pine</a> trees thrive well. Rice comes in many varieties. Other plants with agricultural value include: <a href="/wiki/Salak" title="Salak">salak</a>, <a href="/w/index.php?title=Mangosteen&amp;action=edit&amp;redlink=1" class="new" title="Mangosteen (page does not exist)">mangosteen</a>, <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">corn</a>, Kintamani orange, coffee and <a href="/wiki/Water_spinach" title="Water spinach" class="mw-redirect">water spinach</a>.
+</p>
+<h2><span class="mw-headline" id="Environment">Environment</span></h2>
+<p>Some of the worst erosion has occurred in <a href="/w/index.php?title=Lebih_Beach&amp;action=edit&amp;redlink=1" class="new" title="Lebih Beach (page does not exist)">Lebih Beach</a>, where up to 7 metres of land is lost every year. Decades ago, this beach was used for holy pilgrimages with more than 10,000 people, but they have now moved to <a href="/w/index.php?title=Masceti_Beach&amp;action=edit&amp;redlink=1" class="new" title="Masceti Beach (page does not exist)">Masceti Beach</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</p><p>From ranked third in previous review, in 2010 Bali got score 99.65 of Indonesia's environmental quality index and the highest of all the 33 provinces. The score measured 3 water quality parameters: the level of <a href="/wiki/Total_suspended_solids" title="Total suspended solids">total suspended solids</a> (TSS), <a href="/wiki/Dissolved_oxygen" title="Dissolved oxygen" class="mw-redirect">dissolved oxygen</a> (DO) and <a href="/wiki/Chemical_oxygen_demand" title="Chemical oxygen demand">chemical oxygen demand</a> (COD).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</p><p>Because of over-exploitation by the tourist industry which converse massive land, 200 out of 400 rivers on the island have dried up and based on research, the southern part of Bali would face a water shortage up to 2,500 litres of clean water per second by 2015.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
+To ease the shortage, the central government plans to build a water catchment and processing facility at Petanu River in Gianyar. The 300 litres capacity of water per second will be channelled to Denpasar, Badung and Gianyar in 2013.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Administrative_divisions">Administrative divisions</span></h2>
+<p>The province is divided into 8 <a href="/w/index.php?title=Regencies_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Regencies of Indonesia (page does not exist)">regencies</a> (<i>kabupaten</i>) and 1 <a href="/w/index.php?title=Cities_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Cities of Indonesia (page does not exist)">city</a> (<i>kota</i>). These are:
+</p>
+<table class="wikitable sortable" style="margin-bottom: 0;">
+
+<tr>
+<th> Name </th>
+<th> Capital </th>
+<th> Area in <br /> km<sup>2</sup>. </th>
+<th> Population <br /> 2000 Census </th>
+<th> Population <br /> 2005 estimate  </th>
+<th> Population <br /> 2010 Census
+</th></tr>
+<tr>
+<td> <a href="/w/index.php?title=Jembrana_Regency&amp;action=edit&amp;redlink=1" class="new" title="Jembrana Regency (page does not exist)">Jembrana Regency</a> </td>
+<td> <a href="/w/index.php?title=Negara,_Bali&amp;action=edit&amp;redlink=1" class="new" title="Negara, Bali (page does not exist)">Negara</a> </td>
+<td align="right"> 841.80 </td>
+<td align="right"> 231,806 </td>
+<td align="right"> 247,102 </td>
+<td align="right"> 261,618
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Tabanan_Regency&amp;action=edit&amp;redlink=1" class="new" title="Tabanan Regency (page does not exist)">Tabanan Regency</a> </td>
+<td> <a href="/w/index.php?title=Tabanan&amp;action=edit&amp;redlink=1" class="new" title="Tabanan (page does not exist)">Tabanan</a> </td>
+<td align="right"> 839.30 </td>
+<td align="right"> 376,030 </td>
+<td align="right"> 398,389 </td>
+<td align="right"> 420,370
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Badung_Regency&amp;action=edit&amp;redlink=1" class="new" title="Badung Regency (page does not exist)">Badung Regency</a> </td>
+<td> <a href="/w/index.php?title=Mangupura&amp;action=edit&amp;redlink=1" class="new" title="Mangupura (page does not exist)">Mangupura</a> </td>
+<td align="right"> 418.52 </td>
+<td align="right"> 345,863 </td>
+<td align="right"> 388,548 </td>
+<td align="right"> 543,681
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Gianyar_Regency&amp;action=edit&amp;redlink=1" class="new" title="Gianyar Regency (page does not exist)">Gianyar Regency</a> </td>
+<td> <a href="/w/index.php?title=Gianyar&amp;action=edit&amp;redlink=1" class="new" title="Gianyar (page does not exist)">Gianyar</a> </td>
+<td align="right"> 368.00 </td>
+<td align="right"> 393,155 </td>
+<td align="right"> 421,067 </td>
+<td align="right"> 470,380
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Klungkung_Regency&amp;action=edit&amp;redlink=1" class="new" title="Klungkung Regency (page does not exist)">Klungkung Regency</a> </td>
+<td> <a href="/w/index.php?title=Semarapura&amp;action=edit&amp;redlink=1" class="new" title="Semarapura (page does not exist)">Semarapura</a> </td>
+<td align="right"> 315.00 </td>
+<td align="right"> 155,262 </td>
+<td align="right"> 163,291 </td>
+<td align="right"> 170,559
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Bangli_Regency&amp;action=edit&amp;redlink=1" class="new" title="Bangli Regency (page does not exist)">Bangli Regency</a> </td>
+<td> <a href="/w/index.php?title=Bangli&amp;action=edit&amp;redlink=1" class="new" title="Bangli (page does not exist)">Bangli</a> </td>
+<td align="right"> 520.81 </td>
+<td align="right"> 193,776 </td>
+<td align="right"> 208,508 </td>
+<td align="right"> 215,404
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Karangasem_Regency&amp;action=edit&amp;redlink=1" class="new" title="Karangasem Regency (page does not exist)">Karangasem Regency</a> </td>
+<td> <a href="/w/index.php?title=Amlapura&amp;action=edit&amp;redlink=1" class="new" title="Amlapura (page does not exist)">Amlapura</a> </td>
+<td align="right"> 839.54 </td>
+<td align="right"> 360,486 </td>
+<td align="right"> 376,711 </td>
+<td align="right"> 396,892
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Buleleng_Regency&amp;action=edit&amp;redlink=1" class="new" title="Buleleng Regency (page does not exist)">Buleleng Regency</a> </td>
+<td> <a href="/w/index.php?title=Singaraja&amp;action=edit&amp;redlink=1" class="new" title="Singaraja (page does not exist)">Singaraja</a> </td>
+<td align="right"> 1,365.88 </td>
+<td align="right"> 558,181 </td>
+<td align="right"> 599,866 </td>
+<td align="right"> 624,079
+</td></tr>
+<tr>
+<td> <a href="/wiki/Denpasar" title="Denpasar">Denpasar</a> City </td>
+<td> <a href="/wiki/Denpasar" title="Denpasar">Denpasar</a> </td>
+<td align="right"> 123.98 </td>
+<td align="right"> 532,440 </td>
+<td align="right"> 574,610 </td>
+<td align="right"> 788,445
+</td></tr>
+<tr>
+<td> <i><b>Totals</b></i> </td>
+<td>  </td>
+<td align="right"> 5,780.06 </td>
+<td align="right"> 3,146,999 </td>
+<td align="right"> 3,378,092 </td>
+<td align="right"> 3,891,428
+</td></tr></table>
+<h2><span class="mw-headline" id="Economy">Economy</span></h2>
+<p>Three decades ago, the Balinese economy was largely agriculture-based in terms of both output and employment. Tourism is now the largest single industry in terms of income, and as a result, Bali is one of Indonesia's wealthiest regions. About 80% of Bali's economy depends on tourism;<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> Note: non-referenced&#160;% in the article: in fact a great number of the population still lives thanks to agriculture although this situation is changing rapidly.  By end of June 2011, <a href="/wiki/Non-performing_loan" title="Non-performing loan">non-performing loan</a> of all banks in Bali were 2.23%, lower than the average of Indonesian banking industry non-performing loan (about 5%).<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> The economy, however, suffered significantly as a result of the terrorist bombings <a href="/w/index.php?title=2002_Bali_bombing&amp;action=edit&amp;redlink=1" class="new" title="2002 Bali bombing (page does not exist)">2002</a> and <a href="/w/index.php?title=2005_Bali_bombing&amp;action=edit&amp;redlink=1" class="new" title="2005 Bali bombing (page does not exist)">2005</a>. The tourism industry has since recovered from these events.
+</p>
+<h3><span class="mw-headline" id="Agriculture">Agriculture</span></h3>
+<p>Although tourism produces the GDP's largest output, agriculture is still the island's biggest employer;<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} most notably rice cultivation. Crops grown in smaller amounts include fruit, vegetables, <i><a href="/wiki/Coffea_arabica" title="Coffea arabica">Coffea arabica</a></i> and other <a href="/wiki/Cash_crop" title="Cash crop">cash</a> and subsistence crops.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Fishing also provides a significant number of jobs. Bali is also famous for its <a href="/wiki/Artisan" title="Artisan">artisans</a> who produce a vast array of handicrafts, including <a href="/wiki/Batik" title="Batik">batik</a> and <a href="/wiki/Ikat" title="Ikat">ikat</a> <a href="/w/index.php?title=Bali_Nusra_Tangi&amp;action=edit&amp;redlink=1" class="new" title="Bali Nusra Tangi (page does not exist)">cloth and clothing</a>, <a href="/wiki/Woodworking" title="Woodworking">wooden carvings</a>, stone carvings, painted art and silverware. Notably, individual villages typically adopt a single product, such as wind chimes or wooden furniture.
+</p><p>The Arabica coffee production region is the highland region of Kintamani near <a href="/wiki/Mount_Batur" title="Mount Batur">Mount Batur</a>. Generally, Balinese coffee is processed using the wet method. This results in a sweet, soft coffee with good consistency. Typical flavours include lemon and other citrus notes.<sup id="cite_ref-SCAI_29-0" class="reference"><a href="#cite_note-SCAI-29">[29]</a></sup> Many coffee farmers in Kintamani are members of a traditional farming system called <a href="/w/index.php?title=Subak_(irrigation)&amp;action=edit&amp;redlink=1" class="new" title="Subak (irrigation) (page does not exist)">Subak Abian</a>, which is based on the <a href="/wiki/Hindu" title="Hindu">Hindu</a> philosophy of "<a href="/w/index.php?title=Tri_Hita_Karana&amp;action=edit&amp;redlink=1" class="new" title="Tri Hita Karana (page does not exist)">Tri Hita Karana</a>". According to this philosophy, the three causes of happiness are good relations with God, other people and the environment. The Subak Abian system is ideally suited to the production of fair trade and organic coffee production. Arabica coffee from Kintamani is the first product in Indonesia to request a <a href="/wiki/Geographical_Indication" title="Geographical Indication" class="mw-redirect">Geographical Indication</a>.<sup id="cite_ref-BaliKintamani_30-0" class="reference"><a href="#cite_note-BaliKintamani-30">[30]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Tourism">Tourism</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bali_canyoning.jpg" title="File:Bali canyoning.jpg">File:Bali canyoning.jpg</a>  <div class="thumbcaption">Canyoning in <a href="/w/index.php?title=Gitgit_Waterfall&amp;action=edit&amp;redlink=1" class="new" title="Gitgit Waterfall (page does not exist)">Gitgit Waterfall</a>, Bali, Indonesia</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:1_tirtha_empul_temple.jpg" title="File:1 tirtha empul temple.jpg">File:1 tirtha empul temple.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Tirtha_Empul_Temple&amp;action=edit&amp;redlink=1" class="new" title="Tirtha Empul Temple (page does not exist)">Tirtha Empul Temple</a> draws tourists who seek its holy waters</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:1_pura_taman_ayun_bali_2011.jpg" title="File:1 pura taman ayun bali 2011.jpg">File:1 pura taman ayun bali 2011.jpg</a>  <div class="thumbcaption">Pura Taman Ayun, another temple which is a popular tourist destination</div></div></div>
+<p><a href="/w/index.php?title=Template:Refimprove_section&amp;action=edit&amp;redlink=1" class="new" title="Template:Refimprove section (page does not exist)">Template:Refimprove section</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Arjuna_statue.JPG" title="File:Arjuna statue.JPG">File:Arjuna statue.JPG</a>  <div class="thumbcaption">A statue of Arjuna on a street in Bali</div></div></div>
+<p>The <a href="/wiki/Tourism_industry" title="Tourism industry" class="mw-redirect">tourism industry</a> is primarily focused in the south, while significant in the other parts of the island as well. The main tourist locations are the town of <a href="/w/index.php?title=Kuta&amp;action=edit&amp;redlink=1" class="new" title="Kuta (page does not exist)">Kuta</a> (with its beach), and its outer suburbs of Legian and <a href="/wiki/Seminyak" title="Seminyak">Seminyak</a> (which were once independent townships), the east coast town of <a href="/w/index.php?title=Sanur_(Bali)&amp;action=edit&amp;redlink=1" class="new" title="Sanur (Bali) (page does not exist)">Sanur</a> (once the only tourist hub), in the center of the island <a href="/wiki/Ubud" title="Ubud">Ubud</a>, to the south of the <a href="/wiki/Ngurah_Rai_International_Airport" title="Ngurah Rai International Airport">Ngurah Rai International Airport</a>, <a href="/w/index.php?title=Jimbaran&amp;action=edit&amp;redlink=1" class="new" title="Jimbaran (page does not exist)">Jimbaran</a>, and the newer development of <a href="/w/index.php?title=Nusa_Dua&amp;action=edit&amp;redlink=1" class="new" title="Nusa Dua (page does not exist)">Nusa Dua</a> and <a href="/w/index.php?title=Pecatu&amp;action=edit&amp;redlink=1" class="new" title="Pecatu (page does not exist)">Pecatu</a>.
+</p><p>The <a href="/wiki/American_government" title="American government" class="mw-redirect">American government</a> lifted its travel warnings in 2008. The Australian government last issued an advice on Friday, 4 May 2012. The overall level of the advice was lowered to 'Exercise a high degree of caution'. The Swedish government issued a new warning on Sunday, 10 June 2012 because of one more tourist who has been killed by methanol poisoning.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Kuta_Beach.JPG" title="File:Kuta Beach.JPG">File:Kuta Beach.JPG</a>  <div class="thumbcaption">Kuta Beach is a popular tourist spot in Bali</div></div></div>An offshoot of tourism is the growing real estate industry. Bali real estate has been rapidly developing in the main tourist areas of Kuta, Legian, Seminyak and Oberoi. Most recently, high-end 5 star projects are under development on the Bukit peninsula, on the south side of the island. Million dollar villas are being developed along the cliff sides of south Bali, commanding panoramic ocean views. Foreign and domestic (many Jakarta individuals and companies are fairly active) investment into other areas of the island also continues to grow. Land prices, despite the worldwide economic crisis, have remained stable.
+<p>In the last half of 2008, Indonesia's currency had dropped approximately 30% against the US dollar, providing many overseas visitors value for their currencies. Visitor arrivals for 2009 were forecast to drop 8% (which would be higher than 2007 levels), due to the worldwide economic crisis which has also affected the global tourist industry, but not due to any travel warnings.
+</p><p>Bali's tourism economy survived the terrorist bombings of 2002 and 2005, and the tourism industry has in fact slowly recovered and surpassed its pre-terrorist bombing levels; the longterm trend has been a steady increase of visitor arrivals. In 2010, Bali received 2.57 million foreign tourists, which surpassed the target of 2.0–2.3 million tourists. The average occupancy of starred hotels achieved 65%, so the island is still able to accommodate tourists for some years without any addition of new rooms/hotels,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> although at the peak season some of them are fully booked.
+</p><p>Bali received the Best Island award from <a href="/w/index.php?title=Travel_and_Leisure&amp;action=edit&amp;redlink=1" class="new" title="Travel and Leisure (page does not exist)">Travel and Leisure</a> in 2010.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> The island of Bali won because of its attractive surroundings (both mountain and coastal areas), diverse tourist attractions, excellent international and local restaurants, and the friendliness of the local people. According to BBC Travel released in 2011, Bali is one of the World's Best Islands, rank in second after <a href="/wiki/Greece" title="Greece">Greece</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
+</p><p>In August 2010, the film version of <a href="/w/index.php?title=Eat,_Pray,_Love&amp;action=edit&amp;redlink=1" class="new" title="Eat, Pray, Love (page does not exist)">Eat, Pray, Love</a> (EPL) was released in theatres. The movie was based on <a href="/w/index.php?title=Elizabeth_Gilbert&amp;action=edit&amp;redlink=1" class="new" title="Elizabeth Gilbert (page does not exist)">Elizabeth Gilbert</a>'s best-selling memoir of the same name. It took place at Ubud and Padang-Padang Beach at Bali. The 2006 book, which spent 57 weeks at the No. 1 spot on the New York Times paperback nonfiction best-seller list, had already fuelled a boom in EPL tourism in Ubud, the hill town and cultural and tourist center that was the focus of Gilbert's quest for balance through traditional spirituality and healing that leads to love.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+</p><p>Since 2011, China has displaced Japan as the second-largest supplier of tourists to Bali, while Australia still tops the list. Chinese tourists increased by 17% from last year due to the impact of <a href="/w/index.php?title=ACFTA&amp;action=edit&amp;redlink=1" class="new" title="ACFTA (page does not exist)">ACFTA</a> and new direct flights to Bali.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
+In January 2012, Chinese tourists year on year (yoy) increased by 222.18% compared to January 2011, while Japanese tourists declined by 23.54% yoy.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+</p><p>Bali reported that it has 2.88 million foreign tourists and 5 million domestic tourists in 2012, marginally surpassing the expectations of 2.8 million foreign tourists. Forecasts for 2013 are at 3.1 million.<sup id="cite_ref-balitourism_38-0" class="reference"><a href="#cite_note-balitourism-38">[38]</a></sup>
+</p><p>Based on <a href="/w/index.php?title=Bank_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Bank Indonesia (page does not exist)">Bank Indonesia</a> survey in May 2013, 34.39 percent of tourists are upper-middle class with spending between $1,286 to $5,592 and dominated by Australia, France, China, Germany and the US with some China tourists move from low spending before to higher spending currently. While 30.26 percent are middle class with spending between $662 to $1,285.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span></h2>
+<p>{{ safesubst:#invoke:Unsubst||$N=Update |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Main_other&amp;action=edit&amp;redlink=1" class="new" title="Template:Main other (page does not exist)">Template:Main other</a>
+}}
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bali_moped_col.jpg" title="File:Bali moped col.jpg">File:Bali moped col.jpg</a>  <div class="thumbcaption">A major form of transport in Bali is the <a href="/wiki/Moped" title="Moped">Moped</a></div></div></div>
+<p>The <a href="/w/index.php?title=Ngurah_Rai_Airport&amp;action=edit&amp;redlink=1" class="new" title="Ngurah Rai Airport (page does not exist)">Ngurah Rai International Airport</a> is located near Jimbaran, on the <a href="/w/index.php?title=Isthmus&amp;action=edit&amp;redlink=1" class="new" title="Isthmus (page does not exist)">isthmus</a> at the southernmost part of the island. <a href="/w/index.php?title=Lt.Col._Wisnu_Airfield&amp;action=edit&amp;redlink=1" class="new" title="Lt.Col. Wisnu Airfield (page does not exist)">Lt.Col. Wisnu Airfield</a> is found in north-west Bali.
+</p><p>A coastal road circles the island, and three major two-lane arteries cross the central mountains at passes reaching to 1,750m in height (at Penelokan). The Ngurah Rai Bypass is a four-lane expressway that partly encircles Denpasar and enables cars to travel quickly in the heavily populated south. Bali has no railway lines yet.
+</p><p>December 2010: Government of Indonesia has invited investors to build Tanah Ampo Cruise Terminal at <a href="/w/index.php?title=Karangasem&amp;action=edit&amp;redlink=1" class="new" title="Karangasem (page does not exist)">Karangasem</a>, Bali amounted $30&#160;million.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> In 17 July 2011 the first cruise ship (<a href="/w/index.php?title=Sun_Princess&amp;action=edit&amp;redlink=1" class="new" title="Sun Princess (page does not exist)">Sun Princess</a>) will anchor about 400 meters away from the wharf of Tanah Ampo harbour. The current pier is only 154 meters and will eventually be 300 to 350 meters to accommodate international cruise ships. The harbour would be safer than Benoa and has a scenic backdrop of a panoramic view of mountainous area with green rice fields.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> By December 2011 the auction process will be settled and Tanah Ampo is predicted to become the main hub for cruise ships in Indonesia by 2013.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
+</p><p>A Memorandum of Understanding has been signed by two ministers, Bali's Governor and <a href="/w/index.php?title=PT_Kereta_Api&amp;action=edit&amp;redlink=1" class="new" title="PT Kereta Api (page does not exist)">Indonesian Train Company</a> to build 565 kilometres of railway along the coast around the island. It should be operating by 2015.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
+</p><p>On 16 March 2011 (Tanjung) Benoa port received the "Best Port Welcome 2010" award from London's "Dream World Cruise Destination" magazine.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> Government plans to expand the role of Benoa port as export-import port to boost Bali's trade and industry sector.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> The Tourism and Creative Economy Ministry has confirmed that 306 cruise liners are heading for Indonesia in 2013 – an increase of 43 percent compared to the previous year.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>
+</p><p>On May 2011, an integrated Areal Traffic Control System (ATCS) was implemented to reduce traffic jams at four crossing points: Ngurah Rai statue, Dewa Ruci Kuta crossing, Jimbaran crossing and Sanur crossing. ATCS is an integrated system connecting all traffic lights, CCTVs and other traffic signals with a monitoring office at the police headquarters. It has successfully been implemented in other ASEAN countries and will be implemented at other crossings in Bali.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup>
+</p><p>On 21 December 2011 construction started on the Nusa Dua-Benoa-<a href="/wiki/Ngurah_Rai_International_Airport" title="Ngurah Rai International Airport">Ngurah Rai International Airport</a> toll road which will also provide a special lane for motorcycles. This has been done by seven state-owned enterprises led by PT Jasa Marga with 60% of shares. PT Jasa Marga Bali Tol will construct the 9.91 kilometres toll road (totally 12.7 kilometres with access road). The construction is estimated to cost Rp.2.49 trillion ($273.9 million). The project goes through 2 kilometres of mangrove forest and through 2.3 kilometres of beach, both within 5.4 hectares area. The elevated toll road is built over the mangrove forest on 18,000 concrete pillars which occupied 2 hectares of mangroves forest. It compensated by new planting of 300,000 mangrove trees along the road. On 21 December 2011 the Dewa Ruci 450 meters underpass has also started on the busy Dewa Ruci junction near Bali Kuta Galeria with an estimated cost of Rp136 billion ($14.9 million) from the state budget.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> On 23 September 2013, the <a href="/w/index.php?title=Bali_Mandara_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Bali Mandara Toll Road (page does not exist)">Bali Mandara Toll Road</a> is opened and the Dewa Ruci Junction (Simpang Siur) underpass is opened before. Both are ease the heavy traffic congestion.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>
+</p><p>To solve chronic traffic problems, the province will also build a toll road connecting Serangan with <a href="/w/index.php?title=Tohpati&amp;action=edit&amp;redlink=1" class="new" title="Tohpati (page does not exist)">Tohpati</a>, a toll road connecting Kuta, Denpasar and Tohpati and a flyover connecting Kuta and Ngurah Rai Airport.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span></h2>
+<p><a href="/w/index.php?title=Template:Historical_populations&amp;action=edit&amp;redlink=1" class="new" title="Template:Historical populations (page does not exist)">Template:Historical populations</a>
+The population of Bali was 3,890,757 as of the 2010 Census. There are an estimated 30,000 expatriates living in Bali.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ethnic_origins">Ethnic origins</span></h3>
+<p>A DNA study in 2005 by Karafet et al.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup> found that 12% of Balinese <a href="/wiki/Y-chromosome" title="Y-chromosome" class="mw-redirect">Y-chromosomes</a> are of likely Indian origin, while 84% are of likely <a href="/w/index.php?title=Austronesian&amp;action=edit&amp;redlink=1" class="new" title="Austronesian (page does not exist)">Austronesian</a> origin, and 2% of likely <a href="/wiki/Melanesian" title="Melanesian" class="mw-redirect">Melanesian</a> origin. The study does not correlate the DNA samples to the Balinese caste system.
+</p>
+<h3><span class="mw-headline" id="Caste_system">Caste system</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>Bali has a caste system based on the <a href="/w/index.php?title=Indian_caste_system&amp;action=edit&amp;redlink=1" class="new" title="Indian caste system (page does not exist)">Indian Hindu model</a>, with four castes:
+</p>
+<ul>
+<li><a href="/wiki/Shudra" title="Shudra">Shudras</a> – <a href="/wiki/Peasant" title="Peasant">peasants</a> constituting close to 93% of Bali's population.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>
+</li>
+<li>Wesias (<a href="/wiki/Vaishya" title="Vaishya">Vaishyas</a>) – the caste of merchants and administrative officials
+</li>
+<li><a href="/w/index.php?title=Balinese_Kshatriya&amp;action=edit&amp;redlink=1" class="new" title="Balinese Kshatriya (page does not exist)">Ksatrias</a> (<a href="/wiki/Kshatriya" title="Kshatriya">Kshatriyas</a>) – the kingly and <a href="/wiki/Warrior" title="Warrior">warrior</a> caste
+</li>
+<li><a href="/wiki/Brahmin" title="Brahmin">Brahmins</a> – holy men and priests
+</li>
+</ul>
+<h3><span class="mw-headline" id="Religion">Religion</span></h3>
+<p><a href="/w/index.php?title=Template:Bar_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Bar box (page does not exist)">Template:Bar box</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Mother_Temple_of_Besakih.jpg" title="File:Mother Temple of Besakih.jpg">File:Mother Temple of Besakih.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Mother_Temple_of_Besakih&amp;action=edit&amp;redlink=1" class="new" title="Mother Temple of Besakih (page does not exist)">Mother Temple of Besakih</a>, one of Bali's most significant <a href="/wiki/Hindu" title="Hindu">Hindu</a> temples.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Ubud_Cremation_Procession_1.jpg" title="File:Ubud Cremation Procession 1.jpg">File:Ubud Cremation Procession 1.jpg</a>  <div class="thumbcaption">A religious procession</div></div></div>
+<p>Unlike most of Muslim-majority Indonesia, about 83.5% of Bali's population adheres to <a href="/wiki/Balinese_Hinduism" title="Balinese Hinduism">Balinese Hinduism</a>, formed as a combination of existing <a href="/wiki/Balinese_mythology" title="Balinese mythology">local beliefs</a> and <a href="/wiki/Hindu" title="Hindu">Hindu</a> influences from mainland Southeast Asia and South Asia. Minority religions include Islam (13.3%), Christianity (1.7%), and <a href="/w/index.php?title=Buddhism&amp;action=edit&amp;redlink=1" class="new" title="Buddhism (page does not exist)">Buddhism</a> (0.5%).<sup id="cite_ref-census2010_3-1" class="reference"><a href="#cite_note-census2010-3">[3]</a></sup> These figures do not include immigrants from other parts of Indonesia.
+</p><p>When Islam surpassed <a href="/wiki/Hinduism" title="Hinduism">Hinduism</a> in <a href="/wiki/Java" title="Java">Java</a> (16th century), Bali became a refuge for many Hindus. Balinese Hinduism is an amalgam in which gods and demigods are worshipped together with Buddhist heroes, the spirits of ancestors, indigenous agricultural deities and sacred places. Religion as it is practised in Bali is a composite belief system that embraces not only theology, philosophy, and mythology, but ancestor worship, animism and magic. It pervades nearly every aspect of traditional life. <a href="/wiki/Caste" title="Caste">Caste</a> is observed, though less strictly than in India. With an estimated 20,000 <a href="/w/index.php?title=Pura_(Balinese_temple)&amp;action=edit&amp;redlink=1" class="new" title="Pura (Balinese temple) (page does not exist)">puras (temples)</a> and shrines, Bali is known as the "Island of a Thousand Puras", or "Island of the Gods".<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup>
+</p><p>Balinese Hinduism has roots in Indian Hinduism and in Buddhism, and adopted the animistic traditions of the indigenous people. This influence strengthened the belief that the gods and goddesses are present in all things. Every element of nature, therefore, possesses its own power, which reflects the power of the gods. A rock, tree, dagger, or woven cloth is a potential home for spirits whose energy can be directed for good or evil. Balinese Hinduism is deeply interwoven with art and ritual. Ritualizing states of self-control are a notable feature of religious expression among the people, who for this reason have become famous for their graceful and decorous behaviour.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup>
+</p><p>Apart from the majority of Balinese Hindus, there also exist <a href="/w/index.php?title=Chinese_Indonesian&amp;action=edit&amp;redlink=1" class="new" title="Chinese Indonesian (page does not exist)">Chinese</a> immigrants whose traditions have melded with that of the locals. As a result, these Sino-Balinese not only embrace their original religion, which is a mixture of Buddhism, Christianity, Taoism and Confucianism, but also find a way to harmonise it with the local traditions. Hence, it is not uncommon to find local Sino-Balinese during the local temple's <i>odalan</i>. Moreover, Balinese Hindu priests are invited to perform rites alongside a Chinese priest in the event of the death of a Sino-Balinese.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup> Nevertheless, the Sino-Balinese claim to embrace Buddhism for administrative purposes, such as their Identity Cards.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Language">Language</span></h3>
+<p><a href="/wiki/Balinese_language" title="Balinese language">Balinese</a> and <a href="/wiki/Indonesian_language" title="Indonesian language">Indonesian</a> are the most widely spoken languages in Bali, and the vast majority of <a href="/wiki/Balinese_people" title="Balinese people">Balinese people</a> are <a href="/wiki/Bilingual" title="Bilingual" class="mw-redirect">bilingual</a> or <a href="/wiki/Trilingual" title="Trilingual" class="mw-redirect">trilingual</a>. The most common spoken language around the tourist areas is Indonesian, as many people in the tourist sector are not solely Balinese, but migrants from Java, Lombok, Sumatra, and other parts of Indonesia. There are several indigenous Balinese languages, but most Balinese can also use the most widely spoken option: modern common Balinese. The usage of different Balinese languages was traditionally determined by the <a href="/wiki/Balinese_caste_system" title="Balinese caste system">Balinese caste system</a> and by clan membership, but this tradition is diminishing. <a href="/wiki/Kawi_language" title="Kawi language">Kawi</a> and <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> are also commonly used by some Hindu priests in Bali, for Hinduism literature was mostly written in Sanskrit.
+</p><p>English is a common third language (and the primary foreign language) of many Balinese, owing to the requirements of the <a href="/wiki/Tourism_industry" title="Tourism industry" class="mw-redirect">tourism industry</a>. Other foreign languages, such as Chinese, Japanese, <a href="/wiki/Korean_language" title="Korean language">Korean</a>, French or German are often used in multilingual signs for foreign tourists.
+</p>
+<h2><span class="mw-headline" id="Culture">Culture</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Kecak.JPG" title="File:Kecak.JPG">File:Kecak.JPG</a>  <div class="thumbcaption">A Kecak dance being performed at <a href="/w/index.php?title=Uluwatu&amp;action=edit&amp;redlink=1" class="new" title="Uluwatu (page does not exist)">Uluwatu</a>, in Bali</div></div></div>
+<p>Bali is renowned for its diverse and sophisticated art forms, such as painting, sculpture, woodcarving, handcrafts, and performing arts. <a href="/w/index.php?title=Balinese_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Balinese cuisine (page does not exist)">Balinese cuisine</a> is also distinctive. Balinese percussion orchestra music, known as <i><a href="/wiki/Gamelan" title="Gamelan">gamelan</a></i>, is highly developed and varied. Balinese performing arts often portray stories from Hindu epics such as the <a href="/wiki/Ramayana" title="Ramayana">Ramayana</a> but with heavy Balinese influence. Famous <a href="/w/index.php?title=Balinese_dance&amp;action=edit&amp;redlink=1" class="new" title="Balinese dance (page does not exist)">Balinese dances</a> include <i><a href="/wiki/Pendet" title="Pendet">pendet</a></i>, <i><a href="/w/index.php?title=Legong&amp;action=edit&amp;redlink=1" class="new" title="Legong (page does not exist)">legong</a></i>, <i><a href="/wiki/Baris_(dance)" title="Baris (dance)">baris</a></i>, <i><a href="/w/index.php?title=Topeng&amp;action=edit&amp;redlink=1" class="new" title="Topeng (page does not exist)">topeng</a></i>, <i><a href="/w/index.php?title=Barong_(mythology)&amp;action=edit&amp;redlink=1" class="new" title="Barong (mythology) (page does not exist)">barong</a></i>, <i><a href="/wiki/Gamelan_gong_kebyar" title="Gamelan gong kebyar">gong keybar</a></i>, and <i><a href="/wiki/Kecak" title="Kecak">kecak</a></i> (the monkey dance). Bali boasts one of the most diverse and innovative performing arts cultures in the world, with paid performances at thousands of temple festivals, private ceremonies, or public shows.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup>
+</p><p>The Hindu New Year, <i><a href="/w/index.php?title=Nyepi&amp;action=edit&amp;redlink=1" class="new" title="Nyepi (page does not exist)">Nyepi</a></i>, is celebrated in the spring by a day of silence. On this day everyone stays at home and tourists are encouraged to remain in their hotels. On the day before New Year, large and colourful sculptures of <i>ogoh-ogoh</i> monsters are paraded and finally burned in the evening to drive away evil spirits. Other festivals throughout the year are specified by the Balinese <i><a href="/w/index.php?title=Pawukon&amp;action=edit&amp;redlink=1" class="new" title="Pawukon (page does not exist)">pawukon</a></i> <a href="/wiki/Calendar" title="Calendar">calendrical</a> system.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Ubud_Cremation_4.jpg" title="File:Ubud Cremation 4.jpg">File:Ubud Cremation 4.jpg</a>  <div class="thumbcaption"><a href="/wiki/Cremation" title="Cremation">Cremation</a> in <a href="/wiki/Ubud" title="Ubud">Ubud</a></div></div></div>
+<p>Celebrations are held for many occasions such as a tooth-filing (coming-of-age ritual), <a href="/wiki/Cremation" title="Cremation">cremation</a> or <i>odalan</i> (temple festival). One of the most important concepts that Balinese ceremonies have in common is that of <i>désa kala patra</i>, which refers to how ritual performances must be appropriate in both the specific and general social context.<sup id="cite_ref-Herbst_62-0" class="reference"><a href="#cite_note-Herbst-62">[62]</a></sup> Many of the ceremonial art forms such as <i><a href="/wiki/Wayang" title="Wayang">wayang kulit</a></i> and <i><a href="/w/index.php?title=Topeng&amp;action=edit&amp;redlink=1" class="new" title="Topeng (page does not exist)">topeng</a></i> are highly improvisatory, providing flexibility for the performer to adapt the performance to the current situation.<sup id="cite_ref-Foley_63-0" class="reference"><a href="#cite_note-Foley-63">[63]</a></sup> Many celebrations call for a loud, boisterous atmosphere with lots of activity and the resulting aesthetic, <i>ramé</i>, is distinctively Balinese. Often two or more <i><a href="/wiki/Music_of_Bali" title="Music of Bali">gamelan</a></i> ensembles will be performing well within earshot, and sometimes compete with each other to be heard. Likewise, the audience members talk amongst themselves, get up and walk around, or even cheer on the performance, which adds to the many layers of activity and the liveliness typical of <i>ramé</i>.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup>
+</p><p><i>Kaja</i> and <i>kelod</i> are the Balinese equivalents of North and South, which refer to ones orientation between the island's largest mountain Gunung Agung (<i>kaja</i>), and the sea (<i>kelod</i>). In addition to spatial orientation, <i>kaja</i> and <i>kelod</i> have the connotation of good and evil; gods and ancestors are believed to live on the mountain whereas demons live in the sea. Buildings such as temples and residential homes are spatially oriented by having the most sacred spaces closest to the mountain and the unclean places nearest to the sea.<sup id="cite_ref-Herbst_62-1" class="reference"><a href="#cite_note-Herbst-62">[62]</a></sup><sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup>
+</p><p>Most temples have an inner courtyard and an outer courtyard which are arranged with the inner courtyard furthest <i>kaja</i>. These spaces serve as performance venues since most Balinese rituals are accompanied by any combination of music, dance and drama. The performances that take place in the inner courtyard are classified as <i>wali</i>, the most sacred rituals which are offerings exclusively for the gods, while the outer courtyard is where <i>bebali</i> ceremonies are held, which are intended for gods and people. Lastly, performances meant solely for the entertainment of humans take place outside the walls of the temple and are called <i>bali-balihan</i>. This three-tiered system of classification was standardised in 1971 by a committee of Balinese officials and artists to better protect the sanctity of the oldest and most sacred Balinese rituals from being performed for a paying audience.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup>
+</p><p>Tourism, Bali's chief industry, has provided the island with a foreign audience that is eager to pay for entertainment, thus creating new performance opportunities and more demand for performers. The impact of <a href="/w/index.php?title=Tourism_in_indonesia&amp;action=edit&amp;redlink=1" class="new" title="Tourism in indonesia (page does not exist)">tourism</a> is controversial since before it became integrated into the economy, the Balinese performing arts did not exist as a capitalist venture, and were not performed for entertainment outside of their respective ritual context. Since the 1930s sacred rituals such as the <i><a href="/w/index.php?title=Barong_(mythology)&amp;action=edit&amp;redlink=1" class="new" title="Barong (mythology) (page does not exist)">barong</a></i> <a href="/w/index.php?title=Balinese_dance&amp;action=edit&amp;redlink=1" class="new" title="Balinese dance (page does not exist)">dance</a> have been performed both in their original contexts, as well as exclusively for paying tourists. This has led to new versions of many of these performances which have developed according to the preferences of foreign audiences; some villages have a <i>barong</i> mask specifically for non-ritual performances as well as an older mask which is only used for sacred performances.<sup id="cite_ref-Sanger_67-0" class="reference"><a href="#cite_note-Sanger-67">[67]</a></sup>
+</p><p>Balinese society continues to revolve around each family's ancestral village, to which the cycle of life and religion is closely tied.<sup id="cite_ref-NYT_68-0" class="reference"><a href="#cite_note-NYT-68">[68]</a></sup> Coercive aspects of traditional society, such as <a href="/wiki/Customary_law" title="Customary law" class="mw-redirect">customary law</a> sanctions imposed by traditional authorities such as village councils (including "<a href="/w/index.php?title=Kasepekang&amp;action=edit&amp;redlink=1" class="new" title="Kasepekang (page does not exist)">kasepekang</a>", or <a href="/wiki/Shunning" title="Shunning">shunning</a>) have risen in importance as a consequence of the democratisation and decentralisation of Indonesia since 1998.<sup id="cite_ref-NYT_68-1" class="reference"><a href="#cite_note-NYT-68">[68]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">COLLECTIE TROPENMUSEUM De beroemde Balinese danser I Mario TMnr 10004713.jpg</div>
+			<div class="gallerytext">
+<p>The famous dancer I Mario, picture taken 1940.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">COLLECTIE TROPENMUSEUM Portert van twee jonge Balinese danseressen TMnr 10004678b.jpg</div>
+			<div class="gallerytext">
+<p><a href="/w/index.php?title=Balinese_dance&amp;action=edit&amp;redlink=1" class="new" title="Balinese dance (page does not exist)">Balinese dancers</a> wearing elaborate headgear, photographed in 1929. Digitally restored.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Balinese Stone Carvings.jpg</div>
+			<div class="gallerytext">
+<p>Stone carvings in Ubud.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Balinese stone guardian.jpg</div>
+			<div class="gallerytext">
+<p>Balinese stone guardian at <a href="/w/index.php?title=Ubud_Palace&amp;action=edit&amp;redlink=1" class="new" title="Ubud Palace (page does not exist)">Ubud Palace</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Sports">Sports</span></h2>
+<p>Bali was the host of <a href="/w/index.php?title=2008_Asian_Beach_Games&amp;action=edit&amp;redlink=1" class="new" title="2008 Asian Beach Games (page does not exist)">2008 Asian Beach Games</a>.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup> It was the second time Indonesia hosted an Asia-level <a href="/wiki/Multi-sport_event" title="Multi-sport event">multi-sport event</a>, after <a href="/wiki/Jakarta" title="Jakarta">Jakarta</a> held the <a href="/w/index.php?title=1962_Asian_Games&amp;action=edit&amp;redlink=1" class="new" title="1962 Asian Games (page does not exist)">1962 Asian Games</a>.
+</p>
+<h2><span class="mw-headline" id="Heritage_sites">Heritage sites</span></h2>
+<p>On June 2012, <a href="/w/index.php?title=Subak_(irrigation)&amp;action=edit&amp;redlink=1" class="new" title="Subak (irrigation) (page does not exist)">Subak</a>, the irrigation system for <a href="/wiki/Paddy_field" title="Paddy field">paddy fields</a> in Bali was enlisted as a <a href="/w/index.php?title=UNESCO_world_heritage_site&amp;action=edit&amp;redlink=1" class="new" title="UNESCO world heritage site (page does not exist)">UNESCO world heritage site</a>.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Beauty_Pageant">Beauty Pageant</span></h2>
+<p>Bali was the host of <a href="/w/index.php?title=Miss_World_2013&amp;action=edit&amp;redlink=1" class="new" title="Miss World 2013 (page does not exist)">Miss World 2013</a>, It was the first time Indonesia hosted an International Beauty Pageant
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p>{{#invoke:Portal|portal}}
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Balinese_architecture&amp;action=edit&amp;redlink=1" class="new" title="Balinese architecture (page does not exist)">Balinese architecture</a>
+</li>
+<li> <a href="/w/index.php?title=Balinese_temple&amp;action=edit&amp;redlink=1" class="new" title="Balinese temple (page does not exist)">Balinese temple</a>
+</li>
+<li> <a href="/w/index.php?title=Balinese_dance&amp;action=edit&amp;redlink=1" class="new" title="Balinese dance (page does not exist)">Balinese dance</a>
+</li>
+<li> <a href="/wiki/Tourism_in_Indonesia" title="Tourism in Indonesia">Tourism in Indonesia</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<p><a href="/w/index.php?title=Template:Refbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Refbegin (page does not exist)">Template:Refbegin</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Miguel_Covarrubias&amp;action=edit&amp;redlink=1" class="new" title="Miguel Covarrubias (page does not exist)">Miguel Covarrubias</a>, <i>Island of Bali</i>, 1946. ISBN 962–593–060–4
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_web&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite web (page does not exist)">Template:Cite web</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a> 
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Prone_to_spam&amp;action=edit&amp;redlink=1" class="new" title="Template:Prone to spam (page does not exist)">Template:Prone to spam</a>
+<a href="/w/index.php?title=Template:Z148&amp;action=edit&amp;redlink=1" class="new" title="Template:Z148 (page does not exist)">Template:Z148</a>
+<a href="/w/index.php?title=Template:Wikisource1911Enc&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikisource1911Enc (page does not exist)">Template:Wikisource1911Enc</a>
+<a href="/w/index.php?title=Template:Wikivoyage&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikivoyage (page does not exist)">Template:Wikivoyage</a>
+</p>
+<ul>
+<li><a href="/w/index.php?title=Template:Commons_category-inline&amp;action=edit&amp;redlink=1" class="new" title="Template:Commons category-inline (page does not exist)">Template:Commons category-inline</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Official_website&amp;action=edit&amp;redlink=1" class="new" title="Template:Official website (page does not exist)">Template:Official website</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Bali&amp;action=edit&amp;redlink=1" class="new" title="Template:Bali (page does not exist)">Template:Bali</a>
+{{#invoke: Navbox | navbox }}<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 1.100 seconds
+Real time usage: 1.143 seconds
+Preprocessor visited node count: 2189/1000000
+Preprocessor generated node count: 29088/1000000
+Post‐expand include size: 2212/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:2397-0!*!0!!en!2!* and timestamp 20170407172547
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Bali&amp;oldid=2397">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Bali&amp;oldid=2397</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/wiki/Category:Bali" title="Category:Bali">Bali</a></li><li><a href="/w/index.php?title=Category:Lesser_Sunda_Islands&amp;action=edit&amp;redlink=1" class="new" title="Category:Lesser Sunda Islands (page does not exist)">Lesser Sunda Islands</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bali" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bali"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Bali&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Bali" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Bali&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bali&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bali" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bali" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Bali&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Bali&amp;oldid=2397" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Bali&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2014, at 09:32.</li>
+											<li id="footer-info-viewcount">This page has been accessed 148 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.441 secs. -->
+	</body>
+</html>

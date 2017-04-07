@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Tara Lipinski - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tara_Lipinski","wgTitle":"Tara Lipinski","wgCurRevisionId":144423,"wgRevisionId":144423,"wgArticleId":144423,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link different than on Wikidata","1982 births","American film actresses","American female single skaters","American television actresses","Figure skaters at the 1998 Winter Olympics","Living people","Olympic figure skaters of the United States","Olympic gold medalists for the United States","Olympic medalists in figure skating","Actresses from Detroit, Michigan","People from Mantua Township, New Jersey","People from Philadelphia, Pennsylvania","People from Sugar Land, Texas","People from Washington Township, Gloucester County, New Jersey","World Figure Skating Championships medalists","Medalists at the 1998 Winter Olympics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tara_Lipinski","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Tara_Lipinski skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Tara Lipinski</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Infobox_figure_skater&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox figure skater (page does not exist)">Template:Infobox figure skater</a>
+</p><p><b>Tara Kristen Lipinski</b> (born June 10, 1982) is a retired American <a href="/wiki/Figure_skating" title="Figure skating">figure skater</a>. At the age of 15, she won the ladies' singles <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic</a> <a href="/wiki/Gold_medal" title="Gold medal">gold medal</a> in <a href="/wiki/Figure_skating_at_the_1998_Winter_Olympics" title="Figure skating at the 1998 Winter Olympics">figure skating at the 1998 Winter Olympics</a>. Lipinski remains the youngest individual gold medalist in the history of the Olympic Winter Games.<sup id="cite_ref-olympicorg_1-0" class="reference"><a href="#cite_note-olympicorg-1">[1]</a></sup> She is also the 1997 <a href="/wiki/World_Figure_Skating_Championships" title="World Figure Skating Championships">World Champion</a>, two-time <a href="/w/index.php?title=Champions_Series_Final&amp;action=edit&amp;redlink=1" class="new" title="Champions Series Final (page does not exist)">Champions Series Final</a> Champion (1997–1998) and 1997 <a href="/w/index.php?title=United_States_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="United States Figure Skating Championships (page does not exist)">U.S. Champion</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Competitive_career"><span class="tocnumber">2</span> <span class="toctext">Competitive career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Professional_career"><span class="tocnumber">3</span> <span class="toctext">Professional career</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Awards_and_recognition"><span class="tocnumber">4</span> <span class="toctext">Awards and recognition</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Philanthropic_work.2C_endorsements.2C_and_publications"><span class="tocnumber">5</span> <span class="toctext">Philanthropic work, endorsements, and publications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Skating_technique"><span class="tocnumber">6</span> <span class="toctext">Skating technique</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Programs"><span class="tocnumber">7</span> <span class="toctext">Programs</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Results"><span class="tocnumber">8</span> <span class="toctext">Results</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Eligible"><span class="tocnumber">8.1</span> <span class="toctext">Eligible</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Professional"><span class="tocnumber">8.2</span> <span class="toctext">Professional</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span></h2>
+<p>Lipinski, an only child, was born in <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>, <a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a>, the daughter of Patricia (<a href="/wiki/Married_and_maiden_names" title="Married and maiden names">née</a> Brozyniak), a secretary, and Jack Richard Lipinski, an oil executive and lawyer.<sup id="cite_ref-spil970224_2-0" class="reference"><a href="#cite_note-spil970224-2">[2]</a></sup><sup id="cite_ref-filmref_3-0" class="reference"><a href="#cite_note-filmref-3">[3]</a></sup> She spent her earliest years in <a href="/wiki/Washington_Township,_Gloucester_County,_New_Jersey" title="Washington Township, Gloucester County, New Jersey">Washington Township, Gloucester County, New Jersey</a>.<sup id="cite_ref-ap980221_4-0" class="reference"><a href="#cite_note-ap980221-4">[4]</a></sup> The family lived in the <a href="/w/index.php?title=Sewell,_New_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Sewell, New Jersey (page does not exist)">Sewell</a> section of <a href="/wiki/Mantua_Township,_New_Jersey" title="Mantua Township, New Jersey">Mantua Township, New Jersey</a> until 1991.<sup id="cite_ref-nyt980221_5-0" class="reference"><a href="#cite_note-nyt980221-5">[5]</a></sup> Lipinski began <a href="/wiki/Roller_skating" title="Roller skating">roller skating</a> at age three and later won a number of competitions. She began figure skating at age six. Her first competition was the 1990 regional championship, where she finished second. At the 1991 United States Roller Skating Championships, she won the primary girls freestyle as a nine-year-old.<sup id="cite_ref-pdn910806_6-0" class="reference"><a href="#cite_note-pdn910806-6">[6]</a></sup>
+</p><p>In 1991, her father's job required the family to move to <a href="/wiki/Sugar_Land,_Texas" title="Sugar Land, Texas">Sugar Land, Texas</a>. However, training facilities were not available there. In 1993, Lipinski and her mother moved back to Delaware, where she had trained before. She later moved to <a href="/wiki/Detroit" title="Detroit">Detroit</a>, <a href="/wiki/Michigan" title="Michigan">Michigan</a>, to train with <a href="/w/index.php?title=Richard_Callaghan&amp;action=edit&amp;redlink=1" class="new" title="Richard Callaghan (page does not exist)">Richard Callaghan</a>.<sup id="cite_ref-tvcom_7-0" class="reference"><a href="#cite_note-tvcom-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Competitive_career">Competitive career</span></h2>
+<p>Lipinski first came to national prominence when she won the 1994 U.S. Olympic Festival competition, which at the time was a junior-level competition. She became the youngest ladies figure skating gold medalist as well as the youngest athlete in any discipline to win gold. Later that season she placed fourth at the <a href="/w/index.php?title=1995_World_Junior_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="1995 World Junior Figure Skating Championships (page does not exist)">1995 World Junior Championships</a> and second in the junior level at the <a href="/w/index.php?title=1995_United_States_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="1995 United States Figure Skating Championships (page does not exist)">1995 U.S. Championships</a>. By that time, Lipinski was the subject of a great deal of media attention.
+</p><p>After a fifth-place finish at the 1996 World Junior Championships, Lipinski changed coaches from Jeff Di Gregorio at the <a href="/wiki/University_of_Delaware" title="University of Delaware">University of Delaware</a> to <a href="/w/index.php?title=Richard_Callaghan&amp;action=edit&amp;redlink=1" class="new" title="Richard Callaghan (page does not exist)">Richard Callaghan</a> in <a href="/wiki/Detroit" title="Detroit">Detroit</a>.  Later that season, at the senior level, she placed third at the <a href="/w/index.php?title=1996_United_States_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="1996 United States Figure Skating Championships (page does not exist)">1996 United States Figure Skating Championships</a> and qualified to compete at the senior-level <a href="/w/index.php?title=1996_World_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="1996 World Figure Skating Championships (page does not exist)">World Championships</a>, where she finished 15th.  Later that year, the <a href="/wiki/International_Skating_Union" title="International Skating Union">International Skating Union</a> voted to raise the minimum age for participating at the World Championships to 15. Lipinski, who was 13 at the time, was <a href="/wiki/Grandfather_clause" title="Grandfather clause">grandfathered</a> into remaining eligible for future events, along with other skaters who had already competed at the World Championships before the new age requirement was introduced.
+</p><p>In 1997, Lipinski unexpectedly won the <a href="/w/index.php?title=1997_United_States_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="1997 United States Figure Skating Championships (page does not exist)">U.S. Championships</a> and, at 14, became the youngest person to win the title ahead of <a href="/w/index.php?title=Sonya_Klopfer&amp;action=edit&amp;redlink=1" class="new" title="Sonya Klopfer (page does not exist)">Sonya Klopfer</a> who won it in 1951 at the age of 15.<sup id="cite_ref-spil970224_2-1" class="reference"><a href="#cite_note-spil970224-2">[2]</a></sup> She went on to win the <a href="/w/index.php?title=1997_World_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="1997 World Figure Skating Championships (page does not exist)">World Championships</a>, again becoming the youngest person to win the title. At the 1996 U.S. Postal Challenge, Lipinski became the first female skater to land a <a href="/wiki/Loop_jump" title="Loop jump">triple loop/triple loop</a> jump combination, which became her signature element. Lipinski also won the 1997 Champion Series Final, again becoming the youngest female ever to win the title.
+</p><p>The following season, Lipinski finished second to <a href="/wiki/Michelle_Kwan" title="Michelle Kwan">Michelle Kwan</a> at <a href="/w/index.php?title=Skate_America&amp;action=edit&amp;redlink=1" class="new" title="Skate America (page does not exist)">Skate America</a> and, while suffering from a bad head cold, to <a href="/w/index.php?title=Laetitia_Hubert&amp;action=edit&amp;redlink=1" class="new" title="Laetitia Hubert (page does not exist)">Laetitia Hubert</a> at <a href="/w/index.php?title=Troph%C3%A9e_Lalique&amp;action=edit&amp;redlink=1" class="new" title="Trophée Lalique (page does not exist)">Trophée Lalique</a>. With Kwan sidelined due to a toe-related stress fracture injury, Lipinski defended her Champion Series Final title (now known as the Grand Prix Final). At the 1998 U.S. Nationals, Kwan and Lipinski met again, but after a fall on the triple flip in the short program, Lipinski ended the night in 4th place with Kwan in 1st place. Although she landed seven triples in the long program, she finished second to Kwan.
+</p><p>Going into the <a href="/wiki/1998_Winter_Olympics" title="1998 Winter Olympics">1998 Winter Olympics</a>, Lipinski embraced the experience, living in the <a href="/wiki/Olympic_Village" title="Olympic Village">Olympic Village</a>, experiencing all that <a href="/w/index.php?title=Nagano,_Nagano&amp;action=edit&amp;redlink=1" class="new" title="Nagano, Nagano (page does not exist)">Nagano</a> had to offer, and mingling with other competitors. Lipinski skated her short program to music from the animated movie "Anastasia", placing second to Kwan. In the long program, Lipinski performed seven triples, including a historic triple loop/triple loop combination and, at the very end, a triple toe/half loop/triple salchow sequence, to overtake Kwan for the gold medal. She became the youngest ever ladies Olympic Figure Skating Champion and the youngest individual gold medalist in Winter Olympic history.
+</p>
+<h2><span class="mw-headline" id="Professional_career">Professional career</span></h2>
+<p>On March 9, 1998, Lipinski announced her decision to withdraw from the 1998 World Figure Skating Championships, citing a serious glandular infection that required her to have two <a href="/wiki/Molar_(tooth)" title="Molar (tooth)">molars</a> extracted, constant fatigue, and possible <a href="/wiki/Mononucleosis" title="Mononucleosis" class="mw-redirect">mononucleosis</a>.<sup id="cite_ref-nyt980310_8-0" class="reference"><a href="#cite_note-nyt980310-8">[8]</a></sup>
+</p><p>On April 7, 1998, Lipinski announced her intention to turn professional in an interview with <a href="/wiki/Katie_Couric" title="Katie Couric">Katie Couric</a> on the <i><a href="/w/index.php?title=Today_(NBC_program)&amp;action=edit&amp;redlink=1" class="new" title="Today (NBC program) (page does not exist)">Today Show</a></i>.  She cited a desire to spend more time with her family, to have time for school, and to compete professionally against other Olympic champions. However, given the opportunities available to a newly crowned Olympic Champion, Lipinski took on a full schedule of touring, publicity appearances, and acting engagements, albeit that they required constant travel.<sup id="cite_ref-nyt980408_9-0" class="reference"><a href="#cite_note-nyt980408-9">[9]</a></sup> She was also heavily criticized by some for her decision to retire from competition at such a young age; for example, <a href="/w/index.php?title=Christine_Brennan&amp;action=edit&amp;redlink=1" class="new" title="Christine Brennan (page does not exist)">Christine Brennan</a>, writing in <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>, compared the pro skating circuit to "joining the circus."<sup id="cite_ref-SHLI_10-0" class="reference"><a href="#cite_note-SHLI-10">[10]</a></sup> However, the criticism aimed at Lipinski was labelled by one commentator as "petty backlash" following her defeat of the expected-winner Kwan at the Nagano Olympics.<sup id="cite_ref-ISIcircus_11-0" class="reference"><a href="#cite_note-ISIcircus-11">[11]</a></sup>
+</p><p>In the spring and summer of 1998, Lipinski toured with <a href="/wiki/Champions_on_Ice" title="Champions on Ice">Champions on Ice</a>. She then toured with <a href="/wiki/Stars_on_Ice" title="Stars on Ice">Stars on Ice</a> for four seasons.  Lipinski appealed to a younger audience, attracting new fans to what had traditionally been an adult-oriented show. Her signing to Stars on Ice was reported as a coup for the tour,<sup id="cite_ref-ap980819_12-0" class="reference"><a href="#cite_note-ap980819-12">[12]</a></sup> which at that time was doing well, with some performances routinely selling out months in advance.<sup id="cite_ref-ym990326_13-0" class="reference"><a href="#cite_note-ym990326-13">[13]</a></sup><sup id="cite_ref-grp010331_14-0" class="reference"><a href="#cite_note-grp010331-14">[14]</a></sup> Choreographer Sandra Bezic commented, "Tara reminds us why we're doing this – the idealism, the genuine love of skating. There's a real sweetness there that makes us all go, 'Yeah, I remember' ".<sup id="cite_ref-ym990326_13-1" class="reference"><a href="#cite_note-ym990326-13">[13]</a></sup> Lipinski generally received favorable reviews and was popular with fans, sometimes signing autographs for hours after each show.<sup id="cite_ref-pn990326_15-0" class="reference"><a href="#cite_note-pn990326-15">[15]</a></sup>
+</p><p>Lipinski's decision to turn pro coincided with a change in the business climate for the skating industry. After the 1998 Olympics, many of the pro skating competitions that had sprung up in the aftermath of the 1994 <a href="/wiki/Tonya_Harding" title="Tonya Harding">Tonya Harding</a> spectacle were converted to a pro-am format or discontinued entirely as audiences lost interest.<sup id="cite_ref-st040506_16-0" class="reference"><a href="#cite_note-st040506-16">[16]</a></sup> Lipinski did not want to compete in the new pro-am events, and not long after she turned professional, she broke an existing $1.2 million contract to appear in made-for-TV events sponsored by the USFSA.<sup id="cite_ref-contract_17-0" class="reference"><a href="#cite_note-contract-17">[17]</a></sup> Instead, she skated only in the remaining all-pro competitions, which were primarily team events such as <i><a href="/w/index.php?title=Ice_Wars&amp;action=edit&amp;redlink=1" class="new" title="Ice Wars (page does not exist)">Ice Wars</a></i>. Her most notable individual victory came at the 1999 <a href="/w/index.php?title=World_Professional_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="World Professional Figure Skating Championships (page does not exist)">World Professional Figure Skating Championships</a>; at age 17, she became the youngest person to win that event.<sup id="cite_ref-nyt991212_18-0" class="reference"><a href="#cite_note-nyt991212-18">[18]</a></sup>
+</p><p>Lipinski's professional skating career was hampered by a series of hip injuries. In August 1998, Lipinski suffered a hip injury in practice for Stars on Ice. In September 2000, she underwent surgery to repair a torn labrum in her hip.<sup id="cite_ref-usat020906_19-0" class="reference"><a href="#cite_note-usat020906-19">[19]</a></sup><sup id="cite_ref-TL001016_20-0" class="reference"><a href="#cite_note-TL001016-20">[20]</a></sup> She said her hip problem had been misdiagnosed for several years.<sup id="cite_ref-NIH2011_21-0" class="reference"><a href="#cite_note-NIH2011-21">[21]</a></sup> Lipinski suffered another hip injury in 2002 during a Stars on Ice show in <a href="/w/index.php?title=St._Louis,_Missouri&amp;action=edit&amp;redlink=1" class="new" title="St. Louis, Missouri (page does not exist)">St. Louis</a>, when she fell hard on her right hip during a jump, and then tore muscles around the bruised area the next day.<sup id="cite_ref-TL020304_22-0" class="reference"><a href="#cite_note-TL020304-22">[22]</a></sup>
+</p><p>Many people have pointed to the repetitive stress of practicing the <a href="/wiki/Loop_jump" title="Loop jump">triple loop</a> combinations Lipinski performed during her competitive days as the primary cause of her hip problems.  Lipinski herself has issued contradictory statements about the timing, cause, and severity of her injuries. After her surgery in 2000, she stated in interviews that the real reason she had turned professional was that she had originally incurred the injury to her hip in the summer of 1997 and that she had skated the entire Olympic season in terrible pain,<sup id="cite_ref-boi0108_23-0" class="reference"><a href="#cite_note-boi0108-23">[23]</a></sup><sup id="cite_ref-MLFA196_24-0" class="reference"><a href="#cite_note-MLFA196-24">[24]</a></sup> contradicting her earlier account of the original injury having occurred in the summer of 1998 rather than in 1997.<sup id="cite_ref-TL001016_20-1" class="reference"><a href="#cite_note-TL001016-20">[20]</a></sup> In a 2010 statement on her web site, Lipinski denied that her hip injury was a factor in her decision to retire or that she suffered particular pain during her amateur career beyond "the norm for any athlete."<sup id="cite_ref-TL2010QAA_25-0" class="reference"><a href="#cite_note-TL2010QAA-25">[25]</a></sup>
+</p><p>Lipinski participated in rehearsals for a fifth season of the Stars on Ice tour in the fall of 2002, but withdrew from the tour before it began. She had been increasingly unhappy with life on the tour; she felt isolated from the off-ice camaraderie of the older skaters on the tour,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> and her injuries caused friction with the show's producers and other cast members. She later wrote on her official web site, "It was really hard those last two years of touring for me. Emotionally I was drained and hurt. I have never been treated like that in my whole life."<sup id="cite_ref-TL050613_27-0" class="reference"><a href="#cite_note-TL050613-27">[27]</a></sup> In later interviews she also expressed frustration with the artistic direction of the show at that time.<sup id="cite_ref-boi060102_28-0" class="reference"><a href="#cite_note-boi060102-28">[28]</a></sup> For example, reviewers had particularly panned the rap ensemble performed by Lipinski with <a href="/wiki/Kristi_Yamaguchi" title="Kristi Yamaguchi">Kristi Yamaguchi</a> and <a href="/wiki/Katarina_Witt" title="Katarina Witt">Katarina Witt</a> in the 2001–2002 tour.<sup id="cite_ref-boi020304_29-0" class="reference"><a href="#cite_note-boi020304-29">[29]</a></sup><sup id="cite_ref-TE020309_30-0" class="reference"><a href="#cite_note-TE020309-30">[30]</a></sup><sup id="cite_ref-MLFA89_31-0" class="reference"><a href="#cite_note-MLFA89-31">[31]</a></sup>
+</p><p>She has made several television appearances, which have included guest roles on a number of primetime shows (<i><a href="/wiki/Are_You_Afraid_of_the_Dark%3F" title="Are You Afraid of the Dark?">Are You Afraid of the Dark?</a></i>, <i><a href="/wiki/Touched_by_an_Angel" title="Touched by an Angel">Touched by an Angel</a></i>, <i><a href="/wiki/Sabrina,_the_Teenage_Witch_(TV_series)" title="Sabrina, the Teenage Witch (TV series)">Sabrina, the Teenage Witch</a></i>, <i><a href="/wiki/Malcolm_in_the_Middle" title="Malcolm in the Middle">Malcolm in the Middle</a></i>, <i><a href="/wiki/Veronica%27s_Closet" title="Veronica's Closet">Veronica's Closet</a></i>, <i><a href="/wiki/Early_Edition" title="Early Edition">Early Edition</a></i>, <i><a href="/wiki/7th_Heaven_(TV_series)" title="7th Heaven (TV series)">7th Heaven</a></i> and <i><a href="/w/index.php?title=Still_Standing_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="Still Standing (TV series) (page does not exist)">Still Standing</a></i>), as well as a cameo in the theatrical film <i><a href="/wiki/Vanilla_Sky" title="Vanilla Sky">Vanilla Sky</a></i>. Lipinski also played a brief supporting role on <i><a href="/wiki/The_Young_and_the_Restless" title="The Young and the Restless">The Young and the Restless</a></i> in 1999, starred in the TV movie <i>Ice Angel</i> in 2000, and was cast in the independent film <i>The Metro Chase</i>. Additionally, she has been a celebrity guest on VH-1's <i>The List</i>, Fox's <i>Beach Party</i>, several Nickelodeon productions, <i>Girls Behaving Badly</i> and has appeared on numerous magazine covers as well as every major talk show. In 1999, CBS aired a primetime special, <i>Tara Lipinski: From This Moment On</i>. 
+</p><p>Lipinski made an appearance on the Today Show on March 18, 2011, where she skated to <a href="/wiki/Ben_Harper" title="Ben Harper">Ben Harper</a>'s "Forever".
+</p><p>In October 2013, it was announced that Lipinski will be a commentator and analyst on <a href="/wiki/NBC" title="NBC">NBC</a>, <a href="/wiki/NBC_Sports" title="NBC Sports">NBC Sports</a> and <a href="/w/index.php?title=Universal_Sports&amp;action=edit&amp;redlink=1" class="new" title="Universal Sports (page does not exist)">Universal Sports</a> during the <a href="/wiki/Sochi" title="Sochi">Sochi</a> <a href="/wiki/2014_Winter_Olympics" title="2014 Winter Olympics">Winter Games</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards_and_recognition">Awards and recognition</span></h2>
+<p>The year before her Olympic win, the <a href="/wiki/United_States_Olympic_Committee" title="United States Olympic Committee">U.S. Olympic Committee</a> named Lipinski the 1997 Female Athlete of the Year. Lipinski is particularly proud of the recognition she has received from fans. In 1999 and 2000 she was voted Best Female Athlete at the Nickelodeon Kids' Choice Awards. In 1999, she won Best Female Athlete at the inaugural Fox Teen Choice Awards. She received similar awards from Teen People and Teen magazine. She has been recognized by the American Academy of Achievement, the Hugh O'Brien Youth Leadership Foundation, and many other organizations.  In 2006, Lipinski was the youngest ever inductee into the United States Figure Skating Hall of Fame.
+</p>
+<h2><span class="mw-headline" id="Philanthropic_work.2C_endorsements.2C_and_publications">Philanthropic work, endorsements, and publications</span></h2>
+<p>With <a href="/wiki/Shaquille_O%27Neal" title="Shaquille O'Neal">Shaquille O'Neal</a> and <a href="/wiki/Denzel_Washington" title="Denzel Washington">Denzel Washington</a>, Lipinski is a national spokesperson for the <a href="/w/index.php?title=Boys_and_Girls_Clubs_of_America&amp;action=edit&amp;redlink=1" class="new" title="Boys and Girls Clubs of America (page does not exist)">Boys and Girls Clubs of America</a>. She is also a spokesperson for the Campaign for Tobacco-Free Kids<sup id="cite_ref-usnw980520_35-0" class="reference"><a href="#cite_note-usnw980520-35">[35]</a></sup> and the Childhood Leukemia Foundation. Lipinski is also involved with the Office of National Drug Control Policy's anti-drug campaign. Her anti-drug public service announcement aired nationwide on TV and in theaters in 2000.
+</p><p>She is also dedicated to helping children in need, through the <a href="/wiki/Make-A-Wish_Foundation" title="Make-A-Wish Foundation">Make-A-Wish Foundation</a> and the Children's Circle of Care, the <a href="/wiki/Philanthropy" title="Philanthropy">philanthropic</a> organization for children's hospitals nationwide. She has also supported St. Jude Children's Research Hospital,<sup id="cite_ref-jude_36-0" class="reference"><a href="#cite_note-jude-36">[36]</a></sup> and numerous cancer research efforts. 
+</p><p>Her portfolio of endorsements includes <a href="/w/index.php?title=McDonald%27s&amp;action=edit&amp;redlink=1" class="new" title="McDonald's (page does not exist)">McDonald's</a>, <a href="/w/index.php?title=Charles_Schwab&amp;action=edit&amp;redlink=1" class="new" title="Charles Schwab (page does not exist)">Charles Schwab</a>, <a href="/wiki/Chevrolet" title="Chevrolet">Chevrolet</a>, <a href="/wiki/Snapple" title="Snapple">Snapple</a>, <a href="/w/index.php?title=DKNY&amp;action=edit&amp;redlink=1" class="new" title="DKNY (page does not exist)">DKNY</a>, <a href="/wiki/Minute_Maid" title="Minute Maid">Minute Maid</a>, <a href="/w/index.php?title=Capezio&amp;action=edit&amp;redlink=1" class="new" title="Capezio (page does not exist)">Capezio</a>, <a href="/wiki/Mattel" title="Mattel">Mattel</a>, <a href="/wiki/Campbell%27s_Soup" title="Campbell's Soup" class="mw-redirect">Campbell's Soup</a>, Autoweb.com, <a href="/wiki/Kellogg%27s" title="Kellogg's" class="mw-redirect">Kellogg's</a>, <a href="/wiki/Coca_Cola" title="Coca Cola" class="mw-redirect">Coca Cola</a>, <a href="/wiki/Kleenex" title="Kleenex">Kleenex</a>, <a href="/w/index.php?title=Kodak&amp;action=edit&amp;redlink=1" class="new" title="Kodak (page does not exist)">Kodak</a>, <a href="/w/index.php?title=Hallmark_Cards&amp;action=edit&amp;redlink=1" class="new" title="Hallmark Cards (page does not exist)">Hallmark Cards</a>, <a href="/wiki/Office_Depot" title="Office Depot">Office Depot</a>, <a href="/wiki/Smuckers" title="Smuckers" class="mw-redirect">Smuckers</a>, <a href="/w/index.php?title=Target_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Target Corporation (page does not exist)">Target</a> and others. Lipinski has also been on the runway for Limited Too!. Lipinski has two official books in print: <i>Totally Tara – An Olympic Journey</i> and <i>Triumph On Ice</i>. In additional there are numerous unofficial biographies, including:
+</p>
+<ul>
+<li>'Tara Lipinski: Queen of the Ice', Bill Gutman
+</li>
+<li>'Tara Lipinski: Superstar Ice-Skater', Stasia Ward Kehoe
+</li>
+<li>'Tara Lipinski (Sports Superstars)', Richard Rambeck
+</li>
+<li>'On Ice with Tara Lipinski', Matt Christopher
+</li>
+<li>'Tara Lipinski (Champion Sports Biographies)', Annis Karpenko
+</li>
+<li>'Tara the Road to Gold', Wendy Daly
+</li>
+<li>'Tara Lipinski (Awesome Athletes)', Jill Wheeler
+</li>
+<li>'Tara Lipinski (Female Skating Legends)', Veda Boyd Jones
+</li>
+<li>'Tara Lipinski (Jam Session)', Terri Dougherty
+</li>
+<li>'Tara Lipinski: Star Figure Skater', Barry Wilner
+</li>
+</ul>
+<h2><span class="mw-headline" id="Skating_technique">Skating technique</span></h2>
+<p>Lipinski is best known for her consistent athletic ability which included a number of difficult jumping passes. She completed a triple loop-triple loop, and a triple toe/half loop/triple salchow. These combinations are very rare to this day. Lipinski's jumps were tight in the air with very fast rotations, and her double axel technique became very popular among many skaters for years to come.
+</p>
+<h2><span class="mw-headline" id="Programs">Programs</span></h2>
+<table class="wikitable" style="text-align:center">
+
+<tr>
+<th> Season
+</th>
+<th> <a href="/w/index.php?title=Short_program_(figure_skating)&amp;action=edit&amp;redlink=1" class="new" title="Short program (figure skating) (page does not exist)">Short program</a>
+</th>
+<th> <a href="/w/index.php?title=Free_skating&amp;action=edit&amp;redlink=1" class="new" title="Free skating (page does not exist)">Free skating</a>
+</th>
+<th> Exhibition
+</th></tr>
+<tr>
+<th> 1997–1998
+</th>
+<td>
+<ul>
+<li> Anastasia
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li> The Rainbow
+</li>
+</ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<th> 1996–1997
+</th>
+<td>
+<ul>
+<li> Little Women   
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li> Much Ado About Nothing 
+</li>
+<li> Sense and Sensibility
+</li>
+</ul>
+</td>
+<td>
+</td></tr>
+<tr>
+<th> 1995–1996
+</th>
+<td>
+<ul>
+<li> On the Town   
+</li>
+</ul>
+</td>
+<td>
+<ul>
+<li> Speed 
+</li>
+<li> The Prince of Tides
+</li>
+</ul>
+</td>
+<td>
+</td></tr></table>
+<h2><span class="mw-headline" id="Results">Results</span></h2>
+<h3><span class="mw-headline" id="Eligible">Eligible</span></h3>
+<table class="wikitable" style="text-align:center">
+
+<tr>
+<th style="background-color: #ffdead;" colspan="6" align="center"> <b>International</b>
+</th></tr>
+<tr>
+<th> Event
+</th>
+<th> 1993–94
+</th>
+<th> 1994–95
+</th>
+<th> 1995–96
+</th>
+<th> 1996–97
+</th>
+<th> 1997–98
+</th></tr>
+<tr>
+<td align="left"> <a href="/wiki/Olympic_Winter_Games" title="Olympic Winter Games" class="mw-redirect">Olympics</a> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td bgcolor="gold"> 1st
+</td></tr>
+<tr>
+<td align="left"> <a href="/wiki/World_Figure_Skating_Championships" title="World Figure Skating Championships">Worlds</a> </td>
+<td> </td>
+<td> </td>
+<td> 15th </td>
+<td bgcolor="gold"> 1st </td>
+<td>
+</td></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=Grand_Prix_of_Figure_Skating_Final&amp;action=edit&amp;redlink=1" class="new" title="Grand Prix of Figure Skating Final (page does not exist)">CS Final</a> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td bgcolor="gold"> 1st </td>
+<td bgcolor="gold"> 1st
+</td></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=Bofrost_Cup_on_Ice&amp;action=edit&amp;redlink=1" class="new" title="Bofrost Cup on Ice (page does not exist)">Nations Cup</a> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td bgcolor="silver"> 2nd </td>
+<td>
+</td></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=Skate_America&amp;action=edit&amp;redlink=1" class="new" title="Skate America (page does not exist)">Skate America</a> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td bgcolor="silver"> 2nd
+</td></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=Skate_Canada_International&amp;action=edit&amp;redlink=1" class="new" title="Skate Canada International (page does not exist)">Skate Canada</a> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td bgcolor="silver"> 2nd </td>
+<td>
+</td></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=Troph%C3%A9e_Eric_Bompard&amp;action=edit&amp;redlink=1" class="new" title="Trophée Eric Bompard (page does not exist)">Trophée Lalique</a> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td bgcolor="cc9966"> 3rd </td>
+<td bgcolor="silver"> 2nd
+</td></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=Nebelhorn_Trophy&amp;action=edit&amp;redlink=1" class="new" title="Nebelhorn Trophy (page does not exist)">Nebelhorn</a> </td>
+<td> </td>
+<td> </td>
+<td> 4th </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<th style="background-color: #ffdead;" colspan="6" align="center"> <b>International: Junior</b>
+</th></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=World_Junior_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="World Junior Figure Skating Championships (page does not exist)">Junior Worlds</a> </td>
+<td> </td>
+<td> 4th </td>
+<td> 5th </td>
+<td> </td>
+<td>
+</td></tr>
+<tr>
+<th style="background-color: #ffdead;" colspan="6" align="center"> <b>National</b>
+</th></tr>
+<tr>
+<td align="left"> <a href="/w/index.php?title=United_States_Figure_Skating_Championships&amp;action=edit&amp;redlink=1" class="new" title="United States Figure Skating Championships (page does not exist)">U.S. Champ.</a> </td>
+<td bgcolor="silver"> 2nd N. </td>
+<td bgcolor="silver"> 2nd J. </td>
+<td bgcolor="cc9966"> 3rd </td>
+<td bgcolor="gold"> 1st </td>
+<td bgcolor="silver"> 2nd
+</td></tr>
+<tr>
+<td colspan="6" align="center"> <small> Levels: N. = Novice; J. = Junior </small>
+</td></tr></table>
+<h3><span class="mw-headline" id="Professional">Professional</span></h3>
+<ul>
+<li> 1998 Skate TV Championships: 1st<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+</li>
+<li> 1998 Ice Wars: 1st (Team USA)<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+</li>
+<li> 1998 Jefferson Pilot Financial Championships: 1st<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</li>
+<li> 1999 Team Ice Wars: 2nd (Team USA)<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>
+</li>
+<li> 1999 Ice Wars: 1st (Team USA)
+</li>
+<li> 1999 Grand Slam Super Teams of Skating: 1st<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>
+</li>
+<li> 1999 World Professional Championship: 1st
+</li>
+<li> 2001 World Ice Challenge: 1st (Team USA)
+</li>
+<li> 2002 Ice Wars: 1st (Team USA)
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Official_website&amp;action=edit&amp;redlink=1" class="new" title="Template:Official website (page does not exist)">Template:Official website</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0005150/">Tara Lipinski</a> at the <a href="/w/index.php?title=Internet_Movie_Database&amp;action=edit&amp;redlink=1" class="new" title="Internet Movie Database (page does not exist)">Internet Movie Database</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:NavigationOlympicChampionsFigureSkatingLadies&amp;action=edit&amp;redlink=1" class="new" title="Template:NavigationOlympicChampionsFigureSkatingLadies (page does not exist)">Template:NavigationOlympicChampionsFigureSkatingLadies</a>
+<a href="/w/index.php?title=Template:NavigationWorldChampionsFigureSkatingLadies&amp;action=edit&amp;redlink=1" class="new" title="Template:NavigationWorldChampionsFigureSkatingLadies (page does not exist)">Template:NavigationWorldChampionsFigureSkatingLadies</a>
+<a href="/w/index.php?title=Template:NavigationGrandPrixFinalChampionsFigureSkatingLadies&amp;action=edit&amp;redlink=1" class="new" title="Template:NavigationGrandPrixFinalChampionsFigureSkatingLadies (page does not exist)">Template:NavigationGrandPrixFinalChampionsFigureSkatingLadies</a>
+<a href="/w/index.php?title=Template:NavigationUSChampionsFigureSkatingLadies&amp;action=edit&amp;redlink=1" class="new" title="Template:NavigationUSChampionsFigureSkatingLadies (page does not exist)">Template:NavigationUSChampionsFigureSkatingLadies</a>
+</p><p><a href="/w/index.php?title=Template:Authority_control&amp;action=edit&amp;redlink=1" class="new" title="Template:Authority control (page does not exist)">Template:Authority control</a>
+</p><p><a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.352 seconds
+Real time usage: 0.672 seconds
+Preprocessor visited node count: 881/1000000
+Preprocessor generated node count: 4671/1000000
+Post‐expand include size: 922/2097152 bytes
+Template argument size: 73/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:144423-0!*!0!!en!*!* and timestamp 20170407172925
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Tara_Lipinski&amp;oldid=144423">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Tara_Lipinski&amp;oldid=144423</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:1982_births" title="Category:1982 births">1982 births</a></li><li><a href="/w/index.php?title=Category:American_film_actresses&amp;action=edit&amp;redlink=1" class="new" title="Category:American film actresses (page does not exist)">American film actresses</a></li><li><a href="/w/index.php?title=Category:American_female_single_skaters&amp;action=edit&amp;redlink=1" class="new" title="Category:American female single skaters (page does not exist)">American female single skaters</a></li><li><a href="/w/index.php?title=Category:American_television_actresses&amp;action=edit&amp;redlink=1" class="new" title="Category:American television actresses (page does not exist)">American television actresses</a></li><li><a href="/wiki/Category:Figure_skaters_at_the_1998_Winter_Olympics" title="Category:Figure skaters at the 1998 Winter Olympics">Figure skaters at the 1998 Winter Olympics</a></li><li><a href="/w/index.php?title=Category:Living_people&amp;action=edit&amp;redlink=1" class="new" title="Category:Living people (page does not exist)">Living people</a></li><li><a href="/w/index.php?title=Category:Olympic_figure_skaters_of_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic figure skaters of the United States (page does not exist)">Olympic figure skaters of the United States</a></li><li><a href="/w/index.php?title=Category:Olympic_gold_medalists_for_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic gold medalists for the United States (page does not exist)">Olympic gold medalists for the United States</a></li><li><a href="/w/index.php?title=Category:Olympic_medalists_in_figure_skating&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic medalists in figure skating (page does not exist)">Olympic medalists in figure skating</a></li><li><a href="/w/index.php?title=Category:Actresses_from_Detroit,_Michigan&amp;action=edit&amp;redlink=1" class="new" title="Category:Actresses from Detroit, Michigan (page does not exist)">Actresses from Detroit, Michigan</a></li><li><a href="/w/index.php?title=Category:People_from_Mantua_Township,_New_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Mantua Township, New Jersey (page does not exist)">People from Mantua Township, New Jersey</a></li><li><a href="/w/index.php?title=Category:People_from_Philadelphia,_Pennsylvania&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Philadelphia, Pennsylvania (page does not exist)">People from Philadelphia, Pennsylvania</a></li><li><a href="/w/index.php?title=Category:People_from_Sugar_Land,_Texas&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Sugar Land, Texas (page does not exist)">People from Sugar Land, Texas</a></li><li><a href="/w/index.php?title=Category:People_from_Washington_Township,_Gloucester_County,_New_Jersey&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Washington Township, Gloucester County, New Jersey (page does not exist)">People from Washington Township, Gloucester County, New Jersey</a></li><li><a href="/w/index.php?title=Category:World_Figure_Skating_Championships_medalists&amp;action=edit&amp;redlink=1" class="new" title="Category:World Figure Skating Championships medalists (page does not exist)">World Figure Skating Championships medalists</a></li><li><a href="/w/index.php?title=Category:Medalists_at_the_1998_Winter_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Category:Medalists at the 1998 Winter Olympics (page does not exist)">Medalists at the 1998 Winter Olympics</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tara+Lipinski" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tara_Lipinski"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Tara_Lipinski&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Tara_Lipinski" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Tara_Lipinski&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tara_Lipinski&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tara_Lipinski" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tara_Lipinski" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Tara_Lipinski&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Tara_Lipinski&amp;oldid=144423" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Tara_Lipinski&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 January 2014, at 07:44.</li>
+											<li id="footer-info-viewcount">This page has been accessed 92 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.238 secs. -->
+	</body>
+</html>

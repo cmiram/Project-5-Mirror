@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Shaun White - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shaun_White","wgTitle":"Shaun White","wgCurRevisionId":708031,"wgRevisionId":708031,"wgArticleId":708031,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category with local link different than on Wikidata","1986 births","Living people","American people of Irish descent","American skateboarders","American snowboarders","Medalists at the 2006 Winter Olympics","Medalists at the 2010 Winter Olympics","Olympic gold medalists for the United States","Olympic medalists in snowboarding","Olympic snowboarders of the United States","Snowboarders at the 2006 Winter Olympics","Snowboarders at the 2010 Winter Olympics","Sportspeople from San Diego, California","X-Games athletes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shaun_White","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Shaun_White skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Shaun White</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other similarly named persons, see <a href="/w/index.php?title=Sean_Whyte_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Sean Whyte (disambiguation) (page does not exist)">Sean Whyte (disambiguation)</a>.</div>
+<p><a href="/w/index.php?title=Template:Pp-semi-indef&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-semi-indef (page does not exist)">Template:Pp-semi-indef</a>
+<a href="/w/index.php?title=Template:Infobox_sportsperson&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox sportsperson (page does not exist)">Template:Infobox sportsperson</a>
+</p><p><b>Shaun Roger White</b> (born September 3, 1986) is an <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">American</a> professional <a href="/wiki/Snowboarding" title="Snowboarding">snowboarder</a> and <a href="/wiki/Skateboarding" title="Skateboarding">skateboarder</a>. He is a two-time <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic</a> gold medalist. He holds the <a href="/wiki/X-Games" title="X-Games" class="mw-redirect">X-Games</a> records for gold medals and highest overall medal count, and has won 10 <a href="/wiki/ESPY_Award" title="ESPY Award">ESPY Awards</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Snowboarding_career"><span class="tocnumber">2.1</span> <span class="toctext">Snowboarding career</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#2006_Winter_Olympics"><span class="tocnumber">2.1.1</span> <span class="toctext">2006 Winter Olympics</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#2008"><span class="tocnumber">2.1.2</span> <span class="toctext">2008</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#2009"><span class="tocnumber">2.1.3</span> <span class="toctext">2009</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#2010_Winter_Olympics"><span class="tocnumber">2.1.4</span> <span class="toctext">2010 Winter Olympics</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#2011"><span class="tocnumber">2.1.5</span> <span class="toctext">2011</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#2012"><span class="tocnumber">2.1.6</span> <span class="toctext">2012</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#2013"><span class="tocnumber">2.1.7</span> <span class="toctext">2013</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Athletic_achievements"><span class="tocnumber">3</span> <span class="toctext">Athletic achievements</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Non-competition_awards_and_accolades"><span class="tocnumber">4</span> <span class="toctext">Non-competition awards and accolades</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Endorsements"><span class="tocnumber">5</span> <span class="toctext">Endorsements</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Media_appearances"><span class="tocnumber">6</span> <span class="toctext">Media appearances</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Personal_life"><span class="tocnumber">7</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span></h2>
+<p>White was born in San Diego, California. His ancestry includes <a href="/wiki/Irish_American" title="Irish American">Irish</a> and Italian.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> He was born with a <a href="/wiki/Tetralogy_of_Fallot" title="Tetralogy of Fallot">Tetralogy of Fallot</a>, a congenital heart defect for which he endured two open-heart operations before the age of one.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> He stands 5'8" (1.73 m) tall. White spent his formative years riding <a href="/w/index.php?title=Okemo_Mountain&amp;action=edit&amp;redlink=1" class="new" title="Okemo Mountain (page does not exist)">Okemo Mountain</a> and <a href="/w/index.php?title=Bear_Mountain_(Ski_Area)&amp;action=edit&amp;redlink=1" class="new" title="Bear Mountain (Ski Area) (page does not exist)">Bear Mountain</a>, small ski resorts found in <a href="/wiki/Ludlow_(town),_Vermont" title="Ludlow (town), Vermont">Ludlow, Vermont</a>, and the <a href="/wiki/San_Bernardino_Mountains" title="San Bernardino Mountains">San Bernardino Mountains</a> of Southern California.
+</p>
+<h2><span class="mw-headline" id="Career">Career</span></h2>
+<p>White's skateboard career took place during the same time he was rising through the snowboard ranks. White quickly drew the eyes of many in the skateboarder scene including professional skateboarder <a href="/wiki/Tony_Hawk" title="Tony Hawk">Tony Hawk</a>. At this point Hawk befriended the nine-year-old White at a local skatepark and mentored him, helping him turn pro in skateboarding at the age of 17. White has gone on to win many titles on his skateboard, most notably winning the overall title of Action Sports Tour Champion, as well as being the first person to compete in and win both the Summer and Winter X Games in two different sports.
+</p>
+<h3><span class="mw-headline" id="Snowboarding_career">Snowboarding career</span></h3>
+<p>Following in his older brother's footsteps, White switched from skiing to snowboarding at age six, and by age seven he received his first sponsorship.  White has participated in two Winter Olympics in his career. At both the <a href="/wiki/2006_Winter_Olympics" title="2006 Winter Olympics">2006</a> and <a href="/wiki/2010_Winter_Olympics" title="2010 Winter Olympics">2010 Winter Olympics</a>, White won gold in the <a href="/w/index.php?title=Snowboard_halfpipe&amp;action=edit&amp;redlink=1" class="new" title="Snowboard halfpipe (page does not exist)">snowboard halfpipe</a> event.  White has also participated in the Winter <a href="/wiki/X_Games" title="X Games">X Games</a>, where he has won a medal every year since 2002. Including all winter X Games competitions through 2013, his medal count stands at 18 (13 gold, 3 silver, 2 bronze), among which is the first quadruple win streak by a male athlete in one discipline, the snowboard slopestyle. White's streak was snapped in 2007 when he lost to <a href="/w/index.php?title=Andreas_Wiig&amp;action=edit&amp;redlink=1" class="new" title="Andreas Wiig (page does not exist)">Andreas Wiig</a> and Teddy Flandreau, with White taking the bronze. He won the Air &amp; Style Contest in 2003 and 2004.
+</p>
+<h4><span class="mw-headline" id="2006_Winter_Olympics">2006 Winter Olympics</span></h4>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>At the 2006 Winter Olympics, White won gold in the half-pipe.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> After his first run in qualifications, White was almost out of competition, scoring only 37.7.  On his second run, he recorded a score of 45.3. In the finals, White recorded a score of 46.8 (50 is the highest possible score) to win. Fellow American <a href="/wiki/Danny_Kass" title="Danny Kass">Danny Kass</a> won the silver with a points total of 44.0.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h4><span class="mw-headline" id="2008">2008</span></h4>
+<p>Executing a near-flawless second run, White captured his third consecutive <a href="/w/index.php?title=Snowboard_halfpipe&amp;action=edit&amp;redlink=1" class="new" title="Snowboard halfpipe (page does not exist)">snowboard halfpipe</a> title at the 2008 U.S. Open Snowboarding Championships to go along with his third US Open slopestyle competition. This followed White's win at the 25th (2007) Burton US Open, where he placed third in slopestlyle and first in the halfpipe. At the 2007 Open, White was also crowned the first "Burton Global Open Champion". His take for the event was $100,000 (Global Open Champ), $20,000 (1st Place Halfpipe), $90,000 (3rd Place Slopestyle), and a new <a href="/wiki/Corvette" title="Corvette">Corvette</a>.
+</p><p>On November 16, 2008, White released his first videogame "<a href="/w/index.php?title=Shaun_White_Snowboarding&amp;action=edit&amp;redlink=1" class="new" title="Shaun White Snowboarding (page does not exist)">Shaun White Snowboarding</a>" in North America (November 14, 2008, in Europe). <i>Shaun White:Snowboarding</i> was the 20th best-selling game of December 2008 in the United States.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h4><span class="mw-headline" id="2009">2009</span></h4>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:RichardBransonShaunWhiteApr09.jpg" title="File:RichardBransonShaunWhiteApr09.jpg">File:RichardBransonShaunWhiteApr09.jpg</a>  <div class="thumbcaption">White with <a href="/wiki/Richard_Branson" title="Richard Branson">Richard Branson</a> in 2009</div></div></div>
+<p>There was a lot of controversy over who won the 2009 SuperPipe at <a href="/w/index.php?title=Winter_X_Games_XIII&amp;action=edit&amp;redlink=1" class="new" title="Winter X Games XIII (page does not exist)">Winter X Games XIII</a>{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}. <a href="/w/index.php?title=Kevin_Pearce_(snowboarder)&amp;action=edit&amp;redlink=1" class="new" title="Kevin Pearce (snowboarder) (page does not exist)">Kevin Pearce</a> had 5 hits in the pipe, and all were the same tricks White did in his final run. White, on the other hand, had 6 hits and he started off his run with a big backside rodeo 540 where Pearce started his run off with a big grab. Although Pearce went bigger, he had only 5 hits, and his first hit wasn't as technical as White's first hit.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Judges came to the conclusion that White deserved the better score because he started off with a more technical trick and he had 1 more hit than Pearce.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}  With the win, White became the second competitor, after <a href="/wiki/Tanner_Hall" title="Tanner Hall">Tanner Hall</a>, to win a gold medal in the <a href="/w/index.php?title=Superpipe&amp;action=edit&amp;redlink=1" class="new" title="Superpipe (page does not exist)">superpipe</a> in consecutive years at the Winter X Games. He also won a gold medal in Slopestyle, finally winning gold after 2 straight years of bronze.
+</p><p>On February 14, 2009, White won the FIS World Cup Men's Halfpipe event at Vancouver's Cypress Mountain. Out of the gate in his first qualifying run, he qualified immediately with the day's best score of 45.5.  With a thumb sprained on an over-rotated backside 1080 in the second qualifying run, he clinched the event with the first of his two runs in the finals.  His first finals run was awarded the highest score ever in FIS halfpipe, a 47.3.
+</p>
+<h4><span class="mw-headline" id="2010_Winter_Olympics">2010 Winter Olympics</span></h4>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>At the 2010 Winter Olympics in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, White again won gold in the halfpipe.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> In the finals, White recorded a score of 46.8 on his first run, which proved a high enough score to secure the gold medal without a second run. He performed his second run anyway, as a victory lap, ending his run with a well-anticipated Double McTwist 1260 which he named The <a href="/w/index.php?title=Tomahawk_(snowboarding_trick)&amp;action=edit&amp;redlink=1" class="new" title="Tomahawk (snowboarding trick) (page does not exist)">Tomahawk</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> This second run resulted in a record score of 48.4 (50 is the highest possible score) enlarging his margin of victory. His nearest competitor won the silver with a points total of 45.0, 3.4 behind White.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h4><span class="mw-headline" id="2011">2011</span></h4>
+<p>After a sub-par performance in the Slopestyle, failing to reach the finals, White "redeemed" himself in the Superpipe. With an 89, he sat in second place going into his 2nd of three runs. He completed the run, landing his infamous Double McTwist 1260 and finishing with a score of 97.33 to take the lead and claim the historical 4th straight Gold in the Winter X Games, held in Aspen Colorado. The score tied an X Games record which was set by White one year before. His 3rd run was a simple victory run featuring mostly straight air.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h4><span class="mw-headline" id="2012">2012</span></h4>
+<p>At <a href="/w/index.php?title=Winter_X_Games_XVI&amp;action=edit&amp;redlink=1" class="new" title="Winter X Games XVI (page does not exist)">Winter X</a>, White became the first person to score a perfect 100 in the men's Snowboard Superpipe in the history of <a href="/w/index.php?title=Winter_X_Games&amp;action=edit&amp;redlink=1" class="new" title="Winter X Games (page does not exist)">Winter X Games</a>.
+</p>
+<h4><span class="mw-headline" id="2013">2013</span></h4>
+<p>White won his 6th consecutive SuperPipe victory, placing him as the second participant to ever achieve this, with SnoCross racer Tucker Hibbert achieving his 6th consecutive victory earlier in the same day.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+</p><p>In December 2013, he won the third place in the Pipe &amp; Slope contest at the <a href="/w/index.php?title=FIS_Snowboard_World_Cup&amp;action=edit&amp;redlink=1" class="new" title="FIS Snowboard World Cup (page does not exist)">FIS Snowboard World Cup</a> in <a href="/w/index.php?title=Copper_Mountain,_Colorado&amp;action=edit&amp;redlink=1" class="new" title="Copper Mountain, Colorado (page does not exist)">Copper Mountain, Colorado</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Athletic_achievements">Athletic achievements</span></h2>
+<ul>
+<li>In 2003, White was the first to compete and medal in both the Summer and Winter X Games in two different sports.
+</li>
+<li> White is the first snowboarder ever to land back to back double corks, at the <a href="/wiki/Red_Bull" title="Red Bull">Red Bull</a> superpipe.
+</li>
+<li> He remains the only skater to land the frontside heelflip 540 body varial. (The Armadillo).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+</li>
+<li> He was the first to land a Cab 7 Melon Grab in vert skateboarding.
+</li>
+<li> He is the first snowboarder to win back-to-back gold medals in the <a href="/wiki/X-Games" title="X-Games" class="mw-redirect">Winter X-Games</a> Superpipe.
+</li>
+<li> He is also the first athlete ever (on snowboard or skis) to win gold medals four years in a row in the <a href="/wiki/X-Games" title="X-Games" class="mw-redirect">Winter X-Games</a> Superpipe.
+</li>
+<li> He is the first (and only) person to win both a Summer and <a href="/w/index.php?title=Winter_Dew_Tour&amp;action=edit&amp;redlink=1" class="new" title="Winter Dew Tour (page does not exist)">Winter Dew Cup</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</li>
+<li>White was the first to "three-peat" in SuperPipe at the Winter X Games.
+</li>
+<li>Shaun White holds the record for the highest score in the men's halfpipe at the <a href="/wiki/Winter_Olympics" title="Winter Olympics" class="mw-redirect">Winter Olympics</a>. In <a href="/w/index.php?title=Snowboarding_at_the_2006_Winter_Olympics_%E2%80%93_Men%27s_halfpipe&amp;action=edit&amp;redlink=1" class="new" title="Snowboarding at the 2006 Winter Olympics – Men's halfpipe (page does not exist)">2006</a>, his 46.8 points bested <a href="/wiki/Ross_Powers" title="Ross Powers">Ross Powers</a>' previous record of 46.1 from <a href="/w/index.php?title=Snowboarding_at_the_2002_Winter_Olympics_%E2%80%93_Men%27s_halfpipe&amp;action=edit&amp;redlink=1" class="new" title="Snowboarding at the 2002 Winter Olympics – Men's halfpipe (page does not exist)">2002</a>. In <a href="/w/index.php?title=Snowboarding_at_the_2010_Winter_Olympics_%E2%80%93_Men%27s_halfpipe&amp;action=edit&amp;redlink=1" class="new" title="Snowboarding at the 2010 Winter Olympics – Men's halfpipe (page does not exist)">2010</a>, during the Winter Olympics in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a>, he improved his own record with 48.4 points in his final run.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Non-competition_awards_and_accolades">Non-competition awards and accolades</span></h2>
+<ul>
+<li> White was named the "Chairman of the Board" on the <a href="/w/index.php?title=Spike_TV_Guys%27_Choice_Awards&amp;action=edit&amp;redlink=1" class="new" title="Spike TV Guys' Choice Awards (page does not exist)">Spike TV Guys' Choice Awards</a> on June 13, 2007 and again on June 19, 2010.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</li>
+<li> In the March 2009 issue of <i>Snowboarder Magazine</i>, he was named the ninth-best snowboarder in the World.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</li>
+<li> He won the <i><a href="/w/index.php?title=Revolver_(magazine)&amp;action=edit&amp;redlink=1" class="new" title="Revolver (magazine) (page does not exist)">Revolver</a></i> <a rel="nofollow" class="external text" href="http://www.goldengodsawards.com/">Golden Gods Award</a> for "Most Metal Athlete".
+</li>
+<li> White has been named <i><a href="/w/index.php?title=Transworld_Snowboarding&amp;action=edit&amp;redlink=1" class="new" title="Transworld Snowboarding (page does not exist)">Transworld Snowboarding</a>'</i>s Rider Of The Year twice.<sup id="cite_ref-snowboarding.transworld.net_16-0" class="reference"><a href="#cite_note-snowboarding.transworld.net-16">[16]</a></sup>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Endorsements">Endorsements</span></h2>
+<p>White has had a sponsor since he was seven years old. White signed CAA Sports for representation after working with IMG for eight years.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Corporate endorsement deals include or have included <a href="/w/index.php?title=Burton_Snowboards&amp;action=edit&amp;redlink=1" class="new" title="Burton Snowboards (page does not exist)">Burton Snowboards</a>, <a href="/wiki/Oakley,_Inc." title="Oakley, Inc.">Oakley, Inc.</a>, <a href="/w/index.php?title=Birdhouse_Skateboards&amp;action=edit&amp;redlink=1" class="new" title="Birdhouse Skateboards (page does not exist)">Birdhouse Skateboards</a>, <a href="/w/index.php?title=Park_City_Mountain_Resort&amp;action=edit&amp;redlink=1" class="new" title="Park City Mountain Resort (page does not exist)">Park City Mountain Resort</a>, <a href="/w/index.php?title=Target_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Target Corporation (page does not exist)">Target Corporation</a>, <a href="/wiki/Red_Bull" title="Red Bull">Red Bull</a>, <a href="/wiki/Ubisoft" title="Ubisoft">Ubisoft</a>, <a href="/wiki/Adio" title="Adio">Adio</a> and <a href="/w/index.php?title=Hewlett-Packard&amp;action=edit&amp;redlink=1" class="new" title="Hewlett-Packard (page does not exist)">Hewlett-Packard</a>. White also has his own character on the game <i><a href="/w/index.php?title=Shaun_Palmer%27s_Pro_Snowboarder&amp;action=edit&amp;redlink=1" class="new" title="Shaun Palmer's Pro Snowboarder (page does not exist)">Shaun Palmer's Pro Snowboarder</a></i> as well as the video game <i><a href="/w/index.php?title=Shaun_White_Snowboarding&amp;action=edit&amp;redlink=1" class="new" title="Shaun White Snowboarding (page does not exist)">Shaun White Snowboarding</a></i> and the upcoming video game <i><a href="/w/index.php?title=Shaun_White_Skateboarding&amp;action=edit&amp;redlink=1" class="new" title="Shaun White Skateboarding (page does not exist)">Shaun White Skateboarding</a></i>. In 2009, <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i> magazine estimated that he had earned $9 million from his endorsements in 2008.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Media_appearances">Media appearances</span></h2>
+<ul>
+<li> He had his first published interview in TransWorld SNOWboarding Magazine in 2003.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</li>
+<li> White starred in the 2005 snowboarding documentary <i><a href="/w/index.php?title=First_Descent&amp;action=edit&amp;redlink=1" class="new" title="First Descent (page does not exist)">First Descent</a></i>.
+</li>
+<li> In 2007, White appeared on the E! reality TV show "<a href="/w/index.php?title=The_Girls_Next_Door&amp;action=edit&amp;redlink=1" class="new" title="The Girls Next Door (page does not exist)">The Girls Next Door</a>" as a snowboarding teacher for Holly Madison, Bridget Marquardt and Kendra Wilkinson.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</li>
+<li> White was one of the few pro snowboarders to be a guest editor of Snowboarder Magazine (February 2008 issue).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</li>
+<li> The 2008 video game <i><a href="/w/index.php?title=Shaun_White_Snowboarding&amp;action=edit&amp;redlink=1" class="new" title="Shaun White Snowboarding (page does not exist)">Shaun White Snowboarding</a></i> is named after him, and the game was personally played and demonstrated by him at Nintendo's E3 2008 Press Conference.
+</li>
+<li> A film, <i>Don't Look Down</i> has been released on DVD and ESPN. The film tracks his journey through the year following his Olympic success.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</li>
+<li> White was on the cover for <i>The Complete Book of the Winter Olympics: 2010 Edition</i>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</li>
+<li> White appeared as a guest on The Tonight Show with Jay Leno, March 2, 2010, recounting the story of how his mother had his first Olympic gold medal dry cleaned.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
+</li>
+<li> White had a cameo appearance as himself in the 2011 film <i><a href="/w/index.php?title=Friends_with_Benefits_(film)&amp;action=edit&amp;redlink=1" class="new" title="Friends with Benefits (film) (page does not exist)">Friends with Benefits</a></i>, starring <a href="/wiki/Justin_Timberlake" title="Justin Timberlake">Justin Timberlake</a> and <a href="/wiki/Mila_Kunis" title="Mila Kunis">Mila Kunis</a>.
+</li>
+<li> White guest starred as himself in "<a href="/w/index.php?title=Da_Flippity_Flop&amp;action=edit&amp;redlink=1" class="new" title="Da Flippity Flop (page does not exist)">Da Flippity Flop</a>", an episode of <i><a href="/wiki/American_Dad!" title="American Dad!">American Dad!</a>.</i>
+</li>
+<li> White guest starred as himself in the Disney Channel Original Movie <a href="/w/index.php?title=Cloud_9_(2014_film)&amp;action=edit&amp;redlink=1" class="new" title="Cloud 9 (2014 film) (page does not exist)">Cloud 9</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span></h2>
+<p>Addressing his perception of the nickname "The Flying Tomato", <i>Rolling Stone</i> wrote, "he used to embrace it, even wearing headbands with a flying-tomato logo, but he has grown tired of it." He has also been nicknamed as "animal", a reference to <a href="/wiki/Animal_(Muppet)" title="Animal (Muppet)">a character</a> from the satirical puppet show <i><a href="/wiki/The_Muppet_Show" title="The Muppet Show">The Muppet Show</a></i>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+</p><p>In February 2009, <a href="/wiki/Red_Bull" title="Red Bull">Red Bull</a> built White a <a href="/w/index.php?title=Halfpipe&amp;action=edit&amp;redlink=1" class="new" title="Halfpipe (page does not exist)">halfpipe</a> completely out of natural snow in the back country of <a href="/wiki/Colorado" title="Colorado">Colorado</a> on the backside of <a href="/w/index.php?title=Silverton_Mountain&amp;action=edit&amp;redlink=1" class="new" title="Silverton Mountain (page does not exist)">Silverton Mountain</a>, coordinates (37.838801,-107.710299).
+</p><p>On September 17, 2012, White was arrested near a hotel in Nashville for <a href="/wiki/Public_intoxication" title="Public intoxication">public intoxication</a> and <a href="/wiki/Vandalism" title="Vandalism">vandalism</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+</p><p>White plays guitar in the rock band <a href="/w/index.php?title=Bad_Things_(band)&amp;action=edit&amp;redlink=1" class="new" title="Bad Things (band) (page does not exist)">Bad Things</a>, which also features former <a href="/w/index.php?title=Augustana_(band)&amp;action=edit&amp;redlink=1" class="new" title="Augustana (band) (page does not exist)">Augustana</a> bassist Jared Palomar.<sup id="cite_ref-Grantland_28-0" class="reference"><a href="#cite_note-Grantland-28">[28]</a></sup> The band played in one of the four Saturday headlining slots at the 2013 <a href="/wiki/Lollapalooza" title="Lollapalooza">Lollapalooza</a> festival, as a last minute replacement for <a href="/w/index.php?title=Death_Grips&amp;action=edit&amp;redlink=1" class="new" title="Death Grips (page does not exist)">Death Grips</a>.<sup id="cite_ref-Grantland_28-1" class="reference"><a href="#cite_note-Grantland-28">[28]</a></sup> Their debut album will be released on October 29.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/w/index.php?title=List_of_professional_snowboarders&amp;action=edit&amp;redlink=1" class="new" title="List of professional snowboarders (page does not exist)">List of professional snowboarders</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li><a href="/w/index.php?title=Template:FIS&amp;action=edit&amp;redlink=1" class="new" title="Template:FIS (page does not exist)">Template:FIS</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.shaunwhite.com">Official Site of Shaun White</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm1027039/"></a><a href="/w/index.php?title=Template:Title_without_disambig&amp;action=edit&amp;redlink=1" class="new" title="Template:Title without disambig (page does not exist)">Template:Title without disambig</a><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm1027039/"></a> at the <a href="/w/index.php?title=Internet_Movie_Database&amp;action=edit&amp;redlink=1" class="new" title="Internet Movie Database (page does not exist)">Internet Movie Database</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.teamusa.org/Athletes/WH/Shaun-White">Shaun White's U.S. Olympic Team bio</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://wintergames.ap.org/olympic-team/shaun-white">AP Winter Games Athlete Profile: Shaun White</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://snowboarding.transworld.net/1000106832/videos/shaun-white-project-x-secret-halfpipe-video/">Shaun White Project X Private Halfpipe Video</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.snowboardermag.com/tag/shaun-white/">Snowboardermag.com &#8212; interviews and videos</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.popmag.com.au/30987/shaun-white-interview/">Shaun White Interview</a>: <a href="/w/index.php?title=Pop_Magazine_(Australia)&amp;action=edit&amp;redlink=1" class="new" title="Pop Magazine (Australia) (page does not exist)"><i>Pop Magazine</i></a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:S-start&amp;action=edit&amp;redlink=1" class="new" title="Template:S-start (page does not exist)">Template:S-start</a>
+<a href="/w/index.php?title=Template:S-ach&amp;action=edit&amp;redlink=1" class="new" title="Template:S-ach (page does not exist)">Template:S-ach</a>
+<a href="/w/index.php?title=Template:Succession_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Succession box (page does not exist)">Template:Succession box</a>
+<a href="/w/index.php?title=Template:S-end&amp;action=edit&amp;redlink=1" class="new" title="Template:S-end (page does not exist)">Template:S-end</a>
+<a href="/w/index.php?title=Template:Footer_Olympic_Champions_in_Snowboarding&amp;action=edit&amp;redlink=1" class="new" title="Template:Footer Olympic Champions in Snowboarding (page does not exist)">Template:Footer Olympic Champions in Snowboarding</a>
+<a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.472 seconds
+Real time usage: 1.045 seconds
+Preprocessor visited node count: 699/1000000
+Preprocessor generated node count: 6403/1000000
+Post‐expand include size: 1643/2097152 bytes
+Template argument size: 211/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:708031-0!*!0!!en!2!* and timestamp 20170407172724
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Shaun_White&amp;oldid=708031">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Shaun_White&amp;oldid=708031</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:1986_births" title="Category:1986 births">1986 births</a></li><li><a href="/w/index.php?title=Category:Living_people&amp;action=edit&amp;redlink=1" class="new" title="Category:Living people (page does not exist)">Living people</a></li><li><a href="/w/index.php?title=Category:American_people_of_Irish_descent&amp;action=edit&amp;redlink=1" class="new" title="Category:American people of Irish descent (page does not exist)">American people of Irish descent</a></li><li><a href="/wiki/Category:American_skateboarders" title="Category:American skateboarders">American skateboarders</a></li><li><a href="/w/index.php?title=Category:American_snowboarders&amp;action=edit&amp;redlink=1" class="new" title="Category:American snowboarders (page does not exist)">American snowboarders</a></li><li><a href="/w/index.php?title=Category:Medalists_at_the_2006_Winter_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Category:Medalists at the 2006 Winter Olympics (page does not exist)">Medalists at the 2006 Winter Olympics</a></li><li><a href="/w/index.php?title=Category:Medalists_at_the_2010_Winter_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Category:Medalists at the 2010 Winter Olympics (page does not exist)">Medalists at the 2010 Winter Olympics</a></li><li><a href="/w/index.php?title=Category:Olympic_gold_medalists_for_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic gold medalists for the United States (page does not exist)">Olympic gold medalists for the United States</a></li><li><a href="/w/index.php?title=Category:Olympic_medalists_in_snowboarding&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic medalists in snowboarding (page does not exist)">Olympic medalists in snowboarding</a></li><li><a href="/w/index.php?title=Category:Olympic_snowboarders_of_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic snowboarders of the United States (page does not exist)">Olympic snowboarders of the United States</a></li><li><a href="/w/index.php?title=Category:Snowboarders_at_the_2006_Winter_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Category:Snowboarders at the 2006 Winter Olympics (page does not exist)">Snowboarders at the 2006 Winter Olympics</a></li><li><a href="/w/index.php?title=Category:Snowboarders_at_the_2010_Winter_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Category:Snowboarders at the 2010 Winter Olympics (page does not exist)">Snowboarders at the 2010 Winter Olympics</a></li><li><a href="/w/index.php?title=Category:Sportspeople_from_San_Diego,_California&amp;action=edit&amp;redlink=1" class="new" title="Category:Sportspeople from San Diego, California (page does not exist)">Sportspeople from San Diego, California</a></li><li><a href="/w/index.php?title=Category:X-Games_athletes&amp;action=edit&amp;redlink=1" class="new" title="Category:X-Games athletes (page does not exist)">X-Games athletes</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shaun+White" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Shaun_White"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Shaun_White&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Shaun_White" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Shaun_White&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shaun_White&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shaun_White" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shaun_White" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Shaun_White&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Shaun_White&amp;oldid=708031" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Shaun_White&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2014, at 14:18.</li>
+											<li id="footer-info-viewcount">This page has been accessed 98 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.620 secs. -->
+	</body>
+</html>

@@ -1,0 +1,1046 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Jakarta - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jakarta","wgTitle":"Jakarta","wgCurRevisionId":10402,"wgRevisionId":10402,"wgArticleId":10402,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Jakarta","Capital districts and territories","Capitals in Asia","Cities in Indonesia","Metropolitan areas of Indonesia","Populated coastal places in Indonesia","Port cities and towns in Indonesia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jakarta","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Jakarta skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Jakarta</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+</p><p>{{#invoke:Infobox|infobox}}
+</p><p><b>Jakarta</b> <a href="/w/index.php?title=Template:IPAc-en&amp;action=edit&amp;redlink=1" class="new" title="Template:IPAc-en (page does not exist)">Template:IPAc-en</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> officially known as the <b>Special Capital Region of Jakarta</b> (<a href="/w/index.php?title=Template:Lang-id&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-id (page does not exist)">Template:Lang-id</a>), is the capital and largest city of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>.
+</p><p>Located on the northwest coast of <a href="/wiki/Java" title="Java">Java</a>, Jakarta is the country's economic, cultural and political centre, and with a population of 10,187,595 as of November 2011,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> it is the <a href="/w/index.php?title=List_of_urban_areas_by_population&amp;action=edit&amp;redlink=1" class="new" title="List of urban areas by population (page does not exist)">most populous city</a> in Indonesia and in Southeast Asia, and is the <a href="/wiki/List_of_cities_proper_by_population" title="List of cities proper by population">thirteenth most populated city</a> in the world. The official metropolitan area, known as <a href="/w/index.php?title=Greater_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Greater Jakarta (page does not exist)">Jabodetabek</a> (a name formed by combining the initial syllables of Jakarta, <a href="/wiki/Bogor" title="Bogor">Bogor</a>, <a href="/wiki/Depok" title="Depok">Depok</a>, <a href="/wiki/Tangerang" title="Tangerang">Tangerang</a> and <a href="/wiki/Bekasi" title="Bekasi">Bekasi</a>), is the <a href="/w/index.php?title=List_of_urban_areas_by_population&amp;action=edit&amp;redlink=1" class="new" title="List of urban areas by population (page does not exist)">second largest</a> in the world, yet the metropolis's suburbs still continue beyond it.  Jakarta is listed as a <a href="/wiki/Global_city" title="Global city">global city</a> in the 2008 Globalization and World Cities Study Group and Network (GaWC) research.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> and has an area of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>.  This area has a population of well over 28 million,<sup id="cite_ref-bps_4-0" class="reference"><a href="#cite_note-bps-4">[3]</a></sup> making it one of the world's largest conurbations in terms of number of inhabitants.
+</p><p>In 2011, Jakarta ranked 17th among the world's 200 largest cities, a jump from its 2007 ranking of 171. Jakarta has grown more rapidly than <a href="/wiki/Kuala_Lumpur" title="Kuala Lumpur">Kuala Lumpur</a>, <a href="/w/index.php?title=Beijing&amp;action=edit&amp;redlink=1" class="new" title="Beijing (page does not exist)">Beijing</a> and <a href="/wiki/Bangkok" title="Bangkok">Bangkok</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+</p><p>Established in the fourth century, the city became an important trading port for the <a href="/w/index.php?title=Kingdom_of_Sunda&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Sunda (page does not exist)">Kingdom of Sunda</a>. It was the de facto capital of the <a href="/w/index.php?title=Dutch_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Dutch East Indies (page does not exist)">Dutch East Indies</a> (known as <b>Batavia</b> at that time) and has continued as the capital of Indonesia since the country's independence was declared in 1945.
+</p><p>The city is the seat of the <a href="/w/index.php?title=ASEAN&amp;action=edit&amp;redlink=1" class="new" title="ASEAN (page does not exist)">ASEAN</a> Secretariat. Jakarta is served by the <a href="/wiki/Soekarno%E2%80%93Hatta_International_Airport" title="Soekarno–Hatta International Airport">Soekarno–Hatta International Airport</a>, <a href="/w/index.php?title=Halim_Perdanakusuma_International_Airport&amp;action=edit&amp;redlink=1" class="new" title="Halim Perdanakusuma International Airport (page does not exist)">Halim Perdanakusuma International Airport</a>, and <a href="/wiki/Tanjung_Priok" title="Tanjung Priok">Tanjung Priok Harbour</a>; it is connected by several <a href="/wiki/Inter-city_rail" title="Inter-city rail">intercity</a> and <a href="/wiki/Commuter_rail" title="Commuter rail">commuter railways</a>, and served by several <a href="/wiki/Bus" title="Bus">bus</a> lines running on reserved <a href="/wiki/Bus_lane" title="Bus lane">busways</a>.
+</p><p><a href="/w/index.php?title=Template:Toc_left&amp;action=edit&amp;redlink=1" class="new" title="Template:Toc left (page does not exist)">Template:Toc left</a>
+<br style="clear:both;" />
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pre-colonial_era"><span class="tocnumber">2.1</span> <span class="toctext">Pre-colonial era</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Colonial_era"><span class="tocnumber">2.2</span> <span class="toctext">Colonial era</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Independence_era"><span class="tocnumber">2.3</span> <span class="toctext">Independence era</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Administration"><span class="tocnumber">3</span> <span class="toctext">Administration</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Kota_or_kotamadya_.28municipalities.29_and_regency_of_Jakarta"><span class="tocnumber">3.1</span> <span class="toctext"><i>Kota</i> or <i>kotamadya</i> (municipalities) and regency of Jakarta</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Government"><span class="tocnumber">3.2</span> <span class="toctext">Government</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Municipal_finances"><span class="tocnumber">3.3</span> <span class="toctext">Municipal finances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Geography_and_climate"><span class="tocnumber">4</span> <span class="toctext">Geography and climate</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Geography"><span class="tocnumber">4.1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Climate"><span class="tocnumber">4.2</span> <span class="toctext">Climate</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Culture"><span class="tocnumber">5</span> <span class="toctext">Culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Museums"><span class="tocnumber">5.1</span> <span class="toctext">Museums</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Cuisine"><span class="tocnumber">5.2</span> <span class="toctext">Cuisine</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Media"><span class="tocnumber">5.3</span> <span class="toctext">Media</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Economy.2C_governance_and_infrastructure"><span class="tocnumber">6</span> <span class="toctext">Economy, governance and infrastructure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Economy"><span class="tocnumber">6.1</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Governance"><span class="tocnumber">6.2</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Water_supply"><span class="tocnumber">6.3</span> <span class="toctext">Water supply</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Demography"><span class="tocnumber">7</span> <span class="toctext">Demography</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Landmarks"><span class="tocnumber">8</span> <span class="toctext">Landmarks</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Tourism"><span class="tocnumber">9</span> <span class="toctext">Tourism</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Shopping"><span class="tocnumber">10</span> <span class="toctext">Shopping</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Parks"><span class="tocnumber">11</span> <span class="toctext">Parks</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Sports"><span class="tocnumber">12</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Transportation"><span class="tocnumber">13</span> <span class="toctext">Transportation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Road"><span class="tocnumber">13.1</span> <span class="toctext">Road</span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="#Public_road_transportation"><span class="tocnumber">13.1.1</span> <span class="toctext">Public road transportation</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Electronic_Road_Pricing"><span class="tocnumber">13.1.2</span> <span class="toctext">Electronic Road Pricing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-31"><a href="#Railways"><span class="tocnumber">13.2</span> <span class="toctext">Railways</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Air"><span class="tocnumber">13.3</span> <span class="toctext">Air</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Waterway"><span class="tocnumber">13.4</span> <span class="toctext">Waterway</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Sea"><span class="tocnumber">13.5</span> <span class="toctext">Sea</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#Education"><span class="tocnumber">14</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#International_relations"><span class="tocnumber">15</span> <span class="toctext">International relations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#Twin_towns_.E2.80.93_Sister_cities"><span class="tocnumber">15.1</span> <span class="toctext">Twin towns – Sister cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#See_also"><span class="tocnumber">16</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-39"><a href="#Notes"><span class="tocnumber">17</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-40"><a href="#References"><span class="tocnumber">18</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#External_links"><span class="tocnumber">19</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span></h2>
+<p>The place that is now called Jakarta has been home to multiple <a href="/w/index.php?title=Human_settlement&amp;action=edit&amp;redlink=1" class="new" title="Human settlement (page does not exist)">settlements</a> along with their respective names: <a href="/w/index.php?title=Sunda_Kelapa&amp;action=edit&amp;redlink=1" class="new" title="Sunda Kelapa (page does not exist)">Sunda Kelapa</a> (397–1527), Jayakarta (1527–1619), Batavia (1619–1949), and Djakarta (1949–1972).
+</p><p>Its current name is derived from the word "Jayakarta". The origins of this word lie in the <a href="/w/index.php?title=Old_Javanese&amp;action=edit&amp;redlink=1" class="new" title="Old Javanese (page does not exist)">Old Javanese</a> and ultimately in the <a href="/wiki/Sanskrit" title="Sanskrit">Sanskrit</a> language. "Jayakarta" translates as "victorious deed", "complete act", or "complete victory".
+</p><p>Jakarta is nicknamed <i>the Big <a href="/w/index.php?title=Durian&amp;action=edit&amp;redlink=1" class="new" title="Durian (page does not exist)">Durian</a></i>, the thorny foul-smelling fruit;<sup id="cite_ref-Jakartapost_6-0" class="reference"><a href="#cite_note-Jakartapost-6">[5]</a></sup> the city is seen as the Indonesian equivalent of <a href="/wiki/New_York_City" title="New York City">New York City</a> (the Big Apple).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Prasasti_tugu.jpg" title="File:Prasasti tugu.jpg">File:Prasasti tugu.jpg</a>  <div class="thumbcaption">The 5th century <a href="/w/index.php?title=Tugu_inscription&amp;action=edit&amp;redlink=1" class="new" title="Tugu inscription (page does not exist)">Tugu inscription</a> discovered in Tugu district, North Jakarta</div></div></div>
+<h3><span class="mw-headline" id="Pre-colonial_era">Pre-colonial era</span></h3>
+<p>The area in and around modern Jakarta was part of the fourth century <a href="/wiki/Sundanese_people" title="Sundanese people">Sundanese</a> kingdom of <a href="/w/index.php?title=Tarumanagara&amp;action=edit&amp;redlink=1" class="new" title="Tarumanagara (page does not exist)">Tarumanagara</a>, one of the oldest <a href="/w/index.php?title=Indianized_kingdoms&amp;action=edit&amp;redlink=1" class="new" title="Indianized kingdoms (page does not exist)">Hindu kingdoms</a> in Indonesia.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup> Following the decline of Tarumanagara, its territories, including the Jakarta area, became part of the <a href="/w/index.php?title=Kingdom_of_Sunda&amp;action=edit&amp;redlink=1" class="new" title="Kingdom of Sunda (page does not exist)">Kingdom of Sunda</a>. From 7th to early 13th century port of Sunda is within the sphere of influence of <a href="/wiki/Srivijaya" title="Srivijaya">Srivijaya</a> maritime empire. According to the Chinese source, <i>Chu-fan-chi</i>, written circa 1200, <a href="/w/index.php?title=Chou_Ju-kua&amp;action=edit&amp;redlink=1" class="new" title="Chou Ju-kua (page does not exist)">Chou Ju-kua</a> reported in the early 13th century Srivijaya still ruled Sumatra, the Malay peninsula, and western Java (<a href="/w/index.php?title=Sunda_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Sunda Kingdom (page does not exist)">Sunda</a>). The source reports the port of Sunda as strategic and thriving, <a href="/wiki/Black_pepper" title="Black pepper">pepper</a> from Sunda being among the best in quality. The people worked in agriculture and their houses were built on wooden piles.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup> The harbour area became known as <a href="/w/index.php?title=Sunda_Kelapa&amp;action=edit&amp;redlink=1" class="new" title="Sunda Kelapa (page does not exist)">Sunda Kelapa</a> and by the fourteenth century, it was a major trading port for Sunda kingdom.
+</p><p>The first European fleet, four <a href="/wiki/Portugal" title="Portugal">Portuguese</a> ships from <a href="/w/index.php?title=Malacca&amp;action=edit&amp;redlink=1" class="new" title="Malacca (page does not exist)">Malacca</a>, arrived in 1513 when the Portuguese were looking for a route for spices.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> The Kingdom of Sunda <a href="/w/index.php?title=Luso_Sundanese_padr%C3%A3o&amp;action=edit&amp;redlink=1" class="new" title="Luso Sundanese padrão (page does not exist)">made an alliance treaty</a> with Portugal by allowing the Portuguese to build a port in 1522 in order to defend against the rising power of the <a href="/w/index.php?title=Sultanate_of_Demak&amp;action=edit&amp;redlink=1" class="new" title="Sultanate of Demak (page does not exist)">Sultanate of Demak</a> from central Java.<sup id="cite_ref-autogenerated2_11-0" class="reference"><a href="#cite_note-autogenerated2-11">[10]</a></sup> In 1527, <a href="/w/index.php?title=Fatahillah&amp;action=edit&amp;redlink=1" class="new" title="Fatahillah (page does not exist)">Fatahillah</a>, a Javanese general from Demak attacked and conquered Sunda Kelapa, driving out the Portuguese. Sunda Kelapa was renamed Jayakarta,<sup id="cite_ref-autogenerated2_11-1" class="reference"><a href="#cite_note-autogenerated2-11">[10]</a></sup> and became a fiefdom of the <a href="/w/index.php?title=Sultanate_of_Banten&amp;action=edit&amp;redlink=1" class="new" title="Sultanate of Banten (page does not exist)">Sultanate of Banten</a> which became a major Southeast Asia trading centre.
+</p><p>Through the relationship with Prince Jayawikarta from the <a href="/w/index.php?title=Sultanate_of_Banten&amp;action=edit&amp;redlink=1" class="new" title="Sultanate of Banten (page does not exist)">Sultanate of Banten</a>, Dutch ships arrived in Jayakarta in 1596. In 1602, the <a href="/w/index.php?title=English_East_India_Company&amp;action=edit&amp;redlink=1" class="new" title="English East India Company (page does not exist)">English East India Company</a>'s first voyage, commanded by <a href="/w/index.php?title=Sir_James_Lancaster&amp;action=edit&amp;redlink=1" class="new" title="Sir James Lancaster (page does not exist)">Sir James Lancaster</a>, arrived in <a href="/wiki/Aceh" title="Aceh">Aceh</a> and sailed on to Banten where they were allowed to build a trading post. This site became the centre of English trade in Indonesia until 1682.<sup id="cite_ref-RICKLEFSp29_12-0" class="reference"><a href="#cite_note-RICKLEFSp29-12">[11]</a></sup>
+</p><p>Jayawikarta is thought to have made trading connections with the English merchants, rivals of the Dutch, by allowing them to build houses directly across from the Dutch buildings in 1615.<sup id="cite_ref-1596to1619_13-0" class="reference"><a href="#cite_note-1596to1619-13">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Colonial_era">Colonial era</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Stadhuis_Batavia,_Jakarta.jpg" title="File:Stadhuis Batavia, Jakarta.jpg">File:Stadhuis Batavia, Jakarta.jpg</a>  <div class="thumbcaption">The former <i>Stadhuis</i> of Batavia, the seat of Governor General of <a href="/wiki/Dutch_East_India_Company" title="Dutch East India Company">VOC</a>. The building now serves as <a href="/w/index.php?title=Jakarta_History_Museum&amp;action=edit&amp;redlink=1" class="new" title="Jakarta History Museum (page does not exist)">Jakarta History Museum</a>, <a href="/w/index.php?title=Jakarta_Old_Town&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Old Town (page does not exist)">Jakarta Old Town</a> area.</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Andries_Beeckman_-_The_Castle_of_Batavia.jpg" title="File:Andries Beeckman - The Castle of Batavia.jpg">File:Andries Beeckman - The Castle of Batavia.jpg</a>  <div class="thumbcaption">Dutch Batavia built in what is now Jakarta, by <a href="/w/index.php?title=Andries_Beeckman&amp;action=edit&amp;redlink=1" class="new" title="Andries Beeckman (page does not exist)">Andries Beeckman</a> c. 1656</div></div></div>
+<p>When relations between Prince Jayawikarta and the Dutch deteriorated, Jayawikarta's soldiers attacked the Dutch fortress. Prince Jayakarta's army and the English were defeated by the Dutch, in part owing to the timely arrival of <a href="/wiki/Jan_Pieterszoon_Coen" title="Jan Pieterszoon Coen">Jan Pieterszoon Coen</a> (J.P. Coen). The Dutch burned the English fort, and forced the English to retreat on their ships. The victory consolidated Dutch power and in 1619 they renamed the city <i>Batavia</i>.
+</p><p>Commercial opportunities in the capital of the Dutch colony attracted Indonesian and especially Chinese immigrants. This sudden population increase created burdens on the city. Tensions grew as the colonial government tried to restrict Chinese migration through deportations. Following a revolt, 5,000 Chinese were <a href="/w/index.php?title=1740_Batavia_massacre&amp;action=edit&amp;redlink=1" class="new" title="1740 Batavia massacre (page does not exist)">massacred</a> by the Dutch and natives on 9&#160;October 1740 and the following year, Chinese inhabitants were moved to <a href="/wiki/Glodok" title="Glodok">Glodok</a> outside the city walls.<sup id="cite_ref-LONELYPLANETp138-139_14-0" class="reference"><a href="#cite_note-LONELYPLANETp138-139-14">[13]</a></sup> The city began to move further south as epidemics in 1835 and 1870 encouraged more people to move far south of the port. The Koningsplein, now <a href="/w/index.php?title=Merdeka_Square,_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Merdeka Square, Jakarta (page does not exist)">Merdeka Square</a> was completed in 1818, the housing park of <a href="/w/index.php?title=Menteng&amp;action=edit&amp;redlink=1" class="new" title="Menteng (page does not exist)">Menteng</a> was started in 1913,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup> and <a href="/w/index.php?title=Kebayoran_Baru&amp;action=edit&amp;redlink=1" class="new" title="Kebayoran Baru (page does not exist)">Kebayoran Baru</a> was the last Dutch-built residential area.<sup id="cite_ref-LONELYPLANETp138-139_14-1" class="reference"><a href="#cite_note-LONELYPLANETp138-139-14">[13]</a></sup> By 1930 Batavia had more than 500,000 inhabitants,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup> including 37,067 Europeans.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup>
+</p><p>During World War II, the city was renamed from Batavia to "Jakarta" (short form of Jayakarta) by the Indonesian nationalists after conquering the city from the Dutch in 1942 with the help of the Japanese forces.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup><a href="/w/index.php?title=Template:Clarify&amp;action=edit&amp;redlink=1" class="new" title="Template:Clarify (page does not exist)">Template:Clarify</a>
+</p><p><br style="clear:both;" />
+</p>
+<h3><span class="mw-headline" id="Independence_era">Independence era</span></h3>
+<p>Following World War II, Indonesian Republicans withdrew from <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allied</a>-occupied Jakarta during <a href="/wiki/Indonesian_National_Revolution" title="Indonesian National Revolution">their fight for Indonesian independence</a> and established their capital in <a href="/w/index.php?title=Yogyakarta&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (page does not exist)">Yogyakarta</a>. In 1950, once independence was secured, Jakarta was once again made the national capital.<sup id="cite_ref-LONELYPLANETp138-139_14-2" class="reference"><a href="#cite_note-LONELYPLANETp138-139-14">[13]</a></sup> Indonesia's founding president, <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a>, envisaged Jakarta as a great international city, and instigated large government-funded projects with openly nationalistic and <a href="/w/index.php?title=Modernist_architecture&amp;action=edit&amp;redlink=1" class="new" title="Modernist architecture (page does not exist)">modernist architecture</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[19]</a></sup> Projects included a clover-leaf highway, a major boulevard (Jalan MH Thamrin-Sudirman), monuments such as <a href="/wiki/Monas" title="Monas" class="mw-redirect">The National Monument</a>, <a href="/w/index.php?title=Hotel_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Hotel Indonesia (page does not exist)">Hotel Indonesia</a>, a shopping centre, and a new parliament building. In October 1965, Jakarta was the site of <a href="/w/index.php?title=30_September_Movement&amp;action=edit&amp;redlink=1" class="new" title="30 September Movement (page does not exist)">an abortive coup</a> attempt in which 6 top generals were killed, precipitating <a href="/w/index.php?title=Indonesian_killings_of_1965-66&amp;action=edit&amp;redlink=1" class="new" title="Indonesian killings of 1965-66 (page does not exist)">a violent anti-communist purge</a> in which half-a million people were killed, including many ethnic Chinese,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup> and <a href="/w/index.php?title=Transition_to_the_New_Order&amp;action=edit&amp;redlink=1" class="new" title="Transition to the New Order (page does not exist)">the beginning of Suharto's New Order</a>. A monument stands  <a href="/w/index.php?title=Lubang_Buaya&amp;action=edit&amp;redlink=1" class="new" title="Lubang Buaya (page does not exist)">where the generals' bodies were dumped</a>.
+</p><p>In 1966, Jakarta was declared a "special capital city district" (<i>daerah khusus ibukota</i>), thus gaining a status approximately equivalent to that of a state or province.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup> Lieutenant General <a href="/w/index.php?title=Ali_Sadikin&amp;action=edit&amp;redlink=1" class="new" title="Ali Sadikin (page does not exist)">Ali Sadikin</a> served as Governor from the mid-60's commencement of the "<a href="/w/index.php?title=Orde_Baru&amp;action=edit&amp;redlink=1" class="new" title="Orde Baru (page does not exist)">New Order</a>" through to 1977; he rehabilitated roads and bridges, encouraged the arts, built several hospitals, and a large number of new schools. He also cleared out slum dwellers for new development projects—some for the benefit of the Suharto family<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup>—and tried to eliminate rickshaws and ban street vendors. He began control of migration to the city in order to stem overcrowding and poverty.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Foreign investment contributed to a real estate boom which changed the face of the city.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:JalanJenderalSudirmanJakarta.jpg" title="File:JalanJenderalSudirmanJakarta.jpg">File:JalanJenderalSudirmanJakarta.jpg</a>  <div class="thumbcaption">Jalan Jenderal Sudirman, Jakarta's main avenue and business district.</div></div></div>
+<p>The boom ended with the <a href="/w/index.php?title=East_Asian_Financial_Crisis&amp;action=edit&amp;redlink=1" class="new" title="East Asian Financial Crisis (page does not exist)">1997/98 East Asian Economic crisis</a> putting Jakarta at the centre of violence, protest, and political maneuvering. After 32 years in power, support for <a href="/w/index.php?title=President_Suharto&amp;action=edit&amp;redlink=1" class="new" title="President Suharto (page does not exist)">President Suharto</a> began to wane. Tensions reached a peak in when four students were <a href="/w/index.php?title=Trisakti_shootings&amp;action=edit&amp;redlink=1" class="new" title="Trisakti shootings (page does not exist)">shot dead</a> at <a href="/w/index.php?title=Trisakti_University&amp;action=edit&amp;redlink=1" class="new" title="Trisakti University (page does not exist)">Trisakti University</a> by security forces; <a href="/w/index.php?title=Jakarta_riots_of_May_1998&amp;action=edit&amp;redlink=1" class="new" title="Jakarta riots of May 1998 (page does not exist)">four days of riots and violence</a> ensued that killed an estimated 1,200, and destroyed or damaged 6,000 buildings.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup> Much of the rioting targeted <a href="/w/index.php?title=Chinese_Indonesian&amp;action=edit&amp;redlink=1" class="new" title="Chinese Indonesian (page does not exist)">Chinese Indonesians</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup> Suharto resigned as president, and Jakarta has remained the focal point of democratic change in Indonesia.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup> <a href="/wiki/Jemaah_Islamiah" title="Jemaah Islamiah" class="mw-redirect">Jemaah Islamiah</a>-connected bombings occurred almost annually in the city between 2000 and 2005,<sup id="cite_ref-LONELYPLANETp138-139_14-3" class="reference"><a href="#cite_note-LONELYPLANETp138-139-14">[13]</a></sup> with <a href="/w/index.php?title=2009_Jakarta_bombings&amp;action=edit&amp;redlink=1" class="new" title="2009 Jakarta bombings (page does not exist)">another bombing in 2009</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Administration">Administration</span></h2>
+<h3><span class="mw-headline" id="Kota_or_kotamadya_.28municipalities.29_and_regency_of_Jakarta"><i>Kota</i> or <i>kotamadya</i> (municipalities) and regency of Jakarta</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Jakarta_subdistrict.png" title="File:Jakarta subdistrict.png">File:Jakarta subdistrict.png</a>  <div class="thumbcaption">Map of the municipalities (<i><a href="/wiki/Kotamadya" title="Kotamadya">kotamadya</a></i>) in Jakarta province. Each city is divided into subdistricts (<i><a href="/w/index.php?title=Kecamatan&amp;action=edit&amp;redlink=1" class="new" title="Kecamatan (page does not exist)">kecamatan</a></i>).</div></div></div>
+<p>Officially, Jakarta is not a city, but a <a href="/wiki/Provinces_of_Indonesia" title="Provinces of Indonesia">province</a> with special status as the capital of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>. It has a governor (instead of a mayor), and is divided into several sub-regions with their own administrative systems. As a province, the official name of Jakarta is <i>Daerah Khusus Ibukota Jakarta</i> ("Special Capital City District of Jakarta"), which in Indonesian is abbreviated to DKI Jakarta.
+</p><p>Jakarta is divided into five <i>kota</i> or <i>kotamadya</i> ("cities" – formerly municipalities), each headed by a mayor – and one <a href="/w/index.php?title=Regencies_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Regencies of Indonesia (page does not exist)">regency</a> (<i>kabupaten</i>) headed by a <a href="/w/index.php?title=Regent&amp;action=edit&amp;redlink=1" class="new" title="Regent (page does not exist)">regent</a>. In August 2007, Jakarta held its first ever election to choose a governor, whereas previously the city's governors were appointed by the local house of representatives. The poll is part of a country-wide decentralization drive, allowing for direct local elections in several areas.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup>
+</p><p>The cities/municipalities of Jakarta are:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Central_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Jakarta (page does not exist)">Central Jakarta</a> (<i>Jakarta Pusat</i>) is Jakarta's smallest city and home to most of Jakarta's administrative and political centre. It is characterized by large parks and Dutch colonial buildings. Landmarks include the National Monument (<a href="/wiki/Monas" title="Monas" class="mw-redirect">Monas</a>), the <a href="/wiki/Istiqlal_Mosque,_Jakarta" title="Istiqlal Mosque, Jakarta">Istiqlal Mosque, Jakarta</a>, the <a href="/w/index.php?title=Jakarta_Cathedral&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Cathedral (page does not exist)">Jakarta Cathedral</a>, and museums.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
+</li>
+<li> <a href="/w/index.php?title=West_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="West Jakarta (page does not exist)">West Jakarta</a> (<i>Jakarta Barat</i>) has the highest concentration of small-scale industries in Jakarta. The area includes Jakarta's Chinatown and Dutch colonial landmarks such as the Chinese Langgam building and <a href="/w/index.php?title=Toko_Merah&amp;action=edit&amp;redlink=1" class="new" title="Toko Merah (page does not exist)">Toko Merah</a>. West Jakarta contains part of <a href="/w/index.php?title=Jakarta_Old_Town&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Old Town (page does not exist)">Jakarta Old Town</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup>
+</li>
+<li> <a href="/w/index.php?title=South_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="South Jakarta (page does not exist)">South Jakarta</a> (<i>Jakarta Selatan</i>), originally planned as a satellite city, is now the location of large upscale shopping centres and affluent residential areas. Jakarta Selatan functions as Jakarta's ground water buffer,<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[33]</a></sup> but recently the green belt areas are threatened by new developments. Much of the CBD area of Jakarta is concentrated in Setia Budi, South Jakarta, bordering the Tanah Abang/Sudirman area of Central Jakarta.
+</li>
+<li> <a href="/w/index.php?title=East_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="East Jakarta (page does not exist)">East Jakarta</a> (<i>Jakarta Timur</i>) territory is characterized by several industrial sectors erected in this city.<sup id="cite_ref-Jaktim_go_id_35-0" class="reference"><a href="#cite_note-Jaktim_go_id-35">[34]</a></sup> Also located in East Jakarta are <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a> and <a href="/w/index.php?title=Halim_Perdanakusuma_International_Airport&amp;action=edit&amp;redlink=1" class="new" title="Halim Perdanakusuma International Airport (page does not exist)">Halim Perdanakusuma International Airport</a>.
+</li>
+<li> <a href="/w/index.php?title=North_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="North Jakarta (page does not exist)">North Jakarta</a> (<i>Jakarta Utara</i>) is the only city in Jakarta that is bounded by the sea (<a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a>). It is the location of the <a href="/wiki/Tanjung_Priok" title="Tanjung Priok">Tanjung Priok</a> Port. Large-scale and medium-scale industries are concentrated in North Jakarta. North Jakarta contains part of <a href="/w/index.php?title=Jakarta_Old_Town&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Old Town (page does not exist)">Jakarta Old Town</a>, formerly known as Batavia since the 17th century, and was a centre of <a href="/wiki/Dutch_East_India_Company" title="Dutch East India Company">VOC</a> trade activity in <a href="/w/index.php?title=Dutch_East_Indies&amp;action=edit&amp;redlink=1" class="new" title="Dutch East Indies (page does not exist)">Dutch East Indies</a>. Also located in North Jakarta is Ancol Dreamland (<a href="/w/index.php?title=Taman_Impian_Jaya_Ancol&amp;action=edit&amp;redlink=1" class="new" title="Taman Impian Jaya Ancol (page does not exist)">Taman Impian Jaya Ancol</a>), currently the largest integrated tourism area in South East Asia.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[35]</a></sup>
+</li>
+</ul>
+<p>The only regency (<i>kabupaten</i>) of Jakarta is:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Thousand_Islands_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="Thousand Islands (Indonesia) (page does not exist)">Thousand Islands</a> (<i>Kepulauan Seribu</i>), formerly a <a href="/w/index.php?title=Subdistricts_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Subdistricts of Indonesia (page does not exist)">subdistrict</a> of North Jakarta, is a collection of 105 small islands located on Java Sea. It has a high conservation value because of its unique and special ecosystems. Marine tourism, such as diving, water bicycle, and wind surfing, is the most important touristic activity in this territory. The main transportation between these islands are speed boat or small ferries.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[36]</a></sup>
+</li>
+</ul>
+<center>
+<table class="wikitable sortable" style="background:#ffffef; float:center;">
+<caption> Jakarta's Cities/Municipalities (<i>Kota Administrasi/Kotamadya</i>)
+</caption>
+<tr>
+<th>City/Regency
+</th>
+<th width="70">Area (km<sup>2</sup>)
+</th>
+<th style="width:100px;">Total population (2010 Census)
+</th>
+<th style="width:100px;">Population Density (per km<sup>2</sup>) 2010
+</th></tr>
+<tr style="text-align:right;">
+<th>  <a href="/w/index.php?title=South_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="South Jakarta (page does not exist)">South Jakarta</a> (<i>Jakarta Selatan</i>)
+</th>
+<td> 141.27 </td>
+<td> 2,057,080 </td>
+<td> 14,561
+</td></tr>
+<tr style="text-align:right;">
+<th> <a href="/w/index.php?title=East_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="East Jakarta (page does not exist)">East Jakarta</a> (<i>Jakarta Timur</i>)
+</th>
+<td> 188.03 </td>
+<td> 2,687,027 </td>
+<td> 14,290
+</td></tr>
+<tr style="text-align:right;">
+<th> <a href="/w/index.php?title=Central_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Jakarta (page does not exist)">Central Jakarta</a> (<i>Jakarta Pusat</i>)
+</th>
+<td> 48.13 </td>
+<td> 898.883 </td>
+<td> 18,676
+</td></tr>
+<tr style="text-align:right;">
+<th> <a href="/w/index.php?title=West_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="West Jakarta (page does not exist)">West Jakarta</a> (<i>Jakarta Barat</i>)
+</th>
+<td> 129.54 </td>
+<td> 2,278,825 </td>
+<td> 17,592
+</td></tr>
+<tr style="text-align:right;">
+<th> <a href="/w/index.php?title=North_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="North Jakarta (page does not exist)">North Jakarta</a> (<i>Jakarta Utara</i>)
+</th>
+<td> 146.66 </td>
+<td> 1,645,312 </td>
+<td> 11,219
+</td></tr>
+<tr style="text-align:right;">
+<th> <a href="/w/index.php?title=Thousand_Islands_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="Thousand Islands (Indonesia) (page does not exist)">Thousand Islands</a> (<i>Kepulauan Seribu</i>)
+</th>
+<td> 8.7 </td>
+<td> 21,071 </td>
+<td> 2,422
+</td></tr></table>
+</center>
+<h3><span class="mw-headline" id="Government">Government</span></h3>
+<p>In September 1945, the government of Jakarta City was changed from the Japanese <i>Djakarta Toku-Betsu Shi</i> into the Jakarta National Administration. This first government was held by a Mayor until the end of 1960 when the office was changed to that of a Governor. The last mayor of Jakarta was <a href="/w/index.php?title=Sudiro&amp;action=edit&amp;redlink=1" class="new" title="Sudiro (page does not exist)">Sudiro</a>, until he was replaced by Dr <a href="/w/index.php?title=Sumarno&amp;action=edit&amp;redlink=1" class="new" title="Sumarno (page does not exist)">Sumarno</a> as Governor of the province (as the city had now become).
+</p><p>In 1974, Based on the <i>Act No. 5 of 1974</i> relating to the Fundamentals of Regional Government, Jakarta was confirmed as the capital of Indonesia and one of Indonesia's (then) 26 provinces.<sup id="cite_ref-Statistics_38-0" class="reference"><a href="#cite_note-Statistics-38">[37]</a></sup>
+<a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<h3><span class="mw-headline" id="Municipal_finances">Municipal finances</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Welcome_Roundabout.jpg" title="File:Welcome Roundabout.jpg">File:Welcome Roundabout.jpg</a>  <div class="thumbcaption">Hotel Indonesia Roundabout</div></div></div>
+<p>The ability of the regional government to respond to the many problems of Jakarta is constrained by extremely limited finances.  In 2013 the total budget available to the Jakarta regional government was approved at around Rp 50&#160;trillion (about $US 5.2&#160;billion), equivalent to around $US 380 per citizen. Priority areas of spending were listed as education, transport, flood control measures, environment programs, and various types of social spending (such as health and housing).<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
+</p><p>The Jakarta provincial government, like all other provincial governments in Indonesia, relies on transfers from the central government for the bulk of budget income.  Local (non-central government) sources of revenue are incomes from various taxes such as vehicle ownership and vehicle transfer fees and so on.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup>
+</p><p>In recent years, the Jakarta provincial government has consistently run a surplus of between 15-20% of total planned spending, largely because of delays in procurement procedures and other inefficiencies in the spending process.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup> The regular underspending is a matter of frequent public comment but the legal and administrative blockages that cause the underspending problem seem very difficult to overcome.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[41]</a></sup>
+</p>
+<table class="wikitable" style="text-align:center; width:40%;">
+<caption> Jakarta city finances: 2007 - 2012 (Rp trillion)
+</caption>
+<tr>
+<th>Year
+</th>
+<th width="70">Revenue
+</th>
+<th width="70">Expenditure
+</th></tr>
+<tr style="text-align:center;">
+<td>2007 Actual</td>
+<td> 18.7  </td>
+<td> 18.7
+</td></tr>
+<tr style="text-align:center;">
+<td>2008 Actual</td>
+<td> 32.9  </td>
+<td> 16.4
+</td></tr>
+<tr style="text-align:center;">
+<td>2009 Actual</td>
+<td> 23.7  </td>
+<td> 19.6
+</td></tr>
+<tr style="text-align:center;">
+<td>2010 Actual</td>
+<td> 26.8  </td>
+<td> 21.6
+</td></tr>
+<tr style="text-align:center;">
+<td>2011 Budget</td>
+<td> 31.7  </td>
+<td> 31.7
+</td></tr>
+<tr style="text-align:center;">
+<td>2012 Budget</td>
+<td> 41.3  </td>
+<td> 41.3
+</td></tr></table>
+<p><small>Indonesian Statistics Bureau: <i>Jakarta in Figures</i></small>
+</p>
+<h2><span class="mw-headline" id="Geography_and_climate">Geography and climate</span></h2>
+<h3><span class="mw-headline" id="Geography">Geography</span></h3>
+<p>Jakarta is located on the northwest coast of <a href="/wiki/Java" title="Java">Java</a>, at the mouth of the <a href="/w/index.php?title=Ciliwung_River&amp;action=edit&amp;redlink=1" class="new" title="Ciliwung River (page does not exist)">Ciliwung River</a> on <a href="/w/index.php?title=Jakarta_Bay&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Bay (page does not exist)">Jakarta Bay</a>, which is an inlet of the <a href="/wiki/Java_Sea" title="Java Sea">Java Sea</a>. Officially, the area of the Jakarta Special District is <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of land area and <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of sea area.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[42]</a></sup> The <a href="/w/index.php?title=Thousand_Islands_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="Thousand Islands (Indonesia) (page does not exist)">Thousand Islands</a>, which are administratively a part of Jakarta, are located in Jakarta Bay, north of the city.
+</p><p>Jakarta lies in a low, flat basin, ranged from <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> to <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> with average elevation <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> <a href="/w/index.php?title=Above_mean_sea_level&amp;action=edit&amp;redlink=1" class="new" title="Above mean sea level (page does not exist)">above sea level</a>;{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} 40% of Jakarta, particularly the northern areas, is below sea level,<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[43]</a></sup> while the southern parts are comparatively hilly. Rivers flow from the <a href="/w/index.php?title=Puncak&amp;action=edit&amp;redlink=1" class="new" title="Puncak (page does not exist)">Puncak</a> highlands to the south of the city, across the city northwards towards the Java Sea; the most important<a href="/w/index.php?title=Template:Clarify&amp;action=edit&amp;redlink=1" class="new" title="Template:Clarify (page does not exist)">Template:Clarify</a> is the <a href="/w/index.php?title=Ciliwung_River&amp;action=edit&amp;redlink=1" class="new" title="Ciliwung River (page does not exist)">Ciliwung River</a>, which divides the city into the western and eastern principalities. Other rivers include the Pesanggrahan, and Sunter.
+</p><p>All these rivers, combined with the wet season rains and insufficient drainage due to clogging, make Jakarta prone to <a href="/w/index.php?title=Flooding_in_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Flooding in Jakarta (page does not exist)">flooding</a>. Moreover, Jakarta is sinking about 5 to 10 centimeters each year, even up to 20 centimeters in the northern coastal areas. To help cope with the threat from the sea, the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> will give $4&#160;million for a feasibility study to build a <a href="/wiki/Levee" title="Levee">dike</a> around Jakarta Bay. The ring dike will be equipped with a pumping system and retention areas to defend against seawater. Additionally, the dike will function as a toll road. The project will be built by 2025.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[44]</a></sup> In January 2014, Central Government agreed to build 2 dams in Ciawi, Bogor and a 1.2 kilometers tunnel from <a href="/w/index.php?title=Ciliwung_River&amp;action=edit&amp;redlink=1" class="new" title="Ciliwung River (page does not exist)">Ciliwung River</a> to <a href="/w/index.php?title=Cisadane_River&amp;action=edit&amp;redlink=1" class="new" title="Cisadane River (page does not exist)">Cisadane River</a> to ease Jakarta floods. Construction costs will be paid by Central Government, but land acquisitions is responsibility of Jakarta Authority.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[45]</a></sup>
+</p><p><a href="/w/index.php?title=Template:Wide_image&amp;action=edit&amp;redlink=1" class="new" title="Template:Wide image (page does not exist)">Template:Wide image</a>
+</p>
+<h3><span class="mw-headline" id="Climate">Climate</span></h3>
+<p>Jakarta has a <a href="/w/index.php?title=Tropical_monsoon_climate&amp;action=edit&amp;redlink=1" class="new" title="Tropical monsoon climate (page does not exist)">tropical monsoon climate</a> (<i>Am</i>)<sup id="cite_ref-Climate-Data.org_47-0" class="reference"><a href="#cite_note-Climate-Data.org-47">[46]</a></sup> according to the <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> system. Despite being located relatively close to the equator, the city has distinct <a href="/wiki/Wet_season" title="Wet season">wet</a> and <a href="/wiki/Dry_season" title="Dry season">dry</a> seasons. The wet season in Jakarta covers the majority of the year, running from November through June. The remaining four months forms the city’s dry season. Located in the western part of Java, Jakarta’s wet season rainfall peak is January with average monthly rainfall of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, and its dry season low point is September with a monthly average of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>.
+<a href="/w/index.php?title=Template:Weather_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Weather box (page does not exist)">Template:Weather box</a>
+</p>
+<h2><span class="mw-headline" id="Culture">Culture</span></h2>
+<p>As the economic and political capital of Indonesia, Jakarta attracts many domestic immigrants who bring their various languages, dialects, foods and customs.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Keong_Emas.jpg" title="File:Keong Emas.jpg">File:Keong Emas.jpg</a>  <div class="thumbcaption">The Golden Snail (Keong Emas), established in the 1970s during the New Order era, is an IMAX theatre located in <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a>, East Jakarta.</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Festival_beach_Ancol_Jakarta.jpg" title="File:Festival beach Ancol Jakarta.jpg">File:Festival beach Ancol Jakarta.jpg</a>  <div class="thumbcaption">Festival Beach in <a href="/w/index.php?title=Ancol_Dreamland&amp;action=edit&amp;redlink=1" class="new" title="Ancol Dreamland (page does not exist)">Ancol Dreamland</a>, North Jakarta.</div></div></div>
+<p>The "<a href="/w/index.php?title=Betawi_people&amp;action=edit&amp;redlink=1" class="new" title="Betawi people (page does not exist)">Betawi</a>" (<i>Orang Betawi</i>, or "people of Batavia") are the descendants of the people living in and around <a href="/wiki/Batavia,_Dutch_East_Indies" title="Batavia, Dutch East Indies" class="mw-redirect">Batavia</a> and recognized as an ethnic group from around the 18th–19th century. The Betawi people are mostly descended from various Southeast-Asian ethnic groups brought or attracted to Batavia to meet labor needs, and include people from different parts of <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[47]</a></sup> The <a href="/w/index.php?title=Betawi_language&amp;action=edit&amp;redlink=1" class="new" title="Betawi language (page does not exist)">language</a> and Betawi culture are distinct from those of the <a href="/wiki/Sundanese_people" title="Sundanese people">Sundanese</a> or <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a>, forming itself as a <a href="/w/index.php?title=Language_island&amp;action=edit&amp;redlink=1" class="new" title="Language island (page does not exist)">language island</a> in the surrounding area. The language is mostly based on the East <a href="/w/index.php?title=Old_Malay&amp;action=edit&amp;redlink=1" class="new" title="Old Malay (page does not exist)">Malay</a> dialect and enriched by <a href="/wiki/Loan_word" title="Loan word" class="mw-redirect">loan words</a> from Dutch, Portuguese, Sundanese, Javanese, Chinese, and Arabic. Nowadays, the Jakarta dialect (Bahasa Jakarta), used as a street language by people in Jakarta, is loosely based on the <a href="/w/index.php?title=Betawi_language&amp;action=edit&amp;redlink=1" class="new" title="Betawi language (page does not exist)">Betawi language</a>.
+Betawi arts have a low profile in Jakarta, and most Betawi have moved to the suburbs of Jakarta, displaced by new migrants. It is easier to find Java- or Minang-based wedding ceremonies rather than Betawi weddings in Jakarta. 
+It is easier to find Javanese Gamelan instead of <i>Gambang Kromong</i> (a mixture between Betawi and Chinese music) or <i>Tanjidor</i> (a mixture between Betawi and Portuguese music) or <i>Marawis</i> (a mixture between Betawi and Yaman music). However, some festivals such as the <i>Jalan Jaksa Festival</i> or <i>Kemang Festival</i> include efforts to preserve Betawi arts by inviting artists to give performances.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[48]</a></sup>
+</p><p>There has been a significant <a href="/w/index.php?title=Chinese_Indonesian&amp;action=edit&amp;redlink=1" class="new" title="Chinese Indonesian (page does not exist)">Chinese</a> community in Jakarta for many centuries. The Chinese in Jakarta traditionally reside around old urban areas, such as <a href="/w/index.php?title=Pinangsia&amp;action=edit&amp;redlink=1" class="new" title="Pinangsia (page does not exist)">Pinangsia</a>, <a href="/w/index.php?title=Pluit&amp;action=edit&amp;redlink=1" class="new" title="Pluit (page does not exist)">Pluit</a> and <a href="/wiki/Glodok" title="Glodok">Glodok</a> (Jakarta Chinatown) areas. They also can be found in old <a href="/wiki/Chinatown" title="Chinatown">chinatowns</a> of <a href="/w/index.php?title=Senen&amp;action=edit&amp;redlink=1" class="new" title="Senen (page does not exist)">Senen</a> and <a href="/w/index.php?title=Jatinegara&amp;action=edit&amp;redlink=1" class="new" title="Jatinegara (page does not exist)">Jatinegara</a>. Officially, they make up 6% of the Jakartan population, although this number may be under-reported.<sup id="cite_ref-BBC_50-0" class="reference"><a href="#cite_note-BBC-50">[49]</a></sup> Chinese culture also had influenced Betawi culture, such as the popularity of Chinese cakes and sweets, <a href="/wiki/Firecracker" title="Firecracker">firecrackers</a>, to Betawi wedding attire that demonstrates Chinese and Arab influences.
+</p><p>Jakarta has several performing art centres, such as the classical concert hall Aula Simfonia Jakarta in Kemayoran, <a href="/w/index.php?title=Taman_Ismail_Marzuki&amp;action=edit&amp;redlink=1" class="new" title="Taman Ismail Marzuki (page does not exist)">Taman Ismail Marzuki</a> (TIM) art centre in Cikini, <a href="/w/index.php?title=Gedung_Kesenian_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Gedung Kesenian Jakarta (page does not exist)">Gedung Kesenian Jakarta</a> near Pasar Baru, Balai Sarbini in Plaza Semanggi area, <a href="/w/index.php?title=Bentara_Budaya_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Bentara Budaya Jakarta (page does not exist)">Bentara Budaya Jakarta</a> in Palmerah area, <i>Pasar Seni</i> (Art Market) in <a href="/w/index.php?title=Ancol_Dreamland&amp;action=edit&amp;redlink=1" class="new" title="Ancol Dreamland (page does not exist)">Ancol</a>, and traditional Indonesian art performances at the pavilions of some provinces in <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a>. Traditional music is often found at high-class hotels, including <a href="/wiki/Wayang" title="Wayang">Wayang</a> and <a href="/wiki/Gamelan" title="Gamelan">Gamelan</a> performances. Javanese <a href="/wiki/Wayang#Wayang_topeng_or_wayang_gedog_or_wayang_wong" title="Wayang">Wayang Orang</a> performances can be found at Wayang Orang Bharata theater near Senen bus terminal. As the nation's largest city and capital, Jakarta has lured much national and regional talent who hope to find a greater audience and more opportunities for success.
+</p><p>Jakarta hosts several prestigious art and culture festivals, and exhibitions, such as the annual <a href="/w/index.php?title=Jakarta_International_Film_Festival&amp;action=edit&amp;redlink=1" class="new" title="Jakarta International Film Festival (page does not exist)">Jakarta International Film Festival</a> (JiFFest), <a href="/w/index.php?title=Jakarta_International_Java_Jazz_Festival&amp;action=edit&amp;redlink=1" class="new" title="Jakarta International Java Jazz Festival (page does not exist)">Jakarta International Java Jazz Festival</a>, <a href="/w/index.php?title=Jakarta_Fashion_Week&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Fashion Week (page does not exist)">Jakarta Fashion Week</a>, Jakarta Fashion &amp; Food Festival (JFFF), Jakarta Fair, Indonesia Creative Products and Jakarta Arts and Crafts exhibition. Flona Jakarta is a flora-and-fauna exhibition, held annually in August at Lapangan Banteng Park, featuring flowers, plant nurseries, and pets. The <a href="/w/index.php?title=Jakarta_Fair&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Fair (page does not exist)">Jakarta Fair</a> is held annually from mid-June to mid-July to celebrate the anniversary of the city and is largely centred around a trade fair. However this month-long fair also features entertainment, including arts and music performances by local bands and musicians.
+</p><p>Several foreign art and culture centres are also established in Jakarta, and mainly serve to promote culture and language through learning centres, libraries, and art galleries. Among these foreign art and cultural centres are <a href="/wiki/China" title="China">China</a> <a href="/w/index.php?title=Confucius_Institute&amp;action=edit&amp;redlink=1" class="new" title="Confucius Institute (page does not exist)">Confucius Institute</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> Erasmus Huis, UK <a href="/wiki/British_Council" title="British Council">British Council</a>, France Centre Culturel Français, Germany <a href="/wiki/Goethe-Institut" title="Goethe-Institut">Goethe-Institut</a>, <a href="/wiki/Japan_Foundation" title="Japan Foundation">Japan Foundation</a>, and the <a href="/wiki/Jawaharlal_Nehru" title="Jawaharlal Nehru">Jawaharlal Nehru</a> <a href="/wiki/India" title="India">Indian</a> Cultural Centre.
+</p>
+<h3><span class="mw-headline" id="Museums">Museums</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Museum_Nasional_Indonesia.jpg" title="File:Museum Nasional Indonesia.jpg">File:Museum Nasional Indonesia.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=National_Museum_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="National Museum (Indonesia) (page does not exist)">National Museum</a> of Indonesia in <a href="/w/index.php?title=Central_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Jakarta (page does not exist)">Central Jakarta</a></div></div></div>
+<p>The museums in Jakarta cluster around the <a href="/w/index.php?title=Central_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Jakarta (page does not exist)">Central Jakarta</a> Merdeka Square area, <a href="/w/index.php?title=Jakarta_Old_Town&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Old Town (page does not exist)">Jakarta Old Town</a>, and <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a>.
+</p><p>The Jakarta Old Town contains museums that are former institutional buildings of Colonial Batavia. Some of these museums are: <a href="/w/index.php?title=Jakarta_History_Museum&amp;action=edit&amp;redlink=1" class="new" title="Jakarta History Museum (page does not exist)">Jakarta History Museum</a> (former City Hall of Batavia), <a href="/w/index.php?title=Wayang_Museum&amp;action=edit&amp;redlink=1" class="new" title="Wayang Museum (page does not exist)">Wayang Museum</a> (Puppet Museum) (former Church of Batavia), the <a href="/w/index.php?title=Fine_Art_and_Ceramic_Museum&amp;action=edit&amp;redlink=1" class="new" title="Fine Art and Ceramic Museum (page does not exist)">Fine Art and Ceramic Museum</a> (former Court House of Justice of Batavia), the <a href="/w/index.php?title=Maritime_Museum_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="Maritime Museum (Indonesia) (page does not exist)">Maritime Museum</a> (former <a href="/w/index.php?title=Sunda_Kelapa&amp;action=edit&amp;redlink=1" class="new" title="Sunda Kelapa (page does not exist)">Sunda Kelapa</a> warehouse), Bank Indonesia Museum (former Javasche Bank), and Bank Mandiri Museum (former <i>Nederlandsche Handels Maatschappij</i>).
+Several museums clustered in central Jakarta around the Merdeka Square area include: <a href="/w/index.php?title=National_Museum_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="National Museum of Indonesia (page does not exist)">National Museum of Indonesia</a> (also known as <i>Gedung Gajah</i> ("the Elephant Building"), <a href="/wiki/Monas" title="Monas" class="mw-redirect">Monas</a> (National Monument), Istiqlal Islamic Museum in Istiqlal Mosque, Jakarta, and <a href="/w/index.php?title=Jakarta_Cathedral&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Cathedral (page does not exist)">Jakarta Cathedral</a> Museum on the second floor of Jakarta Cathedral. Also in the central Jakarta area is the <a href="/w/index.php?title=Taman_Prasasti_Museum&amp;action=edit&amp;redlink=1" class="new" title="Taman Prasasti Museum (page does not exist)">Taman Prasasti Museum</a> (former cemetery of Batavia), and <a href="/w/index.php?title=Textile_Museum_(Jakarta)&amp;action=edit&amp;redlink=1" class="new" title="Textile Museum (Jakarta) (page does not exist)">Textile Museum</a> in Tanah Abang area.
+The recreational area of <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a> in <a href="/w/index.php?title=East_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="East Jakarta (page does not exist)">East Jakarta</a> contains fourteen museums, such as <a href="/w/index.php?title=Indonesia_Museum&amp;action=edit&amp;redlink=1" class="new" title="Indonesia Museum (page does not exist)">Indonesia Museum</a>, <a href="/w/index.php?title=Purna_Bhakti_Pertiwi_Museum&amp;action=edit&amp;redlink=1" class="new" title="Purna Bhakti Pertiwi Museum (page does not exist)">Purna Bhakti Pertiwi Museum</a>, <a href="/w/index.php?title=Asmat_Museum&amp;action=edit&amp;redlink=1" class="new" title="Asmat Museum (page does not exist)">Asmat Museum</a>, Bayt al-Qur'an Islamic Museum, <a href="/w/index.php?title=Pusaka&amp;action=edit&amp;redlink=1" class="new" title="Pusaka (page does not exist)">Pusaka</a> (heirloom) Museum, and other science-based museum such as Research &amp; Technology Information Centre, Komodo Indonesian Fauna Museum, Insect Museum, Petrol and Gas Museum, plus the Transportation Museum.
+</p><p>Other museums are <a href="/w/index.php?title=Satriamandala_Museum&amp;action=edit&amp;redlink=1" class="new" title="Satriamandala Museum (page does not exist)">Satria Mandala Military Museum</a>, Museum <a href="/w/index.php?title=Sumpah_Pemuda&amp;action=edit&amp;redlink=1" class="new" title="Sumpah Pemuda (page does not exist)">Sumpah Pemuda</a>, and <a href="/w/index.php?title=Lubang_Buaya&amp;action=edit&amp;redlink=1" class="new" title="Lubang Buaya (page does not exist)">Lubang Buaya</a>.
+</p>
+<h3><span class="mw-headline" id="Cuisine">Cuisine</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Gado-gado_in_Jakarta.JPG" title="File:Gado-gado in Jakarta.JPG">File:Gado-gado in Jakarta.JPG</a>  <div class="thumbcaption"><a href="/wiki/Gado-gado" title="Gado-gado">Gado-gado</a> is a popular food in Jakarta.</div></div></div>
+<p>Jakarta has a vast range of food available at hundreds of eating complexes located all over the city, from modest street-side foodstalls and traveling vendors to the high-class expensive restaurants. One of the most popular local dishes in Jakarta is <a href="/w/index.php?title=Soto_(food)&amp;action=edit&amp;redlink=1" class="new" title="Soto (food) (page does not exist)">Soto</a> <a href="/w/index.php?title=Betawi_people&amp;action=edit&amp;redlink=1" class="new" title="Betawi people (page does not exist)">Betawi</a>, which is a cow milk or coconut milk broth with beef tendons, intestines, <a href="/wiki/Tripe" title="Tripe">tripe</a>. However since Jakarta is regarded as the 'melting-pot' and a miniature of Indonesia, many traditional food from other regions of Indonesia can be easily found in Jakarta. For example, traditional <a href="/w/index.php?title=Minangkabau_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Minangkabau cuisine (page does not exist)">Padang</a> restaurants and low-budget <a href="/w/index.php?title=Javanese_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Javanese cuisine (page does not exist)">Javanese</a> <i>Warteg</i> (<i>Warung Tegal</i>) foodstalls are ubiquitous in the capital. Next to a myriad of selections of <a href="/w/index.php?title=Indonesian_Cuisine&amp;action=edit&amp;redlink=1" class="new" title="Indonesian Cuisine (page does not exist)">Indonesian food</a> and regional specialties from all over Indonesia, there is also international food, especially <a href="/wiki/Chinese_Cuisine" title="Chinese Cuisine" class="mw-redirect">Chinese</a>, <a href="/wiki/Japanese_Cuisine" title="Japanese Cuisine" class="mw-redirect">Japanese</a>, <a href="/w/index.php?title=Korean_Cuisine&amp;action=edit&amp;redlink=1" class="new" title="Korean Cuisine (page does not exist)">Korean</a>, <a href="/wiki/Thai_food" title="Thai food" class="mw-redirect">Thai</a>, <a href="/w/index.php?title=Indian_Cuisine&amp;action=edit&amp;redlink=1" class="new" title="Indian Cuisine (page does not exist)">Indian</a>, <a href="/wiki/Cuisine_of_the_United_States" title="Cuisine of the United States">American</a>, <a href="/w/index.php?title=French_Cuisine&amp;action=edit&amp;redlink=1" class="new" title="French Cuisine (page does not exist)">French</a>, Middle Eastern, and modern fusion food.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[50]</a></sup>  The other popular foods include: <a href="/w/index.php?title=Kerak_Telor&amp;action=edit&amp;redlink=1" class="new" title="Kerak Telor (page does not exist)">kerak telor</a>, <a href="/wiki/Gado-gado" title="Gado-gado">gado-gado</a>, <a href="/wiki/Satay" title="Satay">sate</a>, <a href="/w/index.php?title=Nasi_goreng&amp;action=edit&amp;redlink=1" class="new" title="Nasi goreng (page does not exist)">nasi goreng</a> and kue cucur.
+</p>
+<h3><span class="mw-headline" id="Media">Media</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Merdeka_Square_Monas_News_Van.JPG" title="File:Merdeka Square Monas News Van.JPG">File:Merdeka Square Monas News Van.JPG</a>  <div class="thumbcaption">A <a href="/w/index.php?title=Metro_TV&amp;action=edit&amp;redlink=1" class="new" title="Metro TV (page does not exist)">Metro TV</a> news van parking in <a href="/w/index.php?title=Merdeka_Square,_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Merdeka Square, Jakarta (page does not exist)">Merdeka Square, Jakarta</a></div></div></div>
+<p>Daily newspapers in Jakarta include
+</p>
+<ul>
+<li> Chinese language national newspaper: <i>Indonesia Shang Bao</i>
+</li>
+<li> English language national newspaper: <i><a href="/w/index.php?title=The_Jakarta_Post&amp;action=edit&amp;redlink=1" class="new" title="The Jakarta Post (page does not exist)">The Jakarta Post</a></i>, <i><a href="/w/index.php?title=The_Jakarta_Globe&amp;action=edit&amp;redlink=1" class="new" title="The Jakarta Globe (page does not exist)">The Jakarta Globe</a></i>
+</li>
+<li> Indonesian language national newspaper: <i><a href="/w/index.php?title=Kompas&amp;action=edit&amp;redlink=1" class="new" title="Kompas (page does not exist)">Kompas</a></i>, <i><a href="/wiki/Koran_Tempo" title="Koran Tempo">Koran Tempo</a></i>, <i><a href="/w/index.php?title=Media_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Media Indonesia (page does not exist)">Media Indonesia</a></i>, <i><a href="/w/index.php?title=Seputar_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Seputar Indonesia (page does not exist)">Seputar Indonesia</a></i>, <i><a href="/w/index.php?title=Republika_(Indonesian_newspaper)&amp;action=edit&amp;redlink=1" class="new" title="Republika (Indonesian newspaper) (page does not exist)">Republika</a></i>, <i><a href="/w/index.php?title=Suara_Pembaruan&amp;action=edit&amp;redlink=1" class="new" title="Suara Pembaruan (page does not exist)">Suara Pembaruan</a></i>, <i><a href="/w/index.php?title=Suara_Karya&amp;action=edit&amp;redlink=1" class="new" title="Suara Karya (page does not exist)">Suara Karya</a></i>, <i>Sinar Harapan</i>, <i>Indo Pos</i>, <i>Jurnal Nasional</i>,  <i>Harian Pelita</i>
+</li>
+<li> Business newspaper: <i><a href="/w/index.php?title=Bisnis_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Bisnis Indonesia (page does not exist)">Bisnis Indonesia</a></i>, <i>Investor Daily</i>, <i>Kontan</i>, <i>Harian Neraca</i>.
+</li>
+<li> Indonesian language local (Jakarta) newspaper: <i>Pos Kota</i>, <i>Warta Kota</i>, <i>Koran Jakarta</i>, <i>Berita Kota</i>,
+</li>
+<li> Sport newspaper: <i>Top Skor</i>
+</li>
+</ul>
+<p>Television stations include:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Public_broadcaster&amp;action=edit&amp;redlink=1" class="new" title="Public broadcaster (page does not exist)">Public broadcaster</a>:<sup id="cite_ref-e-penyiaran.kominfo_52-0" class="reference"><a href="#cite_note-e-penyiaran.kominfo-52">[51]</a></sup> <a href="/w/index.php?title=TVRI&amp;action=edit&amp;redlink=1" class="new" title="TVRI (page does not exist)">TVRI</a>
+</li>
+<li> Private national television: <a href="/w/index.php?title=TPI_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="TPI (Indonesia) (page does not exist)">MNC TV</a>, <a href="/w/index.php?title=RCTI&amp;action=edit&amp;redlink=1" class="new" title="RCTI (page does not exist)">RCTI</a>, <a href="/w/index.php?title=Metro_TV&amp;action=edit&amp;redlink=1" class="new" title="Metro TV (page does not exist)">Metro TV</a>, <a href="/w/index.php?title=Indosiar&amp;action=edit&amp;redlink=1" class="new" title="Indosiar (page does not exist)">Indosiar</a>, <a href="/w/index.php?title=ANTV&amp;action=edit&amp;redlink=1" class="new" title="ANTV (page does not exist)">ANTV</a>, <a href="/w/index.php?title=SCTV_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="SCTV (Indonesia) (page does not exist)">SCTV</a>, <a href="/w/index.php?title=Trans_TV&amp;action=edit&amp;redlink=1" class="new" title="Trans TV (page does not exist)">Trans TV</a>, <a href="/w/index.php?title=TV_ONE_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="TV ONE (Indonesia) (page does not exist)">tvOne</a>, <a href="/w/index.php?title=Trans_7&amp;action=edit&amp;redlink=1" class="new" title="Trans 7 (page does not exist)">Trans 7</a>, <a href="/w/index.php?title=Global_TV_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="Global TV (Indonesia) (page does not exist)">Global TV</a> and <a href="/w/index.php?title=Kompas_TV&amp;action=edit&amp;redlink=1" class="new" title="Kompas TV (page does not exist)">Kompas TV</a>.
+</li>
+<li> Local television: B Channel, JakTV, O Channel, Elshinta TV, Daai TV, and NET.
+</li>
+<li> Cable television: First Media, <a href="/w/index.php?title=TelkomVision&amp;action=edit&amp;redlink=1" class="new" title="TelkomVision (page does not exist)">TelkomVision</a>
+</li>
+<li> Satellite television: <a href="/w/index.php?title=Indovision&amp;action=edit&amp;redlink=1" class="new" title="Indovision (page does not exist)">Indovision</a>, <a href="/w/index.php?title=TelkomVision&amp;action=edit&amp;redlink=1" class="new" title="TelkomVision (page does not exist)">TelkomVision</a>, <a href="/w/index.php?title=Okevision&amp;action=edit&amp;redlink=1" class="new" title="Okevision (page does not exist)">Okevision</a>, <a href="/w/index.php?title=Aora_TV&amp;action=edit&amp;redlink=1" class="new" title="Aora TV (page does not exist)">Aora TV</a>, <a href="/w/index.php?title=Yes_TV&amp;action=edit&amp;redlink=1" class="new" title="Yes TV (page does not exist)">Yes TV</a>
+</li>
+</ul>
+<p>Many TV stations are analog <a href="/wiki/PAL" title="PAL">PAL</a>, but some are now are converting to digital signals using <a href="/w/index.php?title=DVB-T2&amp;action=edit&amp;redlink=1" class="new" title="DVB-T2 (page does not exist)">DVB-T2</a> following government plan to <a href="/wiki/Digital_television" title="Digital television">digital television</a> migration.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[52]</a></sup>
+</p><p>Radio:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Public_broadcaster&amp;action=edit&amp;redlink=1" class="new" title="Public broadcaster (page does not exist)">Public broadcaster</a>:<sup id="cite_ref-e-penyiaran.kominfo_52-1" class="reference"><a href="#cite_note-e-penyiaran.kominfo-52">[51]</a></sup> <a href="/w/index.php?title=Radio_Republik_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Radio Republik Indonesia (page does not exist)">RRI</a>.
+</li>
+<li> Investment and Finance Radio: [Radio Finance Indonesia]
+</li>
+</ul>
+<h2><span class="mw-headline" id="Economy.2C_governance_and_infrastructure">Economy, governance and infrastructure</span></h2>
+<h3><span class="mw-headline" id="Economy">Economy</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Bank_Indonesia_headquarters.jpg" title="File:Bank Indonesia headquarters.jpg">File:Bank Indonesia headquarters.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Bank_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Bank Indonesia (page does not exist)">Bank Indonesia</a> headquarters. Jakarta's economy depends highly on service sectors, including financial, banking and trading sector.</div></div></div>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Jakarta's economy depends heavily on financial service, trade, and manufacturing. Industries in Jakarta include electronics, automotive, chemicals, mechanical engineering and biomedical sciences manufacturing.
+</p><p>The economic growth of Jakarta in 2007 was 6.44% up from 5.95% the previous year, with the growth in the transportation and communication (15.25%), construction (7.81%) and trade, hotel and restaurant sectors (6.88%).<sup id="cite_ref-Statistics_38-1" class="reference"><a href="#cite_note-Statistics-38">[37]</a></sup> In 2007, GRP (Gross Regional Domestic Product) was Rp. 566&#160;trillion (around $US 56&#160;billion). The largest contributions to GDRP were by finance, ownership and business services (29%); trade, hotel and restaurant sector (20%), and manufacturing industry sector (16%).<sup id="cite_ref-Statistics_38-2" class="reference"><a href="#cite_note-Statistics-38">[37]</a></sup> In 2007, the increase in per capita GRDP of DKI Jakarta inhabitants was 11.6% compared to the previous year<sup id="cite_ref-Statistics_38-3" class="reference"><a href="#cite_note-Statistics-38">[37]</a></sup>
+</p><p>Both GRDP by at current market price and GRDP by at 2000 constant price in 2007 for the Municipality of Central Jakarta (Jakarta Pusat), which was Rp 146 million and Rp 81&#160;million, was higher than other municipalities in DKI Jakarta.<sup id="cite_ref-Statistics_38-4" class="reference"><a href="#cite_note-Statistics-38">[37]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Governance">Governance</span></h3>
+<p>A new law in 2007 forbids the giving of money to beggars, buskers and hawkers, bans squatter settlements on river banks and highways, and prohibits spitting and smoking on public transportation. Unauthorized people cleaning car windscreens and taking tips for directing traffic at intersections will also be penalized. Critics of the new legislation claim that such laws will be difficult to enforce and it tends to ignore the desperate poverty of many of the capital's inhabitants.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[53]</a></sup>
+</p><p>Copying an idea implemented in Singapore's Orchard Road, in 2011, the Jakarta administration said that it would restrict on-street parking on Jl Hayam Wuruk (Haram Wuruk St) and Jl Gajah Mada in <a href="/w/index.php?title=Central_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Jakarta (page does not exist)">Central Jakarta</a>. It said it would also remove illegal vendors and beggars from pavements and streets in the area.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[54]</a></sup>  In practice, these measures have only been partially successful.
+</p>
+<h3><span class="mw-headline" id="Water_supply">Water supply</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Two private companies, PALYJA and Aetra, provide piped water supply in the western and eastern half of Jakarta respectively under 25-year concession contracts signed in 1998. A public asset holding company called PAM Jaya owns the infrastructure. 80% of the water distributed in Jakarta comes through the West Tarum Canal system from Jatiluhur reservoir on the <a href="/w/index.php?title=Citarum_River&amp;action=edit&amp;redlink=1" class="new" title="Citarum River (page does not exist)">Citarum River</a> <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> southeast of the city. Water supply had been privatized by government of then President Suharto in 1998 to the French company <a href="/w/index.php?title=Suez_Environnement&amp;action=edit&amp;redlink=1" class="new" title="Suez Environnement (page does not exist)">Suez Environnement</a> and the British company <a href="/w/index.php?title=Thames_Water&amp;action=edit&amp;redlink=1" class="new" title="Thames Water (page does not exist)">Thames Water</a> International. Both foreign companies subsequently sold their concessions to Indonesian companies. Customer growth in the 7 first years of the concessions had been lower than before, despite substantial inflation-adjusted tariff increases during this period. In 2005 tariffs were frozen, leading the private water companies to cut down on investments.
+</p><p>According to PALYJA in its western half of the concession the service coverage ratio increased substantially from 34% in 1998 to 59% in 2007 and 65% in 2010.<sup id="cite_ref-PALYJA_figures_56-0" class="reference"><a href="#cite_note-PALYJA_figures-56">[55]</a></sup> According to data by the Jakarta Water Supply Regulatory Body, access in the eastern half of the city served by PTJ increased from about 57% in 1998 to about 67% in 2004, but stagnated after that.<sup id="cite_ref-Iwan_57-0" class="reference"><a href="#cite_note-Iwan-57">[56]</a></sup> However, other sources cite much lower access figures for piped water supply to houses, excluding access provided through public hydrants: One study estimated access as low as 25% in 2005,<sup id="cite_ref-HDR_58-0" class="reference"><a href="#cite_note-HDR-58">[57]</a></sup> while another source estimates it to be as low as 18.5% in 2011.<sup id="cite_ref-KRuHA_59-0" class="reference"><a href="#cite_note-KRuHA-59">[58]</a></sup> Those without access to piped water supply get water mostly from wells that are often salty and polluted with bacteria.
+</p>
+<h2><span class="mw-headline" id="Demography">Demography</span></h2>
+<table class="toccolours" style="float:right; width:420px; margin-left: 1em; margin-bottom: 1ex;">
+
+<tr>
+<td valign="top">
+<table>
+
+<tr>
+<th style="background:#efefef;"> Year
+</th>
+<th style="background:#efefef;"> Population
+</th></tr>
+<tr>
+<td> 1870 </td>
+<td style="text-align:right;"> 65,000
+</td></tr>
+<tr>
+<td> 1875 </td>
+<td style="text-align:right;"> 99,100
+</td></tr>
+<tr>
+<td> 1880 </td>
+<td style="text-align:right;"> 102,900
+</td></tr>
+<tr>
+<td> 1883 </td>
+<td style="text-align:right;"> 97,000
+</td></tr>
+<tr>
+<td> 1886 </td>
+<td style="text-align:right;"> 100,500
+</td></tr>
+<tr>
+<td> 1890 </td>
+<td style="text-align:right;"> 105,100
+</td></tr>
+<tr>
+<td> 1895 </td>
+<td style="text-align:right;"> 114,600
+</td></tr>
+<tr>
+<td> 1901 </td>
+<td style="text-align:right;"> 115,900
+</td></tr>
+<tr>
+<td> 1905 </td>
+<td style="text-align:right;"> 138,600
+</td></tr>
+<tr>
+<td> 1918 </td>
+<td style="text-align:right;"> 234,700
+</td></tr></table>
+</td>
+<td valign="top">
+<table>
+
+<tr>
+<th style="background:#efefef;"> Year
+</th>
+<th style="background:#efefef;"> Population
+</th></tr>
+<tr>
+<td> 1920 </td>
+<td style="text-align:right;"> 253,800
+</td></tr>
+<tr>
+<td> 1925 </td>
+<td style="text-align:right;"> 290,400
+</td></tr>
+<tr>
+<td> 1928 </td>
+<td style="text-align:right;"> 311,000
+</td></tr>
+<tr>
+<td> 1930 </td>
+<td style="text-align:right;"> 435,184
+</td></tr>
+<tr>
+<td> 1940 </td>
+<td style="text-align:right;"> 533,000
+</td></tr>
+<tr>
+<td> 1945 </td>
+<td style="text-align:right;"> 600,000
+</td></tr>
+<tr>
+<td> 1950 </td>
+<td style="text-align:right;"> 1,733,600
+</td></tr>
+<tr>
+<td> 1959 </td>
+<td style="text-align:right;"> 2,814,000
+</td></tr>
+<tr>
+<td> 1961 </td>
+<td style="text-align:right;"> 2,906,533
+</td></tr>
+<tr>
+<td> 1971 </td>
+<td style="text-align:right;"> 4,546,492
+</td></tr></table>
+</td>
+<td valign="top">
+<table>
+
+<tr>
+<th style="background:#efefef;"> Year/Date
+</th>
+<th style="background:#efefef;"> Population
+</th></tr>
+<tr>
+<td> 31 October 1980 </td>
+<td style="text-align:right;"> 6,503,449
+</td></tr>
+<tr>
+<td> 31 October 1990 </td>
+<td style="text-align:right;"> 8,259,639
+</td></tr>
+<tr>
+<td> 30 June 2000 </td>
+<td style="text-align:right;"> 8,384,853
+</td></tr>
+<tr>
+<td> 1 January 2005 </td>
+<td style="text-align:right;"> 8,540,306
+</td></tr>
+<tr>
+<td> 1 January 2006 </td>
+<td style="text-align:right;"> 7,512,323
+</td></tr>
+<tr>
+<td> June 2007 </td>
+<td style="text-align:right;"> 7,552,444
+</td></tr>
+<tr>
+<td> 2010 </td>
+<td style="text-align:right;"> 9,588,198
+</td></tr></table>
+<p><small>* 2010 Population census</small>
+</p>
+</td></tr></table>
+<p><a href="/w/index.php?title=Template:Bar_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Bar box (page does not exist)">Template:Bar box</a>
+<a href="/w/index.php?title=Template:Bar_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Bar box (page does not exist)">Template:Bar box</a>
+The 2010 census counted some 9.58&#160;million people, well above all government estimates.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[59]</a></sup>  The area of DKI Jakarta is 662.33&#160;km<sup>2</sup>, suggesting a population density of 14,464 people/km<sup>2</sup> as the ninth largest urban population density in the world.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[60]</a></sup> Inwards immigration tended to negate the effect of family planning programs.<sup id="cite_ref-Statistics_38-5" class="reference"><a href="#cite_note-Statistics-38">[37]</a></sup> The population has risen from 1.2&#160;million in 1960 to 8.8&#160;million in 2004, counting only its legal residents.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>The population of Greater Jakarta (<a href="/wiki/Jabodetabek" title="Jabodetabek">Jabodetabek</a> Region) is 28,019,545.<sup id="cite_ref-Census_2010_62-0" class="reference"><a href="#cite_note-Census_2010-62">[61]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Landmarks">Landmarks</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Istiqlal_Mosque_Monas.jpg" title="File:Istiqlal Mosque Monas.jpg">File:Istiqlal Mosque Monas.jpg</a>  <div class="thumbcaption">Istiqlal Mosque, Jakarta with Cathedral in the background.</div></div></div>
+<p>Most of Jakarta's landmarks, monuments and statues were built during <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a> era around the 1960s and completed in Suharto era, while some are the colonial Dutch East Indies heritage. Near the <a href="/wiki/National_Monument_(Indonesia)" title="National Monument (Indonesia)">national monument</a> stands a <a href="/wiki/Mahabharata" title="Mahabharata">Mahabharata</a> themed Arjuna Wijaya chariot statue and fountain. Further south through Jalan Thamrin, the main avenue of Jakarta, the <a href="/w/index.php?title=Selamat_Datang_Monument&amp;action=edit&amp;redlink=1" class="new" title="Selamat Datang Monument (page does not exist)"><i>Selamat Datang</i> monument</a> stands on the fountain in the centre of  <a href="/w/index.php?title=Hotel_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Hotel Indonesia (page does not exist)">Hotel Indonesia</a> <a href="/wiki/Roundabout" title="Roundabout">roundabout</a>. Other landmarks include the <a href="/wiki/Istiqlal_Mosque,_Jakarta" title="Istiqlal Mosque, Jakarta">Istiqlal Mosque, Jakarta</a>, the <a href="/w/index.php?title=Jakarta_Cathedral&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Cathedral (page does not exist)">Jakarta Cathedral</a> and Immanuel Church. The former <a href="/w/index.php?title=Jakarta_History_Museum&amp;action=edit&amp;redlink=1" class="new" title="Jakarta History Museum (page does not exist)">Batavia Stadhuis</a> in <a href="/w/index.php?title=Jakarta_Old_Town&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Old Town (page does not exist)">Jakarta Old Town</a> is also the city's landmark. The <a href="/w/index.php?title=Wisma_46&amp;action=edit&amp;redlink=1" class="new" title="Wisma 46 (page does not exist)">Wisma 46</a> building in <a href="/w/index.php?title=Central_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Jakarta (page does not exist)">Central Jakarta</a> is currently the highest building in Jakarta and Indonesia.
+</p><p>Some of statues and monuments in Jakarta are nationalist, such as the <a href="/wiki/West_Irian" title="West Irian" class="mw-redirect">West Irian</a> Liberation monument. Several <a href="/w/index.php?title=National_Hero_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="National Hero of Indonesia (page does not exist)">Indonesian national heroes</a> are commemorated in statues, such as <a href="/wiki/Diponegoro" title="Diponegoro">Diponegoro</a> and <a href="/wiki/Kartini" title="Kartini">Kartini</a> statues in Merdeka Square, <a href="/w/index.php?title=Sudirman&amp;action=edit&amp;redlink=1" class="new" title="Sudirman (page does not exist)">Sudirman</a> and <a href="/w/index.php?title=Mohammad_Husni_Thamrin&amp;action=edit&amp;redlink=1" class="new" title="Mohammad Husni Thamrin (page does not exist)">Thamrin</a> statues located in each respectable avenues, also <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a> and <a href="/wiki/Mohammad_Hatta" title="Mohammad Hatta">Hatta</a> statues in Proclamation Monument also on the entrance of Soekarno–Hatta International Airport.
+</p>
+<h2><span class="mw-headline" id="Tourism">Tourism</span></h2>
+<p>Most of the visitors attracted to Jakarta are domestic tourists from all over Indonesia. As the gateway of Indonesia, Jakarta often serves as the stop-over for foreign visitors on their way to Indonesian popular tourist destinations such as <a href="/wiki/Bali" title="Bali">Bali</a> and <a href="/w/index.php?title=Yogyakarta&amp;action=edit&amp;redlink=1" class="new" title="Yogyakarta (page does not exist)">Yogyakarta</a>.
+Other than attracted to monuments, landmarks, and museums around <a href="/w/index.php?title=Merdeka_Square,_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Merdeka Square, Jakarta (page does not exist)">Merdeka square</a> and <a href="/w/index.php?title=Jakarta_Old_Town&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Old Town (page does not exist)">Jakarta Old Town</a>, tourist attractions include <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a>, <a href="/w/index.php?title=Ragunan_Zoo&amp;action=edit&amp;redlink=1" class="new" title="Ragunan Zoo (page does not exist)">Ragunan Zoo</a>, <a href="/w/index.php?title=Sunda_Kelapa&amp;action=edit&amp;redlink=1" class="new" title="Sunda Kelapa (page does not exist)">Sunda Kelapa</a> old port and the <a href="/w/index.php?title=Ancol_Dreamland&amp;action=edit&amp;redlink=1" class="new" title="Ancol Dreamland (page does not exist)">Ancol Dreamland</a> complex on Jakarta Bay, including <a href="/w/index.php?title=Ancol_Dreamland&amp;action=edit&amp;redlink=1" class="new" title="Ancol Dreamland (page does not exist)">Dunia Fantasi</a> theme park, Sea World, Atlantis Water Adventure, and Gelanggang Samudra.
+</p><p>Tourism is contributing a growing amount of income to the city. In 2012, the tourism sector contributed 2.6 trillion rupiah (US$268.5 million) to the city’s total direct income of 17.83 trillion rupiah, a 17.9 per cent increase over 2011. Tourism stakeholders are expecting greater marketing of the Jakarta as a tourism destination.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[62]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Shopping">Shopping</span></h2>
+<p>Jakarta is a shopping hub in the nation also one of the best places to shop in <a href="/w/index.php?title=South_East_Asia&amp;action=edit&amp;redlink=1" class="new" title="South East Asia (page does not exist)">South East Asia</a>. The city has numerous <a href="/w/index.php?title=List_of_malls_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="List of malls in Indonesia (page does not exist)">shopping malls</a> and traditional markets. The annual "Jakarta Great Sale" is held every year on June and July to celebrate Jakarta's anniversary with about 73 participating shopping centres in 2012.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[63]</a></sup>
+</p><p>Malls such as <a href="/w/index.php?title=Plaza_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Plaza Indonesia (page does not exist)">Plaza Indonesia</a>, <a href="/w/index.php?title=Plaza_Senayan&amp;action=edit&amp;redlink=1" class="new" title="Plaza Senayan (page does not exist)">Plaza Senayan</a> and <a href="/w/index.php?title=Senayan_City&amp;action=edit&amp;redlink=1" class="new" title="Senayan City (page does not exist)">Senayan City</a> provides numerous selections of luxury brands. <a href="/w/index.php?title=Mall_Taman_Anggrek&amp;action=edit&amp;redlink=1" class="new" title="Mall Taman Anggrek (page does not exist)">Mall Taman Anggrek</a>, <a href="/w/index.php?title=Pondok_Indah_Mall&amp;action=edit&amp;redlink=1" class="new" title="Pondok Indah Mall (page does not exist)">Pondok Indah Mall</a>, <a href="/w/index.php?title=Mal_Kelapa_Gading&amp;action=edit&amp;redlink=1" class="new" title="Mal Kelapa Gading (page does not exist)">Mal Kelapa Gading</a>, and <a href="/w/index.php?title=Central_Park_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Central Park Jakarta (page does not exist)">Central Park Jakarta</a> cater high-street brands such as UK's <a href="/wiki/Topshop" title="Topshop">Topshop</a> and Europe's <a href="/wiki/Zara_(retailer)" title="Zara (retailer)">Zara</a> <sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[64]</a></sup>
+</p><p>United Kingdom's number one department store, Debenhams has 3 outlets in the city, the first one on <a href="/w/index.php?title=Senayan_City&amp;action=edit&amp;redlink=1" class="new" title="Senayan City (page does not exist)">Senayan City</a>, Supermall Karawaci and Lippo Mall Kemang Village. Japan's international <a href="/wiki/Sogo" title="Sogo">Sogo</a> department store has about 6 department stores which spread around shopping malls in the city. <a href="/w/index.php?title=Seibu_Department_Stores&amp;action=edit&amp;redlink=1" class="new" title="Seibu Department Stores (page does not exist)">Seibu</a> flagship store is located on <a href="/w/index.php?title=Grand_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Grand Indonesia (page does not exist)">Grand Indonesia Shopping Town</a>. And French luxury department store, <a href="/wiki/Galeries_Lafayette" title="Galeries Lafayette">Galeries Lafayette</a> will open its doors for the first time on South East Asia in <a href="/w/index.php?title=Pacific_Place_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Pacific Place Jakarta (page does not exist)">Pacific Place Jakarta</a>.
+</p><p>Internationally known luxury brands such as <a href="/wiki/Louis_Vuitton" title="Louis Vuitton">Louis Vuitton</a>, <a href="/wiki/Bulgari" title="Bulgari">Bulgari</a>, <a href="/wiki/Chanel" title="Chanel">Chanel</a>, <a href="/wiki/Gucci" title="Gucci">Gucci</a>, <a href="/w/index.php?title=Christian_Louboutin&amp;action=edit&amp;redlink=1" class="new" title="Christian Louboutin (page does not exist)">Christian Louboutin</a>, <a href="/wiki/Balenciaga" title="Balenciaga">Balenciaga</a>, and <a href="/wiki/Giorgio_Armani" title="Giorgio Armani">Giorgio Armani</a> can be easily found on Jakarta's luxury shopping malls.
+</p><p>Satrio-Casablanca corridor, 3.5 kilometre-long street that is a new shopping belt in Jakarta.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[65]</a></sup> Many multistorey shopping centres are located here, such as Kuningan City, Mal Ambassador, and Kota Kasablanka. And Satrio-Casablanca's largest shopping centre, Ciputra World Jakarta, will open in 2013.
+</p><p>Traditional markets include <a href="/wiki/Blok_M" title="Blok M">Blok M</a>, <a href="/wiki/Tanah_Abang" title="Tanah Abang">Tanah Abang</a>, <a href="/w/index.php?title=Senen&amp;action=edit&amp;redlink=1" class="new" title="Senen (page does not exist)">Senen</a>, Pasar Baru, <a href="/wiki/Glodok" title="Glodok">Glodok</a>, Mangga Dua, Cempaka Mas, and <a href="/w/index.php?title=Jatinegara&amp;action=edit&amp;redlink=1" class="new" title="Jatinegara (page does not exist)">Jatinegara</a>. In Jakarta there are also markets that sells specified collectable items, such as <a href="/wiki/Antique" title="Antique">antique</a> goods in Surabaya Street and gemstones in Rawabening Market.
+</p>
+<h2><span class="mw-headline" id="Parks">Parks</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Monumen_nasional_jakarta.jpg" title="File:Monumen nasional jakarta.jpg">File:Monumen nasional jakarta.jpg</a>  <div class="thumbcaption">The <a href="/wiki/National_Monument_(Indonesia)" title="National Monument (Indonesia)">National Monument</a> in the centre of Medan Merdeka Park</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Plaza_indonesia.jpg" title="File:Plaza indonesia.jpg">File:Plaza indonesia.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Plaza_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Plaza Indonesia (page does not exist)">Plaza Indonesia</a>, the high end shopping centre in Jakarta</div></div></div>
+<p>Taman Lapangan Banteng (Buffalo Field Park) is located in Central Jakarta near the <a href="/wiki/Istiqlal_Mosque,_Jakarta" title="Istiqlal Mosque, Jakarta">Istiqlal Mosque, Jakarta</a>, <a href="/w/index.php?title=Jakarta_Cathedral&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Cathedral (page does not exist)">Jakarta Cathedral</a>, and the Jakarta Central Post Office. It is about 4.5 hectares. Initially it was called Waterlooplein of Batavia and functioned as the ceremonial square during the <a href="/wiki/Netherlands_Indies" title="Netherlands Indies" class="mw-redirect">Netherlands Indies</a> colonial period. A number of colonial monuments and memorials erected on the square during the colonial period were demolished during the Sukarno era.  The most notable monument in the square is the Monumen Pembebasan Irian Barat (Monument of the Liberation of West Irian). During the 1970s and 1980s the park was used as a bus terminal. In 1993 the park was turned into a public space again.  It has become a recreation place for people and is occasionally also used as an exhibition place or for other events.<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[66]</a></sup> The Jakarta Flona (Flora dan Fauna), the flower and decoration plants and pet exhibition, is held in this park around August annually.
+</p><p><a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a> (Miniature Park of Indonesia), in <a href="/w/index.php?title=East_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="East Jakarta (page does not exist)">East Jakarta</a>, has 10 mini parks. But the most popular is The Bird Park or Aviary
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:TMII_Bird_Park.JPG" title="File:TMII Bird Park.JPG">File:TMII Bird Park.JPG</a>  <div class="thumbcaption">Spherical cage <a href="/wiki/Aviary" title="Aviary">Bird Park</a> in <a href="/w/index.php?title=Taman_Mini_Indonesia_Indah&amp;action=edit&amp;redlink=1" class="new" title="Taman Mini Indonesia Indah (page does not exist)">Taman Mini Indonesia Indah</a>.</div></div></div>
+<p>Taman Suropati is located in <a href="/w/index.php?title=Menteng&amp;action=edit&amp;redlink=1" class="new" title="Menteng (page does not exist)">Menteng</a> city subdistrict in Central Jakarta. The park is surrounded by several Dutch colonial buildings. Taman Suropati was known as Burgemeester Bisschopplein during the Dutch colonial time. The park is circular shaped with a surface area of 16,322&#160;m2. There are several modern statues in the park made by artists of the <a href="/w/index.php?title=ASEAN&amp;action=edit&amp;redlink=1" class="new" title="ASEAN (page does not exist)">ASEAN</a> countries, which contributes to the nickname of the park <i>"Taman persahabatan seniman ASEAN"</i> ("Park of the <a href="/w/index.php?title=ASEAN&amp;action=edit&amp;redlink=1" class="new" title="ASEAN (page does not exist)">ASEAN</a> artists friendship").<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[67]</a></sup> Also located in the Menteng area are the Taman Menteng and Situ Lembang pond parks. The Taman Menteng was built on the former <a href="/w/index.php?title=Persija&amp;action=edit&amp;redlink=1" class="new" title="Persija (page does not exist)">Persija</a> soccer Stadium.
+</p><p>Taman Monas (Monas Park) or Taman Medan Merdeka (Medan Merdeka Park) is a huge square where the symbol of Jakarta, <a href="/wiki/Monas" title="Monas" class="mw-redirect">Monas</a> or Monumen Nasional (National Monument) is located. The enormous space was created by Dutch Governor General Herman Willem <a href="/w/index.php?title=Daendels&amp;action=edit&amp;redlink=1" class="new" title="Daendels (page does not exist)">Daendels</a> (1810) and was originally named Koningsplein (Kings Square). On 10 January 1993, President Soeharto initiated action for the beautification of the square. Several features in the square are a deer park and 33 trees that represents the 33 provinces of Indonesia.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[68]</a></sup>
+</p><p>In June 2011, Jakarta has only 10.5 percent Ruang Terbuka Hijau (Green Open Space) and will be added to 13.94 percent Public Green Open Space. Public Parks are include in Public Green Open Space. By 2030, the administration also hope there are 16 percent Private Green Open Space.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[69]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sports">Sports</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Gelora_Bung_Karno_Stadium,_Asia_Cup_2007.jpg" title="File:Gelora Bung Karno Stadium, Asia Cup 2007.jpg">File:Gelora Bung Karno Stadium, Asia Cup 2007.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Bung_Karno_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Bung Karno Stadium (page does not exist)">Bung Karno Stadium</a> during soccer match between Indonesia vs South Korea in 2007 AFC <a href="/w/index.php?title=Asian_Cup&amp;action=edit&amp;redlink=1" class="new" title="Asian Cup (page does not exist)">Asian Cup</a></div></div></div>
+<p>Jakarta was host to the <a href="/w/index.php?title=1962_Asian_Games&amp;action=edit&amp;redlink=1" class="new" title="1962 Asian Games (page does not exist)">Asian Games in 1962</a>,<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[70]</a></sup> host of the <a href="/w/index.php?title=Asian_Cup_2007&amp;action=edit&amp;redlink=1" class="new" title="Asian Cup 2007 (page does not exist)">Asian Cup 2007</a> beside Malaysia, Thailand and Vietnam,<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[71]</a></sup> and has hosted the regional-scale <a href="/wiki/Southeast_Asian_Games" title="Southeast Asian Games">Southeast Asian Games</a> in 1979, 1987 and 1997. In 2011, Jakarta again hosted the <a href="/w/index.php?title=2011_Southeast_Asian_Games&amp;action=edit&amp;redlink=1" class="new" title="2011 Southeast Asian Games (page does not exist)">Southeast Asian Games</a>, but this time as co-hosts with <a href="/wiki/Palembang" title="Palembang">Palembang</a>.
+</p><p>Jakarta's most popular home football club is <a href="/wiki/Persija_Jakarta" title="Persija Jakarta">Persija</a>, which plays its matches in their home stadium at Bung Karno Stadium. The home match of Persija often draws its large fan – cladded with Persija's typical orange kit – to watch the match in the main stadium. The large spectators flocking to the main stadium usually worsen the traffic congestion in Jakarta. Another premiere division team is <a href="/w/index.php?title=Persitara_Jakarta_Utara&amp;action=edit&amp;redlink=1" class="new" title="Persitara Jakarta Utara (page does not exist)">Persitara</a> which plays its matches in the Kamal Muara Stadium in Kamal area.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Jakarta_city_stadium.jpg" title="File:Jakarta city stadium.jpg">File:Jakarta city stadium.jpg</a>  <div class="thumbcaption">Gelora Bung Karno Stedium area</div></div></div>
+<p>The biggest stadium in Jakarta is the <a href="/wiki/Gelora_Bung_Karno_Stadium" title="Gelora Bung Karno Stadium">Gelora Bung Karno Stadium</a> with a capacity of 88,083 seats.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[72]</a></sup> The Senayan sports complex has several sport venues, including the Bung Karno soccer stadium, <a href="/w/index.php?title=Madya_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Madya Stadium (page does not exist)">Madya Stadium</a>, Istora Senayan, aquatic arena, baseball field, basketball court, badminton court, a shooting range, several indoor and outdoor tennis court and a golf driving range. The Senayan complex was built in 1959 to accommodate the Asian Games in 1962. For basketball, the <a href="/w/index.php?title=Kelapa_Gading_Sport_Mall&amp;action=edit&amp;redlink=1" class="new" title="Kelapa Gading Sport Mall (page does not exist)">Kelapa Gading Sport Mall</a> in <a href="/w/index.php?title=Kelapa_Gading&amp;action=edit&amp;redlink=1" class="new" title="Kelapa Gading (page does not exist)">Kelapa Gading</a>, North Jakarta, with a capacity of 7,000 seats, is the home arena of the Indonesian national basketball team.
+</p><p>The Jakarta <a href="/wiki/Car-Free_Days" title="Car-Free Days">Car-Free Days</a> are held weekly on Sunday on the main avenues of the city, Jalan Sudirman and Jalan Thamrin, from 6&#160;am to 11&#160;am. The briefer Car-Free Day which lasts from only 6&#160;am to 9&#160;am is held on every other Sunday. The event invites local pedestrians to do sports and exercise and have their activities on the streets that are normally full of cars and traffic. Along the road from the Senayan traffic circle on Jalan Sudirman, South Jakarta, to the "Selamat Datang" Monument at the Hotel Indonesia traffic circle on Jalan Thamrin, all the way north to the National Monument in Central Jakarta, cars are cleared out for pedestrians. Morning gymnastics, <a href="/wiki/Calisthenics" title="Calisthenics">calisthenics</a> and aerobic exercises, <a href="/wiki/Futsal" title="Futsal">futsal</a> games, <a href="/wiki/Jogging" title="Jogging">jogging</a>, <a href="/wiki/Bicycling" title="Bicycling" class="mw-redirect">bicycling</a>, <a href="/wiki/Skateboarding" title="Skateboarding">skateboarding</a>, badminton, karate, and on-street library and musical performances take over the roads and the main parks in Jakarta.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[73]</a></sup>
+<br style="clear:both;" />
+</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Jakarta_Car_Free_Day.jpg" title="File:Jakarta Car Free Day.jpg">File:Jakarta Car Free Day.jpg</a>  <div class="thumbcaption">Jakarta pedestrians, joggers and bicyclists take over the main avenue during Car-Free Day.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:LimoNCP42Bluebird07.jpg" title="File:LimoNCP42Bluebird07.jpg">File:LimoNCP42Bluebird07.jpg</a>  <div class="thumbcaption">Taxi in Jakarta.</div></div></div>
+<p>With 28 million people in the metropolitan area, nearly 10 million vehicles in daily use, and no <a href="/w/index.php?title=Rapid_transit&amp;action=edit&amp;redlink=1" class="new" title="Rapid transit (page does not exist)">rapid transit</a> system<sup id="cite_ref-NYT8413_75-0" class="reference"><a href="#cite_note-NYT8413-75">[74]</a></sup> Jakarta is strained by transportation problems.<sup id="cite_ref-bbc_20070606_76-0" class="reference"><a href="#cite_note-bbc_20070606-76">[75]</a></sup> The city suffers a lack of urban public transport services due to prioritized development of road networks, which were mostly designed to accommodate private vehicles.<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[76]</a></sup>
+Most trips, however, are undertaken by non-motorized transportation (particularly walking) and numerous modes of public or demand-responsive transportation services.<sup id="cite_ref-jica_78-0" class="reference"><a href="#cite_note-jica-78">[77]</a></sup>
+</p>
+<table class="wikitable">
+
+<tr>
+<th> Transport mode </th>
+<th> No. trips ('000) </th>
+<th>&#160;% share
+</th></tr>
+<tr>
+<td> walking </td>
+<td> 14,073 </td>
+<td> 37.7
+</td></tr>
+<tr>
+<td> small bus </td>
+<td> 7,818 </td>
+<td> 20.9
+</td></tr>
+<tr>
+<td> motorcycle </td>
+<td> 4,890 </td>
+<td> 13.1
+</td></tr>
+<tr>
+<td> sedan/MPV/SUV </td>
+<td> 2,783 </td>
+<td> 7.5
+</td></tr>
+<tr>
+<td> medium bus </td>
+<td> 2,012 </td>
+<td> 5.4
+</td></tr>
+<tr>
+<td> large bus </td>
+<td> 1,224 </td>
+<td> 3.3
+</td></tr>
+<tr>
+<td> ojek (motorcycle taxi) </td>
+<td> 1,073 </td>
+<td> 2.9
+</td></tr>
+<tr>
+<td> bicycle </td>
+<td> 787 </td>
+<td> 2.1
+</td></tr>
+<tr>
+<td> school/company bus </td>
+<td> 466 </td>
+<td> 1.2
+</td></tr>
+<tr>
+<td> economy train </td>
+<td> 434 </td>
+<td> 1.2
+</td></tr>
+<tr>
+<td> patas AC (bus) </td>
+<td> 422 </td>
+<td> 1.1
+</td></tr>
+<tr>
+<td> colt/mini cab </td>
+<td> 298 </td>
+<td> 0.8
+</td></tr>
+<tr>
+<td> omprengan </td>
+<td> 295 </td>
+<td> 0.8
+</td></tr>
+<tr>
+<td> <a href="/wiki/Auto_rickshaw" title="Auto rickshaw">bajaj</a> </td>
+<td> 217 </td>
+<td> 0.6
+</td></tr>
+<tr>
+<td> becak </td>
+<td> 202 </td>
+<td> 0.5
+</td></tr>
+<tr>
+<td> pick up </td>
+<td> 131 </td>
+<td> 0.4
+</td></tr>
+<tr>
+<td> taxi </td>
+<td> 126 </td>
+<td> 0.3
+</td></tr>
+<tr>
+<td> express train </td>
+<td> 39 </td>
+<td> 0.1
+</td></tr>
+<tr>
+<td> truck </td>
+<td> 33 </td>
+<td> 0.1
+</td></tr>
+<tr>
+<td> other </td>
+<td> 8 </td>
+<td> 0.0
+</td></tr>
+<tr>
+<td> total </td>
+<td> 37,330 </td>
+<td> 100
+</td></tr></table>
+<p><sup id="cite_ref-SITRAMP_79-0" class="reference"><a href="#cite_note-SITRAMP-79">[78]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Road">Road</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:3in1GatsuViosCorollaAltis.JPG" title="File:3in1GatsuViosCorollaAltis.JPG">File:3in1GatsuViosCorollaAltis.JPG</a>  <div class="thumbcaption">Some major roads in Jakarta are implementing 3 passengers in a car regulation during rush hours.</div></div></div>
+<p>A structured road network had been developed in the early 19th century as a part of the <a href="/w/index.php?title=Great_Post_Road&amp;action=edit&amp;redlink=1" class="new" title="Great Post Road (page does not exist)">Java Great Post Road</a> by former Governor-General <a href="/w/index.php?title=Daendels&amp;action=edit&amp;redlink=1" class="new" title="Daendels (page does not exist)">Daendels</a>, which connects most major cities throughout <a href="/wiki/Java" title="Java">Java</a>. During the following decades, the road network was expanded to a great extent, although it could not keep up with the rapidly increasing numbers of motorized vehicles, resulting in highly congested traffic.
+</p><p>A notable feature of Jakarta's present road system is the <a href="/wiki/Toll_road" title="Toll road">toll road</a> network. Composed of an <a href="/w/index.php?title=Jakarta_Inner_Ring_Road&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Inner Ring Road (page does not exist)">inner</a> and <a href="/w/index.php?title=Jakarta_Outer_Ring_Road&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Outer Ring Road (page does not exist)">outer</a> <a href="/w/index.php?title=Ring_road&amp;action=edit&amp;redlink=1" class="new" title="Ring road (page does not exist)">ring road</a> and five toll roads radiating outwards, the network provides inner as well as outer city connections.
+The outer ring road is under construction, but it is largely in use. Six <a href="/w/index.php?title=Jakarta_Elevated_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Elevated Toll Road (page does not exist)">elevated toll roads</a> are in tender progress.
+</p><p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>The five radiating toll roads are the:
+</p>
+<ul>
+<li><a href="/w/index.php?title=Prof._Dr._Sedyatmo_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Prof. Dr. Sedyatmo Toll Road (page does not exist)">Prof. Dr. Sedyatmo Toll Road</a> linking to <a href="/w/index.php?title=Soekarno-Hatta_International_Airport&amp;action=edit&amp;redlink=1" class="new" title="Soekarno-Hatta International Airport (page does not exist)">Soekarno-Hatta International Airport</a>
+</li>
+<li><a href="/w/index.php?title=Jakarta-Tangerang_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Jakarta-Tangerang Toll Road (page does not exist)">Jakarta-Tangerang Toll Road</a> linking to <a href="/wiki/Tangerang" title="Tangerang">Tangerang</a> and further to <a href="/w/index.php?title=Merak,_Banten&amp;action=edit&amp;redlink=1" class="new" title="Merak, Banten (page does not exist)">Merak</a> in the west
+</li>
+<li><a href="/w/index.php?title=Jakarta-Serpong_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Jakarta-Serpong Toll Road (page does not exist)">Jakarta-Serpong Toll Road</a> linking to <a href="/w/index.php?title=Serpong&amp;action=edit&amp;redlink=1" class="new" title="Serpong (page does not exist)">Serpong</a>
+</li>
+<li><a href="/w/index.php?title=Jagorawi_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Jagorawi Toll Road (page does not exist)">Jagorawi Toll Road</a> linking to <a href="/wiki/Bogor" title="Bogor">Bogor</a> and <a href="/w/index.php?title=Ciawi&amp;action=edit&amp;redlink=1" class="new" title="Ciawi (page does not exist)">Ciawi</a> in the south
+</li>
+<li><a href="/w/index.php?title=Jakarta-Cikampek_Toll_Road&amp;action=edit&amp;redlink=1" class="new" title="Jakarta-Cikampek Toll Road (page does not exist)">Jakarta-Cikampek Toll Road</a> linking to <a href="/wiki/Bekasi" title="Bekasi">Bekasi</a> and <a href="/w/index.php?title=Cikampek&amp;action=edit&amp;redlink=1" class="new" title="Cikampek (page does not exist)">Cikampek</a> in the east
+</li>
+</ul>
+<p>Throughout the years, several attempts have been made to reduce traffic congestion on Jakarta’s main arteries. Implemented solutions include a 'three-in-one' rush-hour law, during which cars with fewer than three passengers are prohibited from driving on the main avenues.
+Another example is the ban on trucks passing main avenues during the day.<sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[79]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Public_road_transportation">Public road transportation</span></h4>
+<p>In 1966, an estimated 160 thousand <a href="/wiki/Cycle_rickshaw" title="Cycle rickshaw">pedicabs</a> (<i>becak</i>) operated in the city; as much as 15% of Jakarta's total workforce was engaged in <i>becak</i> driving. In 1971, <i>becak</i> were banned from major roads, and shortly thereafter the government attempted a total ban, which substantially reduced their numbers but did not eliminate them. A campaign to eliminate them succeeded in 1990 and 1991, but during the economic crisis of 1998, some returned amid less effective government attempts to control them.<sup id="cite_ref-azuma2003_81-0" class="reference"><a href="#cite_note-azuma2003-81">[80]</a></sup>
+</p><p>"Auto rickshaws", called <i><a href="/wiki/Auto_rickshaw" title="Auto rickshaw">bajaj</a></i>, provide local transportation in the back streets of some parts of the city. From the early 1940s to 1991 they were a common form of local transportation in the city.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:TransJakarta_Bundaran_HI_1.jpg" title="File:TransJakarta Bundaran HI 1.jpg">File:TransJakarta Bundaran HI 1.jpg</a>  <div class="thumbcaption">A <a href="/w/index.php?title=TransJakarta&amp;action=edit&amp;redlink=1" class="new" title="TransJakarta (page does not exist)">TransJakarta</a> bus</div></div></div>
+<p>The <a href="/w/index.php?title=TransJakarta&amp;action=edit&amp;redlink=1" class="new" title="TransJakarta (page does not exist)">TransJakarta</a> <a href="/wiki/Bus_rapid_transit" title="Bus rapid transit">bus rapid transit</a> service (known as Busway) was developed in the context of development reforms (or <i>reformasi</i>) and used Bogota's <a href="/wiki/TransMilenio" title="TransMilenio">TransMilenio</a> system as a model.<sup id="cite_ref-lo2010_82-0" class="reference"><a href="#cite_note-lo2010-82">[81]</a></sup> Jakarta's first busway line, from <a href="/wiki/Blok_M" title="Blok M">Blok M</a> to <a href="/w/index.php?title=Jakarta_Kota_Station&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Kota Station (page does not exist)">Jakarta Kota</a> opened in January 2004 and as of 14 February 2013, twelve out of fifteen <i>corridors</i> are in use.
+</p><p>The <a href="/w/index.php?title=Kopaja&amp;action=edit&amp;redlink=1" class="new" title="Kopaja (page does not exist)">Kopaja</a> and <a href="/w/index.php?title=MetroMini,_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="MetroMini, Jakarta (page does not exist)">MetroMini</a> economy minibus systems also provide important services for Jakarta commuters with numerous routes throughout the city.
+</p><p>Although <i><a href="/w/index.php?title=Motorcycle_taxi&amp;action=edit&amp;redlink=1" class="new" title="Motorcycle taxi (page does not exist)">ojeks</a></i> are not an official form of public transport, they can be found throughout Indonesia and in Jakarta. They are especially useful on the crowded urban roads and narrow alleyways, which other vehicles cannot reach. In November 2011, <a href="/w/index.php?title=Taxijek&amp;action=edit&amp;redlink=1" class="new" title="Taxijek (page does not exist)">Taxijek</a> was launched in Jakarta. It is essentially a taxi, but with a motorcycle instead of an automobile. Besides a <a href="/wiki/Taximeter" title="Taximeter">taximeter</a> and the company's driver identity card, the passenger has access to a helmet, disposable shower caps to use underneath the helmet and an extra raincoat. Contrary to common ojeks, Taxijeks are allowed to enter <a href="/wiki/Gated_community" title="Gated community">gated communities</a> and they usually charge a lower fare.<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[82]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Electronic_Road_Pricing">Electronic Road Pricing</span></h4>
+<p>Due to the city's acute gridlock, the Jakarta administration will implement <a href="/wiki/Electronic_Road_Pricing" title="Electronic Road Pricing">Electronic Road Pricing</a> (ERP) in 10 districts: Tanah Abang, Menteng, Setiabudi, Tebet, Matraman, Senen, Gambir, Tambora, Sawah Besar and Taman Sari. The projects will initiate once approved by the Finance Ministry.<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[83]</a></sup> The ERP will be implemented in the three-in-one zone and along Jl. Rasuna Said in Kuningan by the first quarter of 2014. Vehicles passing through the ERP areas will be charged Rp 21,072.<sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[84]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Railways">Railways</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:KRL_Jabotabek_7117_Gambir.jpg" title="File:KRL Jabotabek 7117 Gambir.jpg">File:KRL Jabotabek 7117 Gambir.jpg</a>  <div class="thumbcaption">A <a href="/w/index.php?title=KRL_Jabotabek&amp;action=edit&amp;redlink=1" class="new" title="KRL Jabotabek (page does not exist)">KRL Jabotabek</a> commuter train</div></div></div>
+<p>As of 2013 plans were underway to invest $4 billion in <a href="/wiki/Mass_transit" title="Mass transit" class="mw-redirect">mass transit</a> over the next few years including commencement of a subway.<sup id="cite_ref-NYT8413_75-1" class="reference"><a href="#cite_note-NYT8413-75">[74]</a></sup>
+</p><p>Long-distance railways and local tram services were first introduced during the Dutch colonial era.  While the trams were replaced with buses in the post-colonial era, <a href="/wiki/Rail_transport_in_Indonesia" title="Rail transport in Indonesia">long-distance railways</a> continued to connect the city to its neighbouring regions as well as cities throughout <a href="/wiki/Java" title="Java">Java</a>. The surrounding cities of Jakarta are served by <a href="/w/index.php?title=KRL_Jabotabek&amp;action=edit&amp;redlink=1" class="new" title="KRL Jabotabek (page does not exist)">KRL Jabotabek</a>, a mass rapid transit system which serves commuters both in and around Jakarta. The major rail stations are <a href="/w/index.php?title=Gambir_Station&amp;action=edit&amp;redlink=1" class="new" title="Gambir Station (page does not exist)">Gambir</a>, <a href="/w/index.php?title=Jakarta_Kota_Station&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Kota Station (page does not exist)">Jakarta Kota</a>, <a href="/w/index.php?title=Jatinegara_Station&amp;action=edit&amp;redlink=1" class="new" title="Jatinegara Station (page does not exist)">Jatinegara</a>, <a href="/w/index.php?title=Pasar_Senen_Station&amp;action=edit&amp;redlink=1" class="new" title="Pasar Senen Station (page does not exist)">Pasar Senen</a>, Manggarai, and Tanah Abang. During rush hours, the number of passengers greatly exceeds the system's capacity, and crowding is common.
+</p><p>There had been plans for a <a href="/w/index.php?title=Jakarta_Monorail&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Monorail (page does not exist)">monorail</a> and part of it was already under construction, but the project stalled in 2004 and was officially abandoned as of 2008, mostly due to a lack of investors to fund it all. The monorail project was relaunched in 2013 and the groundbreaking was done in October 2013<sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[85]</a></sup>
+</p><p>A <a href="/w/index.php?title=Jakarta_Mass_Rapid_Transit&amp;action=edit&amp;redlink=1" class="new" title="Jakarta Mass Rapid Transit (page does not exist)">two-line metro (MRT) system</a> is under construction, with a north-south line between Kota and Lebak Bulus; and an east-west line, which will connect to the north-south line at Sawah Besar Station. In the end the JMRT will be a combination of both subways and elevated rails. Preparation works started in April 2012,<sup id="cite_ref-87" class="reference"><a href="#cite_note-87">[86]</a></sup> with the first, 15.2&#160;km-long line between Hotel Indonesia and Lebak Bulus, and the north-south line MRT network is scheduled to be operational by 2016.<sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[87]</a></sup>
+The Jakarta Capital City Government had decided to build rail-based mass transits because this type of transport is capable of carrying passengers in large quantities quickly and cheaply.<sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[88]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Air">Air</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Soekarno-Hatta_International_Airport_Terminal_3_front.JPG" title="File:Soekarno-Hatta International Airport Terminal 3 front.JPG">File:Soekarno-Hatta International Airport Terminal 3 front.JPG</a>  <div class="thumbcaption">Front view of <a href="/w/index.php?title=Soekarno-Hatta_International_Airport&amp;action=edit&amp;redlink=1" class="new" title="Soekarno-Hatta International Airport (page does not exist)">Soekarno-Hatta International Airport</a> Terminal 3.</div></div></div>
+<p><a href="/wiki/Soekarno%E2%80%93Hatta_International_Airport" title="Soekarno–Hatta International Airport">Soekarno–Hatta International Airport</a> (CGK) is the main airport serving the greater Jakarta area. The airport is named after the first President of Indonesia, <a href="/wiki/Soekarno" title="Soekarno" class="mw-redirect">Soekarno</a>, and the first vice-president, <a href="/wiki/Mohammad_Hatta" title="Mohammad Hatta">Mohammad Hatta</a>. The airport is often called Cengkareng or Soetta by Indonesians. The airport's IATA code, CGK, originates from the name of the Cengkareng locality,<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[89]</a></sup> a district situated to the northwest of the city. It is Indonesia's busiest airport handling over 50 million passengers annually.<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[90]</a></sup>  A second airport, <a href="/w/index.php?title=Halim_Perdanakusuma_Airport&amp;action=edit&amp;redlink=1" class="new" title="Halim Perdanakusuma Airport (page does not exist)">Halim Perdanakusuma Airport</a> (HLP) serves domestic flight of low cost airline,private and VIP/presidential flights.
+Other airports in the Jabotabek metropolitan area include <a href="/w/index.php?title=Pondok_Cabe_Airport&amp;action=edit&amp;redlink=1" class="new" title="Pondok Cabe Airport (page does not exist)">Pondok Cabe Airport</a> and an airfield on Pulau Panjang, part of the <a href="/w/index.php?title=Thousand_Islands_(Indonesia)&amp;action=edit&amp;redlink=1" class="new" title="Thousand Islands (Indonesia) (page does not exist)">Thousand Island archipelago</a>.
+</p>
+<h3><span class="mw-headline" id="Waterway">Waterway</span></h3>
+<p>On 6 June 2007, the city administration introduced the Waterway (officially <i>Angkutan Sungai</i>), a new river boat service along the Ciliwung River.<sup id="cite_ref-bbc_20070606_76-1" class="reference"><a href="#cite_note-bbc_20070606-76">[75]</a></sup><sup id="cite_ref-waterway2_92-0" class="reference"><a href="#cite_note-waterway2-92">[91]</a></sup> However, because of the large amount of floating garbage which kept jamming the propeller, it is no longer in service. The varying water levels during the dry and wet seasons were also a contributing factor to the close-down.
+</p>
+<h3><span class="mw-headline" id="Sea">Sea</span></h3>
+<p>Jakarta's main seaport <a href="/w/index.php?title=Port_of_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Port of Jakarta (page does not exist)">Tanjung Priok</a> serves many ferry connections to different parts of Indonesia. <a href="/w/index.php?title=Port_of_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Port of Jakarta (page does not exist)">Tanjung Priok</a> is the largest seaport in Indonesia, with an annual traffic capacity of around 45 million tonnes of cargo and 4,000,000 TEU's.
+The port is also an important employer in the area, with more than 18,000 employees who provide services to more than 18,000 ships every year.
+The <i>Port of Jakarta</i> has 20 terminals: <a href="/wiki/Cargo" title="Cargo">general cargo</a>, <a href="/w/index.php?title=Container_terminal&amp;action=edit&amp;redlink=1" class="new" title="Container terminal (page does not exist)">multipurpose terminal</a>, <a href="/wiki/Scrap" title="Scrap">scraps terminal</a>, <a href="/w/index.php?title=Passenger&amp;action=edit&amp;redlink=1" class="new" title="Passenger (page does not exist)">passenger terminal</a>, <a href="/wiki/Bulk_cargo" title="Bulk cargo">dry bulk terminal</a>, <a href="/w/index.php?title=Bulk_liquids&amp;action=edit&amp;redlink=1" class="new" title="Bulk liquids (page does not exist)">liquid bulk terminal</a>, <a href="/w/index.php?title=Oil_terminal&amp;action=edit&amp;redlink=1" class="new" title="Oil terminal (page does not exist)">oil terminal</a>,  <a href="/wiki/Chemical" title="Chemical" class="mw-redirect">chemicals terminal</a> and three <a href="/w/index.php?title=Container_terminal&amp;action=edit&amp;redlink=1" class="new" title="Container terminal (page does not exist)">container terminals</a>, 76 <a href="/w/index.php?title=Berth_(moorings)&amp;action=edit&amp;redlink=1" class="new" title="Berth (moorings) (page does not exist)">berths</a>, a <a href="/wiki/Quay" title="Quay" class="mw-redirect">quay</a> length of 16,853 metres, a total storage area of 661,822 m<sup>2</sup> and a storage capacity of 401,468 tonnes.<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[92]</a></sup>
+</p><p>In December 2011, Muara Angke Port has been renovated yet with cost Rp130 billion ($14.4 million) in 3 hectares area. Next, Muara Angke Port will be used for public transport port to <a href="/wiki/Thousand_Islands" title="Thousand Islands">Thousand Islands</a>, while Marina <a href="/w/index.php?title=Ancol&amp;action=edit&amp;redlink=1" class="new" title="Ancol (page does not exist)">Ancol</a> Port will be used as tourist ship port.<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[93]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Education">Education</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Fakultas_Kedokteran_Universitas_Indonesia.JPG" title="File:Fakultas Kedokteran Universitas Indonesia.JPG">File:Fakultas Kedokteran Universitas Indonesia.JPG</a>  <div class="thumbcaption">Faculty of Medicine, <a href="/wiki/University_of_Indonesia" title="University of Indonesia">University of Indonesia</a>.</div></div></div>
+<p>Jakarta is home to a number of universities, of which the <a href="/wiki/University_of_Indonesia" title="University of Indonesia">University of Indonesia</a> is the largest. It is a state-owned university with campuses in Salemba and <a href="/wiki/Depok" title="Depok">Depok</a>.<sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[94]</a></sup> Jakarta is also home to two other state universities: the <a href="/w/index.php?title=Syarif_Hidayatullah_State_Islamic_University_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Syarif Hidayatullah State Islamic University Jakarta (page does not exist)">Syarif Hidayatullah State Islamic University Jakarta</a> and the <a href="/w/index.php?title=State_University_of_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="State University of Jakarta (page does not exist)">State University of Jakarta</a>. Some major private universities located in Jakarta are: <a href="/w/index.php?title=Trisakti_University&amp;action=edit&amp;redlink=1" class="new" title="Trisakti University (page does not exist)">Trisakti University</a>, <a href="/w/index.php?title=Tarumanagara_University&amp;action=edit&amp;redlink=1" class="new" title="Tarumanagara University (page does not exist)">Tarumanagara University</a>, <a href="/w/index.php?title=Atma_Jaya_University&amp;action=edit&amp;redlink=1" class="new" title="Atma Jaya University (page does not exist)">Atma Jaya University</a>, <a href="/w/index.php?title=Pelita_Harapan_University&amp;action=edit&amp;redlink=1" class="new" title="Pelita Harapan University (page does not exist)">Pelita Harapan University</a> and <a href="/w/index.php?title=Bina_Nusantara_University&amp;action=edit&amp;redlink=1" class="new" title="Bina Nusantara University (page does not exist)">Bina Nusantara University</a>.
+</p><p><a href="/w/index.php?title=STOVIA&amp;action=edit&amp;redlink=1" class="new" title="STOVIA (page does not exist)">STOVIA</a> (<i>School tot Opleiding van Indische Artsen</i>) was the first high school in Jakarta, established in 1851.<sup id="cite_ref-96" class="reference"><a href="#cite_note-96">[95]</a></sup> As the largest city and the capital, Jakarta houses a large number of students from various parts of Indonesia, many of whom reside in dormitories or home-stay residences. For basic education, there are a variety of primary and secondary schools, tagged with public (<i>national</i>), private (<i>national and bi-lingual national plus</i>) and <i>international</i> schools.   Four of the major international schools located in Jakarta are the <a href="/w/index.php?title=Gandhi_Memorial_International_School&amp;action=edit&amp;redlink=1" class="new" title="Gandhi Memorial International School (page does not exist)">Gandhi Memorial International School</a>, <a href="/w/index.php?title=IPEKA_International_Christian_School&amp;action=edit&amp;redlink=1" class="new" title="IPEKA International Christian School (page does not exist)">IPEKA International Christian School</a>, <a href="/w/index.php?title=Jakarta_International_School&amp;action=edit&amp;redlink=1" class="new" title="Jakarta International School (page does not exist)">Jakarta International School</a> and the <a href="/w/index.php?title=British_International_School,_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="British International School, Jakarta (page does not exist)">British International School (BIS)</a>. Other international schools include the <a href="/w/index.php?title=Jakarta_International_Korean_School&amp;action=edit&amp;redlink=1" class="new" title="Jakarta International Korean School (page does not exist)">Jakarta International Korean School</a>, <a href="/w/index.php?title=Bina_Bangsa_School&amp;action=edit&amp;redlink=1" class="new" title="Bina Bangsa School (page does not exist)">Bina Bangsa School</a>, <a href="/w/index.php?title=Jakarta_International_Multicultural_School&amp;action=edit&amp;redlink=1" class="new" title="Jakarta International Multicultural School (page does not exist)">Jakarta International Multicultural School</a>,<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[96]</a></sup> <a href="/w/index.php?title=Australian_International_School,_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Australian International School, Indonesia (page does not exist)">Australian International School</a>,<sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[97]</a></sup> <a href="/w/index.php?title=New_Zealand_International_School&amp;action=edit&amp;redlink=1" class="new" title="New Zealand International School (page does not exist)">New Zealand International School</a>,<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[98]</a></sup> <a href="/w/index.php?title=Singapore_International_School&amp;action=edit&amp;redlink=1" class="new" title="Singapore International School (page does not exist)">Singapore International School</a>, and <a href="/w/index.php?title=Sekolah_Pelita_Harapan&amp;action=edit&amp;redlink=1" class="new" title="Sekolah Pelita Harapan (page does not exist)">Sekolah Pelita Harapan</a>.<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">[99]</a></sup>
+<br style="clear:both;" />
+</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span></h2>
+<p>Jakarta signed <a href="/w/index.php?title=Sister_city&amp;action=edit&amp;redlink=1" class="new" title="Sister city (page does not exist)">sister city</a> agreement with other cities, one of them is <a href="/wiki/Casablanca" title="Casablanca">Casablanca</a>, Morocco's largest city, that have signed sister city agreement on Sept. 21, 1990. To promote friendship between two cities, <i>Jalan Casablanca</i>, a main avenue famous for its shopping and business centers in <a href="/w/index.php?title=South_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="South Jakarta (page does not exist)">South Jakarta</a>, was named after Jakarta's Moroccan sister city. Currently there is no street in Casablanca named after Jakarta, however on the other hand in <a href="/wiki/Rabat" title="Rabat">Rabat</a>, Morocco's capital city, an avenue was named after <a href="/wiki/Sukarno" title="Sukarno">Sukarno</a>, Indonesia's first president, to commemorate his visit in 1960 also as a token of friendship.<sup id="cite_ref-JakartaPost2_101-0" class="reference"><a href="#cite_note-JakartaPost2-101">[100]</a></sup> Jakarta is also a member of the <a href="/w/index.php?title=Asian_Network_of_Major_Cities_21&amp;action=edit&amp;redlink=1" class="new" title="Asian Network of Major Cities 21 (page does not exist)">Asian Network of Major Cities 21</a> and the <a href="/w/index.php?title=C40_Cities_Climate_Leadership_Group&amp;action=edit&amp;redlink=1" class="new" title="C40 Cities Climate Leadership Group (page does not exist)">C40 Cities Climate Leadership Group</a>.
+</p>
+<h3><span class="mw-headline" id="Twin_towns_.E2.80.93_Sister_cities">Twin towns – Sister cities</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<table class="wikitable">
+
+<tr valign="top">
+<td>
+<dl>
+<dt>Asia
+</dt>
+</dl>
+<ol>
+<li><a href="/wiki/File:Proposed_Flag_of_Islamabad_Capital_Territory.svg" title="File:Proposed Flag of Islamabad Capital Territory.svg">23px</a> <a href="/wiki/Islamabad" title="Islamabad">Islamabad</a>, <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>
+</li>
+<li><a href="/wiki/File:Emblem_of_Tokyo.svg" title="File:Emblem of Tokyo.svg">23px</a> <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, <a href="/wiki/Japan" title="Japan">Japan</a>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_PRC&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data PRC (page does not exist)">Template:Country data PRC</a> <a href="/w/index.php?title=Beijing&amp;action=edit&amp;redlink=1" class="new" title="Beijing (page does not exist)">Beijing</a>, <a href="/wiki/China" title="China">China</a>
+</li>
+<li><a href="/wiki/File:Ph_seal_ncr_manila.svg" title="File:Ph seal ncr manila.svg">23px</a> <a href="/wiki/Manila" title="Manila">Manila</a>, <a href="/wiki/Philippines" title="Philippines">Philippines</a>
+</li>
+<li><a href="/wiki/File:Seal_of_Kuala_Lumpur.svg" title="File:Seal of Kuala Lumpur.svg">23px</a> <a href="/wiki/Kuala_Lumpur" title="Kuala Lumpur">Kuala Lumpur</a>, <a href="/w/index.php?title=Malaysia&amp;action=edit&amp;redlink=1" class="new" title="Malaysia (page does not exist)">Malaysia</a>
+</li>
+<li><a href="/wiki/File:Seal_of_Seoul.svg" title="File:Seal of Seoul.svg">23px</a> <a href="/w/index.php?title=Seoul&amp;action=edit&amp;redlink=1" class="new" title="Seoul (page does not exist)">Seoul</a>, <a href="/wiki/South_Korea" title="South Korea">South Korea</a><sup id="cite_ref-Seoul_twinnings2_102-0" class="reference"><a href="#cite_note-Seoul_twinnings2-102">[101]</a></sup><sup id="cite_ref-Seoul_twinnings_103-0" class="reference"><a href="#cite_note-Seoul_twinnings-103">[102]</a></sup>
+</li>
+<li><a href="/wiki/File:Flag_of_Abu_Dhabi.svg" title="File:Flag of Abu Dhabi.svg">23px</a> <a href="/w/index.php?title=Abu_Dhabi&amp;action=edit&amp;redlink=1" class="new" title="Abu Dhabi (page does not exist)">Abu Dhabi</a>, <a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a>
+</li>
+<li><a href="/wiki/File:Coat_of_arms_of_Saudi_Arabia.svg" title="File:Coat of arms of Saudi Arabia.svg">23px</a> <a href="/wiki/Jeddah" title="Jeddah">Jeddah</a>, <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_PRK&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data PRK (page does not exist)">Template:Country data PRK</a> <a href="/wiki/Pyongyang" title="Pyongyang">Pyongyang</a>, <a href="/wiki/North_Korea" title="North Korea">North Korea</a>
+</li>
+<li><a href="/wiki/File:Hanoi_Logo.svg" title="File:Hanoi Logo.svg">23px</a> <a href="/wiki/Hanoi" title="Hanoi">Hanoi</a>, <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>
+</li>
+<li><a href="/wiki/File:Seal_Bangkok.png" title="File:Seal Bangkok.png">23px</a> <a href="/wiki/Bangkok" title="Bangkok">Bangkok</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_Iran&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Iran (page does not exist)">Template:Country data Iran</a> <a href="/wiki/Yazd" title="Yazd">Yazd</a>, <a href="/wiki/Iran" title="Iran">Iran</a>
+</li>
+</ol>
+</td>
+<td></td>
+<td>
+<dl>
+<dt>Europe
+</dt>
+</dl>
+<ol>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, Germany<sup id="cite_ref-Berlin_twinnings_104-0" class="reference"><a href="#cite_note-Berlin_twinnings-104">[103]</a></sup>
+</li>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</li>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, <a href="/w/index.php?title=Turkey&amp;action=edit&amp;redlink=1" class="new" title="Turkey (page does not exist)">Turkey</a>
+</li>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, <a href="/wiki/Russia" title="Russia">Russia</a>
+</li>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</li>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a>
+</li>
+</ol>
+</td>
+<td></td>
+<td>
+<dl>
+<dt>America
+</dt>
+</dl>
+<ol>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, USA
+</li>
+<li><a href="/w/index.php?title=Template:Coat_of_arms&amp;action=edit&amp;redlink=1" class="new" title="Template:Coat of arms (page does not exist)">Template:Coat of arms</a>, USA
+</li>
+</ol>
+<dl>
+<dt>Africa
+</dt>
+</dl>
+<ol>
+<li><a href="/wiki/File:Flag_of_Casablanca_province.svg" title="File:Flag of Casablanca province.svg">23px</a> <a href="/wiki/Casablanca" title="Casablanca">Casablanca</a>, <a href="/wiki/Morocco" title="Morocco">Morocco</a><sup id="cite_ref-JakartaPost2_101-1" class="reference"><a href="#cite_note-JakartaPost2-101">[100]</a></sup>
+</li>
+</ol>
+</td></tr></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p>{{#invoke:Portal|portal}}
+</p>
+<ul>
+<li><a href="/w/index.php?title=Port_of_Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Port of Jakarta (page does not exist)">Port of Jakarta</a>
+</li>
+<li><a href="/w/index.php?title=Plaza_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Plaza Indonesia (page does not exist)">Plaza Indonesia</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata plainlinks mbox-small" style="padding:0.25em 0.5em 0.5em 0.75em;border:1px solid #aaa;background:#f9f9f9;">
+
+<tr style="height:25px;">
+<td colspan="2" style="padding-bottom:0.5em;border-bottom:1px solid #aaa;margin:auto;text-align:center;"> Find more about <b>Jakarta</b> at Wikipedia's <a href="http://en.wikipedia.org/wiki/Wikimedia_sister_projects" class="extiw" title="wikipedia:Wikimedia sister projects">sister projects</a>
+</td></tr>
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!style</a>="padding-top:0.75em;"<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Wiktionary-logo-en.svg" title="File:Wiktionary-logo-en.svg">Search Wiktionary</a>
+   <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!style</a>="padding-top:0.75em;"<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="http://en.wiktionary.org/wiki/Special:Search/Jakarta" class="extiw" title="wikt:Special:Search/Jakarta">Definitions and translations</a> from Wiktionary
+
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Commons-logo.svg" title="File:Commons-logo.svg">Search Commons</a>
+   <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="http://commons.wikimedia.org/wiki/Special:Search/Jakarta" class="extiw" title="commons:Special:Search/Jakarta">Media</a> from Commons
+
+
+
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Wikiquote-logo.svg" title="File:Wikiquote-logo.svg">Search Wikiquote</a>
+   <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/w/index.php?title=Q:Special:Search/Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Q:Special:Search/Jakarta (page does not exist)">Quotations</a> from Wikiquote
+
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Wikisource-logo.svg" title="File:Wikisource-logo.svg">Search Wikisource</a>
+      <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/w/index.php?title=S:Special:Search/Jakarta&amp;action=edit&amp;redlink=1" class="new" title="S:Special:Search/Jakarta (page does not exist)">Source texts</a> from Wikisource
+
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Wikibooks-logo.svg" title="File:Wikibooks-logo.svg">Search Wikibooks</a>
+   <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/w/index.php?title=B:Special:Search/Jakarta&amp;action=edit&amp;redlink=1" class="new" title="B:Special:Search/Jakarta (page does not exist)">Textbooks</a> from Wikibooks
+
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" title="File:Wikivoyage-Logo-v3-icon.svg">Search Wikivoyage</a>
+     <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/w/index.php?title=Voy:Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Voy:Jakarta (page does not exist)">Travel guide</a> from Wikivoyage
+
+<a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/wiki/File:Wikiversity-logo-Snorky.svg" title="File:Wikiversity-logo-Snorky.svg">Search Wikiversity</a>
+   <a href="/w/index.php?title=Template:!&amp;action=edit&amp;redlink=1" class="new" title="Template:! (page does not exist)">Template:!</a> <a href="/w/index.php?title=V:Special:Search/Jakarta&amp;action=edit&amp;redlink=1" class="new" title="V:Special:Search/Jakarta (page does not exist)">Learning resources</a> from Wikiversity
+
+
+
+
+
+
+</table>
+<ul>
+<li><a href="/w/index.php?title=Template:Official_website&amp;action=edit&amp;redlink=1" class="new" title="Template:Official website (page does not exist)">Template:Official website</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://jakarta-tourism.go.id/">Jakarta Official Travel Website</a>
+</li>
+<li><a href="/w/index.php?title=Template:Wikivoyage-inline&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikivoyage-inline (page does not exist)">Template:Wikivoyage-inline</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Navboxes&amp;action=edit&amp;redlink=1" class="new" title="Template:Navboxes (page does not exist)">Template:Navboxes</a><a href="/w/index.php?title=Template:Link_GA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link GA (page does not exist)">Template:Link GA</a>
+<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist for a group named "note", but no corresponding <code>&lt;references group="note"/&gt;</code> tag was found, or a closing <code>&lt;/ref&gt;</code> is missing</strong>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 1.480 seconds
+Real time usage: 1.885 seconds
+Preprocessor visited node count: 2908/1000000
+Preprocessor generated node count: 33016/1000000
+Post‐expand include size: 7135/2097152 bytes
+Template argument size: 138/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:10402-0!*!0!!en!2!* and timestamp 20170407172822
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Jakarta&amp;oldid=10402">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Jakarta&amp;oldid=10402</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Jakarta&amp;action=edit&amp;redlink=1" class="new" title="Category:Jakarta (page does not exist)">Jakarta</a></li><li><a href="/w/index.php?title=Category:Capital_districts_and_territories&amp;action=edit&amp;redlink=1" class="new" title="Category:Capital districts and territories (page does not exist)">Capital districts and territories</a></li><li><a href="/wiki/Category:Capitals_in_Asia" title="Category:Capitals in Asia">Capitals in Asia</a></li><li><a href="/wiki/Category:Cities_in_Indonesia" title="Category:Cities in Indonesia">Cities in Indonesia</a></li><li><a href="/w/index.php?title=Category:Metropolitan_areas_of_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Category:Metropolitan areas of Indonesia (page does not exist)">Metropolitan areas of Indonesia</a></li><li><a href="/w/index.php?title=Category:Populated_coastal_places_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Category:Populated coastal places in Indonesia (page does not exist)">Populated coastal places in Indonesia</a></li><li><a href="/w/index.php?title=Category:Port_cities_and_towns_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Category:Port cities and towns in Indonesia (page does not exist)">Port cities and towns in Indonesia</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jakarta" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Jakarta"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Jakarta&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Jakarta" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Jakarta&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jakarta&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jakarta" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jakarta" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Jakarta&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Jakarta&amp;oldid=10402" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Jakarta&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 January 2014, at 13:19.</li>
+											<li id="footer-info-viewcount">This page has been accessed 155 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 2.338 secs. -->
+	</body>
+</html>

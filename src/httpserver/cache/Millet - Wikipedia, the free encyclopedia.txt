@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Millet - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Millet","wgTitle":"Millet","wgCurRevisionId":25156,"wgRevisionId":25156,"wgArticleId":25156,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category template with no category set","Commons category with page title different than on Wikidata","Millets","Cereals","Chadian cuisine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Millet","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Millet skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Millet</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpg" title="File:Grain millet, early grain fill, Tifton, 7-3-02.jpg">File:Grain millet, early grain fill, Tifton, 7-3-02.jpg</a>  <div class="thumbcaption"><a href="/wiki/Pearl_millet" title="Pearl millet">Pearl millet</a> in the field</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Finger_millet_3_11-21-02.jpg" title="File:Finger millet 3 11-21-02.jpg">File:Finger millet 3 11-21-02.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Finger_millet&amp;action=edit&amp;redlink=1" class="new" title="Finger millet (page does not exist)">Finger millet</a> in the field</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Panicum_miliaceum0.jpg" title="File:Panicum miliaceum0.jpg">File:Panicum miliaceum0.jpg</a>  <div class="thumbcaption">Ripe head of <a href="/wiki/Proso_millet" title="Proso millet">proso millet</a></div></div></div>
+<p><b>Millets</b> are a group of highly variable small-seeded <a href="/wiki/Grasses" title="Grasses" class="mw-redirect">grasses</a>, widely grown around the world as <a href="/wiki/Cereal" title="Cereal">cereal</a> <a href="/wiki/Crops" title="Crops" class="mw-redirect">crops</a> or grains for both human food and <a href="/wiki/Fodder" title="Fodder">fodder</a>. They do not form a <a href="/w/index.php?title=Scientific_classification&amp;action=edit&amp;redlink=1" class="new" title="Scientific classification (page does not exist)">taxonomic</a> group, but rather a functional or agronomic one. Millets are important crops in the <a href="/wiki/Semi-arid_climate" title="Semi-arid climate">semi-arid tropics</a> of Asia and Africa (especially in <a href="/wiki/India" title="India">India</a>, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>, and <a href="/wiki/Niger" title="Niger">Niger</a>), with 97% of millet production in <a href="/wiki/Developing_country" title="Developing country">developing countries</a>.<sup id="cite_ref-HCS_1-0" class="reference"><a href="#cite_note-HCS-1">[1]</a></sup> The crop is favored due to its <a href="/wiki/Agricultural_productivity" title="Agricultural productivity">productivity</a> and short growing season under dry, high temperature conditions.
+</p><p>The most widely grown millet is <a href="/wiki/Pearl_millet" title="Pearl millet">pearl millet</a>, which is an important sized crop in India and parts of Africa.<sup id="cite_ref-FAO_2-0" class="reference"><a href="#cite_note-FAO-2">[2]</a></sup> <a href="/w/index.php?title=Finger_millet&amp;action=edit&amp;redlink=1" class="new" title="Finger millet (page does not exist)">Finger millet</a>, <a href="/wiki/Proso_millet" title="Proso millet">proso millet</a>, and <a href="/wiki/Foxtail_millet" title="Foxtail millet">foxtail millet</a> are also important crop species. In the <a href="/wiki/Developed_countries" title="Developed countries" class="mw-redirect">developed world</a>, millets are less important. For example, in the United States the only significant crop is proso millet, which is mostly grown for <a href="/wiki/Bird_seed" title="Bird seed" class="mw-redirect">bird seed</a>.<sup id="cite_ref-HCS_1-1" class="reference"><a href="#cite_note-HCS-1">[1]</a></sup>
+</p><p>While millets are <a href="/w/index.php?title=Indigenous_(ecology)&amp;action=edit&amp;redlink=1" class="new" title="Indigenous (ecology) (page does not exist)">indigenous</a> to many parts of the world, millets most likely had an evolutionary origin in tropical western Africa, as that is where the greatest number of both wild and cultivated forms exist.<sup id="cite_ref-fao1_3-0" class="reference"><a href="#cite_note-fao1-3">[3]</a></sup> Millets have been important food staples in human history, particularly in Asia and Africa, and they have been in cultivation in <a href="/w/index.php?title=East_Asia&amp;action=edit&amp;redlink=1" class="new" title="East Asia (page does not exist)">East Asia</a> for the last 10,000 years.<sup id="cite_ref-Lu_4-0" class="reference"><a href="#cite_note-Lu-4">[4]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Millet_varieties"><span class="tocnumber">2</span> <span class="toctext">Millet varieties</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Production"><span class="tocnumber">4</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Alcoholic_beverages"><span class="tocnumber">4.1</span> <span class="toctext">Alcoholic beverages</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#As_a_food_source"><span class="tocnumber">4.2</span> <span class="toctext">As a food source</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Grazing_millet"><span class="tocnumber">4.3</span> <span class="toctext">Grazing millet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Nutrition"><span class="tocnumber">5</span> <span class="toctext">Nutrition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Comparison_with_other_major_staple_foods"><span class="tocnumber">5.1</span> <span class="toctext">Comparison with other major staple foods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p>The height of the pearl millet plant may range from 0.5 to 4 metres. The pearl millet grain has great variation, and can be nearly white, pale yellow, brown, grey, slate blue or purple. The kernel shape has five different classifications: <a href="/wiki/Obovate" title="Obovate" class="mw-redirect">obovate</a>, <a href="/wiki/Hexagonal" title="Hexagonal" class="mw-redirect">hexagonal</a>, <a href="/w/index.php?title=Lanceolate&amp;action=edit&amp;redlink=1" class="new" title="Lanceolate (page does not exist)">lanceolate</a>, <a href="/wiki/Sphere" title="Sphere">globular</a>, and <a href="/wiki/Elliptical" title="Elliptical" class="mw-redirect">elliptical</a>.<sup id="cite_ref-HCS_1-2" class="reference"><a href="#cite_note-HCS-1">[1]</a></sup>  Grains of pearl millet are about 3 to 4&#160;mm long, much larger than those of other millets. The seeds usually weigh between 2.5 and 14 mg, with a typical mean of 8 mg. The size of the pearl millet kernel is about one-third that of <a href="/wiki/Sorghum" title="Sorghum">sorghum</a>. The relative proportion of germ to endosperm is higher in pearl millet than in sorghum.
+</p><p>The height of finger millet plant ranges from 40&#160;cm to 1 metre, with the spike length ranging from 3 to 13&#160;cm. The colour of finger millet grains may vary from white through orange-red, deep brown, purple, to almost black. The grains are smaller than those of pearl millet. The typical mean weight of finger millet seed is about 2.6 mg.<sup id="cite_ref-fao1_3-1" class="reference"><a href="#cite_note-fao1-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Millet_varieties">Millet varieties</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Indian_Millets.png" title="File:Indian Millets.png">File:Indian Millets.png</a>  <div class="thumbcaption">varieties of millets grown in India</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:A_closeup_of_Pearl_Millet_(Cumbu).JPG" title="File:A closeup of Pearl Millet (Cumbu).JPG">File:A closeup of Pearl Millet (Cumbu).JPG</a>  <div class="thumbcaption">Pearl millet</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:A_closeup_of_Thinai_millet_with_husk..JPG" title="File:A closeup of Thinai millet with husk..JPG">File:A closeup of Thinai millet with husk..JPG</a>  <div class="thumbcaption">Thinai millet</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:A_closeup_of_Varagu_millet_with_husk..JPG" title="File:A closeup of Varagu millet with husk..JPG">File:A closeup of Varagu millet with husk..JPG</a>  <div class="thumbcaption">Varagu millet</div></div></div>
+<p>- <b>Major millets</b> (The most widely cultivated species<sup id="cite_ref-FAO_2-1" class="reference"><a href="#cite_note-FAO-2">[2]</a></sup>)
+</p><p>- <b>Minor millets</b>
+</p><p><a href="/wiki/Andropogoneae" title="Andropogoneae">Andropogoneae</a> tribe&#160;:
+</p>
+<ul>
+<li> <i>Coix</i> spp.&#160;: <a href="/wiki/Job%27s_tears" title="Job's tears" class="mw-redirect">Job's tears</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Eragrostideae&amp;action=edit&amp;redlink=1" class="new" title="Eragrostideae (page does not exist)">Eragrostideae</a> tribe&#160;:
+</p>
+<ul>
+<li> <b>Eleusine coracana</b>&#160;: <a href="/w/index.php?title=Finger_millet&amp;action=edit&amp;redlink=1" class="new" title="Finger millet (page does not exist)">Finger millet</a> (also known as <i>ragi, nachani</i> or <i>mandwa</i> in India), fourth most cultivated millet
+</li>
+<li> <b>Eragrostis tef</b>&#160;: <a href="/w/index.php?title=Teff&amp;action=edit&amp;redlink=1" class="new" title="Teff (page does not exist)">Teff</a>
+</li>
+</ul>
+<p><a href="/wiki/Panicoideae" title="Panicoideae">Panicoideae</a> tribe&#160;:
+</p>
+<ul>
+<li> <b>Brachiaria deflexa</b>&#160;: <a href="/w/index.php?title=Guinea_millet&amp;action=edit&amp;redlink=1" class="new" title="Guinea millet (page does not exist)">Guinea millet</a>
+</li>
+<li> <b>Digitaria</b> spp.&#160;: <a href="/wiki/Fonio" title="Fonio">Fonio</a> species
+</li>
+<li> <b>Echinochloa</b> spp.&#160;: <a href="/w/index.php?title=Japanese_barnyard_millet&amp;action=edit&amp;redlink=1" class="new" title="Japanese barnyard millet (page does not exist)">Japanese barnyard millet</a>, <a href="/w/index.php?title=Echinochloa_frumentacea&amp;action=edit&amp;redlink=1" class="new" title="Echinochloa frumentacea (page does not exist)">Indian barnyard millet</a>  (syn.&#160;: sawa millet) (also known as "bhagar" or "varai" in Maharashtra, India)
+</li>
+<li> <b>Panicum miliaceum</b>&#160;: <a href="/wiki/Proso_millet" title="Proso millet">Proso millet</a> (syn.&#160;: common millet, broom corn millet, hog millet or white millet), 3ʳᵈ most cultivated millet 
+</li>
+<li> <b>Paspalum scrobiculatum</b>&#160;: <a href="/w/index.php?title=Kodo_millet&amp;action=edit&amp;redlink=1" class="new" title="Kodo millet (page does not exist)">Kodo millet</a>
+</li>
+<li> <b>Pennisetum glaucum</b>&#160;: <a href="/wiki/Pearl_millet" title="Pearl millet">Pearl millet</a> (also known as <i>bajra</i> in India only in Hindi states), the most cultivated millet
+</li>
+<li> <b>Setaria italica</b>&#160;: <a href="/wiki/Foxtail_millet" title="Foxtail millet">Foxtail millet</a>, second most cultivated millet (also known as "kang or rala" in Maharashtra, India)
+</li>
+<li> <b>Urochloa ramosa</b>&#160;: <a href="/w/index.php?title=Browntop_millet&amp;action=edit&amp;redlink=1" class="new" title="Browntop millet (page does not exist)">Browntop millet</a>
+</li>
+</ul>
+<p><b><a href="/w/index.php?title=Corn&amp;action=edit&amp;redlink=1" class="new" title="Corn (page does not exist)">Corn</a></b> and <b><a href="/wiki/Sorghum" title="Sorghum">sorghum</a></b> are occasionally counted as major millets.
+</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>Specialized archaeologists called <a href="/w/index.php?title=Palaeoethnobotanists&amp;action=edit&amp;redlink=1" class="new" title="Palaeoethnobotanists (page does not exist)">palaeoethnobotanists</a>, relying on data such as the relative abundance of charred grains found in archaeological sites, hypothesize that the cultivation of millets was of greater prevalence in <a href="/w/index.php?title=Prehistory&amp;action=edit&amp;redlink=1" class="new" title="Prehistory (page does not exist)">prehistory</a> than <a href="/wiki/Rice" title="Rice">rice</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> especially in northern China and Korea. Millets also formed important parts of the prehistoric diet in Indian, Chinese <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> and Korean <a href="/w/index.php?title=Mumun&amp;action=edit&amp;redlink=1" class="new" title="Mumun (page does not exist)">Mumun</a> societies. Broomcorn (<i>Panicum miliaceum</i>) and <a href="/wiki/Foxtail_millet" title="Foxtail millet">foxtail millet</a> were important crops beginning in the Early Neolithic of <a href="/wiki/China" title="China">China</a>. For example, some of the earliest evidence of millet cultivation in China was found at <a href="/w/index.php?title=Cishan_culture&amp;action=edit&amp;redlink=1" class="new" title="Cishan culture (page does not exist)">Cishan</a> (north). Cishan dates for common millet husk <a href="/wiki/Phytoliths" title="Phytoliths" class="mw-redirect">phytoliths</a> and biomolecular components have been identified around 8300–6700 BC in <a href="/w/index.php?title=Storage_pit_(archaeology)&amp;action=edit&amp;redlink=1" class="new" title="Storage pit (archaeology) (page does not exist)">storage pits</a> along with remains of pit-houses, pottery, and stone tools related to millet cultivation.<sup id="cite_ref-Lu_4-1" class="reference"><a href="#cite_note-Lu-4">[4]</a></sup> Evidence at <i>Cishan</i> for foxtail millet dates back to around 6500 BC.<sup id="cite_ref-Lu_4-2" class="reference"><a href="#cite_note-Lu-4">[4]</a></sup> A 4,000-year-old well-preserved bowl containing well-preserved noodles made from foxtail millet and <a href="/wiki/Broomcorn_millet" title="Broomcorn millet" class="mw-redirect">broomcorn millet</a> was found at the <a href="/w/index.php?title=Lajia&amp;action=edit&amp;redlink=1" class="new" title="Lajia (page does not exist)">Lajia</a> archaeological site in <a href="/wiki/China" title="China">China</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Palaeoethnobotanists have found evidence of the cultivation of millet in the <a href="/wiki/Korean_Peninsula" title="Korean Peninsula">Korean Peninsula</a> dating to the Middle <a href="/w/index.php?title=Jeulmun_pottery_period&amp;action=edit&amp;redlink=1" class="new" title="Jeulmun pottery period (page does not exist)">Jeulmun pottery period</a> (c. 3500–2000 BC) (Crawford 1992; Crawford and Lee 2003). Millet continued to be an important element in the intensive, multicropping agriculture of the <a href="/w/index.php?title=Mumun_pottery_period&amp;action=edit&amp;redlink=1" class="new" title="Mumun pottery period (page does not exist)">Mumun pottery period</a> (c. 1500–300 BC) in Korea (Crawford and Lee 2003). Millets and their wild ancestors, such as <a href="/w/index.php?title=Barnyard_grass&amp;action=edit&amp;redlink=1" class="new" title="Barnyard grass (page does not exist)">barnyard grass</a> and <a href="/w/index.php?title=Panic_grass&amp;action=edit&amp;redlink=1" class="new" title="Panic grass (page does not exist)">panic grass</a>, were also cultivated in <a href="/wiki/Japan" title="Japan">Japan</a> during the <a href="/wiki/J%C5%8Dmon_period" title="Jōmon period">Jōmon period</a> some time after 4000 BC (Crawford 1983, 1992).
+</p><p>Millet made its way from China to the Black Sea region of <a href="/wiki/Europe" title="Europe">Europe</a> by 5000 BC.<sup id="cite_ref-Lawler_7-0" class="reference"><a href="#cite_note-Lawler-7">[7]</a></sup>  The cultivation of common millet as the earliest dry crop in East Asia has been attributed to its resistance to drought,<sup id="cite_ref-Lu_4-3" class="reference"><a href="#cite_note-Lu-4">[4]</a></sup> and this has been suggested to have aided its spread.<sup id="cite_ref-Lawler_7-1" class="reference"><a href="#cite_note-Lawler-7">[7]</a></sup>
+</p><p>Research on millets is carried out by the <a href="/wiki/International_Crops_Research_Institute_for_the_Semi-Arid_Tropics" title="International Crops Research Institute for the Semi-Arid Tropics">International Crops Research Institute for the Semi-Arid Tropics</a> in <a href="/wiki/Andhra_Pradesh" title="Andhra Pradesh">Andhra Pradesh</a>, <a href="/wiki/India" title="India">India</a>, and by the <a href="/wiki/Agricultural_Research_Service" title="Agricultural Research Service">USDA-ARS</a> at <a href="/wiki/Tifton,_Georgia" title="Tifton, Georgia">Tifton, Georgia</a>, <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">USA</a>.
+</p>
+<h2><span class="mw-headline" id="Production">Production</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Milletoutput.png" title="File:Milletoutput.png">File:Milletoutput.png</a>  <div class="thumbcaption">Worldwide millet production, 2000</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:2005millet.PNG" title="File:2005millet.PNG">File:2005millet.PNG</a>  <div class="thumbcaption">Worldwide millet production, 2005</div></div></div>
+<p>Pearl millet is one of the two major crops in the semiarid, impoverished, less fertile agriculture regions of Africa and southeast Asia.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Millets are not only adapted to poor, droughty, and infertile soils, but they are also more reliable under these conditions than most other grain crops. This has, in part, made millet production popular, particularly in countries surrounding the Sahara Desert in western Africa.
+</p><p>Millets, however, do respond to high fertility and moisture. On a per hectare basis, millet grain produced per hectare can be two to four times higher with use of proper irrigation and sustainable soil supplements. Improved breeds of millets improve their disease resistance and can significantly enhance farm yield productivity. There has been a virtuous cycle of cooperation between poor countries to improve millet yields. For example, 'Okashana 1', a variety developed in India from a natural-growing millet variety in <a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a>, doubled yields. This breed was selected for trials in <a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>. From there it was taken to Namibia, where it was released in 1990 and enthusiastically adopted by farmers. Okashana 1 grew to become the most popular variety in Namibia, the only non-Sahelian country where pearl millet - locally known as <i>mahangu</i> - is the dominant food staple for consumers. 'Okashana 1' was then introduced to Chad. The breed has significantly enhanced yields in Mauritania and Benin.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p><p>India is the world's largest producer of millets.  In the 1970s, all of the millet crops harvested in India were used as food staple. By 2000s, the annual millets production had increased in India, yet per capita consumption of millets had dropped by between 50% to 75% in different regions of the country. As of 2005, the majority of millets produced in India is being used for alternative applications such as livestock fodder and alcohol production.<sup id="cite_ref-b2010_10-0" class="reference"><a href="#cite_note-b2010-10">[10]</a></sup>  Indian organizations are discussing ways to increase millet use as food to encourage more production; however, they have found that some consumers prefer the taste of other grains over millet.<sup id="cite_ref-test_11-0" class="reference"><a href="#cite_note-test-11">[11]</a></sup>
+</p><p>In 2010, the average yield of millet crops worldwide was 0.83 tonnes per hectare. The most productive millet farms in the world were in <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a>, with a nationwide average yield of 3.3 tonnes per hectare in 2010.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<table class="wikitable" style="width:50%; float:left; clear:left;">
+
+<tr>
+<th colspan="3">Top millet producers — 2009
+</th></tr>
+<tr>
+<th style="background:#ddf; width:25%;"> Country
+</th>
+<th style="background:#ddf; width:15%;"> Production (<a href="/wiki/Tonne" title="Tonne">Tonnes</a>)
+</th>
+<th style="background:#ddf; width:10%;"> Footnote
+</th></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_India&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data India (page does not exist)">Template:Country data India</a> </td>
+<td align="right">8,810,000 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Nigeria&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Nigeria (page does not exist)">Template:Country data Nigeria</a> </td>
+<td align="right">4,884,890 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Niger&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Niger (page does not exist)">Template:Country data Niger</a> </td>
+<td align="right">2,677,860 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Mali&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Mali (page does not exist)">Template:Country data Mali</a> </td>
+<td align="right">1,390,410 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_China&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data China (page does not exist)">Template:Country data China</a> </td>
+<td align="right">1,225,579 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Burkina_Faso&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Burkina Faso (page does not exist)">Template:Country data Burkina Faso</a> </td>
+<td align="right"> 970,927 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Uganda&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Uganda (page does not exist)">Template:Country data Uganda</a> </td>
+<td align="right"> 841,000 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Senegal&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Senegal (page does not exist)">Template:Country data Senegal</a> </td>
+<td align="right"> 810,121 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Chad&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Chad (page does not exist)">Template:Country data Chad</a> </td>
+<td align="right"> 708,695 </td>
+<td align="right"> Im
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Sudan&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Sudan (page does not exist)">Template:Country data Sudan</a> </td>
+<td align="right"> 630,000 </td>
+<td align="right">
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Ethiopia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Ethiopia (page does not exist)">Template:Country data Ethiopia</a> </td>
+<td align="right"> 560,030 </td>
+<td align="right">
+</td></tr>
+<tr style="background:#ccc;">
+<td><a href="/w/index.php?title=Template:Noflag&amp;action=edit&amp;redlink=1" class="new" title="Template:Noflag (page does not exist)">Template:Noflag</a><b>World</b>
+</td>
+<td style="text-align:right;"> <b>26,706,849</b>
+</td>
+<td style="text-align:right;"> <b>A</b>
+</td></tr>
+<tr>
+<td colspan="5" style="font-size:.7em">No symbol = official figure, Im = FAO data based on imputation methodology, A = May include official, semiofficial or estimated data<br />
+<p>Source: <a rel="nofollow" class="external text" href="http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor">Food And Agricultural Organization of United Nations: Economic And Social Department: The Statistical Division</a>
+</p>
+</td></tr></table>
+<p><br style="clear:both;" />
+</p>
+<h3><span class="mw-headline" id="Alcoholic_beverages">Alcoholic beverages</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Tongba.jpg" title="File:Tongba.jpg">File:Tongba.jpg</a>  <div class="thumbcaption"><i><a href="/w/index.php?title=Tongba&amp;action=edit&amp;redlink=1" class="new" title="Tongba (page does not exist)">Tongba</a></i> — a millet-based alcoholic brew found in the far eastern mountainous region of <a href="/wiki/Nepal" title="Nepal">Nepal</a> and <a href="/w/index.php?title=Sikkim,_India&amp;action=edit&amp;redlink=1" class="new" title="Sikkim, India (page does not exist)">Sikkim, India</a>.</div></div></div>
+<p>Millets are traditionally important grains used in brewing <a href="/w/index.php?title=Millet_beer&amp;action=edit&amp;redlink=1" class="new" title="Millet beer (page does not exist)">millet beer</a> in some cultures, for instance by the <a href="/w/index.php?title=Tao_people&amp;action=edit&amp;redlink=1" class="new" title="Tao people (page does not exist)">Tao people</a> of <a href="/wiki/Orchid_Island" title="Orchid Island">Orchid Island</a> and in Taiwan.  Various peoples in <a href="/wiki/East_Africa" title="East Africa">East Africa</a> brew a drink from millet or sorghum known as "ajono", a traditional brew of the Teso. The fermented millet is prepared in a large pot with hot water and people share the drink by sipping it through long straws.
+</p><p>Millet is also the base ingredient for the distilled liquor <i><a href="/w/index.php?title=Rakshi&amp;action=edit&amp;redlink=1" class="new" title="Rakshi (page does not exist)">rakshi</a></i> in Nepal and the indigenous alcoholic drink of the Sherpa, Tamang, Rai and Limbu people, <a href="/w/index.php?title=Tongba&amp;action=edit&amp;redlink=1" class="new" title="Tongba (page does not exist)">tongba</a>, in eastern Nepal. In <a href="/wiki/Balkans" title="Balkans">Balkan</a> suhail countries, especially Romania and Bulgaria, millet is used to prepare the fermented drink <a href="/wiki/Boza" title="Boza">boza</a>.
+</p>
+<h3><span class="mw-headline" id="As_a_food_source">As a food source</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Awaokoshi_01.jpg" title="File:Awaokoshi 01.jpg">File:Awaokoshi 01.jpg</a>  <div class="thumbcaption"><i>Awaokoshi</i>, candied millet puffs, are a specialty of Osaka, <a href="/wiki/Japan" title="Japan">Japan</a>. This millet confection tradition began when it was presented to <a href="/wiki/Sugawara_no_Michizane" title="Sugawara no Michizane">Sugawara no Michizane</a> when he stopped in Naniwa during the early <a href="/wiki/Heian_period" title="Heian period">Heian period</a>, about 1000 years ago.</div></div></div>
+<p>Millets are major food sources in arid and semiarid regions of the world, and feature in the traditional cuisine of many others. In western India, <a href="/wiki/Sorghum" title="Sorghum">sorghum</a> (called <i><a href="/wiki/Jowar" title="Jowar" class="mw-redirect">jowar</a></i>, <i>jwaarie</i> or <i>jondhahlaa</i> in <a href="/wiki/Gujarati_language" title="Gujarati language">Gujarati</a>, <a href="/w/index.php?title=Hindi_language&amp;action=edit&amp;redlink=1" class="new" title="Hindi language (page does not exist)">Hindi</a> and <a href="/wiki/Marathi_language" title="Marathi language">Marathi</a> languages, respectively, or <i>mutthaari</i> <i>kora</i> "pangapullu"in <a href="/w/index.php?title=Malayalam_language&amp;action=edit&amp;redlink=1" class="new" title="Malayalam language (page does not exist)">Malayalam</a>), or <a rel="nofollow" class="external text" href="http://ta.wikipedia.org/s/13r3"><i>Cholam</i></a> in <a href="/wiki/Tamil_language" title="Tamil language">Tamil</a> has been commonly used with millet flour (called <i><a href="/w/index.php?title=Bajari&amp;action=edit&amp;redlink=1" class="new" title="Bajari (page does not exist)">bajari</a></i> in western India) for hundreds of years to make the local staple, hand rolled (that is, without a rolling pin) flat bread (<i>rotla</i> in Gujarati or <i><a href="/wiki/Bhakri" title="Bhakri">bhakri</a></i> in Marathi or <i><a href="/wiki/Roti" title="Roti">roti</a></i> in other languages). Another cereal grain popularly used in rural areas and by poor people to consume as staple in the form of <i>roti</i> or other forms is called <i>ragi</i> in Karnataka or <i>naachanie</i> in Maharashtra or <i>Kezhvaragu</i> in Tamil, with the popularly made <i><a href="/w/index.php?title=Ragi_rotti&amp;action=edit&amp;redlink=1" class="new" title="Ragi rotti (page does not exist)">ragi rotti</a></i> in Kannada. <i><a href="/w/index.php?title=Ragi_mudde&amp;action=edit&amp;redlink=1" class="new" title="Ragi mudde (page does not exist)">Ragi mudde</a></i> is a popular meal in southern India. In Telugu, it is called <a href="/w/index.php?title=Te:Jonnalu&amp;action=edit&amp;redlink=1" class="new" title="Te:Jonnalu (page does not exist)">jonnalu</a> (<i>Jonnalu</i>). <i>Jonna</i> is dark like rye, but rougher in texture.
+</p><p>Millet <a href="/wiki/Porridge" title="Porridge">porridge</a> is a traditional food in <a href="/wiki/Russian_cuisine" title="Russian cuisine">Russian</a>, <a href="/wiki/German_cuisine" title="German cuisine">German</a> and <a href="/wiki/Chinese_cuisine" title="Chinese cuisine">Chinese</a> сuisines. In Russia, it is eaten sweet (with milk and sugar added at the end of the cooking process) or savoury with meat or vegetable stews. In China, it is eaten without milk or sugar, frequently with beans, sweet potato, and/or various types of squash. In Germany, it is also eaten sweet, boiled in water with apples added during the boiling process and honey added during the cooling process.
+</p><p><i>Per capita</i> consumption of millets, as food, varies in different parts of the world. It is highest in western Africa. In the Sahel region, millet is estimated to account for about 35% of total cereal food consumption in <a href="/wiki/Burkina_Faso" title="Burkina Faso">Burkina Faso</a>, <a href="/wiki/Chad" title="Chad">Chad</a> and the <a href="/w/index.php?title=Gambia&amp;action=edit&amp;redlink=1" class="new" title="Gambia (page does not exist)">Gambia</a>. In <a href="/wiki/Mali" title="Mali">Mali</a> and <a href="/wiki/Senegal" title="Senegal">Senegal</a>, millets constitute roughly 40 percent of total cereal food consumption per capita, while in <a href="/wiki/Niger" title="Niger">Niger</a> and arid <a href="/wiki/Namibia" title="Namibia">Namibia</a> it is over 65% (See <a href="/wiki/Mahangu" title="Mahangu" class="mw-redirect">Mahangu</a>). Other countries in Africa where millets are a significant food source include <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a> and <a href="/wiki/Uganda" title="Uganda">Uganda</a>. Millet is also an important food item for the population living in the drier parts of many other countries, especially in eastern and central Africa, and in the northern coastal countries of western Africa. In developing countries outside Africa, millet has local significance as a food in parts of some countries, such as <a href="/wiki/China" title="China">China</a>, <a href="/wiki/India" title="India">India</a>, <a href="/wiki/Burma" title="Burma">Burma</a> and <a href="/wiki/North_Korea" title="North Korea">North Korea</a>.<sup id="cite_ref-fao1_3-2" class="reference"><a href="#cite_note-fao1-3">[3]</a></sup>
+</p><p>The use of millets as food has been falling on <i>per capita</i> basis, between the 1970s and the 2000s, both in urban and rural areas, as developing countries such as India have experienced rapid economic growth and witnessed a significant increase in <i>per capita</i> consumption of other cereals.<sup id="cite_ref-b2010_10-1" class="reference"><a href="#cite_note-b2010-10">[10]</a></sup>
+</p><p>People with <a href="/wiki/Coeliac_disease" title="Coeliac disease">coeliac disease</a> can replace certain gluten-containing cereals in their diets with millet.
+</p><p>Millets are also used as bird and animal feed.
+</p>
+<h3><span class="mw-headline" id="Grazing_millet">Grazing millet</span></h3>
+<p>In addition to be used for seed, millet is also used as a grazing forage crop. Instead of letting the plant reach maturity it can be grazed by stock and is commonly used for sheep and cattle.
+</p><p>Millet is a C4 plant which means it has good water efficiency and utilizes high temperature and is therefore a summer crop.  A C4 plant uses a different enzyme in photosynthesis to C3 plants and this is why it improves water efficiency.  It produces a 4 carbon rather than 3 carbon hence the name C4 (and C3).   Carbon dioxide is fixed twice in C4 plants where as only once in C3 plants.
+</p><p>In southern Australia millet is used as a summer quality pasture, utilizing warm temperatures and summer storms. Millet is frost sensitive and is sown after the frost period, once soil temperature has stabilised at 14°C or more. It is sown at a shallow depth.
+</p><p>Millet grows rapidly and can be grazed 5–7 weeks after sowing, when it is 20–30&#160;cm high.  The highest feed value is from the young green leaf and shoots. The plant can quickly come to head, so it must be managed accordingly because as the plant matures the value and palatability of feed reduces.
+</p><p>The Japanese millets (<i>Echinochloa esculenta</i>) are considered the best for grazing and in particular Shirohie, a new variety of Japanese millet, is the best suited variety for grazing.  This is due to a number of factors:
+</p>
+<ul>
+<li>Shirohie gives better regrowth and is later to mature compared to other Japanese millets
+</li>
+<li>It is cheap – cost of seed is $2–$3 per kg and sowing rates are around 10&#160;kg per hectare for dryland production.
+</li>
+<li>It is quick to establish
+</li>
+<li>It can be grazed early 
+</li>
+<li>It is suitable for both sheep and cattle
+</li>
+</ul>
+<p>Shirohie millet should not be overgrazed, and there is a risk of photosensitisation, so it is important to observe stock grazing millet regularly for symptoms which include enlarged ears (floppy), seeking shade, looking agitated or uncomfortable, constant head movement.  Animals should be removed if any signs of photosensitisation occur.
+</p><p>When introducing animals to new forage do so slowly and over a few days not when they are hungry to avoid digestive problems (<sup id="cite_ref-Collett_2004_13-0" class="reference"><a href="#cite_note-Collett_2004-13">[13]</a></sup>
+</p><p>Compared to forage sorghum, which is grown as an alternative grazing forage, animals gain weight faster on millet and it has better hay or silage potential, although it produces less dry matter.  Lambs do better on millet compared to sorghum (.<sup id="cite_ref-Collett_2004_13-1" class="reference"><a href="#cite_note-Collett_2004-13">[13]</a></sup>  Millet does not contain prussic acid which can be in sorghum.  Prussic acid poisons animals by inhibiting oxygen utilisation by the cells and is transported in the blood around the body- ultimately the animal will die from asphyxia (<sup id="cite_ref-Robson_2007_14-0" class="reference"><a href="#cite_note-Robson_2007-14">[14]</a></sup>).   There is no need for additional feed supplements such as sulphur or salt blocks with millet.
+</p><p>The rapid growth of millet as a grazing crop allows flexibility in its use.  Farmers can wait until sufficient late spring / summer moisture is present and then make use of it.  It is ideally suited to irrigation where livestock finishing is required.
+</p><p><sup id="cite_ref-Collett_2004_13-2" class="reference"><a href="#cite_note-Collett_2004-13">[13]</a></sup>
+<sup id="cite_ref-Robson_2007_14-1" class="reference"><a href="#cite_note-Robson_2007-14">[14]</a></sup>  
+<sup id="cite_ref-Lonewood_Trust_15-0" class="reference"><a href="#cite_note-Lonewood_Trust-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Nutrition">Nutrition</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Checking_pearl_millet_crop.jpg" title="File:Checking pearl millet crop.jpg">File:Checking pearl millet crop.jpg</a>  <div class="thumbcaption">Inspecting a pearl millet spike at a farm in <a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a></div></div></div>
+<p>Millets, like <a href="/wiki/Sorghum" title="Sorghum">sorghum</a>, are predominantly starchy. The protein content is comparable to that of wheat and maize. Pearl and little millet are higher in fat, while finger millet contains the lowest fat. Barnyard millet has the lowest carbohydrate content and energy value. Millets are also relatively rich in iron and phosphorus. The bran layers of millets are good sources of B-complex vitamins. However, millets also feature high fiber content and poor digestibility of nutrients, which severely limit their value in nutrition and influence their consumer acceptability.<sup id="cite_ref-fao1_3-3" class="reference"><a href="#cite_note-fao1-3">[3]</a></sup>
+</p><p>Finger millet has the highest calcium content among all the foodgrains, but it is not highly <a href="/wiki/Assimilation_(biology)" title="Assimilation (biology)">assimilable</a>.
+</p><p>The protein content in millet is very close to that of <a href="/wiki/Wheat" title="Wheat">wheat</a>; both provide about 11% protein by weight, on a dry matter basis.
+</p><p>Millets are rich in B vitamins (especially <a href="/wiki/Niacin" title="Niacin">niacin</a>, B<sub>6</sub> and <a href="/wiki/Folic_acid" title="Folic acid">folic acid</a>), <a href="/wiki/Calcium" title="Calcium">calcium</a>, <a href="/wiki/Iron" title="Iron">iron</a>, <a href="/wiki/Potassium" title="Potassium">potassium</a>, <a href="/wiki/Magnesium" title="Magnesium">magnesium</a>, and <a href="/wiki/Zinc" title="Zinc">zinc</a>. Millets contain no <a href="/wiki/Gluten" title="Gluten">gluten</a>, so they are not suitable for raised bread. When combined with <a href="/wiki/Wheat" title="Wheat">wheat</a> (or <a href="/wiki/Xanthan_gum" title="Xanthan gum">xanthan gum</a> for those who have <a href="/w/index.php?title=Celiac_disease&amp;action=edit&amp;redlink=1" class="new" title="Celiac disease (page does not exist)">celiac disease</a>) they can be used for raised bread. Alone, they are suited for <a href="/w/index.php?title=Flatbread&amp;action=edit&amp;redlink=1" class="new" title="Flatbread (page does not exist)">flatbread</a>.
+</p><p>As none of the millets is closely related to wheat, they are appropriate foods for those with celiac disease or other forms of allergies/intolerance of wheat. However, millets are also a mild <a href="/w/index.php?title=Thyroid_peroxidase&amp;action=edit&amp;redlink=1" class="new" title="Thyroid peroxidase (page does not exist)">thyroid peroxidase</a> inhibitor and probably should not be consumed in great quantities by those with <a href="/w/index.php?title=Thyroid_disease&amp;action=edit&amp;redlink=1" class="new" title="Thyroid disease (page does not exist)">thyroid disease</a>.
+</p>
+<h3><span class="mw-headline" id="Comparison_with_other_major_staple_foods">Comparison with other major staple foods</span></h3>
+<p>The following table shows the nutrient content of millet compared to major staple foods in a raw form. Raw forms, however, are not edible and cannot be fully digested. These must be prepared and cooked as appropriate for human consumption. In processed and cooked form, the relative nutritional and antinutritional contents of each of these grains is remarkably different from that of raw forms reported in this table. The nutrition value in cooked form depends on the cooking method.
+</p>
+<table class="wikitable" style="text-align:right;">
+<caption> <b>Nutrient profile comparison of millet with other food staples</b>
+</caption>
+<tr>
+<th> Synopsis<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> ~ composition: </th>
+<th> <a href="/wiki/Cassava" title="Cassava">Cassava</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></th>
+<th> <a href="/wiki/Wheat" title="Wheat">Wheat</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></th>
+<th> <a href="/wiki/Rice" title="Rice">Rice</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></th>
+<th> <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">Sweetcorn</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></th>
+<th> <a href="/wiki/Potato" title="Potato">Potato</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></th>
+<th> Sorghum<br /> Millet<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></th>
+<th> Proso<br /> Millet<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</th></tr>
+<tr>
+<th> Component<br /> (per 100g portion, raw grain) </th>
+<th>  Amount </th>
+<th>  Amount </th>
+<th>  Amount </th>
+<th>  Amount </th>
+<th> Amount </th>
+<th> Amount </th>
+<th> Amount
+</th></tr>
+<tr>
+<td> water (g) </td>
+<td> 60 </td>
+<td> 13.1 </td>
+<td> 12 </td>
+<td> 76 </td>
+<td> <b>82</b> </td>
+<td> 9.2 </td>
+<td> 8.7
+</td></tr>
+<tr>
+<td> energy (kJ) </td>
+<td> 667 </td>
+<td> 1368 </td>
+<td> 1527 </td>
+<td> 360 </td>
+<td> 288 </td>
+<td> 1418 </td>
+<td> <b>1582</b>
+</td></tr>
+<tr>
+<td> protein (g) </td>
+<td> 1.4 </td>
+<td> <b>12.6</b> </td>
+<td> 7 </td>
+<td> 3 </td>
+<td> 1.7 </td>
+<td> 11.3 </td>
+<td> 11
+</td></tr>
+<tr>
+<td> fat (g) </td>
+<td> 0.3 </td>
+<td> 1.5 </td>
+<td> 1 </td>
+<td> 1 </td>
+<td> 0.1 </td>
+<td> 3.3 </td>
+<td> <b>4.2</b>
+</td></tr>
+<tr>
+<td> carbohydrates (g) </td>
+<td> 38 </td>
+<td> 71.2 </td>
+<td> <b>79</b> </td>
+<td> 19  </td>
+<td> 16 </td>
+<td> 75 </td>
+<td> 73
+</td></tr>
+<tr>
+<td> fiber (g) </td>
+<td> 1.8 </td>
+<td> <b>12.2</b> </td>
+<td> 1 </td>
+<td> 3  </td>
+<td> 2.4 </td>
+<td> 6.3 </td>
+<td> 8.5
+</td></tr>
+<tr>
+<td> sugars (g) </td>
+<td> 1.7 </td>
+<td> 0.4 </td>
+<td> &gt;0.1 </td>
+<td> <b>3</b>  </td>
+<td> 1.2 </td>
+<td> 1.9 </td>
+<td>
+</td></tr>
+<tr>
+<td> iron (mg) </td>
+<td> 0.27 </td>
+<td> 3.2 </td>
+<td> 0.8 </td>
+<td> 0.5  </td>
+<td> 0.5 </td>
+<td> <b>4.4</b> </td>
+<td> 3
+</td></tr>
+<tr>
+<td> manganese (mg) </td>
+<td> 0.4 </td>
+<td> <b>3.9</b> </td>
+<td> 1.1 </td>
+<td> 0.2  </td>
+<td> 0.1 </td>
+<td> &lt;0.1 </td>
+<td> 1.6
+</td></tr>
+<tr>
+<td> calcium (mg) </td>
+<td> 16 </td>
+<td> <b>29</b> </td>
+<td> 28 </td>
+<td> 2  </td>
+<td> 9 </td>
+<td> 28 </td>
+<td> 8
+</td></tr>
+<tr>
+<td> magnesium (mg) </td>
+<td> 21 </td>
+<td> <b>126</b> </td>
+<td> 25 </td>
+<td> 37  </td>
+<td> 21 </td>
+<td> &lt;120 </td>
+<td> 114
+</td></tr>
+<tr>
+<td> phosphorus (mg) </td>
+<td> 27 </td>
+<td> <b>288</b> </td>
+<td> 115 </td>
+<td> 89  </td>
+<td> 62 </td>
+<td> 287 </td>
+<td> 285
+</td></tr>
+<tr>
+<td> potassium (mg) </td>
+<td> 271 </td>
+<td> 363 </td>
+<td> 115 </td>
+<td> 270  </td>
+<td> <b>407</b> </td>
+<td> 350 </td>
+<td> 195
+</td></tr>
+<tr>
+<td> zinc (mg) </td>
+<td> 0.3 </td>
+<td> <b>2.6</b> </td>
+<td> 1.1 </td>
+<td> 0.5  </td>
+<td> 0.3 </td>
+<td> &lt;1 </td>
+<td> 1.7
+</td></tr>
+<tr>
+<td> pantothenic acid (mg) </td>
+<td> 0.1 </td>
+<td> 0.9 </td>
+<td> <b>1.0</b> </td>
+<td> 0.7  </td>
+<td> 0.3 </td>
+<td> &lt;0.9 </td>
+<td> 0.8
+</td></tr>
+<tr>
+<td> vitB6 (mg) </td>
+<td> 0.1 </td>
+<td> 0.3 </td>
+<td> 0.2 </td>
+<td> 0.1  </td>
+<td> 0.2 </td>
+<td> &lt;0.3 </td>
+<td> <b>0.4</b>
+</td></tr>
+<tr>
+<td> folate (µg) </td>
+<td> 27 </td>
+<td> 38 </td>
+<td> 8 </td>
+<td> 42  </td>
+<td> 18 </td>
+<td> &lt;25 </td>
+<td> <b>85</b>
+</td></tr>
+<tr>
+<td> thiamin (mg) </td>
+<td> 0.1 </td>
+<td> 0.38 </td>
+<td> 0.1 </td>
+<td> 0.2  </td>
+<td> 0.1 </td>
+<td> 0.2 </td>
+<td> <b>0.4</b>
+</td></tr>
+<tr>
+<td> riboflavin (mg) </td>
+<td> &lt;0.1 </td>
+<td> 0.1</td>
+<td> &gt;0.1 </td>
+<td> 0.1  </td>
+<td> &gt;0.1 </td>
+<td> 0.1 </td>
+<td> <b>0.3</b>
+</td></tr>
+<tr>
+<td> niacin (mg) </td>
+<td> 0.9 </td>
+<td> <b>5.5</b> </td>
+<td> 1.6 </td>
+<td> 1.8  </td>
+<td> 1.1 </td>
+<td> 2.9 </td>
+<td> 4.7
+</td></tr></table>
+<table class="wikitable sortable" style="text-align:right;">
+<caption> <b>Nutrient Content of Various Millets with comparison to Rice and Wheat</b> (Source: Millet Network of India, <a rel="nofollow" class="external free" href="http://www.milletindia.org">http://www.milletindia.org</a> )
+</caption>
+<tr>
+<th> Crop / Nutrient </th>
+<th> Protein(g) </th>
+<th> Fiber(g) </th>
+<th> Minerals(g) </th>
+<th> Iron(mg) </th>
+<th> Calcium(mg)
+</th></tr>
+<tr>
+<td> Pearl millet </td>
+<td> 10.6 </td>
+<td> 1.3 </td>
+<td> 2.3 </td>
+<td> 16.9 </td>
+<td> 38
+</td></tr>
+<tr>
+<td> Finger millet </td>
+<td> 7.3 </td>
+<td> 3.6 </td>
+<td> 2.7 </td>
+<td> 3.9 </td>
+<td> 344
+</td></tr>
+<tr>
+<td> Foxtail millet </td>
+<td> 12.3 </td>
+<td> 8 </td>
+<td> 3.3 </td>
+<td> 2.8 </td>
+<td> 31
+</td></tr>
+<tr>
+<td> Proso millet </td>
+<td> 12.5 </td>
+<td> 2.2 </td>
+<td> 1.9 </td>
+<td> 0.8 </td>
+<td> 14
+</td></tr>
+<tr>
+<td> Kodo millet </td>
+<td> 8.3 </td>
+<td> 9 </td>
+<td> 2.6 </td>
+<td> 0.5 </td>
+<td> 27
+</td></tr>
+<tr>
+<td> Little millet </td>
+<td> 7.7 </td>
+<td> 7.6 </td>
+<td> 1.5 </td>
+<td> 9.3 </td>
+<td> 17
+</td></tr>
+<tr>
+<td> Barnyard millet </td>
+<td> 11.2 </td>
+<td> 10.1 </td>
+<td> 4.4 </td>
+<td> 15.2 </td>
+<td> 11
+</td></tr>
+<tr>
+<td> Rice </td>
+<td> 6.8 </td>
+<td> 0.2 </td>
+<td> 0.6 </td>
+<td> 0.7 </td>
+<td> 10
+</td></tr>
+<tr>
+<td> Wheat </td>
+<td> 11.8 </td>
+<td> 1.2 </td>
+<td> 1.5 </td>
+<td> 5.3 </td>
+<td> 41
+</td></tr></table>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a><a href="/w/index.php?title=Template:Wikisource1911Enc&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikisource1911Enc (page does not exist)">Template:Wikisource1911Enc</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_web&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite web (page does not exist)">Template:Cite web</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Cereals&amp;action=edit&amp;redlink=1" class="new" title="Template:Cereals (page does not exist)">Template:Cereals</a>
+<a href="/w/index.php?title=Template:Agriculture_country_lists&amp;action=edit&amp;redlink=1" class="new" title="Template:Agriculture country lists (page does not exist)">Template:Agriculture country lists</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.548 seconds
+Real time usage: 1.067 seconds
+Preprocessor visited node count: 792/1000000
+Preprocessor generated node count: 3614/1000000
+Post‐expand include size: 1972/2097152 bytes
+Template argument size: 68/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:25156-0!*!0!!en!2!* and timestamp 20170407172957
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Millet&amp;oldid=25156">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Millet&amp;oldid=25156</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_template_with_no_category_set&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category template with no category set (page does not exist)">Commons category template with no category set</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_page_title_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with page title different than on Wikidata (page does not exist)">Commons category with page title different than on Wikidata</a></li><li><a href="/wiki/Category:Millets" title="Category:Millets">Millets</a></li><li><a href="/wiki/Category:Cereals" title="Category:Cereals">Cereals</a></li><li><a href="/w/index.php?title=Category:Chadian_cuisine&amp;action=edit&amp;redlink=1" class="new" title="Category:Chadian cuisine (page does not exist)">Chadian cuisine</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Millet" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Millet"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Millet&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Millet" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Millet&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Millet&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Millet" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Millet" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Millet&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Millet&amp;oldid=25156" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Millet&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 February 2014, at 08:11.</li>
+											<li id="footer-info-viewcount">This page has been accessed 127 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.622 secs. -->
+	</body>
+</html>

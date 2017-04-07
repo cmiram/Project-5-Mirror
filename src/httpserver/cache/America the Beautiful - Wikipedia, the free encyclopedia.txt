@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>America the Beautiful - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"America_the_Beautiful","wgTitle":"America the Beautiful","wgCurRevisionId":136,"wgRevisionId":136,"wgArticleId":136,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","1895 songs","American patriotic songs","Barbra Streisand songs","Charlie Rich songs","Elvis Presley songs","Mormon Tabernacle Choir songs","Pikes Peak","Ray Charles songs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"America_the_Beautiful","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-America_the_Beautiful skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">America the Beautiful</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Refimprove&amp;action=edit&amp;redlink=1" class="new" title="Template:Refimprove (page does not exist)">Template:Refimprove</a>
+</p>
+<div class="dablink">"National Hymn" redirects here. For the hymn tune of that title, see <a href="/w/index.php?title=God_of_Our_Fathers&amp;action=edit&amp;redlink=1" class="new" title="God of Our Fathers (page does not exist)">God of Our Fathers</a>.</div><a href="/w/index.php?title=Template:Main_other&amp;action=edit&amp;redlink=1" class="new" title="Template:Main other (page does not exist)">Template:Main other</a>
+<p><a href="/w/index.php?title=Template:Two_other_uses&amp;action=edit&amp;redlink=1" class="new" title="Template:Two other uses (page does not exist)">Template:Two other uses</a>
+<a href="/w/index.php?title=Template:Use_mdy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use mdy dates (page does not exist)">Template:Use mdy dates</a>
+<a href="/w/index.php?title=Template:Infobox_song&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox song (page does not exist)">Template:Infobox song</a>
+<a href="/w/index.php?title=Template:Side_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Side box (page does not exist)">Template:Side box</a><a href="/w/index.php?title=Template:Main_other&amp;action=edit&amp;redlink=1" class="new" title="Template:Main other (page does not exist)">Template:Main other</a>
+"<b>America the Beautiful</b>" is an <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">American</a> <a href="/w/index.php?title=Patriotic_song&amp;action=edit&amp;redlink=1" class="new" title="Patriotic song (page does not exist)">patriotic song</a>. The lyrics were written by <a href="/wiki/Katherine_Lee_Bates" title="Katherine Lee Bates" class="mw-redirect">Katherine Lee Bates</a>, and the music was composed by church organist and choirmaster <a href="/wiki/Samuel_A._Ward" title="Samuel A. Ward">Samuel A. Ward</a>.
+</p><p>Bates originally wrote the words as a poem, <i>Pikes Peak</i>, first published in the <a href="/w/index.php?title=Fourth_of_July&amp;action=edit&amp;redlink=1" class="new" title="Fourth of July (page does not exist)">Fourth of July</a> edition of the church periodical <i>The Congregationalist</i> in 1895. At that time, the poem was titled <i>America</i> for publication.
+</p><p>Ward had originally written the music, <i>Materna</i>, for the hymn <i><a href="/w/index.php?title=O_Mother_dear,_Jerusalem&amp;action=edit&amp;redlink=1" class="new" title="O Mother dear, Jerusalem (page does not exist)">O Mother dear, Jerusalem</a></i> in 1882, though it was not first published until 1892.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ward's music combined with the Bates poem was first published in 1910 and titled <i>America the Beautiful</i>.
+</p><p>The song is one of the most popular of the many American patriotic songs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Original_poem_.281893.29"><span class="tocnumber">2</span> <span class="toctext">Original poem (1893)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Lyrics_1904_version"><span class="tocnumber">3</span> <span class="toctext">Lyrics 1904 version</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lyrics_1913_version"><span class="tocnumber">4</span> <span class="toctext">Lyrics 1913 version</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Popular_versions"><span class="tocnumber">5</span> <span class="toctext">Popular versions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Idioms"><span class="tocnumber">6</span> <span class="toctext">Idioms</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Books"><span class="tocnumber">7</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Americathebeautiful.jpg" title="File:Americathebeautiful.jpg">File:Americathebeautiful.jpg</a>  <div class="thumbcaption">Commemoration plaque atop <a href="/w/index.php?title=Pikes_Peak&amp;action=edit&amp;redlink=1" class="new" title="Pikes Peak (page does not exist)">Pikes Peak</a> in July 1999.</div></div></div>
+<p>In 1893, at the age of thirty-six, Bates, an English professor at <a href="/wiki/Wellesley_College" title="Wellesley College">Wellesley College</a>, had taken a train trip to <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs</a>, Colorado, to teach a short summer school session at <a href="/wiki/Colorado_College" title="Colorado College">Colorado College</a>. Several of the sights on her trip inspired her, and they found their way into her poem, including the <a href="/wiki/World%27s_Columbian_Exposition" title="World's Columbian Exposition">World's Columbian Exposition</a> in <a href="/wiki/Chicago" title="Chicago">Chicago</a>, the "White City" with its promise of the future contained within its alabaster buildings; the wheat fields of America's heartland <a href="/wiki/Kansas" title="Kansas">Kansas</a>, through which her train was riding on July 16; and the majestic view of the <a href="/wiki/Great_Plains" title="Great Plains">Great Plains</a> from high atop Zebulon's <a href="/w/index.php?title=Pikes_Peak&amp;action=edit&amp;redlink=1" class="new" title="Pikes Peak (page does not exist)">Pikes Peak</a>.
+</p><p>On the pinnacle of that mountain, the words of the poem started to come to her, and she wrote them down upon returning to her hotel room at the original Antlers Hotel. The poem was initially published two years later in <i>The Congregationalist,</i> to commemorate the Fourth of July. It quickly caught the public's fancy. Amended versions were published in 1904 and 1913.
+</p><p>Several existing pieces of music were adapted to the poem. A <a href="/w/index.php?title=Hymn_tune&amp;action=edit&amp;redlink=1" class="new" title="Hymn tune (page does not exist)">hymn tune</a> composed by Samuel A. Ward was generally considered the best music as early as 1910 and is still the popular tune today. Just as Bates had been inspired to write her poem, Ward too was inspired to compose his tune. The tune came to him while he was on a ferryboat trip from <a href="/wiki/Coney_Island" title="Coney Island">Coney Island</a> back to his home in <a href="/wiki/New_York_City" title="New York City">New York City</a>, after a leisurely summer day in 1882, and he immediately wrote it down. He was so anxious to capture the tune in his head, he asked fellow passenger friend Harry Martin for his shirt cuff to write the tune on. He composed the tune for the old hymn "O Mother Dear, Jerusalem", retitling the work "Materna". Ward's music combined with Bates' poem were first published together in 1910 and titled, <i>America the Beautiful</i>.<sup id="cite_ref-Collins_3-0" class="reference"><a href="#cite_note-Collins-3">[3]</a></sup>
+</p><p>Ward died in 1903, not knowing the national stature his music would attain, as the music was only first applied to the song in 1904. Bates was more fortunate, as the song's popularity was well established by the time of her death in 1929.
+</p><p>At various times in the more than 100 years that have elapsed since the song was written, particularly during the <a href="/w/index.php?title=John_F._Kennedy&amp;action=edit&amp;redlink=1" class="new" title="John F. Kennedy (page does not exist)">John F. Kennedy</a> administration, there have been efforts to give "America the Beautiful" legal status either as a national hymn, or as a national anthem equal to, or in place of, "<a href="/wiki/The_Star-Spangled_Banner" title="The Star-Spangled Banner">The Star-Spangled Banner</a>", but so far this has not succeeded. Proponents prefer "America the Beautiful" for various reasons, saying it is easier to sing, more melodic, and more adaptable to new orchestrations while still remaining as easily recognizable as "The Star-Spangled Banner." Some prefer "America the Beautiful" over "The Star-Spangled Banner" due to the latter's war-oriented imagery. Others prefer "The Star-Spangled Banner" for the same reason. While that national dichotomy has stymied any effort at changing the tradition of the national anthem, "America the Beautiful" continues to be held in high esteem by a large number of Americans.
+</p><p>The melody of this song was the <a href="/wiki/School_song" title="School song">school song</a> of the former <a href="/w/index.php?title=University_of_Shanghai&amp;action=edit&amp;redlink=1" class="new" title="University of Shanghai (page does not exist)">University of Shanghai</a>, which closed in 1952. Currently, it is used by <a href="/w/index.php?title=Shanghai_Alumni_Primary_School&amp;action=edit&amp;redlink=1" class="new" title="Shanghai Alumni Primary School (page does not exist)">Shanghai Alumni Primary School</a> in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> and Hujiang High School in <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a> as the melody of their school song.
+</p><p>At <a href="/wiki/Colorado_College" title="Colorado College">Colorado College</a>, where <a href="/wiki/Katherine_Lee_Bates" title="Katherine Lee Bates" class="mw-redirect">Katherine Lee Bates</a> was teaching at the time of writing it, "America the Beautiful" is commonly sung at events such as convocations, commencement, and baccalaureate, and has become somewhat of a second anthem for the school.
+</p><p>When <a href="/wiki/Richard_Nixon" title="Richard Nixon">Richard Nixon</a> visited <a href="/wiki/China" title="China">China</a> in 1972, this song was played as the welcome music.
+</p><p>This song was used as the background music of the television broadcast of the <a href="/w/index.php?title=Tiangong-1&amp;action=edit&amp;redlink=1" class="new" title="Tiangong-1 (page does not exist)">Tiangong-1</a> launch.<a href="/w/index.php?title=Template:Cn&amp;action=edit&amp;redlink=1" class="new" title="Template:Cn (page does not exist)">Template:Cn</a> 
+</p><p>The song is often included in songbooks in a wide variety of religious congregations in the United States.
+</p>
+<h2><span class="mw-headline" id="Original_poem_.281893.29">Original poem (1893)</span></h2>
+<dl>
+<dd><b>America. A Poem for July 4.</b>
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for spacious skies,
+</dd>
+<dd> For amber waves of grain,
+</dd>
+<dd>For purple mountain majesties
+</dd>
+<dd> Above the enameled plain!
+</dd>
+<dd>America! America!
+</dd>
+<dd> God shed His grace on thee,
+</dd>
+<dd>Till souls wax fair as earth and air
+</dd>
+<dd> And music-hearted sea!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for pilgrim feet
+</dd>
+<dd> Whose stern, impassioned stress
+</dd>
+<dd>A thoroughfare for freedom beat
+</dd>
+<dd> Across the wilderness!
+</dd>
+<dd>America! America!
+</dd>
+<dd>God shed His grace on thee
+</dd>
+<dd> Till paths be wrought through wilds of thought
+</dd>
+<dd>By pilgrim foot and knee!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for glory-tale
+</dd>
+<dd> Of liberating strife,
+</dd>
+<dd>When once or twice, for man's avail,
+</dd>
+<dd> Men lavished precious life!
+</dd>
+<dd>America! America!
+</dd>
+<dd> God shed His grace on thee
+</dd>
+<dd>Till selfish gain no longer stain,
+</dd>
+<dd> The banner of the free!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for patriot dream
+</dd>
+<dd> That sees beyond the years
+</dd>
+<dd>Thine alabaster cities gleam
+</dd>
+<dd> Undimmed by human tears!
+</dd>
+<dd>America! America!
+</dd>
+<dd> God shed His grace on thee
+</dd>
+<dd>Till nobler men keep once again
+</dd>
+<dd> Thy whiter jubilee!
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Lyrics_1904_version">Lyrics 1904 version</span></h2>
+<dl>
+<dd>O beautiful for spacious skies,
+</dd>
+<dd>For <a href="/wiki/Amber_(color)" title="Amber (color)">amber</a> waves of <a href="/w/index.php?title=Grain&amp;action=edit&amp;redlink=1" class="new" title="Grain (page does not exist)">grain</a>,
+</dd>
+<dd>For <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">purple mountains'</a> majesty
+</dd>
+<dd>Above the <a href="/wiki/Great_Plains" title="Great Plains">fruited plain</a>!
+</dd>
+</dl>
+<dl>
+<dd>America! America!
+</dd>
+<dd><a href="/w/index.php?title=God&amp;action=edit&amp;redlink=1" class="new" title="God (page does not exist)">God</a> shed <a href="/w/index.php?title=Divine_grace&amp;action=edit&amp;redlink=1" class="new" title="Divine grace (page does not exist)">His grace</a> on thee,
+</dd>
+<dd>And crown thy good with brotherhood 
+</dd>
+<dd>From <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">sea</a> to <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">shining sea</a>!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for pilgrim feet
+</dd>
+<dd>Whose stern impassioned stress
+</dd>
+<dd>A thoroughfare for freedom beat
+</dd>
+<dd>Across the wilderness.
+</dd>
+</dl>
+<dl>
+<dd>America! America!
+</dd>
+<dd>God mend thine ev'ry flaw,
+</dd>
+<dd>Confirm thy soul in self-control,
+</dd>
+<dd><a href="/wiki/Declaration_of_Independence" title="Declaration of Independence" class="mw-redirect">Thy liberty</a> in <a href="/wiki/Constitution" title="Constitution">law</a>.
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for <a href="/wiki/History_of_the_United_States" title="History of the United States">glorious tale</a>
+</dd>
+<dd>Of <a href="/w/index.php?title=List_of_wars_involving_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="List of wars involving the United States (page does not exist)">liberating strife</a>,
+</dd>
+<dd>When valiantly for man's avail
+</dd>
+<dd>Men lavish precious life.
+</dd>
+</dl>
+<dl>
+<dd>America! America!
+</dd>
+<dd>May God thy <a href="/wiki/Gold" title="Gold">gold</a> refine
+</dd>
+<dd>Till all success be nobleness,
+</dd>
+<dd>And ev'ry gain divine.
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for patriot dream
+</dd>
+<dd>That sees beyond the years
+</dd>
+<dd>Thine <a href="/wiki/Alabaster" title="Alabaster">alabaster</a> cities gleam
+</dd>
+<dd>Undimmed by human <a href="/wiki/Tears" title="Tears">tears</a>.
+</dd>
+</dl>
+<dl>
+<dd>America! America!
+</dd>
+<dd>God shed His grace on thee,
+</dd>
+<dd>And crown thy good with brotherhood
+</dd>
+<dd>From sea to shining sea.
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Lyrics_1913_version">Lyrics 1913 version</span></h2>
+<dl>
+<dd>O beautiful for spacious skies, 
+</dd>
+<dd>For amber waves of grain, 
+</dd>
+<dd>For purple mountains' majesty 
+</dd>
+<dd>Above the fruited plain! 
+</dd>
+<dd>America! America! 
+</dd>
+<dd>God shed his grace on thee 
+</dd>
+<dd>And crown thy good with brotherhood 
+</dd>
+<dd>From sea to shining sea!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for pilgrim feet 
+</dd>
+<dd>Whose stern impassioned stress
+</dd>
+<dd>A thoroughfare of freedom beat 
+</dd>
+<dd>Across the wilderness! 
+</dd>
+<dd>America! America! 
+</dd>
+<dd>God mend thine every flaw, 
+</dd>
+<dd>Confirm thy soul in self-control, 
+</dd>
+<dd>Thy liberty in law!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for heroes proved 
+</dd>
+<dd>In liberating strife. 
+</dd>
+<dd>Who more than self their country loved
+</dd>
+<dd>And mercy more than life! 
+</dd>
+<dd>America! America! 
+</dd>
+<dd>May God thy gold refine 
+</dd>
+<dd>Till all success be nobleness 
+</dd>
+<dd>And every gain divine!
+</dd>
+</dl>
+<dl>
+<dd>O beautiful for patriot dream 
+</dd>
+<dd>That sees beyond the years 
+</dd>
+<dd>Thine alabaster cities gleam 
+</dd>
+<dd>Undimmed by human tears! 
+</dd>
+<dd>America! America! 
+</dd>
+<dd>God shed his grace on thee 
+</dd>
+<dd>And crown thy good with brotherhood 
+</dd>
+<dd>From sea to shining sea!
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Popular_versions">Popular versions</span></h2>
+<p>Three different renditions of the song have entered the <a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;redlink=1" class="new" title="Hot Country Songs (page does not exist)">Hot Country Songs</a> charts. The first was by <a href="/wiki/Charlie_Rich" title="Charlie Rich">Charlie Rich</a>, which went to number 22 in 1976.<sup id="cite_ref-whitburn_4-0" class="reference"><a href="#cite_note-whitburn-4">[4]</a></sup> A second, by <a href="/wiki/Mickey_Newbury" title="Mickey Newbury">Mickey Newbury</a>, peaked at number 82 in 1980.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> An <a href="/wiki/All-star" title="All-star">all-star</a> version of "America the Beautiful" performed by <a href="/wiki/Country_music" title="Country music">country</a> singers <a href="/wiki/Trace_Adkins" title="Trace Adkins">Trace Adkins</a>, <a href="/w/index.php?title=Billy_Dean&amp;action=edit&amp;redlink=1" class="new" title="Billy Dean (page does not exist)">Billy Dean</a>, <a href="/wiki/Vince_Gill" title="Vince Gill">Vince Gill</a>, <a href="/wiki/Carolyn_Dawn_Johnson" title="Carolyn Dawn Johnson">Carolyn Dawn Johnson</a>, <a href="/wiki/Toby_Keith" title="Toby Keith">Toby Keith</a>, <a href="/wiki/Brenda_Lee" title="Brenda Lee">Brenda Lee</a>, <a href="/wiki/Lonestar" title="Lonestar">Lonestar</a>, <a href="/wiki/Martina_McBride" title="Martina McBride">Martina McBride</a>, <a href="/wiki/Jamie_O%27Neal" title="Jamie O'Neal">Jamie O'Neal</a>, <a href="/wiki/Kenny_Rogers" title="Kenny Rogers">Kenny Rogers</a> and <a href="/wiki/Keith_Urban" title="Keith Urban">Keith Urban</a> reached number 58 in July 2001. The song re-entered the chart following the September 11 terrorist attacks.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> 
+</p><p>Popularity of the song increased greatly following the <a href="/w/index.php?title=September_11_attacks&amp;action=edit&amp;redlink=1" class="new" title="September 11 attacks (page does not exist)">September 11, 2001 attacks</a>; at some sporting events it was sung in addition to the traditional singing of the national anthem.  During the first taping of the <i><a href="/wiki/Late_Show_with_David_Letterman" title="Late Show with David Letterman">Late Show with David Letterman</a></i> following the attacks, CBS newsman <a href="/wiki/Dan_Rather" title="Dan Rather">Dan Rather</a> cried briefly as he quoted the fourth verse.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Idioms">Idioms</span></h2>
+<p><a href="/w/index.php?title=Template:Norefs&amp;action=edit&amp;redlink=1" class="new" title="Template:Norefs (page does not exist)">Template:Norefs</a>
+"From sea to shining sea", originally used in the charters of some of the English Colonies in North America, is an American <a href="/wiki/Idiom" title="Idiom">idiom</a> meaning from the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> to the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> (or vice versa).  Many songs have used this term, including the American patriotic songs "America, The Beautiful" and "<a href="/wiki/God_Bless_the_USA" title="God Bless the USA">God Bless the USA</a>".  In addition to these, it is also featured in <a href="/wiki/Schoolhouse_Rock" title="Schoolhouse Rock" class="mw-redirect">Schoolhouse Rock</a>'s "Elbow Room".  A term similar to this is the <a href="/w/index.php?title=Canada&amp;action=edit&amp;redlink=1" class="new" title="Canada (page does not exist)">Canadian</a> motto <i><a href="/wiki/A_Mari_Usque_Ad_Mare" title="A Mari Usque Ad Mare">A Mari Usque Ad Mare</a></i> ("From sea to sea.")
+</p><p>"Purple mountains' majesty" refers to the shade of the Rocky Mountains, which Kate looked at while writing the poem.
+</p>
+<h2><span class="mw-headline" id="Books">Books</span></h2>
+<p><a href="/w/index.php?title=Lynn_Sherr&amp;action=edit&amp;redlink=1" class="new" title="Lynn Sherr (page does not exist)">Lynn Sherr</a>'s 2001 book <i>America the Beautiful</i> discusses the origins of the song and the backgrounds of its authors in depth. The book points out that the poem has the same meter as that of "<a href="/wiki/Auld_Lang_Syne" title="Auld Lang Syne">Auld Lang Syne</a>"; the songs can be sung interchangeably. Additionally, Sherr points out that this was the original third verse written by Bates:<sup id="cite_ref-Sherr_8-0" class="reference"><a href="#cite_note-Sherr-8">[8]</a></sup>
+</p>
+<dl>
+<dd> America! America!
+</dd>
+<dd> God shed His grace on thee,
+</dd>
+<dd> 'Til selfish gain no longer stain,
+</dd>
+<dd> The banner of the free.
+</dd>
+</dl>
+<p>Barbara Younger has written a children's book about the writing of the song: <i>Purple Mountain Majesties: The Story of Katharine Lee Bates and "America the Beautiful"</i>. The book has illustrations by artist Stacey Schuett.
+</p><p>This song is also used in Ellen Raskin's <i>The Westing Game</i>.
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<ul>
+<li>Sherr, Lynn (2001). <i>America the Beautiful: The Stirring True Story Behind Our Nation's Favorite Song</i>. PublicAffairs. <a href="/wiki/Special:BookSources/9781586480851" class="internal mw-magiclink-isbn">ISBN 978-1-58648-085-1</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://memory.loc.gov/cocoon/ihas/loc.natlib.ihas.200000001/default.html">MP3 and RealAudio recordings available at the United States Library of Congress</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cantorion&amp;action=edit&amp;redlink=1" class="new" title="Template:Cantorion (page does not exist)">Template:Cantorion</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://hymntime.com/tch/htm/o/b/f/obfsskis.htm">Words, sheet music &amp; MIDI file</a> at the Cyber Hymnal
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.springsgov.com/Page.asp?NavID=5138">America the Beautiful Park</a> in Colorado Springs named for Katharine Lee Bates' words.
+</li>
+<li><a rel="nofollow" class="external text" href="http://web.me.com/highlandsarchives/The_Highlands_Archives/America.html">Archival collection</a> of America the Beautiful lantern slides from the 1930s.
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.traditional-songs.com/download_score.php?name=America%20the%20Beautiful&amp;country=Usa">Another free sheet music</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://loyalopposition.blogs.nytimes.com/2012/01/03/mitt-romney-and-america-the-beautiful-when-reach-exceeds-grasp/?ref=opinion">David Firestone - When Romney’s Reach Exceeds His Grasp - Mitt Romney quotes the song</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Elvis_Presley_singles&amp;action=edit&amp;redlink=1" class="new" title="Template:Elvis Presley singles (page does not exist)">Template:Elvis Presley singles</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.292 seconds
+Real time usage: 0.342 seconds
+Preprocessor visited node count: 258/1000000
+Preprocessor generated node count: 3551/1000000
+Post‐expand include size: 738/2097152 bytes
+Template argument size: 249/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:136-0!*!0!!en!2!* and timestamp 20170407173102
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=America_the_Beautiful&amp;oldid=136">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=America_the_Beautiful&amp;oldid=136</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:1895_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:1895 songs (page does not exist)">1895 songs</a></li><li><a href="/w/index.php?title=Category:American_patriotic_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:American patriotic songs (page does not exist)">American patriotic songs</a></li><li><a href="/w/index.php?title=Category:Barbra_Streisand_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:Barbra Streisand songs (page does not exist)">Barbra Streisand songs</a></li><li><a href="/w/index.php?title=Category:Charlie_Rich_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:Charlie Rich songs (page does not exist)">Charlie Rich songs</a></li><li><a href="/w/index.php?title=Category:Elvis_Presley_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:Elvis Presley songs (page does not exist)">Elvis Presley songs</a></li><li><a href="/w/index.php?title=Category:Mormon_Tabernacle_Choir_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:Mormon Tabernacle Choir songs (page does not exist)">Mormon Tabernacle Choir songs</a></li><li><a href="/w/index.php?title=Category:Pikes_Peak&amp;action=edit&amp;redlink=1" class="new" title="Category:Pikes Peak (page does not exist)">Pikes Peak</a></li><li><a href="/w/index.php?title=Category:Ray_Charles_songs&amp;action=edit&amp;redlink=1" class="new" title="Category:Ray Charles songs (page does not exist)">Ray Charles songs</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=America+the+Beautiful" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/America_the_Beautiful"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:America_the_Beautiful&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/America_the_Beautiful" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=America_the_Beautiful&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=America_the_Beautiful&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/America_the_Beautiful" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/America_the_Beautiful" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=America_the_Beautiful&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=America_the_Beautiful&amp;oldid=136" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=America_the_Beautiful&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 February 2014, at 06:34.</li>
+											<li id="footer-info-viewcount">This page has been accessed 76 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.826 secs. -->
+	</body>
+</html>

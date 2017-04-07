@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Whale fall - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Whale_fall","wgTitle":"Whale fall","wgCurRevisionId":806005,"wgRevisionId":806005,"wgArticleId":806005,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Aquatic ecology","Whales"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Whale_fall","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Whale_fall skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Whale fall</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Sample_collecting_at_whale_fall.jpg" title="File:Sample collecting at whale fall.jpg">File:Sample collecting at whale fall.jpg</a>  <div class="thumbcaption">The skeleton of a gray whale lies on the <a href="/wiki/Monterey_Bay" title="Monterey Bay">Santa Cruz Basin</a> seafloor as a <a href="/wiki/Hagfish" title="Hagfish">Hagfish</a> swims into view of the <a href="/wiki/US_Navy" title="US Navy" class="mw-redirect">US Navy</a>'s <a href="/wiki/Deep-submergence_vehicle" title="Deep-submergence vehicle">deep-sea submersible</a> <a href="/wiki/DSV_Alvin" title="DSV Alvin">ALVIN</a>.<sup id="cite_ref-NOAA_1-0" class="reference"><a href="#cite_note-NOAA-1">[1]</a></sup></div></div></div>
+<p>A <b>whale fall</b> is the carcass of a <a href="/wiki/Cetacea" title="Cetacea">cetacean</a> that has fallen into the <a href="/wiki/Bathyal_zone" title="Bathyal zone">Bathyal</a> or <a href="/wiki/Abyssal_zone" title="Abyssal zone">Abyssal zone</a> on the ocean floor.<sup id="cite_ref-columbia_2-0" class="reference"><a href="#cite_note-columbia-2">[2]</a></sup> As they are found at depths of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, they create complex localized <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> that supply sustenance to deep-sea organisms for decades.<sup id="cite_ref-Lloyd2007_3-0" class="reference"><a href="#cite_note-Lloyd2007-3">[3]</a></sup> This is unlike in <a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">shallower waters</a>, where a whale carcass will be consumed by <a href="/wiki/Scavengers" title="Scavengers" class="mw-redirect">scavengers</a> over a relatively short period of time. It was with the development of <a href="/w/index.php?title=Deep-sea_exploration&amp;action=edit&amp;redlink=1" class="new" title="Deep-sea exploration (page does not exist)">deep-sea robotic exploration</a> that whale falls were first observed in the late 1970s.<sup id="cite_ref-UCB_4-0" class="reference"><a href="#cite_note-UCB-4">[4]</a></sup>
+</p><p>Organisms that have been observed at deep-sea whale falls include <a href="/w/index.php?title=Giant_isopod&amp;action=edit&amp;redlink=1" class="new" title="Giant isopod (page does not exist)">giant isopods</a>, <a href="/wiki/Squat_lobster" title="Squat lobster">squat lobsters</a>, <a href="/wiki/Polychaete" title="Polychaete">bristleworms</a>, <a href="/wiki/Prawns" title="Prawns" class="mw-redirect">prawns</a>, <a href="/w/index.php?title=Shrimp&amp;action=edit&amp;redlink=1" class="new" title="Shrimp (page does not exist)">shrimp</a>, <a href="/wiki/Lobsters" title="Lobsters" class="mw-redirect">lobsters</a>, <a href="/wiki/Hagfish" title="Hagfish">hagfish</a>, <i><a href="/wiki/Osedax" title="Osedax">Osedax</a></i>, crabs, <a href="/w/index.php?title=Holothuroidea&amp;action=edit&amp;redlink=1" class="new" title="Holothuroidea (page does not exist)">sea cucumbers</a>, and <a href="/wiki/Sleeper_shark" title="Sleeper shark" class="mw-redirect">sleeper sharks</a>. 
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery"><span class="tocnumber">1</span> <span class="toctext">Discovery</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Organisms"><span class="tocnumber">2</span> <span class="toctext">Organisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ecosystem_stages"><span class="tocnumber">2.1</span> <span class="toctext">Ecosystem stages</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Variance_in_decomposition_rates"><span class="tocnumber">2.2</span> <span class="toctext">Variance in decomposition rates</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Palaeontology"><span class="tocnumber">3</span> <span class="toctext">Palaeontology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Discovery">Discovery</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Whale_fall.jpg" title="File:Whale fall.jpg">File:Whale fall.jpg</a>  <div class="thumbcaption">Skeleton of a 35-ton, 13-m <a href="/wiki/Gray_whale" title="Gray whale">gray whale</a> that has been on the seafloor of the Santa Cruz Basin (around 1700 m deep) for 18 months. Animals visible include swimming, eel-like <a href="/wiki/Hagfish" title="Hagfish">hagfish</a>, and thousands of <a href="/wiki/Amphipod" title="Amphipod" class="mw-redirect">amphipods</a> and newly settled, juvenile <a href="/wiki/Clams" title="Clams" class="mw-redirect">clams</a>.<sup id="cite_ref-NOAA_1-1" class="reference"><a href="#cite_note-NOAA-1">[1]</a></sup></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Whale_fall_Whale_bone_recovery.jpg" title="File:Whale fall Whale bone recovery.jpg">File:Whale fall Whale bone recovery.jpg</a>  <div class="thumbcaption">A <a href="/w/index.php?title=Whale_bone&amp;action=edit&amp;redlink=1" class="new" title="Whale bone (page does not exist)">whale bone</a> being recovered from the Santa Catalina Basin floor five years after experimental emplacement. The bone surface contains patches of white bacterial mats and a <a href="/wiki/Squat_lobster" title="Squat lobster">squat lobster</a>. <a href="/w/index.php?title=Hydroids&amp;action=edit&amp;redlink=1" class="new" title="Hydroids (page does not exist)">Hydroids</a> have sprouted on the loop of yellow line attached to the bone.<sup id="cite_ref-NOAA_1-2" class="reference"><a href="#cite_note-NOAA-1">[1]</a></sup></div></div></div>
+<p>The earliest indication that whale carcasses could host specialized animal communities occurred in 1854 when a new <a href="/wiki/Mussel" title="Mussel">mussel</a> species was extracted from a piece of floating whale <a href="/wiki/Blubber" title="Blubber">blubber</a>. By the 1960s, deep sea trawlers unintentionally recovered other new <a href="/wiki/Mollusc" title="Mollusc" class="mw-redirect">mollusc</a> species including <a href="/wiki/Limpet" title="Limpet">limpets</a> (named <i><a href="/w/index.php?title=Osteopelta&amp;action=edit&amp;redlink=1" class="new" title="Osteopelta (page does not exist)">Osteopelta</a></i>) attached to whale bones.<sup id="cite_ref-CTS_Little_5-0" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p><p>The first recorded abyssal whale fall was discovered by Navy bathyscaph pilots Lt Ken Hanson, ETCM(SS) George Ellis and LT Tom Vetter diving in bathyscaph <a href="/wiki/Trieste_II" title="Trieste II" class="mw-redirect">Trieste II</a> (DSV-1) on 19 February 1977  (at <span class="nowrap"><a href="/w/index.php?title=Template:Coord&amp;action=edit&amp;redlink=1" class="new" title="Template:Coord (page does not exist)">Template:Coord</a></span>). The skeleton of the carcass, which was completely devoid of organic tissue, remained intact and collapsed flat on the seafloor. The submersible recovered a jawbone and phalanges. The whale was considered to be a <a href="/wiki/Gray_whale" title="Gray whale">gray whale</a> based on the size of the bones and the skeleton, the lack of teeth and its location west of Santa Catalina.<sup id="cite_ref-trieste_6-0" class="reference"><a href="#cite_note-trieste-6">[6]</a></sup>
+</p><p>Another whale fall was discovered accidentally by a team of <a href="/wiki/Marine_biologist" title="Marine biologist" class="mw-redirect">marine biologists</a> led by <a href="/wiki/University_of_Hawaii" title="University of Hawaii">University of Hawaii</a> <a href="/wiki/Oceanography" title="Oceanography">oceanographer</a> Craig Smith in 1987. The <a href="/wiki/DSV_Alvin" title="DSV Alvin">DSV Alvin</a> identified the remains using <a href="/w/index.php?title=Scanning_sonar&amp;action=edit&amp;redlink=1" class="new" title="Scanning sonar (page does not exist)">scanning sonar</a> at <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> in the <a href="/w/index.php?title=Santa_Catalina,_California&amp;action=edit&amp;redlink=1" class="new" title="Santa Catalina, California (page does not exist)">Catalina</a> Basin.<sup id="cite_ref-CTS_Little_5-1" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup> 
+</p><p>Other whale falls have since been found by more researchers and deep-sea explorers as well as naval <a href="/wiki/Submarines" title="Submarines" class="mw-redirect">submarines</a>. The increase in detection is largely due to the use of cutting-edge <a href="/wiki/Side-scan_sonar" title="Side-scan sonar">side-scan sonar</a> which can minutely examine the ocean floor for large aggregations of matter.
+</p>
+<h2><span class="mw-headline" id="Organisms">Organisms</span></h2>
+<p>A consistent group of organisms inhabits whale falls in all oceans. The mussels and <a href="/w/index.php?title=Vesicomyidae&amp;action=edit&amp;redlink=1" class="new" title="Vesicomyidae (page does not exist)">vesicomyid clams</a> from Alvin's discovery belonged to groups that harbor <a href="/w/index.php?title=Chemosynthetic&amp;action=edit&amp;redlink=1" class="new" title="Chemosynthetic (page does not exist)">chemosynthetic</a> bacteria which can draw energy from <a href="/w/index.php?title=Inorganic_chemicals&amp;action=edit&amp;redlink=1" class="new" title="Inorganic chemicals (page does not exist)">inorganic chemicals</a>. Their only known habitats were sunken wood and <a href="/wiki/Hydrothermal_vents" title="Hydrothermal vents" class="mw-redirect">hydrothermal vents</a>. The <a href="/w/index.php?title=Lucinidae&amp;action=edit&amp;redlink=1" class="new" title="Lucinidae (page does not exist)">lucinid clams</a>' only other habitats were seeps and <a href="/w/index.php?title=Hypoxia_(environmental)&amp;action=edit&amp;redlink=1" class="new" title="Hypoxia (environmental) (page does not exist)">anoxic</a> seafloor sediments. Similarly, a snail inhabited only anoxic sediments.<sup id="cite_ref-CTS_Little_5-2" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p><p>Similar ecosystems exist when other large volumes of nutrient-rich material fall to the sea floor. Sunken beds of <a href="/wiki/Kelp" title="Kelp">kelp</a> create kelp falls, and large trees can sink to create wood falls. In more recent years, <a href="/wiki/Shipwrecks" title="Shipwrecks" class="mw-redirect">shipwrecks</a> have also provided bases for deepwater communities.
+</p>
+<h3><span class="mw-headline" id="Ecosystem_stages">Ecosystem stages</span></h3>
+<p>Scientists have concluded from the data recorded from Santa Catalina, as well as other cases off the California coast, that there are at least three stages of decomposition associated with a whale fall.<sup id="cite_ref-CTS_Little_5-3" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p>
+<dl>
+<dt>Stage 1
+</dt>
+</dl>
+<p>The initial period begins with "mobile scavengers" such as <a href="/wiki/Hagfish" title="Hagfish">hagfish</a> and <a href="/wiki/Sleeper_shark" title="Sleeper shark" class="mw-redirect">sleeper sharks</a> actively consuming soft tissue from the carcass. Consumption can be at a rate of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> per day over a two-year period.<sup id="cite_ref-CTS_Little_5-4" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p>
+<dl>
+<dt>Stage 2
+</dt>
+</dl>
+<p>The second stage introduces the "enrichment opportunists". These are animals which colonize the bones and surrounding sediments that have been contaminated with organic matter from the carcass and any other tissue left by the scavengers. This process can take up to two years.<sup id="cite_ref-CTS_Little_5-5" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p>
+<dl>
+<dt>Stage 3 
+</dt>
+</dl>
+<p>Finally "<a href="/wiki/Chemotroph" title="Chemotroph">sulfophilic bacteria</a>" anaerobically break down the <a href="/wiki/Lipid" title="Lipid">lipids</a> embedded in the bones. Instead of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, they reduce dissolved sulfate <a href="/w/index.php?title=Template:Chem&amp;action=edit&amp;redlink=1" class="new" title="Template:Chem (page does not exist)">Template:Chem</a> and excrete <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>. Due to the toxicity of <a href="/w/index.php?title=Template:Chem&amp;action=edit&amp;redlink=1" class="new" title="Template:Chem (page does not exist)">Template:Chem</a>, only resistant chemosynthetic bacteria survive. The <a href="/wiki/Bacterial_mat" title="Bacterial mat" class="mw-redirect">bacterial mats</a> provide nourishment for mussels, clams, limpets and sea snails. As whale bones are rich in lipids, representing 4–6% of its body weight, the final digestion stage can last between 50 and possibly 100 years.<sup id="cite_ref-CTS_Little_5-6" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Variance_in_decomposition_rates">Variance in decomposition rates</span></h3>
+<p>The differences in stage patterns between whale falls is likely to be related to carcass size. Large, intact whale falls appear to pass through the three decomposition stages, while the stages on smaller or partial carcasses may be truncated. Researcher believe the presence of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> <i><a href="/wiki/Osedax" title="Osedax">Osedax</a></i> (<a href="/wiki/Latin" title="Latin">Latin</a>: bone-devourer) maybe a contributing factor may be in the successional differences. Also known as zombie worms - so called because they have no eyes or mouth - they were first discovered in the deep <a href="/wiki/Submarine_canyon" title="Submarine canyon">Submarine</a> <a href="/w/index.php?title=Monterey_Canyon&amp;action=edit&amp;redlink=1" class="new" title="Monterey Canyon (page does not exist)">Monterey Canyon</a> in southern California in 2002.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Other examples have since been discovered off <a href="/w/index.php?title=Sweden&amp;action=edit&amp;redlink=1" class="new" title="Sweden (page does not exist)">Sweden</a>, <a href="/wiki/Japan" title="Japan">Japan</a>, and <a href="/w/index.php?title=Antarctica&amp;action=edit&amp;redlink=1" class="new" title="Antarctica (page does not exist)">Antarctica</a>. <i>Osedax</i> larvae have no digestive tract; instead they float through the oceans until they encounter a carcass. The worms then grow appendages resembling tiny trees that absorb oxygen. A root-like structure grows into the bone; these contain <a href="/wiki/Symbiotic" title="Symbiotic" class="mw-redirect">symbiotic</a> bacteria which make an acid that breaks down proteins within the bone. The process supplies nutrients for the worms. When these worms sexually mature, eggs are released to start the cycle over.<sup id="cite_ref-CTS_Little_5-7" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup><sup id="cite_ref-pap_8-0" class="reference"><a href="#cite_note-pap-8">[8]</a></sup>
+</p><p>In 1989, scientists hypothesized that some species (such as <i>Osedax</i>) might use whale falls as stepping-stones to extend their range across multiple chemosynthetic communities. They estimate that 690,000 carcasses/skeletons of the nine largest whale species are in one of the three stages at any one time. This estimate implies an average spacing of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> and as little as <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> along migration routes. They hypothesize that this distance is short enough to allow <a href="/w/index.php?title=Larvae&amp;action=edit&amp;redlink=1" class="new" title="Larvae (page does not exist)">larvae</a> to disperse/migrate from one to another.<sup id="cite_ref-CTS_Little_5-8" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Palaeontology">Palaeontology</span></h2>
+<p>Whale fall fossils from the late <a href="/wiki/Eocene" title="Eocene">Eocene</a> and <a href="/wiki/Oligocene" title="Oligocene">Oligocene</a> (34-23 <a href="/wiki/Mya_(unit)" title="Mya (unit)" class="mw-redirect">MYA</a>) in <a href="/w/index.php?title=Washington_(U.S._state)&amp;action=edit&amp;redlink=1" class="new" title="Washington (U.S. state) (page does not exist)">Washington</a> and from the <a href="/wiki/Pliocene" title="Pliocene">Pliocene</a> in Italy include clams that also inhabited non-chemosynthetic environments. Chemosynthetic-only animals do not appear until the <a href="/wiki/Miocene" title="Miocene">Miocene</a> (23 to 5 MYA) in California and Japan. This may be because the lipid content of early whale bones was too low.<sup id="cite_ref-CTS_Little_5-9" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p><p>The discovery of the limpet <i><a href="/w/index.php?title=Osteopelta&amp;action=edit&amp;redlink=1" class="new" title="Osteopelta (page does not exist)">Osteopelta</a></i> in an Eocene New Zealand turtle bone indicates that these animals evolved before whales, including possibly inhabiting <a href="/wiki/Mesozoic" title="Mesozoic">Mesozoic</a> (251-66 MYA) reptiles.<sup id="cite_ref-KaimKobayashi_2008_9-0" class="reference"><a href="#cite_note-KaimKobayashi_2008-9">[9]</a></sup> They may have survived in seeps, wood-falls and vents while waiting out the 20 million year gap between the reptiles' extinction and whales' emergence. Another possibility is that these fossils represent a prior, dead-end evolutionary path, and that today's whale fall animals evolved independently.<sup id="cite_ref-CTS_Little_5-10" class="reference"><a href="#cite_note-CTS_Little-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=Deep_sea_communities&amp;action=edit&amp;redlink=1" class="new" title="Deep sea communities (page does not exist)">Deep sea communities</a>
+</li>
+<li> <a href="/w/index.php?title=Marine_snow&amp;action=edit&amp;redlink=1" class="new" title="Marine snow (page does not exist)">Marine snow</a>
+</li>
+<li> <a href="/wiki/Detritivore" title="Detritivore">Detritivore</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.westnurc.uaf.edu/dwnlds/Smithecologywhalefalls.pdf">Smith and Baco 2003 paper on whale fall ecology (University of Hawaii)</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.nurp.noaa.gov/Spotlight/Whales.htm">Article from NOAA's Undersea Research program (NURP)</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://nationalzoo.si.edu/Publications/ZooGoer/2005/2/whaleworms.cfm">Robin Meadows, "A Whale of a Tale"</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.sciencedaily.com/releases/2007/09/070913165159.htm">(Science Daily), University of California, Berkeley, "Fossil Whale Puts Limit On Origin Of Oily, Buoyant Bones In Whales"</a> 14 September 2007
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Aquatic_ecosystem_topics&amp;action=edit&amp;redlink=1" class="new" title="Template:Aquatic ecosystem topics (page does not exist)">Template:Aquatic ecosystem topics</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.304 seconds
+Real time usage: 0.589 seconds
+Preprocessor visited node count: 399/1000000
+Preprocessor generated node count: 1988/1000000
+Post‐expand include size: 314/2097152 bytes
+Template argument size: 19/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:806005-0!*!0!!en!2!* and timestamp 20170407172532
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Whale_fall&amp;oldid=806005">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Whale_fall&amp;oldid=806005</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Aquatic_ecology&amp;action=edit&amp;redlink=1" class="new" title="Category:Aquatic ecology (page does not exist)">Aquatic ecology</a></li><li><a href="/w/index.php?title=Category:Whales&amp;action=edit&amp;redlink=1" class="new" title="Category:Whales (page does not exist)">Whales</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Whale+fall" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Whale_fall"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Whale_fall&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Whale_fall" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Whale_fall&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Whale_fall&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Whale_fall" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Whale_fall" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Whale_fall&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Whale_fall&amp;oldid=806005" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Whale_fall&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 December 2013, at 11:37.</li>
+											<li id="footer-info-viewcount">This page has been accessed 105 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.254 secs. -->
+	</body>
+</html>

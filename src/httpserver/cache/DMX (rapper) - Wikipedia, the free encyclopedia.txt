@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>DMX (rapper) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"DMX_(rapper)","wgTitle":"DMX (rapper)","wgCurRevisionId":121731,"wgRevisionId":121731,"wgArticleId":121731,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link different than on Wikidata","1970 births","African-American male actors","African-American Christians","African-American male rappers","American male film actors","American people convicted of cruelty to animals","American people convicted of theft","Def Jam Recordings artists","East Coast hip hop musicians","Living people","Male actors from New York","Participants in American reality television series","American people convicted of drug offenses","People from Dobbs Ferry, New York","People from Mount Vernon, New York","People from Yonkers, New York","Ruff Ryders artists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"DMX_(rapper)","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-DMX_rapper skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">DMX (rapper)</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<a href="/w/index.php?title=Template:Pp-blp&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-blp (page does not exist)">Template:Pp-blp</a>
+<a href="/w/index.php?title=Template:Infobox_musical_artist&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox musical artist (page does not exist)">Template:Infobox musical artist</a>
+<b>Earl Simmons</b> (born December 18, 1970), better known by his <a href="/wiki/Stage_name" title="Stage name">stage names</a> <b>DMX</b> and <b>Dark Man X</b>, is an American <a href="/wiki/Rapper" title="Rapper" class="mw-redirect">rapper</a> and <a href="/w/index.php?title=Actor&amp;action=edit&amp;redlink=1" class="new" title="Actor (page does not exist)">actor</a>. In 1999, DMX released his best-selling album <i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i>, which featured the hit single "<a href="/w/index.php?title=Party_Up_(Up_in_Here)&amp;action=edit&amp;redlink=1" class="new" title="Party Up (Up in Here) (page does not exist)">Party Up (Up in Here)</a>". He has acted in films such as <i><a href="/wiki/Belly_(film)" title="Belly (film)">Belly</a></i>, <i><a href="/wiki/Romeo_Must_Die" title="Romeo Must Die">Romeo Must Die</a></i>, <i><a href="/wiki/Exit_Wounds" title="Exit Wounds">Exit Wounds</a></i>, <i><a href="/w/index.php?title=Cradle_2_The_Grave&amp;action=edit&amp;redlink=1" class="new" title="Cradle 2 The Grave (page does not exist)">Cradle 2 The Grave</a></i>, and <i><a href="/w/index.php?title=Last_Hour&amp;action=edit&amp;redlink=1" class="new" title="Last Hour (page does not exist)">Last Hour</a></i>. In 2006, he starred in the <a href="/wiki/Reality_television" title="Reality television">reality television</a> series <i><a href="/w/index.php?title=DMX:_Soul_of_a_Man&amp;action=edit&amp;redlink=1" class="new" title="DMX: Soul of a Man (page does not exist)">DMX: Soul of a Man</a></i>, which was primarily aired on the <a href="/w/index.php?title=Black_Entertainment_Television&amp;action=edit&amp;redlink=1" class="new" title="Black Entertainment Television (page does not exist)">BET</a> <a href="/wiki/Cable_television" title="Cable television">cable television</a> network. In 2003, DMX published a book of his <a href="/wiki/Memoirs" title="Memoirs" class="mw-redirect">memoirs</a> entitled, <i>E.A.R.L.: The Autobiography of DMX</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> DMX has sold over 30 million records worldwide, making him one of the best-selling hip-hop artists of all time.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Music_career"><span class="tocnumber">2</span> <span class="toctext">Music career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#1996.E2.80.9398:_It.27s_Dark_and_Hell_Is_Hot_and_Flesh_of_My_Flesh.2C_Blood_of_My_Blood"><span class="tocnumber">2.1</span> <span class="toctext">1996–98: <i>It's Dark and Hell Is Hot</i> and <i>Flesh of My Flesh, Blood of My Blood</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1999.E2.80.932000:_...And_Then_There_Was_X"><span class="tocnumber">2.2</span> <span class="toctext">1999–2000: <i>...And Then There Was X</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#2001.E2.80.9302:_The_Great_Depression"><span class="tocnumber">2.3</span> <span class="toctext">2001–02: <i>The Great Depression</i></span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#2003:_Grand_Champ"><span class="tocnumber">2.4</span> <span class="toctext">2003: <i>Grand Champ</i></span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2005.E2.80.9308:_Year_of_the_Dog...Again_and_The_Definition_of_X:_The_Pick_of_the_Litter"><span class="tocnumber">2.5</span> <span class="toctext">2005–08: <i>Year of the Dog...Again</i> and <i>The Definition of X: The Pick of the Litter</i></span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#2011.E2.80.93present:_Undisputed"><span class="tocnumber">2.6</span> <span class="toctext">2011–present: <i>Undisputed</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Legal_issues"><span class="tocnumber">4</span> <span class="toctext">Legal issues</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Feud_with_Ja_Rule"><span class="tocnumber">5</span> <span class="toctext">Feud with Ja Rule</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Discography"><span class="tocnumber">6</span> <span class="toctext">Discography</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Awards_and_Nominations"><span class="tocnumber">7</span> <span class="toctext">Awards and Nominations</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Filmography"><span class="tocnumber">8</span> <span class="toctext">Filmography</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span></h2>
+<p>DMX was born Earl Simmons in <a href="/wiki/Mount_Vernon,_New_York" title="Mount Vernon, New York">Mount Vernon</a>  and was raised in <a href="/wiki/Yonkers,_New_York" title="Yonkers, New York">Yonkers, New York</a>.<sup id="cite_ref-autobiographyp7_2-0" class="reference"><a href="#cite_note-autobiographyp7-2">[2]</a></sup><sup id="cite_ref-allmusic_3-0" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup> Simmons went through an abusive childhood that included stays at <a href="/w/index.php?title=Group_home&amp;action=edit&amp;redlink=1" class="new" title="Group home (page does not exist)">group homes</a> and frequent arrests.<sup id="cite_ref-allmusic_3-1" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_career">Music career</span></h2>
+<p>DMX began his music career in 1988 as a <a href="/wiki/Beatboxing" title="Beatboxing">beatboxer</a>. In 1991, Gabriel Grevenstuk from <i><a href="/wiki/The_Source_(magazine)" title="The Source (magazine)">The Source</a></i> magazine praised DMX in his "Unsigned Hype" column that highlighted unsigned hip-hop artists. His stage name was tribute to an instrument he used in the 1980s, the <a href="/w/index.php?title=Oberheim_DMX&amp;action=edit&amp;redlink=1" class="new" title="Oberheim DMX (page does not exist)">Oberheim DMX</a> <a href="/wiki/Drum_machine" title="Drum machine">drum machine</a> and later was interpreted as "Dark Man X".<sup id="cite_ref-allmusic_3-2" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup>
+</p><p>A year later, <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a> signed DMX to their subsidiary label Ruffhouse, who released his debut single "Born Loser". The single did not get much airplay.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} The label eventually agreed to release DMX from their contract. He released his second single, "Make a Move" in 1994, and made a guest appearance alongside <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a>, <a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a>, and <a href="/w/index.php?title=Mic_Geronimo&amp;action=edit&amp;redlink=1" class="new" title="Mic Geronimo (page does not exist)">Mic Geronimo</a> on the classic underground track "Time To Build" on <a href="/w/index.php?title=Mic_Geronimo&amp;action=edit&amp;redlink=1" class="new" title="Mic Geronimo (page does not exist)">Mic Geronimo</a>'s debut album in 1995. He also appeared on <a href="/wiki/LL_Cool_J" title="LL Cool J">LL Cool J</a>'s single "<a href="/w/index.php?title=4,_3,_2,_1_(LL_Cool_J_song)&amp;action=edit&amp;redlink=1" class="new" title="4, 3, 2, 1 (LL Cool J song) (page does not exist)">4, 3, 2, 1</a>" in 1997. Additional guest spots on <a href="/w/index.php?title=Mase&amp;action=edit&amp;redlink=1" class="new" title="Mase (page does not exist)">Mase</a> singles "<a href="/w/index.php?title=24_Hrs._to_Live&amp;action=edit&amp;redlink=1" class="new" title="24 Hrs. to Live (page does not exist)">24 Hrs. to Live</a>" and "Take What's Yours", and <a href="/w/index.php?title=D-Block_(hip_hop)&amp;action=edit&amp;redlink=1" class="new" title="D-Block (hip hop) (page does not exist)">The LOX</a>'s single "<a href="/w/index.php?title=Money,_Power_%26_Respect&amp;action=edit&amp;redlink=1" class="new" title="Money, Power &amp; Respect (page does not exist)">Money, Power &amp; Respect</a>" created a strong buzz.<sup id="cite_ref-allmusic_3-3" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup> DMX also made a cameo appearance in the <a href="/wiki/Sum_41" title="Sum 41">Sum 41</a> music video for "<a href="/w/index.php?title=Makes_No_Difference&amp;action=edit&amp;redlink=1" class="new" title="Makes No Difference (page does not exist)">Makes No Difference</a>".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h3><span class="mw-headline" id="1996.E2.80.9398:_It.27s_Dark_and_Hell_Is_Hot_and_Flesh_of_My_Flesh.2C_Blood_of_My_Blood">1996–98: <i>It's Dark and Hell Is Hot</i> and <i>Flesh of My Flesh, Blood of My Blood</i></span></h3>
+<p>In February 1998, DMX released his debut major-label single, "<a href="/w/index.php?title=Get_at_Me_Dog&amp;action=edit&amp;redlink=1" class="new" title="Get at Me Dog (page does not exist)">Get at Me Dog</a>", on <a href="/wiki/Def_Jam_Recordings" title="Def Jam Recordings">Def Jam Recordings</a>. The single was certified <a href="/w/index.php?title=Gold_album&amp;action=edit&amp;redlink=1" class="new" title="Gold album (page does not exist)">Gold</a> by the <a href="/w/index.php?title=RIAA&amp;action=edit&amp;redlink=1" class="new" title="RIAA (page does not exist)">RIAA</a>. His first major-label album, <i><a href="/w/index.php?title=It%27s_Dark_and_Hell_Is_Hot&amp;action=edit&amp;redlink=1" class="new" title="It's Dark and Hell Is Hot (page does not exist)">It's Dark and Hell Is Hot</a></i>, which included the single "<a href="/w/index.php?title=Ruff_Ryders_Anthem&amp;action=edit&amp;redlink=1" class="new" title="Ruff Ryders Anthem (page does not exist)">Ruff Ryders Anthem</a>", was released in May 1998. The album debuted at number one on the <a href="/wiki/Billboard_200" title="Billboard 200">Billboard 200</a> chart in the U.S and sold over five million copies.
+</p><p>Later that year in December, DMX released his second album, <i><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit&amp;redlink=1" class="new" title="Flesh of My Flesh, Blood of My Blood (page does not exist)">Flesh of My Flesh, Blood of My Blood</a></i>. It debuted at number one on the Billboard 200, where it remained for three consecutive weeks. Within one week of the album's release, 670,000 units were shipped.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} It was eventually certified Platinum four times. As a result, DMX was the second rapper in history (following <a href="/wiki/Tupac_Shakur" title="Tupac Shakur">Tupac Shakur</a>) to have released two albums in the same year, which both debuted at number one on Billboard 200.<sup id="cite_ref-allmusic_3-4" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="1999.E2.80.932000:_...And_Then_There_Was_X">1999–2000: <i>...And Then There Was X</i></span></h3>
+<p>DMX released his third and best-selling album <i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i>, on December 21, 1999. It was his third album to debut at number one on the Billboard 200. Its most popular single, "Party Up", became his first <a href="/wiki/Record_chart" title="Record chart">Top Ten</a> hit on the <a href="/wiki/R%26B" title="R&amp;B" class="mw-redirect">R&amp;B</a> charts. Singles "What's My Name?" and "<a href="/w/index.php?title=What_These_Bitches_Want&amp;action=edit&amp;redlink=1" class="new" title="What These Bitches Want (page does not exist)">What These Bitches Want</a>" were also popular.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} The album was certified Platinum six times.<sup id="cite_ref-allmusic_3-5" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="2001.E2.80.9302:_The_Great_Depression">2001–02: <i>The Great Depression</i></span></h3>
+<p>After improving <a href="#Legal_issues">his legal situation</a>,{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} DMX returned to the studio to complete his fourth album, <i><a href="/w/index.php?title=The_Great_Depression_(DMX_album)&amp;action=edit&amp;redlink=1" class="new" title="The Great Depression (DMX album) (page does not exist)">The Great Depression</a></i>. Released October 23, 2001, it was his fourth album to debut at number one on the Billboard 200, featuring the singles "Who We Be", "We Right Here", and "Shorty Was The Bomb". Despite the album's triple Platinum certification, its commercial and critical success was lower than his previous album.<sup id="cite_ref-allmusic_3-6" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="2003:_Grand_Champ">2003: <i>Grand Champ</i></span></h3>
+<p>His fifth album, <i><a href="/wiki/Grand_Champ" title="Grand Champ">Grand Champ</a></i>, once again debuted at number one on the Billboard 200 charts, placing DMX as the only musical artist in history to release five consecutive albums (his entire album catalog at the time) that debuted at number one. Singles include "Where Tha Hood At" and "Get it on the Floor". After its release, he informed the public that he planned to retire, and that <i>Grand Champ</i> would be his final album.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="2005.E2.80.9308:_Year_of_the_Dog...Again_and_The_Definition_of_X:_The_Pick_of_the_Litter">2005–08: <i>Year of the Dog...Again</i> and <i>The Definition of X: The Pick of the Litter</i></span></h3>
+<p>DMX signed to <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia Records</a> in January 2006. He recorded his next album, <i><a href="/w/index.php?title=Year_of_the_Dog...Again&amp;action=edit&amp;redlink=1" class="new" title="Year of the Dog...Again (page does not exist)">Year of the Dog...Again</a></i>, while switching record labels, which caused numerous delays.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> It was finally released on August 1, 2006, and lost the number one Billboard spot by only one-hundred sales.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} He released two more singles, "<a href="/w/index.php?title=Lord_Give_Me_A_Sign&amp;action=edit&amp;redlink=1" class="new" title="Lord Give Me A Sign (page does not exist)">Lord Give Me A Sign</a>" and "<a href="/w/index.php?title=We_In_Here&amp;action=edit&amp;redlink=1" class="new" title="We In Here (page does not exist)">We In Here</a>"
+</p><p>On June 12, 2008, Def Jam released a compilation of his <a href="/w/index.php?title=Greatest_hits&amp;action=edit&amp;redlink=1" class="new" title="Greatest hits (page does not exist)">greatest hits</a>, <i><a href="/w/index.php?title=The_Definition_of_X:_The_Pick_of_the_Litter&amp;action=edit&amp;redlink=1" class="new" title="The Definition of X: The Pick of the Litter (page does not exist)">The Definition of X: The Pick of the Litter</a></i>.<sup id="cite_ref-allmusic_3-7" class="reference"><a href="#cite_note-allmusic-3">[3]</a></sup> Def Jam released another compilation album, <i>The Best of DMX</i>, in 2011.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> which features hit singles including "Where the Hood At?" and "<a href="/w/index.php?title=X_Gon%27_Give_It_to_Ya&amp;action=edit&amp;redlink=1" class="new" title="X Gon' Give It to Ya (page does not exist)">X Gon' Give It to Ya</a>".
+</p><p>In 2009, DMX claimed he would pursue preaching  in <a href="/wiki/Jersey_City,_New_Jersey" title="Jersey City, New Jersey">Jersey City, New Jersey</a> but will also continue to produce music. He completed a Gospel album prior to his incarceration. According to <a href="/wiki/MTV" title="MTV">MTV</a>, he had semi-retired to study the <a href="/wiki/Bible" title="Bible">Bible</a> more in an effort to give messages behind the pulpit.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="2011.E2.80.93present:_Undisputed">2011–present: <i>Undisputed</i></span></h3>
+<p>On October 11, 2011 DMX performed at the 2011 <a href="/w/index.php?title=BET_Hip_Hop_Awards&amp;action=edit&amp;redlink=1" class="new" title="BET Hip Hop Awards (page does not exist)">BET Hip Hop Awards</a>. He stated that he has been working "nonstop, every day" on his seventh album, which was later titled <i><a href="/w/index.php?title=Undisputed_(DMX_album)&amp;action=edit&amp;redlink=1" class="new" title="Undisputed (DMX album) (page does not exist)">Undisputed</a></i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> A video for a new track entitled "Last Hope" was released via Internet on September 24, 2011, and was later included on <i><a href="/w/index.php?title=The_Weigh_In&amp;action=edit&amp;redlink=1" class="new" title="The Weigh In (page does not exist)">The Weigh In</a></i> EP released digitally on May 5, 2012.
+</p><p>In late February 2012, <a href="/w/index.php?title=Seven_Arts_Pictures&amp;action=edit&amp;redlink=1" class="new" title="Seven Arts Pictures (page does not exist)">Seven Arts Entertainment Inc.</a> acquired United Music Media Group's music assets (which included a catalog of DMX's music),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and signed DMX to a two album deal. During a performance at <a href="/w/index.php?title=New_York&amp;action=edit&amp;redlink=1" class="new" title="New York (page does not exist)">New York</a>'s <a href="/w/index.php?title=Santos_Party_House&amp;action=edit&amp;redlink=1" class="new" title="Santos Party House (page does not exist)">Santos Party House</a> on December 25, 2011, DMX stated that the new album will be entitled <i>Undisputed</i> and would be released on March 26, 2012. After numerous delays<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> the album was eventually released on September 11, 2012 and featured production from <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a> and <a href="/w/index.php?title=J.R._Rotem&amp;action=edit&amp;redlink=1" class="new" title="J.R. Rotem (page does not exist)">J.R. Rotem</a> with a guest appearance by <a href="/w/index.php?title=MGK&amp;action=edit&amp;redlink=1" class="new" title="MGK (page does not exist)">MGK</a>.
+</p><p>In 2013, DMX announced he had begun working on his eighth studio album. He has been seen collaborating with producers <a href="/wiki/Swizz_Beatz" title="Swizz Beatz">Swizz Beatz</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> and <a href="/w/index.php?title=Dame_Grease&amp;action=edit&amp;redlink=1" class="new" title="Dame Grease (page does not exist)">Dame Grease</a>. In December, after regaining his passport, he embarked on a "world tour" with performances in <a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> and <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>, with additional performances expected in Europe and the Middle East.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span></h2>
+<p>DMX is the father of twelve children. He was married to Tashera Simmons in 1999 and they were married for eleven years.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> In July 2010, Tashera announced their separation (two weeks following DMX's release from prison).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> DMX maintains that the two remain friends.<sup id="cite_ref-stupiddope.com_19-0" class="reference"><a href="#cite_note-stupiddope.com-19">[19]</a></sup>
+</p><p>DMX had multiple extramarital affairs during his marriage to Simmons, some of which produced children. DNA testing confirmed that he is the father of at least two of these children; the first was born to <a href="/wiki/Maryland" title="Maryland">Maryland</a> resident Monique Wayne in 2004, the second to a different woman in late 2008.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> DMX and Wayne fought over her claim that he was the father of her son for years, during which she has sued him repeatedly for defamation of character,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> and for <a href="/wiki/Child_support" title="Child support">child support</a>. After DNA testing proved DMX fathered Wayne's son in 2007, he was ordered to pay her $1.5 million.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+</p><p>On July 30, 2013, DMX filed for <a href="/wiki/Chapter_11,_Title_11,_United_States_Code" title="Chapter 11, Title 11, United States Code">Chapter 11</a> bankruptcy, citing his child support obligations as his priority claim.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> The filing was challenged by the Department of Justice's bankruptcy watchdog <a href="/wiki/United_States_Trustee_Program" title="United States Trustee Program">trustee</a> program,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> and was later dismissed by the U.S. Bankruptcy Court in Manhattan on November 11, 2013.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legal_issues">Legal issues</span></h2>
+<p>Since becoming a public figure, DMX's multiple arrests have been for offenses including: animal cruelty,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> reckless driving,<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> unlicensed driving, drug possession,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> and identity falsification.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+</p><p><b>1998-99</b>
+</p>
+<ul>
+<li> DMX was tried for <a href="/w/index.php?title=Rape&amp;action=edit&amp;redlink=1" class="new" title="Rape (page does not exist)">rape</a> and <a href="/w/index.php?title=Sodomy&amp;action=edit&amp;redlink=1" class="new" title="Sodomy (page does not exist)">sodomy</a>, sexual abuse, and <a href="/w/index.php?title=Unlawful_imprisonment&amp;action=edit&amp;redlink=1" class="new" title="Unlawful imprisonment (page does not exist)">unlawful imprisonment</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><a href="/w/index.php?title=Template:Dead_link&amp;action=edit&amp;redlink=1" class="new" title="Template:Dead link (page does not exist)">Template:Dead link</a>  The case was dismissed when the <a href="/w/index.php?title=DNA_evidence&amp;action=edit&amp;redlink=1" class="new" title="DNA evidence (page does not exist)">DNA evidence</a> did not match his own DNA.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+</li>
+<li> DMX joined rappers Jay-Z, Method Man, and Redman for Jay-Z's 1999 <i>Hard Knock Life</i> tour, during which he was arrested for charges of a stabbing at a tour stop in Boston, Massachusetts; he was cleared of the charge (and another assault charge during the same year in his hometown of Yonkers).
+</li>
+<li> DMX and his wife were arrested in 1999 after his uncle (and then manager) was accidentally shot at a hotel in New Jersey, charged with animal cruelty and possession of <a href="/w/index.php?title=Crack_cocaine&amp;action=edit&amp;redlink=1" class="new" title="Crack cocaine (page does not exist)">crack cocaine</a> and weapons.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> DMX successfully <a href="/w/index.php?title=Plea-bargain&amp;action=edit&amp;redlink=1" class="new" title="Plea-bargain (page does not exist)">plea-bargained</a>, which reduced his sentence to paying fines, probation, and community service.
+</li>
+<li> When officers of the <a href="/w/index.php?title=Fort_Lee_Police_Department&amp;action=edit&amp;redlink=1" class="new" title="Fort Lee Police Department (page does not exist)">Fort Lee Police Department</a> executed a search of his home in 1999, DMX promptly surrendered himself on weapons possession charges.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+</li>
+</ul>
+<p><b>2000-05</b>
+</p>
+<ul>
+<li> DMX served a 15-day jail sentence in 2000 for possession of marijuana.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+</li>
+<li> Following a concert in <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a> in March 2000, DMX was arrested from a vehicle on New York State Route 33 in Cheektowaga, New York. He was charged with aggravated unlicensed operation of a motor vehicle, speeding, failure to signal, driving without a license, failure to notify the DMV of an address change, and possession of marijuana. He failed to appear at the subsequent hearing scheduled for March 21 in Cheektowaga, which lead to a warrant for his arrest. He later turned himself in, pled guilty to a reduced charge of driving without a license, and was sentenced to 15 days in jail and fined $400.
+</li>
+<li> DMX served another jail sentence in 2001 for driving without a license and possession of marijuana. His appeal to reduce the sentence was denied; rather, he was charged with assault for throwing objects at prison guards. DMX entered rehab to treat his addiction to drugs in 2002.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup>
+</li>
+<li> In June 2003, DMX was arrested for using indecent language during a performance at <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>. The country's Information Minister alleged that a contract signed before the concert stipulated the show would be without indecent language on stage. DMX was released on $376 bail.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>
+</li>
+<li> DMX was arrested in June 2004, at the <a href="/wiki/John_F._Kennedy_International_Airport" title="John F. Kennedy International Airport">John F. Kennedy International Airport</a>, on charges of <a href="/wiki/Cocaine" title="Cocaine">cocaine</a> possession, criminal impersonation, criminal possession of a weapon, criminal mischief, menacing, and driving under the influence of drugs or alcohol, while claiming to be a federal agent and attempting to <a href="/wiki/Carjack" title="Carjack" class="mw-redirect">carjack</a> a vehicle.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> He was given a conditional discharge on December 8, 2004, but pled guilty on October 25, 2005, to violating parole.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup>
+</li>
+<li> DMX was sentenced to 70 days in jail on November 18, 2005, for violating parole; the lateness charge added a 10-day extension to the original 60-day sentence.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> DMX was released early (for "good behavior") on December 30, 2005.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
+</li>
+</ul>
+<p><b>2008-11</b>
+</p>
+<ul>
+<li> DMX pled guilty to charges of drug possession, theft, and animal cruelty, at a hearing on December 30, 2008; he was sentenced to ninety days in jail on January 31, 2009.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>
+</li>
+<li>On May 22, 2009, DMX entered a plea agreement/change of plea, and pled guilty to attempted aggravated assault.
+</li>
+<li> After serving four out of six months for violating drug probation, DMX was released from jail on July 6, 2010.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup> That day, a television pilot was filmed to portray his road to recovery; however, DMX was arrested three weeks later and the pilot did not evolve into a series.
+</li>
+<li> On July 27, 2010, DMX turned himself in to Los Angeles Metropolitan Court for a reckless driving charge he received in 2002. He was sentenced to serve ninety days in jail.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup>
+</li>
+<li> DMX was arrested in <a href="/wiki/Maricopa_County,_Arizona" title="Maricopa County, Arizona">Maricopa County, Arizona</a> on November 19, 2010, on charges of violating his probation by consuming alcohol (at a performance). On December 20, 2010, DMX was moved to the Mental Health Unit of the Arizona State Prison,<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> and released on July 18, 2011.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>
+</li>
+<li> DMX was arrested on August 24, 2011, for speeding (recorded as 102&#160;mph in a 65&#160;mph zone), reckless driving, and driving with a suspended license. While DMX admitted to speeding, he claims he was driving 85&#160;mph, not 102&#160;mph as charged.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup>
+</li>
+</ul>
+<p><b>2013</b>
+</p>
+<ul>
+<li>DMX was arrested on February 13, 2013 in <a href="/wiki/Spartanburg,_South_Carolina" title="Spartanburg, South Carolina">Spartanburg, South Carolina</a> for driving without a drivers license.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
+</li>
+<li>He was arrested again on July 26, 2013 in <a href="/wiki/Greenville_County,_South_Carolina" title="Greenville County, South Carolina">Greenville County, South Carolina</a> and charged with <a href="/wiki/Driving_under_the_influence" title="Driving under the influence">driving under the influence</a> of alcohol, as well as driving without a license.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup>
+</li>
+<li>DMX was arrested on August 20, 2013 in <a href="/wiki/Greer,_South_Carolina" title="Greer, South Carolina">Greer, South Carolina</a> during a traffic stop after a car he was a passenger in made an improper u-turn. He was arrested due to an outstanding warrant for driving under suspension. Four packages of marijuana were also found in the vehicle, and he along with the driver were cited for them.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup>
+</li>
+<li>DMX was again arrested on November 4, 2013 by the <a href="/w/index.php?title=Greenville-Spartanburg_International_Airport&amp;action=edit&amp;redlink=1" class="new" title="Greenville-Spartanburg International Airport (page does not exist)">Greenville-Spartanburg International Airport</a> police near Greer, South Carolina after police, who were familiar with his prior arrests, noticed DMX behind the wheel of a vehicle at the terminal.  DMX was booked on charges of driving under suspension, having an uninsured vehicle, and not having a licensed vehicle.  He was subsequently released after spending three hours in jail.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Feud_with_Ja_Rule">Feud with Ja Rule</span></h2>
+<p>DMX and <a href="/wiki/Jay-Z" title="Jay-Z">Jay-Z</a> guest-starred on the single "It's Murda" from <a href="/wiki/Ja_Rule" title="Ja Rule">Ja Rule</a>'s first album. Ja Rule had previously feuded with <a href="/wiki/Busta_Rhymes" title="Busta Rhymes">Busta Rhymes</a>, <a href="/wiki/Dr._Dre" title="Dr. Dre">Dr. Dre</a>, <a href="/w/index.php?title=Eminem&amp;action=edit&amp;redlink=1" class="new" title="Eminem (page does not exist)">Eminem</a> and <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a>; all of which had been resolved or faded from significance. DMX accused Ja Rule of releasing records on which Ja Rule copied DMX's signature "gruff style". Four years after, the two rappers waged a war of words. DMX admitted that he initially wanted the feud to end when he was released from jail in 2005, before making peace: "<a href="/wiki/Irv_Gotti" title="Irv Gotti">Gotti</a> came to me in jail and said I want to make peace with you and him", said DMX, "I was like, 'Alright Gotti, lets do it."<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup> DMX and Ja Rule finally ended their feud at VH1's 2009 Hip Hop Honors.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<ul>
+<li><i><a href="/w/index.php?title=It%27s_Dark_and_Hell_Is_Hot&amp;action=edit&amp;redlink=1" class="new" title="It's Dark and Hell Is Hot (page does not exist)">It's Dark and Hell Is Hot</a></i> (1998)
+</li>
+<li><i><a href="/w/index.php?title=Flesh_of_My_Flesh,_Blood_of_My_Blood&amp;action=edit&amp;redlink=1" class="new" title="Flesh of My Flesh, Blood of My Blood (page does not exist)">Flesh of My Flesh, Blood of My Blood</a></i> (1998)
+</li>
+<li><i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i> (1999)
+</li>
+<li><i><a href="/w/index.php?title=The_Great_Depression_(DMX_album)&amp;action=edit&amp;redlink=1" class="new" title="The Great Depression (DMX album) (page does not exist)">The Great Depression</a></i> (2001)
+</li>
+<li><i><a href="/wiki/Grand_Champ" title="Grand Champ">Grand Champ</a></i> (2003)
+</li>
+<li><i><a href="/w/index.php?title=Year_of_the_Dog..._Again&amp;action=edit&amp;redlink=1" class="new" title="Year of the Dog... Again (page does not exist)">Year of the Dog... Again</a></i> (2006)
+</li>
+<li><i><a href="/w/index.php?title=Undisputed_(DMX_album)&amp;action=edit&amp;redlink=1" class="new" title="Undisputed (DMX album) (page does not exist)">Undisputed</a></i> (2012)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Awards_and_Nominations">Awards and Nominations</span></h2>
+<p><b>Grammy Awards</b>
+</p>
+<table class="wikitable">
+
+<tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=Grammy_Awards_of_2001&amp;action=edit&amp;redlink=1" class="new" title="Grammy Awards of 2001 (page does not exist)">2001</a>
+</td>
+<td><i><a href="/wiki/...And_Then_There_Was_X" title="...And Then There Was X">...And Then There Was X</a></i>
+</td>
+<td>Best Rap Album
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=Grammy_Awards_of_2001&amp;action=edit&amp;redlink=1" class="new" title="Grammy Awards of 2001 (page does not exist)">2001</a>
+</td>
+<td>"Party Up (Up In Here)"
+</td>
+<td>Best Rap Solo Performance
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=Grammy_Awards_of_2002&amp;action=edit&amp;redlink=1" class="new" title="Grammy Awards of 2002 (page does not exist)">2002</a>
+</td>
+<td>"Who We Be"
+</td>
+<td>Best Rap Solo Performance
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr></table>
+<p><a href="/wiki/American_Music_Award" title="American Music Award">American Music Awards</a>
+</p>
+<table class="wikitable">
+
+<tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=American_Music_Awards_of_2000&amp;action=edit&amp;redlink=1" class="new" title="American Music Awards of 2000 (page does not exist)">2000</a>
+</td>
+<td>DMX
+</td>
+<td>Favorite Rap/Hip-Hop Artist
+</td>
+<td><a href="/w/index.php?title=Template:Won&amp;action=edit&amp;redlink=1" class="new" title="Template:Won (page does not exist)">Template:Won</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=American_Music_Awards_of_2001&amp;action=edit&amp;redlink=1" class="new" title="American Music Awards of 2001 (page does not exist)">2001</a>
+</td>
+<td>DMX
+</td>
+<td>Favorite Rap/Hip-Hop Artist
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr></table>
+<p><a href="/wiki/MTV_Video_Music_Award" title="MTV Video Music Award">MTV Video Music Awards</a>
+</p>
+<table class="wikitable">
+
+<tr>
+<th>Year
+</th>
+<th>Nominated work
+</th>
+<th>Award
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=1999_MTV_Video_Music_Awards&amp;action=edit&amp;redlink=1" class="new" title="1999 MTV Video Music Awards (page does not exist)">1999</a>
+</td>
+<td>"Ruff Ryders Anthem"
+</td>
+<td><a href="/wiki/MTV_Video_Music_Award_for_Best_Rap_Video" title="MTV Video Music Award for Best Rap Video">Best Rap Video</a>
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=2000_MTV_Video_Music_Awards&amp;action=edit&amp;redlink=1" class="new" title="2000 MTV Video Music Awards (page does not exist)">2000</a>
+</td>
+<td>"Party Up(Up In Here)"
+</td>
+<td><a href="/wiki/MTV_Video_Music_Award_for_Best_Rap_Video" title="MTV Video Music Award for Best Rap Video">Best Rap Video</a>
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=2001_MTV_Video_Music_Awards&amp;action=edit&amp;redlink=1" class="new" title="2001 MTV Video Music Awards (page does not exist)">2001</a>
+</td>
+<td>"No Sunshine"
+</td>
+<td><a href="/w/index.php?title=Best_Video_from_a_Film&amp;action=edit&amp;redlink=1" class="new" title="Best Video from a Film (page does not exist)">Best Video from a Film</a>
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=2002_MTV_Video_Music_Awards&amp;action=edit&amp;redlink=1" class="new" title="2002 MTV Video Music Awards (page does not exist)">2002</a>
+</td>
+<td>"<a href="/w/index.php?title=Who_We_Be&amp;action=edit&amp;redlink=1" class="new" title="Who We Be (page does not exist)">Who We Be</a>"
+</td>
+<td><a href="/wiki/MTV_Video_Music_Award_for_Best_Rap_Video" title="MTV Video Music Award for Best Rap Video">Best Rap Video</a>
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=2002_MTV_Video_Music_Awards&amp;action=edit&amp;redlink=1" class="new" title="2002 MTV Video Music Awards (page does not exist)">2002</a>
+</td>
+<td>"Who We Be"
+</td>
+<td><a href="/wiki/MTV_Video_Music_Award_%E2%80%93_Breakthrough_Video" title="MTV Video Music Award – Breakthrough Video">Best Breakthrough Video</a>
+</td>
+<td><a href="/w/index.php?title=Template:Nom&amp;action=edit&amp;redlink=1" class="new" title="Template:Nom (page does not exist)">Template:Nom</a>
+</td></tr></table>
+<h2><span class="mw-headline" id="Filmography">Filmography</span></h2>
+<p><a href="/w/index.php?title=Template:Col-begin&amp;action=edit&amp;redlink=1" class="new" title="Template:Col-begin (page does not exist)">Template:Col-begin</a>
+<a href="/w/index.php?title=Template:Col-2&amp;action=edit&amp;redlink=1" class="new" title="Template:Col-2 (page does not exist)">Template:Col-2</a>
+</p>
+<dl>
+<dt>Films
+</dt>
+</dl>
+<table class="wikitable">
+
+<tr>
+<th> Year </th>
+<th> Title </th>
+<th> Role </th>
+<th> Notes
+</th></tr>
+<tr>
+<td> 1998 </td>
+<td> <i><a href="/wiki/Belly_(film)" title="Belly (film)">Belly</a></i> </td>
+<td> Tommy 'Buns' Bundy </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td rowspan="2"> 2000 </td>
+<td> <i><a href="/wiki/Romeo_Must_Die" title="Romeo Must Die">Romeo Must Die</a></i> </td>
+<td> Silk </td>
+<td> Support Role
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Backstage_(2000_film)&amp;action=edit&amp;redlink=1" class="new" title="Backstage (2000 film) (page does not exist)">Backstage</a></i>  </td>
+<td> As Himself </td>
+<td> Support Role
+</td></tr>
+<tr>
+<td> 2001 </td>
+<td> <i><a href="/wiki/Exit_Wounds" title="Exit Wounds">Exit Wounds</a></i> </td>
+<td> Latrell Walker </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> 2001 </td>
+<td> <i>Angel: One More Road to Cross</i> </td>
+<td> As Himself </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> 2003 </td>
+<td> <i><a href="/wiki/Cradle_2_the_Grave" title="Cradle 2 the Grave">Cradle 2 the Grave</a></i>  </td>
+<td> Anthony Fait </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> 2004 </td>
+<td> <i><a href="/wiki/Never_Die_Alone" title="Never Die Alone">Never Die Alone</a></i> </td>
+<td> King David </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> 2006 </td>
+<td> <i>Father of Lies</i> </td>
+<td> Paul </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> 2007 </td>
+<td> <i><a href="/w/index.php?title=Death_Toll&amp;action=edit&amp;redlink=1" class="new" title="Death Toll (page does not exist)">Death Toll</a></i> </td>
+<td> The Dog </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td rowspan="2"> 2008 </td>
+<td>  <i><a href="/w/index.php?title=Last_Hour&amp;action=edit&amp;redlink=1" class="new" title="Last Hour (page does not exist)">Last Hour</a></i> </td>
+<td> Black Jack </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Lords_of_the_Street&amp;action=edit&amp;redlink=1" class="new" title="Lords of the Street (page does not exist)">Lords of the Street</a></i> </td>
+<td> Thorn </td>
+<td> Support Role
+</td></tr>
+<tr>
+<td rowspan="2"> 2009 </td>
+<td> <i>Lockjaw: Rise of the Kulev Serpent</i> </td>
+<td> Nick </td>
+<td> Support Role
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Bleeding_(film)&amp;action=edit&amp;redlink=1" class="new" title="The Bleeding (film) (page does not exist)">The Bleeding</a></i> </td>
+<td> Tagg </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td rowspan="2"> 2013 </td>
+<td> <i>King Dog</i><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> </td>
+<td> Terrell (TJ) Johnson </td>
+<td> Main Role
+</td></tr>
+<tr>
+<td> <i>Blame It On The Hustle</i><sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup> </td>
+<td> - </td>
+<td> Main Role
+</td></tr>
+</table>
+<dl>
+<dt>Video Games
+</dt>
+</dl>
+<table class="wikitable">
+
+<tr>
+<th> Year </th>
+<th> Title </th>
+<th> Role </th>
+<th> Notes
+</th></tr>
+<tr>
+<td> 2003 </td>
+<td><i><a href="/wiki/Def_Jam_Vendetta" title="Def Jam Vendetta">Def Jam Vendetta</a></i> </td>
+<td> Himself </td>
+<td> Voice role and likeness
+</td></tr></table>
+<dl>
+<dt>Television
+</dt>
+</dl>
+<table class="wikitable">
+
+<tr>
+<th> Year </th>
+<th> Title </th>
+<th> Role </th>
+<th> Notes
+</th></tr>
+<tr>
+<td rowspan="2"> 2003 </td>
+<td> <i><a href="/wiki/Third_Watch" title="Third Watch">Third Watch</a></i> </td>
+<td> Kandid Jones </td>
+<td> "In Lieu of Johnson" (episode 92, season 5)
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Eve_(TV_series)" title="Eve (TV series)">Eve</a></i> </td>
+<td> Xenon </td>
+<td> "She Snoops to Conquer" (episode 3, season 1)
+</td></tr>
+<tr>
+<td> 2004 </td>
+<td> <i><a href="/wiki/Chappelle%27s_Show" title="Chappelle's Show">Chappelle's Show</a></i> </td>
+<td> As Himself </td>
+<td> (episode 16, season 2)/Music Guest
+</td></tr>
+<tr>
+<td> 2006 </td>
+<td> <i><a href="/w/index.php?title=DMX:_Soul_of_a_Man&amp;action=edit&amp;redlink=1" class="new" title="DMX: Soul of a Man (page does not exist)">DMX: Soul of a Man</a></i> </td>
+<td> As Himself </td>
+<td> Documentary
+</td></tr>
+<tr>
+<td> 2012 </td>
+<td> <i>Couples Therapy</i> </td>
+<td>As Himself </td>
+<td> Documentary
+</td></tr>
+<tr>
+<td> 2013 </td>
+<td> <i><a href="/w/index.php?title=Iyanla,_Fix_My_Life&amp;action=edit&amp;redlink=1" class="new" title="Iyanla, Fix My Life (page does not exist)">Iyanla, Fix My Life</a></i> </td>
+<td> As Himself</td>
+<td> "Fix My Rap Star Life" (episode 1, season 2)
+</td></tr>
+</table>
+<p><a href="/w/index.php?title=Template:Col-end&amp;action=edit&amp;redlink=1" class="new" title="Template:Col-end (page does not exist)">Template:Col-end</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Facebook_user&amp;action=edit&amp;redlink=1" class="new" title="Template:Facebook user (page does not exist)">Template:Facebook user</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0229422/"></a><a href="/w/index.php?title=Template:Title_without_disambig&amp;action=edit&amp;redlink=1" class="new" title="Template:Title without disambig (page does not exist)">Template:Title without disambig</a><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm0229422/"></a> at the <a href="/w/index.php?title=Internet_Movie_Database&amp;action=edit&amp;redlink=1" class="new" title="Internet Movie Database (page does not exist)">Internet Movie Database</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:DMX&amp;action=edit&amp;redlink=1" class="new" title="Template:DMX (page does not exist)">Template:DMX</a>
+<a href="/w/index.php?title=Template:Ruff_Ryders&amp;action=edit&amp;redlink=1" class="new" title="Template:Ruff Ryders (page does not exist)">Template:Ruff Ryders</a>
+<a href="/w/index.php?title=Template:Def_Jam_Recordings&amp;action=edit&amp;redlink=1" class="new" title="Template:Def Jam Recordings (page does not exist)">Template:Def Jam Recordings</a>
+</p><p><a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.560 seconds
+Real time usage: 1.135 seconds
+Preprocessor visited node count: 1387/1000000
+Preprocessor generated node count: 6871/1000000
+Post‐expand include size: 1653/2097152 bytes
+Template argument size: 30/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:121731-0!*!0!!en!*!* and timestamp 20170407172523
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=DMX_(rapper)&amp;oldid=121731">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=DMX_(rapper)&amp;oldid=121731</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:1970_births" title="Category:1970 births">1970 births</a></li><li><a href="/w/index.php?title=Category:African-American_male_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:African-American male actors (page does not exist)">African-American male actors</a></li><li><a href="/w/index.php?title=Category:African-American_Christians&amp;action=edit&amp;redlink=1" class="new" title="Category:African-American Christians (page does not exist)">African-American Christians</a></li><li><a href="/w/index.php?title=Category:African-American_male_rappers&amp;action=edit&amp;redlink=1" class="new" title="Category:African-American male rappers (page does not exist)">African-American male rappers</a></li><li><a href="/w/index.php?title=Category:American_male_film_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:American male film actors (page does not exist)">American male film actors</a></li><li><a href="/w/index.php?title=Category:American_people_convicted_of_cruelty_to_animals&amp;action=edit&amp;redlink=1" class="new" title="Category:American people convicted of cruelty to animals (page does not exist)">American people convicted of cruelty to animals</a></li><li><a href="/w/index.php?title=Category:American_people_convicted_of_theft&amp;action=edit&amp;redlink=1" class="new" title="Category:American people convicted of theft (page does not exist)">American people convicted of theft</a></li><li><a href="/w/index.php?title=Category:Def_Jam_Recordings_artists&amp;action=edit&amp;redlink=1" class="new" title="Category:Def Jam Recordings artists (page does not exist)">Def Jam Recordings artists</a></li><li><a href="/w/index.php?title=Category:East_Coast_hip_hop_musicians&amp;action=edit&amp;redlink=1" class="new" title="Category:East Coast hip hop musicians (page does not exist)">East Coast hip hop musicians</a></li><li><a href="/w/index.php?title=Category:Living_people&amp;action=edit&amp;redlink=1" class="new" title="Category:Living people (page does not exist)">Living people</a></li><li><a href="/w/index.php?title=Category:Male_actors_from_New_York&amp;action=edit&amp;redlink=1" class="new" title="Category:Male actors from New York (page does not exist)">Male actors from New York</a></li><li><a href="/w/index.php?title=Category:Participants_in_American_reality_television_series&amp;action=edit&amp;redlink=1" class="new" title="Category:Participants in American reality television series (page does not exist)">Participants in American reality television series</a></li><li><a href="/w/index.php?title=Category:American_people_convicted_of_drug_offenses&amp;action=edit&amp;redlink=1" class="new" title="Category:American people convicted of drug offenses (page does not exist)">American people convicted of drug offenses</a></li><li><a href="/w/index.php?title=Category:People_from_Dobbs_Ferry,_New_York&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Dobbs Ferry, New York (page does not exist)">People from Dobbs Ferry, New York</a></li><li><a href="/w/index.php?title=Category:People_from_Mount_Vernon,_New_York&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Mount Vernon, New York (page does not exist)">People from Mount Vernon, New York</a></li><li><a href="/w/index.php?title=Category:People_from_Yonkers,_New_York&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Yonkers, New York (page does not exist)">People from Yonkers, New York</a></li><li><a href="/w/index.php?title=Category:Ruff_Ryders_artists&amp;action=edit&amp;redlink=1" class="new" title="Category:Ruff Ryders artists (page does not exist)">Ruff Ryders artists</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DMX+%28rapper%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/DMX_(rapper)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:DMX_(rapper)&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/DMX_(rapper)" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=DMX_(rapper)&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=DMX_(rapper)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/DMX_(rapper)" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/DMX_(rapper)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=DMX_(rapper)&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=DMX_(rapper)&amp;oldid=121731" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=DMX_(rapper)&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 January 2014, at 05:51.</li>
+											<li id="footer-info-viewcount">This page has been accessed 111 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.585 secs. -->
+	</body>
+</html>

@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Olympic symbols - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Olympic_symbols","wgTitle":"Olympic symbols","wgCurRevisionId":437087,"wgRevisionId":437087,"wgArticleId":437087,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Olympic symbols","Olympic movement","International flags","Sports symbols"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Olympic_symbols","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Olympic_symbols skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Olympic symbols</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+<a href="/w/index.php?title=Template:Olympic_Games_infobox&amp;action=edit&amp;redlink=1" class="new" title="Template:Olympic Games infobox (page does not exist)">Template:Olympic Games infobox</a>
+The <b>Olympic symbols</b> are icons, <a href="/wiki/Flag" title="Flag">flags</a> and symbols used by the <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">International Olympic Committee</a> to promote the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>. Some - such as the flame, fanfare, and theme - are more common during Olympic competition, but others, such as the flag, can be seen throughout the year.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Motto"><span class="tocnumber">1</span> <span class="toctext">Motto</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Symbol"><span class="tocnumber">2</span> <span class="toctext">Symbol</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Flag"><span class="tocnumber">3</span> <span class="toctext">Flag</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Specific_flags"><span class="tocnumber">3.1</span> <span class="toctext">Specific flags</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Antwerp_flag"><span class="tocnumber">3.1.1</span> <span class="toctext">Antwerp flag</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Oslo_flag"><span class="tocnumber">3.1.2</span> <span class="toctext">Oslo flag</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Seoul_flag"><span class="tocnumber">3.1.3</span> <span class="toctext">Seoul flag</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Singapore_flag"><span class="tocnumber">3.1.4</span> <span class="toctext">Singapore flag</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Flame_and_torch_relay"><span class="tocnumber">4</span> <span class="toctext">Flame and torch relay</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Medals"><span class="tocnumber">5</span> <span class="toctext">Medals</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Anthems"><span class="tocnumber">6</span> <span class="toctext">Anthems</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Kotinos"><span class="tocnumber">7</span> <span class="toctext">Kotinos</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Olympic_salute"><span class="tocnumber">8</span> <span class="toctext">Olympic salute</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Mascots"><span class="tocnumber">9</span> <span class="toctext">Mascots</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Intellectual_property"><span class="tocnumber">10</span> <span class="toctext">Intellectual property</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Modern_Olympics_movement"><span class="tocnumber">11.1</span> <span class="toctext">Modern Olympics movement</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Other"><span class="tocnumber">11.2</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Motto">Motto</span></h2>
+<p>The Olympic motto is the <a href="/wiki/Hendiatris" title="Hendiatris">hendiatris</a> <i>Citius, Altius, Fortius</i>, which is <a href="/wiki/Latin" title="Latin">Latin</a> for "Faster, Higher, Stronger." 
+The motto was proposed by <a href="/wiki/Pierre_de_Coubertin" title="Pierre de Coubertin">Pierre de Coubertin</a> on the creation of the International Olympic Committee in 1894. Coubertin borrowed it from his friend <a href="/w/index.php?title=Henri_Didon&amp;action=edit&amp;redlink=1" class="new" title="Henri Didon (page does not exist)">Henri Didon</a>, a <a href="/wiki/Dominican_Order" title="Dominican Order">Dominican priest</a> who, amongst other things, was an athletics enthusiast.<sup id="cite_ref-motto_1-0" class="reference"><a href="#cite_note-motto-1">[1]</a></sup>
+</p><p>Coubertin said "These three words represent a programme of moral beauty. The aesthetics of sport are intangible."<sup id="cite_ref-motto_1-1" class="reference"><a href="#cite_note-motto-1">[1]</a></sup> The motto was introduced in 1924 at the Olympic Games in Paris.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+A more informal but well known motto, also introduced by Coubertin, is "The most important thing is not to win but to take part!" Coubertin got this motto from a sermon by the Bishop of Pennsylvania during the 1908 London Games.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Symbol">Symbol</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Olympic_rings_without_rims.svg" title="File:Olympic rings without rims.svg">File:Olympic rings without rims.svg</a>  <div class="thumbcaption">The five-ringed symbol of the Olympic Games.</div></div></div>
+<p>The symbol of the Olympic Games is composed of five interlocking rings, coloured blue, yellow, black, green, and red on a white field, known as the "Olympic rings". The symbol was originally designed in 1912 by Baron <a href="/wiki/Pierre_de_Coubertin" title="Pierre de Coubertin">Pierre de Coubertin</a>, co-founder of the modern Olympic Games. According to Coubertin, the ring colours with the white background stand for those colors that appeared on all the national flags that competed in the Olympic games at that time. Upon its initial introduction, Coubertin stated the following in the August, 1912 edition of <i>Olympique</i>:<a href="/w/index.php?title=Template:Full&amp;action=edit&amp;redlink=1" class="new" title="Template:Full (page does not exist)">Template:Full</a>
+</p>
+<dl>
+<dd> <i>"...the six colours [including the flag’s white background] thus combined reproduce the colours of all the nations, with no exception. The blue and yellow of Sweden, the blue and white of Greece, the tri- colours of France, England and America, Germany, Belgium, Italy, Hungary, the yellow and red of Spain next to the novelties of Brazil or Australia, with old Japan and new China. Here is truly an international symbol."</i>
+</dd>
+</dl>
+<p>In his article published in the "Olympic Revue" the official magazine of the International Olympic Committee in November 1992, the American historian Robert Barney explains that the idea of the interlaced rings came to Pierre de Coubertin when he was in charge of the <a href="/w/index.php?title=Union_des_Soci%C3%A9t%C3%A9s_Fran%C3%A7aises_de_Sports_Athl%C3%A9tiques&amp;action=edit&amp;redlink=1" class="new" title="Union des Sociétés Françaises de Sports Athlétiques (page does not exist)">USFSA</a>, an association founded by the union of two French sports associations and until 1925, responsible for representing the <a href="/wiki/International_Olympic_Committee" title="International Olympic Committee">International Olympic Committee</a> in France: The emblem of the union was two interlaced rings (like the <a href="/wiki/Vesica_piscis" title="Vesica piscis">vesica piscis</a> typical interlaced marriage rings) and originally the idea of Swiss psychiatrist <a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a>: for him, the ring symbolized continuity and the human being.<sup id="cite_ref-AAFLA_4-0" class="reference"><a href="#cite_note-AAFLA-4">[4]</a></sup>
+</p><p>The 1914 Congress had to be suspended because of the outbreak of World War I, but the symbol and flag were later adopted. They would first officially debut at the <a href="/wiki/Games_of_the_VII_Olympiad" title="Games of the VII Olympiad" class="mw-redirect">Games of the VII Olympiad</a> in <a href="/wiki/Antwerp_(city)" title="Antwerp (city)" class="mw-redirect">Antwerp, Belgium</a> in 1920.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</p><p>The symbol's popularity and widespread use began during the lead-up to the <a href="/wiki/1936_Summer_Olympics" title="1936 Summer Olympics">1936 Summer Olympics</a> in Berlin. <a href="/wiki/Carl_Diem" title="Carl Diem">Carl Diem</a>, president of the Organizing Committee of the <a href="/wiki/1936_Summer_Olympics" title="1936 Summer Olympics">1936 Summer Olympics</a>, wanted to hold a torchbearers' ceremony in the stadium at <a href="/wiki/Delphi" title="Delphi">Delphi</a>, site of the famous oracle, where the <a href="/wiki/Pythian_Games" title="Pythian Games">Pythian Games</a> were also held. For this reason he ordered construction of a milestone with the Olympic rings carved in the sides, and that a torchbearer should carry the flame along with an escort of three others from there to Berlin. The ceremony was celebrated but the stone was never removed. Later, two British authors Lynn and Gray Poole when visiting Delphi in the late 1950s saw the stone and reported in their "History of the Ancient Games" that the Olympic rings design came from ancient Greece. This has become known as "Carl Diem's Stone".<sup id="cite_ref-aldaver_6-0" class="reference"><a href="#cite_note-aldaver-6">[6]</a></sup> This created a myth that the symbol had an ancient Greek origin. The rings would subsequently be featured prominently in Nazi images in 1936 as part of an effort to glorify the <a href="/wiki/Third_Reich" title="Third Reich" class="mw-redirect">Third Reich</a>.<sup id="cite_ref-NYT_7-0" class="reference"><a href="#cite_note-NYT-7">[7]</a></sup>
+</p><p>The current view of the International Olympic Committee (IOC) is that the symbol "reinforces the idea" that the Olympic Movement is international and welcomes all countries of the world to join.<sup id="cite_ref-IOC_8-0" class="reference"><a href="#cite_note-IOC-8">[8]</a></sup> As can be read in the <a href="/wiki/Olympic_Charter" title="Olympic Charter">Olympic Charter</a>, the Olympic symbol represents the union of the five regions of the world and the meeting of athletes from throughout the world at the Olympic Games. However, no continent is represented by any specific ring. Prior to 1951, the official handbook stated that each colour corresponded to a particular continent: blue for Europe, yellow for Asia, black for Africa, green for Australia and Oceania and red for <a href="/wiki/Americas" title="Americas">America</a> (North and South considered as a single continent); this was removed because there was no evidence that Coubertin had intended it (the quote above was probably an afterthought).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Flag">Flag</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Olympic-flag-Victoria.jpg" title="File:Olympic-flag-Victoria.jpg">File:Olympic-flag-Victoria.jpg</a>  <div class="thumbcaption">The Olympic flag flying in <a href="/wiki/Victoria,_British_Columbia" title="Victoria, British Columbia">Victoria</a>, Canada in recognition of the <a href="/wiki/2010_Winter_Olympics" title="2010 Winter Olympics">2010 Winter Olympics</a> in <a href="/wiki/Vancouver" title="Vancouver">Vancouver</a></div></div></div>
+<p>The Olympic flag was created by Pierre de Coubertin in 1914.
+</p>
+<blockquote class="toccolours" style="float:none; padding: 10px 15px 10px 15px; display:table;"> The Olympic flag ... has a white background, with five interlaced rings in the centre: blue, yellow, black, green and red ... This design is symbolic&#160;; it represents the five inhabited <a href="/wiki/Continents" title="Continents" class="mw-redirect">continents</a> of the world, united by Olympism, while the six colors are those that appear on all the national flags of the world at the present time.
+<p style="text-align: right;"> — Pierre de Coubertin (1931)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p></blockquote>
+<h3><span class="mw-headline" id="Specific_flags">Specific flags</span></h3>
+<p>There are specific Olympic flags that are displayed by cities that will be hosting the next Olympic games. During each Olympic closing ceremony in what is traditionally known as the Antwerp Ceremony,<sup id="cite_ref-OCprotocol2_11-0" class="reference"><a href="#cite_note-OCprotocol2-11">[11]</a></sup> the flag is passed from the mayor of one host city to the next host, where it will then be taken to the new host and displayed at city hall. These flags should not be confused with the larger Olympic flags designed and created specifically for each games, which are flown over the host stadium and then retired. Because there is no specific flag for this purpose, the flags flown over the stadiums generally have subtle differences, including minor color variations, and, more noticeably, the presence (or lack) of white outlines around each ring.
+</p>
+<h4><span class="mw-headline" id="Antwerp_flag">Antwerp flag</span></h4>
+<p>The first Olympic flag was presented to the IOC at the <a href="/wiki/1920_Summer_Olympics" title="1920 Summer Olympics">1920 Summer Olympics</a> by the city of <a href="/wiki/Antwerp,_Belgium" title="Antwerp, Belgium" class="mw-redirect">Antwerp, Belgium</a>. At the end of the Games, the flag could not be found and a new Olympic flag had to be made for the <a href="/wiki/1924_Summer_Olympics" title="1924 Summer Olympics">1924 Summer Olympics</a> in Paris. Despite it being a replacement, the IOC officially still calls this the "Antwerp Flag" instead of the "Paris Flag"<sup id="cite_ref-Vancouver2010Symbols_12-0" class="reference"><a href="#cite_note-Vancouver2010Symbols-12">[12]</a></sup> It was passed on to the next organizing city of the <a href="/wiki/Summer_Olympics" title="Summer Olympics" class="mw-redirect">Summer Olympics</a> or <a href="/wiki/Winter_Olympics" title="Winter Olympics" class="mw-redirect">Winter Olympics</a> until the <a href="/wiki/1952_Winter_Olympics" title="1952 Winter Olympics">1952 Winter Olympics</a> in <a href="/wiki/Oslo,_Norway" title="Oslo, Norway" class="mw-redirect">Oslo, Norway</a> when a separate Olympic flag was created to be used only at the Winter Olympics <i>(see below)</i>. The 1924 flag then continued to be used at the Summer Olympics until the Games of <a href="/wiki/1988_Summer_Olympics" title="1988 Summer Olympics">Seoul 1988</a> when it was retired.
+</p><p>In 1997, at a banquet hosted by the US Olympic Committee, a reporter was interviewing <a href="/wiki/Hal_Haig_Prieste" title="Hal Haig Prieste">Hal Haig Prieste</a> who had won a bronze medal in platform diving as a member of the 1920 US Olympic team. The reporter mentioned that the IOC had not been able to find out what had happened to the original Olympic flag. "I can help you with that," Prieste said, "It's in my suitcase." At the end of the Antwerp Olympics, spurred on by team-mate <a href="/wiki/Duke_Kahanamoku" title="Duke Kahanamoku">Duke Kahanamoku</a>, he climbed a flagpole and stole the Olympic flag. For 77 years the flag was stored away in the bottom of his suitcase. The flag was returned to the IOC by Prieste, by then 103 years old, in a special ceremony held at the 2000 Games in Sydney.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The original Antwerp Flag is now on display at the Olympic Museum in Lausanne, Switzerland, with a plaque thanking him for donating it.<a rel="nofollow" class="external autonumber" href="http://www.larepublica.com.uy/deportes/21819-despues-de-ochenta-anos-le-remordio-la-conciencia">[1]</a>
+</p>
+<h4><span class="mw-headline" id="Oslo_flag">Oslo flag</span></h4>
+<p>The Oslo flag was presented to the IOC by the mayor of <a href="/wiki/Oslo,_Norway" title="Oslo, Norway" class="mw-redirect">Oslo, Norway</a> during the <a href="/wiki/1952_Winter_Olympics" title="1952 Winter Olympics">1952 Winter Olympics</a>. Since then, it has been passed to the next organizing city for the <a href="/wiki/Winter_Olympics" title="Winter Olympics" class="mw-redirect">Winter Olympics</a>. Currently, the actual Oslo flag is kept preserved in a special box, and a replica has been used during recent closing ceremonies instead.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Seoul_flag">Seoul flag</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Skoreaandolympicflag.jpg" title="File:Skoreaandolympicflag.jpg">File:Skoreaandolympicflag.jpg</a>  <div class="thumbcaption"><a href="/wiki/Flag_of_South_Korea" title="Flag of South Korea">Flag of South Korea</a> alongside an Olympic Flag in <a href="/w/index.php?title=Olympic_Park,_Seoul&amp;action=edit&amp;redlink=1" class="new" title="Olympic Park, Seoul (page does not exist)">Olympic Park, Seoul</a></div></div></div>
+<p>As a successor to the Antwerp Flag,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> the Seoul flag was presented to the IOC at the <a href="/wiki/1988_Summer_Olympics" title="1988 Summer Olympics">1988 Summer Olympics</a> by the city of <a href="/w/index.php?title=Seoul&amp;action=edit&amp;redlink=1" class="new" title="Seoul (page does not exist)">Seoul</a>, South Korea, and has since then been passed on to the next organizing city of the <a href="/wiki/Summer_Olympics" title="Summer Olympics" class="mw-redirect">Summer Olympics</a>.
+</p>
+<h4><span class="mw-headline" id="Singapore_flag">Singapore flag</span></h4>
+<p>For the inaugural <a href="/w/index.php?title=Youth_Olympic_Games&amp;action=edit&amp;redlink=1" class="new" title="Youth Olympic Games (page does not exist)">Youth Olympic Games</a>, an Olympic flag was created for the junior version of the Games.<sup id="cite_ref-singapore_16-0" class="reference"><a href="#cite_note-singapore-16">[16]</a></sup><sup id="cite_ref-singapore2_17-0" class="reference"><a href="#cite_note-singapore2-17">[17]</a></sup> The flag is similar in most ways to the Olympic flag, but has the words "Singapore 2010" on it and was first presented to Singapore by <a href="/wiki/IOC" title="IOC" class="mw-redirect">IOC</a> President <a href="/wiki/Jacques_Rogge" title="Jacques Rogge">Jacques Rogge</a>.<sup id="cite_ref-singapore_16-1" class="reference"><a href="#cite_note-singapore-16">[16]</a></sup><sup id="cite_ref-singapore2_17-1" class="reference"><a href="#cite_note-singapore2-17">[17]</a></sup> It was handed over to the next organising committee, <a href="/w/index.php?title=Nanjing_2014&amp;action=edit&amp;redlink=1" class="new" title="Nanjing 2014 (page does not exist)">Nanjing 2014</a>, during the closing ceremony on 26 August 2010.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Flame_and_torch_relay">Flame and torch relay</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+The modern tradition of moving the Olympic Flame via a relay system from Greece to the Olympic venue began with the Berlin Games in 1936. Months before the Games are held, the Olympic Flame is lit on a torch, with the rays of the Sun concentrated by a <a href="/wiki/Parabolic_reflector" title="Parabolic reflector">parabolic reflector</a>, at the site of the Ancient Olympics in <a href="/wiki/Olympia,_Greece" title="Olympia, Greece">Olympia, Greece</a>. The torch is then taken out of Greece, most often to be taken around the country or continent where the Games are held. The Olympic torch is carried by athletes, leaders, celebrities and ordinary people alike, and at times in unusual conditions, such as being electronically transmitted via satellite for <a href="/w/index.php?title=Montreal_1976&amp;action=edit&amp;redlink=1" class="new" title="Montreal 1976 (page does not exist)">Montreal 1976</a>, or submerged underwater without being extinguished for <a href="/wiki/Sydney_2000" title="Sydney 2000" class="mw-redirect">Sydney 2000</a>. On the final day of the torch relay, the day of the Opening Ceremony, the Flame reaches the main stadium and is used to light a cauldron situated in a prominent part of the venue to signify the beginning of the Games.
+</p>
+<h2><span class="mw-headline" id="Medals">Medals</span></h2>
+<p>The Olympic medals awarded to winners are another symbol associated with the Olympic games. The medals are made of <a href="/w/index.php?title=Gold-plated&amp;action=edit&amp;redlink=1" class="new" title="Gold-plated (page does not exist)">gold-plated</a> silver (commonly described as <a href="/wiki/Gold_medal" title="Gold medal">gold medals</a>), silver, or <a href="/wiki/Bronze" title="Bronze">bronze</a>, and awarded to the top 3 finishers in a particular event. Each medal for an Olympiad has a common design, decided upon by the organizers for the particular games. From 1928 until 2000, the obverse side of the medals contained an image of <a href="/w/index.php?title=Nike_(mythology)&amp;action=edit&amp;redlink=1" class="new" title="Nike (mythology) (page does not exist)">Nike</a>, the traditional goddess of victory, holding a palm in her left hand and a winner's crown in her right. This design was created by Giuseppe Cassioli. For each Olympic games, the reverse side as well as the labels for each Olympiad changed, reflecting the host of the games.
+</p><p>In 2004, the obverse side of the medals changed to make more explicit reference to the Greek character of the games. In this design, the goddess Nike flies into the Panathenic stadium, reflecting the renewal of the games. The design was by Greek jewelry designer <a href="/w/index.php?title=Elena_Votsi&amp;action=edit&amp;redlink=1" class="new" title="Elena Votsi (page does not exist)">Elena Votsi</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Anthems">Anthems</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/w/index.php?title=Template:Side_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Side box (page does not exist)">Template:Side box</a><a href="/w/index.php?title=Template:Main_other&amp;action=edit&amp;redlink=1" class="new" title="Template:Main other (page does not exist)">Template:Main other</a>
+The <b><a href="/wiki/Olympic_Hymn" title="Olympic Hymn">Olympic Hymn</a></b>, officially known as the <b>Olympic Anthem</b>, is played when the Olympic Flag is raised. It is a musical piece composed by <a href="/w/index.php?title=Spyridon_Samaras&amp;action=edit&amp;redlink=1" class="new" title="Spyridon Samaras (page does not exist)">Spyridon Samaras</a> with words written from a poem of the <a href="/wiki/Greeks" title="Greeks">Greek</a> poet and writer <a href="/wiki/Kostis_Palamas" title="Kostis Palamas">Kostis Palamas</a>. Both the poet and the composer were the choice of <a href="/wiki/Demetrius_Vikelas" title="Demetrius Vikelas">Demetrius Vikelas</a>, a Greek <a href="/w/index.php?title=Pro-European&amp;action=edit&amp;redlink=1" class="new" title="Pro-European (page does not exist)">Pro-European</a> and the first President of the IOC. The anthem was performed for the first time for the ceremony of opening of the <a href="/wiki/1896_Summer_Olympics" title="1896 Summer Olympics">1896 Athens Olympic Games</a> but wasn't declared the official hymn by the IOC until 1957. In the following years, every hosting nation commissioned the composition of a specific Olympic hymn for their own edition of the Games until the <a href="/wiki/1960_Summer_Olympics" title="1960 Summer Olympics">1960 Summer Olympics</a> in Rome.
+</p><p>Other notable Olympic anthems and fanfares include:
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:AarreMerikanto1952.jpg" title="File:AarreMerikanto1952.jpg">File:AarreMerikanto1952.jpg</a>  <div class="thumbcaption">The composer of the 1952 Olympic Fanfare, <a href="/wiki/Aarre_Merikanto" title="Aarre Merikanto">Aarre Merikanto</a> with his pipe, at <a href="/wiki/Helsinki_Olympic_Stadium" title="Helsinki Olympic Stadium">Helsinki Olympic Stadium</a> during the games.</div></div></div>
+<ul>
+<li><a href="/w/index.php?title=Olympische_Hymne&amp;action=edit&amp;redlink=1" class="new" title="Olympische Hymne (page does not exist)">Olympische Hymne</a>: A composition for orchestra and mixed chorus composed by <a href="/wiki/Richard_Strauss" title="Richard Strauss">Richard Strauss</a> for the <a href="/wiki/1936_Summer_Olympics" title="1936 Summer Olympics">1936 Berlin Summer Olympics</a>.
+</li>
+<li> The Olympic Fanfare for the <a href="/wiki/1952_Summer_Olympics" title="1952 Summer Olympics">1952 Helsinki Summer Olympics</a> was originally composed by <a href="/wiki/Aarre_Merikanto" title="Aarre Merikanto">Aarre Merikanto</a> for the <a href="/wiki/1940_Summer_Olympics" title="1940 Summer Olympics">1940 Summer Olympics</a>, which were cancelled. Merikanto's Fanfare won the fanfare contest organized in <a href="/wiki/Finland" title="Finland">Finland</a> in 1939, but the score was lost over a decade; when rediscovered in 1951, it was decided to use this Fanfare in 1952. The popular Fanfare was recorded in 1953.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</li>
+<li><a href="/w/index.php?title=Bugler%27s_Dream&amp;action=edit&amp;redlink=1" class="new" title="Bugler's Dream (page does not exist)">Bugler's Dream</a>: Written in 1958 by <a href="/w/index.php?title=Leo_Arnaud&amp;action=edit&amp;redlink=1" class="new" title="Leo Arnaud (page does not exist)">Leo Arnaud</a> as part of his <i>Charge Suite</i>, the theme is often mistaken by Americans as the "Olympic theme" from its usage in television coverage by <a href="/w/index.php?title=Olympics_on_ABC&amp;action=edit&amp;redlink=1" class="new" title="Olympics on ABC (page does not exist)">ABC</a> and <a href="/w/index.php?title=Olympics_on_NBC&amp;action=edit&amp;redlink=1" class="new" title="Olympics on NBC (page does not exist)">NBC</a>, starting with the 1964 Olympics.
+</li>
+<li>Olympic Fanfare 1972: The winning submission for the <a href="/wiki/Munich" title="Munich">Munich</a> <a href="/wiki/1972_Summer_Olympics" title="1972 Summer Olympics">1972 Summer Olympics</a> theme song, used as the TV signature tune of the German Olympic Centre (Deutsches Olympia-Zentrum, DOZ) and the prelude to the medal ceremonies, composed by <a href="/w/index.php?title=Herbert_Rehbein&amp;action=edit&amp;redlink=1" class="new" title="Herbert Rehbein (page does not exist)">Herbert Rehbein</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> It was performed by the <a href="/w/index.php?title=Bavarian_Radio_Symphony_Orchestra&amp;action=edit&amp;redlink=1" class="new" title="Bavarian Radio Symphony Orchestra (page does not exist)">Orchestra of the Bavarian Broadcasting Company</a> (<i>Orchester des Bayerischen Rundfunks</i>) and members of the <a href="/w/index.php?title=United_States_Air_Force_Band&amp;action=edit&amp;redlink=1" class="new" title="United States Air Force Band (page does not exist)">Air Force Band</a> <a href="/w/index.php?title=Neubiberg_Air_Base&amp;action=edit&amp;redlink=1" class="new" title="Neubiberg Air Base (page does not exist)">Neubiberg</a>, conducted by Willy Mattes.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<ul>
+<li>Olympic Fanfare and Theme: Composed by <a href="/w/index.php?title=John_Williams_(composer)&amp;action=edit&amp;redlink=1" class="new" title="John Williams (composer) (page does not exist)">John Williams</a> for the <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> <a href="/wiki/1984_Summer_Olympics" title="1984 Summer Olympics">1984 Summer Olympics</a>, the theme was performed in the opening ceremonies by the <a href="/w/index.php?title=United_States_Army_Band&amp;action=edit&amp;redlink=1" class="new" title="United States Army Band (page does not exist)">United States Army Herald Trumpets</a> conducted by then-Captain David Deitrick.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> The first recording, performed by an orchestra composed of Los Angeles-area musicians, was released in its entirety on the LP and cassette album <i>The Official Music of the XXIIIrd Olympiad Los Angeles 1984</i>, with a concurrent Japan-only CD release (which went on to win a <a href="/w/index.php?title=Grammy_Awards_of_1985&amp;action=edit&amp;redlink=1" class="new" title="Grammy Awards of 1985 (page does not exist)">Grammy</a> in 1985).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> A slightly different arrangement of the piece was released on the Philips album <i>By Request: The Best of John Williams and the Boston Pops Orchestra</i>. In 1996, an alternate version of "Olympic Fanfare and Theme" was released on the album <i>Summon the Heroes</i> for the <a href="/wiki/1996_Summer_Olympics" title="1996 Summer Olympics">Atlanta Olympic Games</a>, replacing the first part of the piece with Arnaud's <i>Bugler's Dream</i>. The theme was also used in <a href="/w/index.php?title=2010_Winter_Olympics_closing_ceremony&amp;action=edit&amp;redlink=1" class="new" title="2010 Winter Olympics closing ceremony (page does not exist)">closing ceremony of the 2010 Olympic Games</a>, as the nations' flagbearers entered <a href="/w/index.php?title=BC_Place_Stadium&amp;action=edit&amp;redlink=1" class="new" title="BC Place Stadium (page does not exist)">BC Place Stadium</a> surrounding the Olympic Flame and when the Olympic Flag was brought into the stadium by Vancouver mayor <a href="/w/index.php?title=Gregor_Robertson_(politician)&amp;action=edit&amp;redlink=1" class="new" title="Gregor Robertson (politician) (page does not exist)">Gregor Robertson</a>.
+</li>
+<li>The Olympic Spirit: The theme written by John Williams for the <a href="/wiki/1988_Summer_Olympics" title="1988 Summer Olympics">1988 Olympics</a> in <a href="/w/index.php?title=Seoul&amp;action=edit&amp;redlink=1" class="new" title="Seoul (page does not exist)">Seoul</a> and used in the corresponding <a href="/w/index.php?title=Olympics_on_NBC&amp;action=edit&amp;redlink=1" class="new" title="Olympics on NBC (page does not exist)">NBC</a> broadcasts.
+</li>
+<li>Summon the Heroes: The theme written by John Williams for the <a href="/wiki/1996_Summer_Olympics" title="1996 Summer Olympics">1996 Summer Olympics</a> in <a href="/wiki/Atlanta" title="Atlanta">Atlanta</a>.
+</li>
+<li><a href="/wiki/Call_of_the_Champions" title="Call of the Champions">Call of the Champions</a>: The theme written by John Williams for the <a href="/wiki/2002_Winter_Olympics" title="2002 Winter Olympics">2002 Salt Lake Winter Olympics</a>.
+</li>
+</ul>
+<p>Several other composers have contributed Olympic music during the years, including <a href="/wiki/Henry_Mancini" title="Henry Mancini">Henry Mancini</a>, <a href="/wiki/Francis_Lai" title="Francis Lai">Francis Lai</a>, <a href="/wiki/Marvin_Hamlisch" title="Marvin Hamlisch">Marvin Hamlisch</a>, <a href="/wiki/Philip_Glass" title="Philip Glass">Philip Glass</a>, <a href="/wiki/David_Foster" title="David Foster">David Foster</a>, <a href="/wiki/Mikis_Theodorakis" title="Mikis Theodorakis">Mikis Theodorakis</a>, <a href="/wiki/Ryuichi_Sakamoto" title="Ryuichi Sakamoto">Ryuichi Sakamoto</a>, <a href="/wiki/Vangelis" title="Vangelis">Vangelis</a>, <a href="/wiki/Basil_Poledouris" title="Basil Poledouris">Basil Poledouris</a>, <a href="/wiki/Michael_Kamen" title="Michael Kamen">Michael Kamen</a>, and <a href="/w/index.php?title=Mark_Watters&amp;action=edit&amp;redlink=1" class="new" title="Mark Watters (page does not exist)">Mark Watters</a>.
+</p>
+<h2><span class="mw-headline" id="Kotinos">Kotinos</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+The <i>kotinos</i> (<a href="/w/index.php?title=Template:Lang-el&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-el (page does not exist)">Template:Lang-el</a>),<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> is an <a href="/wiki/Olive" title="Olive">olive</a> branch, originally of wild olive-tree, intertwined to form a circle or a horse-shoe, introduced by <a href="/wiki/Heracles" title="Heracles">Heracles</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> In the <a href="/w/index.php?title=Ancient_Olympic_Games&amp;action=edit&amp;redlink=1" class="new" title="Ancient Olympic Games (page does not exist)">ancient Olympic Games</a> there were no <a href="/wiki/Gold_medal#Olympic_Games" title="Gold medal">gold</a>, silver, or bronze medals. There was only one winner per event, crowned with an olive wreath made of wild olive leaves from a sacred tree near the temple of Zeus at Olympia. <a href="/wiki/Aristophanes" title="Aristophanes">Aristophanes</a> in <a href="/wiki/Plutus_(play)" title="Plutus (play)">Plutus</a> makes a sensible remark why victorious athletes are crowned with wreath made of wild olive instead of gold.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> The victorious athletes were honored, feted, and praised. Their deeds were heralded and chronicled so that future generations could appreciate their accomplishments.
+</p><p><a href="/wiki/Herodotus" title="Herodotus">Herodotus</a> describes the following story which is relevant to the olive wreath. <a href="/w/index.php?title=Xerxes_I_of_Persia&amp;action=edit&amp;redlink=1" class="new" title="Xerxes I of Persia (page does not exist)">Xerxes</a> was interrogating some <a href="/wiki/Arcadian" title="Arcadian" class="mw-redirect">Arcadians</a> after the <a href="/wiki/Battle_of_Thermopylae" title="Battle of Thermopylae">Battle of Thermopylae</a>. He inquired why there were so few Greek men defending the Thermopylae. The answer was "All other men are participating in the Olympic Games". And when asked "What is the prize for the winner?", "An olive-wreath" came the answer. Then <a href="/wiki/Tigranes" title="Tigranes">Tigranes</a>, one of his generals uttered a most noble saying: "Good heavens! <a href="/wiki/Mardonius" title="Mardonius">Mardonius</a>, what kind of men are these against whom you have brought us to fight? Men who do not compete for possessions, but for honour."<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+</p><p>However in later times, this was not their only reward; the athlete was rewarded with a generous sum of money by his hometown. The kotinos tradition was renewed specifically for the Athens 2004 Games, although in this case it was bestowed together with the gold medal. Apart from its use in the awards-ceremonies, the kotinos was chosen as the <a href="/wiki/2004_Summer_Olympics" title="2004 Summer Olympics">2004 Summer Olympics</a> emblem.
+</p>
+<h2><span class="mw-headline" id="Olympic_salute">Olympic salute</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:GraRuebAmsterdam.JPG" title="File:GraRuebAmsterdam.JPG">File:GraRuebAmsterdam.JPG</a>  <div class="thumbcaption"><i>The Olympic Salute</i> sculpted by <a href="/w/index.php?title=Gra_Rueb&amp;action=edit&amp;redlink=1" class="new" title="Gra Rueb (page does not exist)">Gra Rueb</a>, 1928.</div></div></div>
+<p>The Olympic salute is a variant of the <a href="/wiki/Roman_salute" title="Roman salute">Roman salute</a>, with the right arm and hand are stretched and pointing upward, the palm is outward and downward, with the fingers touching. However, the arm is raised higher and at an angle to the right from the shoulder.<sup id="cite_ref-1924poster_28-0" class="reference"><a href="#cite_note-1924poster-28">[28]</a></sup><sup id="cite_ref-Schaap_29-0" class="reference"><a href="#cite_note-Schaap-29">[29]</a></sup>
+</p><p>The greeting is visible on the official posters of the games at <a href="/wiki/1924_Summer_Olympics" title="1924 Summer Olympics">Paris 1924</a><sup id="cite_ref-1924poster_28-1" class="reference"><a href="#cite_note-1924poster-28">[28]</a></sup> and <a href="/wiki/1936_Summer_Olympics" title="1936 Summer Olympics">Berlin 1936</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> Also famous is the French and Canadian teams entering the Olympic stadium in Berlin, 1936 with their arms raised. In the <a href="/wiki/Leni_Riefenstahl" title="Leni Riefenstahl">Leni Riefenstahl</a> film <i><a href="/wiki/Olympia_(1938_film)" title="Olympia (1938 film)">Olympia</a></i> this scene was captured, and afterwards led to repeated misinterpretations suggesting that the French and Canadian delegations were saluting Hitler.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p>
+<h2><span class="mw-headline" id="Mascots">Mascots</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Since the <a href="/wiki/1968_Winter_Olympics" title="1968 Winter Olympics">1968 Winter Olympics</a> in <a href="/wiki/Grenoble" title="Grenoble">Grenoble</a>, France, the <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a> have had a <a href="/wiki/Mascot" title="Mascot">mascot</a>, usually an animal native to the area or occasionally human figures representing the cultural heritage. The first major mascot in the Olympic Games was <a href="/wiki/Misha" title="Misha">Misha</a> in the <a href="/wiki/1980_Summer_Olympics" title="1980 Summer Olympics">1980 Summer Olympics</a> in Moscow. Misha was used extensively during the opening and closing ceremonies, had a TV animated cartoon and appeared on several merchandise products. Nowadays, most of the merchandise aimed at young people focuses on the mascots, rather than the Olympic flag or organization logos.
+</p>
+<h2><span class="mw-headline" id="Intellectual_property">Intellectual property</span></h2>
+<p>The Olympic Movement is very protective of its symbols; as many jurisdictions have given the movement exclusive rights to <i>any</i> interlocking arrangement of five rings, and usage of the word "Olympic". They have taken action against numerous groups seen to have violated this trademark, including the <a href="/wiki/Gay_Games" title="Gay Games">Gay Games</a>, the <a href="/w/index.php?title=Minneapolis&amp;action=edit&amp;redlink=1" class="new" title="Minneapolis (page does not exist)">Minneapolis</a>, <a href="/wiki/Music_of_Minnesota" title="Music of Minnesota">Minnesota</a>-based band <a href="/w/index.php?title=The_Hopefuls&amp;action=edit&amp;redlink=1" class="new" title="The Hopefuls (page does not exist)">The Hopefuls</a> (formerly The Olympic Hopefuls), Redneck Olympics or <a href="/w/index.php?title=Redneck_Games&amp;action=edit&amp;redlink=1" class="new" title="Redneck Games (page does not exist)">Redneck Games</a>, <a href="/w/index.php?title=Awana&amp;action=edit&amp;redlink=1" class="new" title="Awana (page does not exist)">Awana Clubs International</a>, a Christian youth ministry who used the term for its competitive games, and <a href="/wiki/Wizards_of_the_Coast" title="Wizards of the Coast">Wizards of the Coast</a>, publisher at the time of the IOC's complaint of the card game <i><a href="/wiki/Legend_of_the_Five_Rings" title="Legend of the Five Rings">Legend of the Five Rings</a></i> and others. But a few companies have been successful in using the Olympic name, such as Olympic Paint, which even has a paintbrush in the form of a torch as its logo, and the former Greek airline <a href="/wiki/Olympic_Airlines" title="Olympic Airlines">Olympic Airlines</a>. Certain other sporting organizations and events have been granted permission by the IOC to use the word "Olympics" in their name, such as <a href="/wiki/Special_Olympics" title="Special Olympics">Special Olympics</a>, an international sporting event held every four years for people with intellectual disabilities.
+</p><p>In recent years, organizing committees have also demanded the passing of laws to combat <a href="/w/index.php?title=Ambush_marketing&amp;action=edit&amp;redlink=1" class="new" title="Ambush marketing (page does not exist)">ambush marketing</a> by non-official sponsors during the Games (such as the <a href="/w/index.php?title=London_Olympic_Games_and_Paralympic_Games_Act_2006&amp;action=edit&amp;redlink=1" class="new" title="London Olympic Games and Paralympic Games Act 2006 (page does not exist)">London Olympic Games and Paralympic Games Act 2006</a>), putting heavy restrictions on using any term or imagery that could constitute an unauthorized association with the games, including mere mentioning of the host city, the year, and others.<sup id="cite_ref-independent-180712_31-0" class="reference"><a href="#cite_note-independent-180712-31">[31]</a></sup><sup id="cite_ref-atalantic-130712_32-0" class="reference"><a href="#cite_note-atalantic-130712-32">[32]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<h3><span class="mw-headline" id="Modern_Olympics_movement">Modern Olympics movement</span></h3>
+<ul>
+<li> The <a href="/w/index.php?title=Olympic_mascot&amp;action=edit&amp;redlink=1" class="new" title="Olympic mascot (page does not exist)">Olympic mascot</a>: an animal native to the area or occasionally human figures representing the cultural heritage of the place where the Olympic Games are held.
+</li>
+<li> The <a href="/wiki/Olympic_Oath" title="Olympic Oath">Olympic Oath</a>: an oath to commit to competition in sport within the rules without doping. First taken at the <a href="/wiki/1920_Summer_Olympics" title="1920 Summer Olympics">1920 Summer Olympics</a> by the athletes, this was expanded to the judges at the <a href="/wiki/1972_Winter_Olympics" title="1972 Winter Olympics">1972 Winter Olympics</a>, and at the <a href="/w/index.php?title=2010_Summer_Youth_Olympics&amp;action=edit&amp;redlink=1" class="new" title="2010 Summer Youth Olympics (page does not exist)">2010 Summer Youth Olympics</a>, to the coaches.
+</li>
+<li> The <a href="/w/index.php?title=Olympic_Order&amp;action=edit&amp;redlink=1" class="new" title="Olympic Order (page does not exist)">Olympic Order</a>: an award conferred by the International Olympic Committee
+</li>
+<li> The <a href="/w/index.php?title=Olympic_emblem&amp;action=edit&amp;redlink=1" class="new" title="Olympic emblem (page does not exist)">Olympic emblem</a>: the emblem of every edition of the Olympic Games, usually combining the Olympic Rings with some elements representing the host city or country and its culture.
+</li>
+<li> The <a href="/w/index.php?title=Olympic_poster&amp;action=edit&amp;redlink=1" class="new" title="Olympic poster (page does not exist)">Olympic poster</a>: the poster of every edition of the Olympic Games, usually combining the Olympic aim with some elements representing the host city or country and its culture.
+</li>
+<li> The three Olympic pillars: sport, education, culture.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Other">Other</span></h3>
+<ul>
+<li> <a href="/w/index.php?title=Paralympic_symbols&amp;action=edit&amp;redlink=1" class="new" title="Paralympic symbols (page does not exist)">Paralympic symbols</a>
+</li>
+<li> <a href="/w/index.php?title=Olympiadane&amp;action=edit&amp;redlink=1" class="new" title="Olympiadane (page does not exist)">Olympiadane</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><b>Notes</b>
+<a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li> <a href="/w/index.php?title=Public_Broadcasting_Service&amp;action=edit&amp;redlink=1" class="new" title="Public Broadcasting Service (page does not exist)">PBS</a> The Real Olympics, 2004. <a rel="nofollow" class="external autonumber" href="http://www.shoppbs.org/product/index.jsp?productId=1816890">[2]</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://uk.youtube.com/watch?v=Du0Sej0iFqM">the Raising of the Olympic flag in London, 26 September 2008</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://olympic.webteka.com/all_mascots.htm">Olympic Files - Mascots (in Russian)</a>
+</li>
+<li> Bear Cub Misha Lover's Association, <a href="/wiki/1980_Summer_Olympics" title="1980 Summer Olympics">1980 Summer Olympics</a> mascot <i>Misha'</i>s fan page (in Japanese)
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Olympic_symbols&amp;action=edit&amp;redlink=1" class="new" title="Template:Olympic symbols (page does not exist)">Template:Olympic symbols</a>
+<a href="/w/index.php?title=Template:International_Olympic_Committee&amp;action=edit&amp;redlink=1" class="new" title="Template:International Olympic Committee (page does not exist)">Template:International Olympic Committee</a>
+{{#invoke: Navbox | navbox }}
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.504 seconds
+Real time usage: 0.526 seconds
+Preprocessor visited node count: 789/1000000
+Preprocessor generated node count: 6719/1000000
+Post‐expand include size: 1384/2097152 bytes
+Template argument size: 468/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:437087-0!*!0!!en!2!* and timestamp 20170407172231
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Olympic_symbols&amp;oldid=437087">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Olympic_symbols&amp;oldid=437087</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Olympic_symbols&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic symbols (page does not exist)">Olympic symbols</a></li><li><a href="/wiki/Category:Olympic_movement" title="Category:Olympic movement">Olympic movement</a></li><li><a href="/wiki/Category:International_flags" title="Category:International flags">International flags</a></li><li><a href="/w/index.php?title=Category:Sports_symbols&amp;action=edit&amp;redlink=1" class="new" title="Category:Sports symbols (page does not exist)">Sports symbols</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Olympic+symbols" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Olympic_symbols"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Olympic_symbols&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Olympic_symbols" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Olympic_symbols&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Olympic_symbols&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Olympic_symbols" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Olympic_symbols" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Olympic_symbols&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Olympic_symbols&amp;oldid=437087" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Olympic_symbols&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 January 2014, at 22:05.</li>
+											<li id="footer-info-viewcount">This page has been accessed 204 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.804 secs. -->
+	</body>
+</html>

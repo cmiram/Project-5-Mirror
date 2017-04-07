@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Richard Jewell - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Richard_Jewell","wgTitle":"Richard Jewell","wgCurRevisionId":938623,"wgRevisionId":938623,"wgArticleId":938623,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Security guards","Deaths from myocardial infarction","Deaths from diabetes","People from Meriwether County, Georgia","American deputy sheriffs","1962 births","2007 deaths"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Richard_Jewell","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Richard_Jewell skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Richard Jewell</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other people named Richard Jewell, see <a href="/w/index.php?title=Richard_Jewell_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Richard Jewell (disambiguation) (page does not exist)">Richard Jewell (disambiguation)</a>.</div>
+<p><a href="/w/index.php?title=Template:Infobox_person&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox person (page does not exist)">Template:Infobox person</a>
+</p><p><b>Richard Allensworth Jewell</b> (December 17, 1962 &#8211; August 29, 2007) was an American police officer who, while working as a <a href="/w/index.php?title=Security_guard&amp;action=edit&amp;redlink=1" class="new" title="Security guard (page does not exist)">security guard</a> for <a href="/wiki/Piedmont_College" title="Piedmont College">Piedmont College</a>,<sup id="cite_ref-piedmontcollege_1-0" class="reference"><a href="#cite_note-piedmontcollege-1">[1]</a></sup> became known in connection with the <a href="/wiki/Centennial_Olympic_Park_bombing" title="Centennial Olympic Park bombing">Centennial Olympic Park bombing</a> at the <a href="/wiki/1996_Summer_Olympics" title="1996 Summer Olympics">1996 Summer Olympics</a> in <a href="/w/index.php?title=Atlanta,_Georgia&amp;action=edit&amp;redlink=1" class="new" title="Atlanta, Georgia (page does not exist)">Atlanta, Georgia</a>, <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">United States</a>. Discovering a backpack filled with three pipe bombs on the park grounds, Jewell alerted police and helped to evacuate the area before the bomb exploded, saving many people from injury or death.  Initially hailed by the media as a hero, Jewell was later considered a <a href="/wiki/Suspect" title="Suspect">suspect</a>. Jewell's case is considered an example of the damage that can be done by reporting based on unreliable or incomplete information.<sup id="cite_ref-wp_2-0" class="reference"><a href="#cite_note-wp-2">[2]</a></sup>
+</p><p>Despite never being officially charged, he underwent a "<a href="/wiki/Trial_by_media" title="Trial by media">trial by media</a>" with great toll on his personal and professional life.  Eventually he was completely exonerated and <a href="/w/index.php?title=Eric_Robert_Rudolph&amp;action=edit&amp;redlink=1" class="new" title="Eric Robert Rudolph (page does not exist)">Eric Robert Rudolph</a> was later found to have been the bomber.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In 2006, Governor <a href="/wiki/Sonny_Perdue" title="Sonny Perdue">Sonny Perdue</a> publicly thanked Jewell on behalf of <a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">the state of Georgia</a> for saving the lives of those at the Olympics.<sup id="cite_ref-hero_5-0" class="reference"><a href="#cite_note-hero-5">[5]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bombing"><span class="tocnumber">1</span> <span class="toctext">Bombing</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Investigation_and_the_media"><span class="tocnumber">2</span> <span class="toctext">Investigation and the media</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Libel_cases"><span class="tocnumber">3</span> <span class="toctext">Libel cases</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Richard_Jewell_v._Piedmont_College"><span class="tocnumber">3.1</span> <span class="toctext"><i>Richard Jewell v. Piedmont College</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Richard_Jewell_v._NBC"><span class="tocnumber">3.2</span> <span class="toctext"><i>Richard Jewell v. NBC</i></span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Richard_Jewell_v._New_York_Post"><span class="tocnumber">3.3</span> <span class="toctext"><i>Richard Jewell v. New York Post</i></span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Richard_Jewell_v._Cox_Enterprises_.28d.b.a._Atlanta_Journal-Constitution.29"><span class="tocnumber">3.4</span> <span class="toctext"><i>Richard Jewell v. Cox Enterprises (d.b.a. Atlanta Journal-Constitution)</i></span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#CNN"><span class="tocnumber">3.5</span> <span class="toctext">CNN</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Aftermath"><span class="tocnumber">4</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Bombing">Bombing</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/wiki/Centennial_Olympic_Park" title="Centennial Olympic Park">Centennial Olympic Park</a> was designed as the "town square" of the Olympics, and thousands of spectators had gathered for a late <a href="/wiki/Concert" title="Concert">concert</a> and merrymaking. Sometime after midnight, July 27, 1996, <a href="/w/index.php?title=Eric_Robert_Rudolph&amp;action=edit&amp;redlink=1" class="new" title="Eric Robert Rudolph (page does not exist)">Eric Robert Rudolph</a>, a  <a href="/wiki/Terrorism" title="Terrorism">terrorist</a> who would later bomb a <a href="/w/index.php?title=Homosexuality&amp;action=edit&amp;redlink=1" class="new" title="Homosexuality (page does not exist)">gay</a> <a href="/w/index.php?title=Nightclub&amp;action=edit&amp;redlink=1" class="new" title="Nightclub (page does not exist)">nightclub</a> and two <a href="/wiki/Abortion_clinic" title="Abortion clinic">abortion clinics</a>, planted a green <a href="/wiki/Backpack" title="Backpack">backpack</a> containing a shrapnel-laden <a href="/wiki/Pipe_bomb" title="Pipe bomb">pipe bomb</a> underneath a bench. Jewell, in his capacity as a security guard, discovered the bag and alerted <a href="/w/index.php?title=Georgia_Bureau_of_Investigation&amp;action=edit&amp;redlink=1" class="new" title="Georgia Bureau of Investigation (page does not exist)">Georgia Bureau of Investigation</a> officers; this discovery was nine minutes before Rudolph called <a href="/wiki/9-1-1" title="9-1-1">9-1-1</a> to deliver a warning. Jewell and other security guards began clearing the immediate area so that a <a href="/wiki/Bomb_disposal" title="Bomb disposal">bomb squad</a> could investigate the suspicious package. The bomb exploded 13 minutes later, killing Alice Hawthorne and injuring over one hundred others. A cameraman also died of a heart attack while running to cover the incident.
+</p>
+<h2><span class="mw-headline" id="Investigation_and_the_media">Investigation and the media</span></h2>
+<p>Early news reports lauded Jewell as a <a href="/wiki/Hero" title="Hero">hero</a> for helping to evacuate the area after he spotted the suspicious package. Three days later, <i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">The Atlanta Journal-Constitution</a></i> revealed that the <a href="/wiki/Federal_Bureau_of_Investigation" title="Federal Bureau of Investigation">FBI</a> was treating him as a possible suspect, based largely on a "lone bomber" <a href="/w/index.php?title=Offender_profiling&amp;action=edit&amp;redlink=1" class="new" title="Offender profiling (page does not exist)">criminal profile</a>. For the next several weeks, the news media focused aggressively on him as the presumed culprit, labeling him with the ambiguous term "<a href="/wiki/Person_of_interest" title="Person of interest">person of interest</a>", sifting through his life to match a leaked "lone bomber" profile that the FBI had used. The media, to varying degrees, portrayed Jewell as a failed law enforcement officer who may have planted the bomb so he could "find" it and be a hero.<sup id="cite_ref-wp_2-1" class="reference"><a href="#cite_note-wp-2">[2]</a></sup>
+</p><p>Two of the bombing victims filed lawsuits against Jewell on the basis of this reporting. In a reference to the <a href="/w/index.php?title=Theodore_Kaczynski&amp;action=edit&amp;redlink=1" class="new" title="Theodore Kaczynski (page does not exist)">Unabomber</a>, <a href="/wiki/Jay_Leno" title="Jay Leno">Jay Leno</a> called him the "Una-<a href="http://en.wiktionary.org/wiki/doofus" class="extiw" title="wiktionary:doofus">doofus</a>".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Other references include "Una-Bubba," <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and (of his mother) "Una-Mama."  Jewell was never officially charged, but the FBI thoroughly and publicly searched his home twice, questioned his associates, investigated his background, and maintained twenty-four hour surveillance of him. The pressure only began to ease after Jewell's attorneys hired an ex-FBI agent to administer a <a href="/wiki/Polygraph" title="Polygraph">polygraph</a> which Jewell reportedly passed.<sup id="cite_ref-wp_2-2" class="reference"><a href="#cite_note-wp-2">[2]</a></sup>
+</p><p>In October 1996, the investigating <a href="/wiki/United_States_Attorney" title="United States Attorney">US Attorney</a>, Kent Alexander, in an extremely unusual act, sent Jewell a letter formally clearing him, stating "based on the evidence developed to date ... Richard Jewell is not considered a target of the federal criminal investigation into the bombing on July 27, 1996, at Centennial Olympic Park in Atlanta".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Libel_cases">Libel cases</span></h2>
+<p>After his exoneration, Jewell filed a series of <a href="/wiki/Lawsuit" title="Lawsuit">lawsuits</a> against the media outlets which he claimed had <a href="/wiki/Defamation" title="Defamation">libeled</a> him, primarily <a href="/wiki/NBC_News" title="NBC News">NBC News</a> and <i><a href="/wiki/The_Atlanta_Journal-Constitution" title="The Atlanta Journal-Constitution">The Atlanta Journal-Constitution</a>,</i> and insisted on a formal apology from them. L. Lin Wood was the lead attorney in all of Jewell's libel cases.<sup id="cite_ref-piedmontcollege_1-1" class="reference"><a href="#cite_note-piedmontcollege-1">[1]</a></sup><sup id="cite_ref-wp_2-3" class="reference"><a href="#cite_note-wp-2">[2]</a></sup><sup id="cite_ref-CNN_9-0" class="reference"><a href="#cite_note-CNN-9">[9]</a></sup><sup id="cite_ref-CBS_10-0" class="reference"><a href="#cite_note-CBS-10">[10]</a></sup>
+</p><p>In 2006, Jewell said the lawsuits were not about money, and that the vast majority of the settlements went to lawyers or taxes. He said the lawsuits were about clearing his name.<sup id="cite_ref-wp_2-4" class="reference"><a href="#cite_note-wp-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Richard_Jewell_v._Piedmont_College"><i>Richard Jewell v. Piedmont College</i></span></h3>
+<p>Jewell filed suit against his former employer <a href="/wiki/Piedmont_College" title="Piedmont College">Piedmont College</a>, Piedmont College President <a href="/w/index.php?title=Raymond_Cleere&amp;action=edit&amp;redlink=1" class="new" title="Raymond Cleere (page does not exist)">Raymond Cleere</a> and college spokesman Scott Rawles.<sup id="cite_ref-CNN_9-1" class="reference"><a href="#cite_note-CNN-9">[9]</a></sup> Jewell's attorneys contended that Cleere called the FBI and spoke to the Atlanta newspapers, providing them with false information on Jewell and his employment there as a security guard. Jewell's lawsuit accused Cleere of describing Jewell as a "badge-wearing zealot" who "would write epic police reports for minor infractions."<sup id="cite_ref-piedmontcollege_1-2" class="reference"><a href="#cite_note-piedmontcollege-1">[1]</a></sup>
+</p><p>Piedmont College settled for an undisclosed amount.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Richard_Jewell_v._NBC"><i>Richard Jewell v. NBC</i></span></h3>
+<p>Jewell sued NBC News for this statement, made by <a href="/wiki/Tom_Brokaw" title="Tom Brokaw">Tom Brokaw</a>: "The speculation is that the FBI is close to making the case. They probably have enough to arrest him right now, probably enough to prosecute him, but you always want to have enough to convict him as well. There are still some holes in this case".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Even though <a href="/wiki/NBC" title="NBC">NBC</a> stood by its story, the network agreed to pay Jewell $500,000.<sup id="cite_ref-CNN_9-2" class="reference"><a href="#cite_note-CNN-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Richard_Jewell_v._New_York_Post"><i>Richard Jewell v. New York Post</i></span></h3>
+<p>On July 23, 1997, Jewell sued <i><a href="/wiki/New_York_Post" title="New York Post">The New York Post</a></i> for $15 million in damages and settled with the newspaper for an undisclosed amount.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Richard_Jewell_v._Cox_Enterprises_.28d.b.a._Atlanta_Journal-Constitution.29"><i>Richard Jewell v. Cox Enterprises (d.b.a. Atlanta Journal-Constitution)</i></span></h3>
+<p>Jewell also sued the <i>Atlanta Journal-Constitution</i> newspaper. According to Jewell, the paper's headline, <i>FBI suspects 'hero' guard may have planted bomb</i>, "pretty much started the whirlwind".<sup id="cite_ref-CBS_10-1" class="reference"><a href="#cite_note-CBS-10">[10]</a></sup> In one article, the <i>Atlanta Journal</i> compared Richard Jewell's case to that of serial killer <a href="/wiki/Wayne_Williams" title="Wayne Williams">Wayne Williams</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</p><p>The newspaper was the only defendant that did not settle with Jewell. The lawsuit remained pending for several years, after having been considered at one time by the <a href="/w/index.php?title=Supreme_Court_of_Georgia_(U.S._state)&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Georgia (U.S. state) (page does not exist)">Supreme Court of Georgia</a>, and had become an important part of <a href="/wiki/Case_law" title="Case law" class="mw-redirect">case law</a> regarding whether journalists could be forced to reveal their sources. The case was dismissed by Judge John R. Mather in December 2007, four months after Jewell's death. The paper claimed this was proof of the accuracy of their coverage but the dismissal came because the plaintiff passed away.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="CNN">CNN</span></h3>
+<p>Although <a href="/wiki/CNN" title="CNN">CNN</a> settled with Jewell for an undisclosed monetary amount, CNN maintained its coverage was fair and accurate.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span></h2>
+<p>In July 1997, <a href="/wiki/United_States_Attorney_General" title="United States Attorney General">U.S. Attorney General</a> <a href="/wiki/Janet_Reno" title="Janet Reno">Janet Reno</a>, prompted by a reporter's question at her regular weekly news conference, expressed regret over the FBI's leak to the news media that led to the widespread presumption of his guilt, and apologized outright, saying, "I'm very sorry it happened. I think we owe him an apology. I regret the leak."<sup id="cite_ref-Reno_to_Jewell_18-0" class="reference"><a href="#cite_note-Reno_to_Jewell-18">[18]</a></sup>
+</p><p>Also in 1997, Jewell made public appearances in film and television. He appeared in <a href="/wiki/Michael_Moore" title="Michael Moore">Michael Moore</a>'s 1997 film, <i><a href="/wiki/The_Big_One_(film)" title="The Big One (film)">The Big One</a></i>. He had a cameo in the September 27, 1997 episode of <i><a href="/wiki/Saturday_Night_Live" title="Saturday Night Live">Saturday Night Live</a></i>, in which he punched <a href="/wiki/Will_Ferrell" title="Will Ferrell">Will Ferrell</a> (who was in character as Janet Reno), and jokingly fended off suggestions that he was responsible for the deaths of <a href="/wiki/Mother_Teresa" title="Mother Teresa">Mother Teresa</a> and <a href="/wiki/Diana,_Princess_of_Wales" title="Diana, Princess of Wales">Princess Diana</a>.
+</p><p>On July 4, 2001, Jewell was honored as the Grand Marshal of the <a href="/wiki/Carmel,_Indiana" title="Carmel, Indiana">Carmel, Indiana's Independence Day Parade</a>. Jewell was chosen in keeping with the parade's theme of "Unsung Heroes."<sup id="cite_ref-Carmelfest_19-0" class="reference"><a href="#cite_note-Carmelfest-19">[19]</a></sup>
+</p><p>On April 13, 2005, Jewell was exonerated completely when <a href="/wiki/Eric_Rudolph" title="Eric Rudolph">Eric Rudolph</a> pled guilty to carrying out the bombing attack at the Centennial Olympic Park, as well as three other attacks across the South. On August 1, 2006, Georgia governor <a href="/wiki/Sonny_Perdue" title="Sonny Perdue">Sonny Perdue</a> honored Jewell for his rescue efforts during the attack.<sup id="cite_ref-Jewell_Finally_Honored_As_A_Hero_20-0" class="reference"><a href="#cite_note-Jewell_Finally_Honored_As_A_Hero-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</p><p>Jewell had worked various law enforcement jobs, including as a police officer in <a href="/wiki/Pendergrass,_Georgia" title="Pendergrass, Georgia">Pendergrass, Georgia</a>. He worked as a sheriff's deputy in <a href="/wiki/Meriwether_County,_Georgia" title="Meriwether County, Georgia">Meriwether County, Georgia</a> until his death. He also gave speeches at colleges.<sup id="cite_ref-wp_2-5" class="reference"><a href="#cite_note-wp-2">[2]</a></sup>
+</p><p>Jewell died August 29, 2007, from natural causes at the age of 44. He was suffering from severe heart disease, kidney disease, and diabetes.<sup id="cite_ref-hero_5-1" class="reference"><a href="#cite_note-hero-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/wiki/Media_circus" title="Media circus">Media circus</a>
+</li>
+<li> <a href="/wiki/Trial_by_media" title="Trial by media">Trial by media</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://medialibel.org/cases-conflicts/tv/jewell.html">"Richard Jewell v. NBC, and other Richard Jewell cases"</a>. Libel and Slander. May 18, 2011
+</li>
+<li>Farnsworth, Elizabeth (October 28, 1996). <a rel="nofollow" class="external text" href="http://www.pbs.org/newshour/bb/sports/jewell_10-28.html">"OLYMPIC PARK: ANOTHER VICTIM"</a>. <a href="/wiki/PBS_NewsHour" title="PBS NewsHour">PBS NewsHour</a>.
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.msnbc.msn.com/id/14029576/?GT1=8307">"'All I did was my job': Decade later, pain of being called bombing suspect fresh to Richard Jewell"</a>. <a href="/wiki/NBC_News" title="NBC News">NBC News</a>/<a href="/w/index.php?title=Associated_Press&amp;action=edit&amp;redlink=1" class="new" title="Associated Press (page does not exist)">Associated Press</a>. July 27, 2006.
+</li>
+<li><a href="/w/index.php?title=Template:Findagrave&amp;action=edit&amp;redlink=1" class="new" title="Template:Findagrave (page does not exist)">Template:Findagrave</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Authority_control&amp;action=edit&amp;redlink=1" class="new" title="Template:Authority control (page does not exist)">Template:Authority control</a>
+</p><p><a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.244 seconds
+Real time usage: 0.473 seconds
+Preprocessor visited node count: 586/1000000
+Preprocessor generated node count: 3406/1000000
+Post‐expand include size: 404/2097152 bytes
+Template argument size: 108/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:938623-0!*!0!!en!*!* and timestamp 20170407172710
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Richard_Jewell&amp;oldid=938623">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Richard_Jewell&amp;oldid=938623</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Security_guards&amp;action=edit&amp;redlink=1" class="new" title="Category:Security guards (page does not exist)">Security guards</a></li><li><a href="/w/index.php?title=Category:Deaths_from_myocardial_infarction&amp;action=edit&amp;redlink=1" class="new" title="Category:Deaths from myocardial infarction (page does not exist)">Deaths from myocardial infarction</a></li><li><a href="/w/index.php?title=Category:Deaths_from_diabetes&amp;action=edit&amp;redlink=1" class="new" title="Category:Deaths from diabetes (page does not exist)">Deaths from diabetes</a></li><li><a href="/w/index.php?title=Category:People_from_Meriwether_County,_Georgia&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Meriwether County, Georgia (page does not exist)">People from Meriwether County, Georgia</a></li><li><a href="/w/index.php?title=Category:American_deputy_sheriffs&amp;action=edit&amp;redlink=1" class="new" title="Category:American deputy sheriffs (page does not exist)">American deputy sheriffs</a></li><li><a href="/wiki/Category:1962_births" title="Category:1962 births">1962 births</a></li><li><a href="/w/index.php?title=Category:2007_deaths&amp;action=edit&amp;redlink=1" class="new" title="Category:2007 deaths (page does not exist)">2007 deaths</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Richard+Jewell" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Richard_Jewell"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Richard_Jewell&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Richard_Jewell" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Richard_Jewell&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Richard_Jewell&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Richard_Jewell" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Richard_Jewell" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Richard_Jewell&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Richard_Jewell&amp;oldid=938623" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Richard_Jewell&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2014, at 08:00.</li>
+											<li id="footer-info-viewcount">This page has been accessed 99 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.040 secs. -->
+	</body>
+</html>

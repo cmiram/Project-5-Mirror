@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Second law of thermodynamics - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Second_law_of_thermodynamics","wgTitle":"Second law of thermodynamics","wgCurRevisionId":96564,"wgRevisionId":96564,"wgArticleId":96564,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Concepts in physics","Laws of thermodynamics","Non-equilibrium thermodynamics","Philosophy of thermal and statistical physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Second_law_of_thermodynamics","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Second_law_of_thermodynamics skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Second law of thermodynamics</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="Template:Thermodynamics (page does not exist)">Template:Thermodynamics</a>
+The <b>second law of thermodynamics</b> states that the <a href="/wiki/Entropy" title="Entropy">entropy</a> of an <a href="/w/index.php?title=Isolated_system&amp;action=edit&amp;redlink=1" class="new" title="Isolated system (page does not exist)">isolated system</a> never decreases, because isolated systems spontaneously evolve toward <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a>—the state of maximum entropy. Equivalently, <a href="/w/index.php?title=Perpetual_motion_machines&amp;action=edit&amp;redlink=1" class="new" title="Perpetual motion machines (page does not exist)">perpetual motion machines</a> of the <a href="/wiki/Perpetual_motion#Classification" title="Perpetual motion">second kind</a> are impossible.
+</p><p>The second law is an <a href="/wiki/Empirical_evidence" title="Empirical evidence">empirically validated</a> postulate of <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, but it can be understood and explained using the underlying quantum <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">statistical mechanics</a>. In the language of statistical mechanics, entropy is a measure of the number of microscopic configurations corresponding to a macroscopic state. Because thermodynamic equilibrium corresponds to a vastly greater number of microscopic configurations than any non-equilibrium state, it has the maximum entropy, and the second law follows because random chance alone practically guarantees that the system will evolve towards such thermodynamic equilibrium.
+</p><p>It is an expression of the fact that over time, differences in temperature, <a href="/wiki/Pressure" title="Pressure">pressure</a>, and <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> decrease in an isolated non-gravitational <a href="/w/index.php?title=Physical_system&amp;action=edit&amp;redlink=1" class="new" title="Physical system (page does not exist)">physical system</a>, leading eventually to a state of thermodynamic equilibrium.
+</p><p>The second law may be expressed in many specific ways, but the first formulation is credited to the French scientist <a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Sadi Carnot</a> in 1824 (see <a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Timeline of thermodynamics</a>).  Strictly speaking, the early statements of the Second Law are only correct in a horizontal plane in a gravitational field.
+</p><p>The second law has been shown to be equivalent to the <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> <i>U</i> being a weakly <a href="/wiki/Convex_function" title="Convex function">convex function</a>, when written as a function of extensive properties (mass, volume, entropy, ...).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+</p><p><a href="/w/index.php?title=Template:TOC_limit&amp;action=edit&amp;redlink=1" class="new" title="Template:TOC limit (page does not exist)">Template:TOC limit</a>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Carnot.27s_principle"><span class="tocnumber">1.1</span> <span class="toctext">Carnot's principle</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Clausius_statement"><span class="tocnumber">1.2</span> <span class="toctext">Clausius statement</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Kelvin_statement"><span class="tocnumber">1.3</span> <span class="toctext">Kelvin statement</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Planck.27s_Principle"><span class="tocnumber">1.4</span> <span class="toctext">Planck's Principle</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Principle_of_Carath.C3.A9odory"><span class="tocnumber">1.5</span> <span class="toctext">Principle of Carathéodory</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Equivalence_of_the_Clausius_and_the_Kelvin_statements"><span class="tocnumber">1.6</span> <span class="toctext">Equivalence of the Clausius and the Kelvin statements</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Gravitational_systems"><span class="tocnumber">1.7</span> <span class="toctext">Gravitational systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Corollaries"><span class="tocnumber">2</span> <span class="toctext">Corollaries</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Perpetual_motion_of_the_second_kind"><span class="tocnumber">2.1</span> <span class="toctext">Perpetual motion of the second kind</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Carnot_theorem"><span class="tocnumber">2.2</span> <span class="toctext">Carnot theorem</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Clausius_Inequality"><span class="tocnumber">2.3</span> <span class="toctext">Clausius Inequality</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Thermodynamic_temperature"><span class="tocnumber">2.4</span> <span class="toctext">Thermodynamic temperature</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Entropy"><span class="tocnumber">2.5</span> <span class="toctext">Entropy</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Exergy.2C_available_useful_work"><span class="tocnumber">2.6</span> <span class="toctext">Exergy, available useful work</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Informal_descriptions"><span class="tocnumber">3.1</span> <span class="toctext">Informal descriptions</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Mathematical_descriptions"><span class="tocnumber">3.2</span> <span class="toctext">Mathematical descriptions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Derivation_from_statistical_mechanics"><span class="tocnumber">4</span> <span class="toctext">Derivation from statistical mechanics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Derivation_of_the_entropy_change_for_reversible_processes"><span class="tocnumber">4.1</span> <span class="toctext">Derivation of the entropy change for reversible processes</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Derivation_for_systems_described_by_the_canonical_ensemble"><span class="tocnumber">4.2</span> <span class="toctext">Derivation for systems described by the canonical ensemble</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#General_derivation_from_unitarity_of_quantum_mechanics"><span class="tocnumber">4.3</span> <span class="toctext">General derivation from unitarity of quantum mechanics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Non-equilibrium_states"><span class="tocnumber">5</span> <span class="toctext">Non-equilibrium states</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Arrow_of_time"><span class="tocnumber">6</span> <span class="toctext">Arrow of time</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Controversies"><span class="tocnumber">7</span> <span class="toctext">Controversies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Maxwell.27s_demon"><span class="tocnumber">7.1</span> <span class="toctext">Maxwell's demon</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Loschmidt.27s_paradox"><span class="tocnumber">7.2</span> <span class="toctext">Loschmidt's paradox</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Gibbs_paradox"><span class="tocnumber">7.3</span> <span class="toctext">Gibbs paradox</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Poincar.C3.A9_recurrence_theorem"><span class="tocnumber">7.4</span> <span class="toctext">Poincaré recurrence theorem</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Future_of_the_universe"><span class="tocnumber">7.5</span> <span class="toctext">Future of the universe</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Quotations"><span class="tocnumber">8</span> <span class="toctext">Quotations</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#Bibliography_of_citations"><span class="tocnumber">10.1</span> <span class="toctext">Bibliography of citations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p>The <a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">first law of thermodynamics</a> provides the basic definition of thermodynamic energy, also called <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a>, associated with all <a href="/wiki/Thermodynamic_system" title="Thermodynamic system">thermodynamic systems</a>, but unknown in classical mechanics, and states the rule of conservation of energy in nature.
+</p><p>The concept of energy in the first law does not, however, account for the observation that natural processes have a preferred direction of progress. For example, heat always flows spontaneously from regions of higher temperature to regions of lower temperature, and never the reverse, unless external work is performed on the system. The first law is completely symmetrical with respect to the initial and final states of an evolving system. The key concept for the explanation of this phenomenon through the second law of thermodynamics is the definition of a new physical property, the <a href="/wiki/Entropy" title="Entropy">entropy</a>.
+</p><p>In a reversible process, an infinitesimal increment in the entropy (<a href="/w/index.php?title=Template:Math&amp;action=edit&amp;redlink=1" class="new" title="Template:Math (page does not exist)">Template:Math</a>) of a system results from an infinitesimal transfer of heat (<a href="/w/index.php?title=Template:Math&amp;action=edit&amp;redlink=1" class="new" title="Template:Math (page does not exist)">Template:Math</a>) to a <a href="/wiki/Closed_system" title="Closed system">closed system</a>  divided by the common temperature (<a href="/w/index.php?title=Template:Math&amp;action=edit&amp;redlink=1" class="new" title="Template:Math (page does not exist)">Template:Math</a>) of the system and the surroundings which supply the heat.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<dl>
+<dd> &lt;math&gt;dS = \frac{\delta Q}{T} \!&lt;/math&gt;
+</dd>
+</dl>
+<p>The entropy of an <a href="/w/index.php?title=Isolated_system&amp;action=edit&amp;redlink=1" class="new" title="Isolated system (page does not exist)">isolated system</a> in its own internal thermodynamic equilibrium does not change with time. An isolated system may consist initially of several subsystems, separated from one another by partitions, but still each in its own internal thermodynamic equilibrium. If the partitions are removed, the former subsystems will in general interact and produce a new common final system in its own internal thermodynamic equilibrium. The sum of the entropies of the initial subsystems is in general less than the entropy of the final common system. If all of the initial subsystems have all the same values of their <a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">intensive variables</a>, then the sum of the initial entropies will be equal to the final common entropy, and the final common system will have the same values of its intensive variables.
+</p><p>For a body in thermal equilibrium with another, there are indefinitely many empirical temperature scales, in general respectively depending on the properties of a particular reference thermometric body. Thermal equilibrium between two bodies entails that they have equal temperatures. The <a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">zeroth law of thermodynamics</a> in its usual short statement allows recognition that two bodies have the same temperature, especially that a test body has the same temperature as a reference thermometric body.<sup id="cite_ref-dugdale_4-0" class="reference"><a href="#cite_note-dugdale-4">[4]</a></sup> The second law allows a distinguished temperature scale, which defines an absolute, <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">thermodynamic temperature</a>, independent of the properties of any particular thermometric body.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+</p><p>The second law of thermodynamics may be expressed in many specific ways,<sup id="cite_ref-MIT_7-0" class="reference"><a href="#cite_note-MIT-7">[7]</a></sup> the most prominent classical statements<sup id="cite_ref-lieb_8-0" class="reference"><a href="#cite_note-lieb-8">[8]</a></sup> being the statement by <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Rudolf Clausius</a> (1854), the statement by <a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Lord Kelvin</a> (1851), and the statement in axiomatic thermodynamics by <a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Constantin Carathéodory</a> (1909). These statements cast the law in general physical terms citing the impossibility of certain processes. The Clausius and the Kelvin statements have been shown to be equivalent.
+</p>
+<h3><span class="mw-headline" id="Carnot.27s_principle">Carnot's principle</span></h3>
+<p>The historical origin of the second law of thermodynamics was in Carnot's principle. It refers to a cycle of a <a href="/w/index.php?title=Carnot_engine&amp;action=edit&amp;redlink=1" class="new" title="Carnot engine (page does not exist)">Carnot engine</a>, fictively operated in the limiting mode of extreme slowness known as quasi-static, so that the heat and work transfers are between subsystems that are always in their own internal states of thermodynamic equilibrium. The Carnot engine is an idealized device of special interest to engineers who are concerned with the efficiency of heat engines. Carnot's principle was recognized by Carnot at a time when the <a href="/wiki/Caloric_theory" title="Caloric theory">caloric theory</a> of heat was seriously considered, before the recognition of the first law of thermodynamics, and before the mathematical expression of the concept of entropy. Interpreted in the light of the first law, it is physically equivalent to the second law of thermodynamics, and remains valid today. It states
+</p>
+<blockquote>The efficiency of a quasi-static or reversible Carnot cycle depends only on the temperatures of the two heat reservoirs, and is independent of the working substance. A Carnot engine operated in this way is the most efficient possible heat engine using those two temperatures.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></blockquote>
+<h3><span class="mw-headline" id="Clausius_statement">Clausius statement</span></h3>
+<p>The German scientist <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Rudolf Clausius</a> laid the foundation for the second law of thermodynamics in 1850 by examining the relation between heat transfer and work.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>  His formulation of the second law, which was published in German in 1854, is known as the <i>Clausius statement</i>:
+</p>
+<blockquote>Heat can never pass from a colder to a warmer body without some other change, connected therewith, occurring at the same time.<sup id="cite_ref-Clausius_17-0" class="reference"><a href="#cite_note-Clausius-17">[17]</a></sup></blockquote>
+<p>Heat cannot spontaneously flow from cold regions to hot regions without external work being performed on the system, which is evident from ordinary experience of refrigeration, for example. In a refrigerator, heat flows from cold to hot, but only when forced by an external agent, the refrigeration system.
+</p>
+<h3><span class="mw-headline" id="Kelvin_statement">Kelvin statement</span></h3>
+<p><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Lord Kelvin</a> expressed the second law as
+</p>
+<blockquote>It is impossible, by means of inanimate material agency, to derive mechanical effect from any portion of matter by cooling it below the temperature of the coldest of the surrounding objects.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></blockquote>
+<h3><span class="mw-headline" id="Planck.27s_Principle">Planck's Principle</span></h3>
+<p>In 1926 <a href="/wiki/Max_Planck" title="Max Planck">Max Planck</a> wrote an important paper on the basics of thermodynamics. He indicated the principle
+</p>
+<dl>
+<dd><dl>
+<dd>The internal energy of a closed system is increased by an isochoric adiabatic process.<sup id="cite_ref-Munster_45_19-0" class="reference"><a href="#cite_note-Munster_45-19">[19]</a></sup><sup id="cite_ref-L.26Y_20-0" class="reference"><a href="#cite_note-L.26Y-20">[20]</a></sup>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>This formulation does not mention heat and does not mention temperature, nor even entropy, and does not necessarily implicitly rely on those concepts, but it implies the content of the second law. A closely related statement is that "Frictional pressure never does positive work."<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Using a now obsolete form of words, Planck himself wrote: "The production of heat by friction is irreversible."<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Principle_of_Carath.C3.A9odory">Principle of Carathéodory</span></h3>
+<p><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Constantin Carathéodory</a> formulated thermodynamics on a purely mathematical axiomatic foundation. His statement of the second law is known as the Principle of Carathéodory, which may be formulated as follows:<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<blockquote>In every neighborhood of any state S of an adiabatically isolated system there are states inaccessible from S.<i><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></blockquote></i>
+<p>With this formulation he described the concept of <a href="/w/index.php?title=Adiabatic_accessibility&amp;action=edit&amp;redlink=1" class="new" title="Adiabatic accessibility (page does not exist)">adiabatic accessibility</a> for the first time and provided the foundation for a new subfield of classical thermodynamics, often called <a href="/w/index.php?title=Ruppeiner_geometry&amp;action=edit&amp;redlink=1" class="new" title="Ruppeiner geometry (page does not exist)">geometrical thermodynamics</a>. It follows from Carathéodory's principle that quantity of energy quasi-statically transferred as heat is a holonomic <a href="/w/index.php?title=Process_function&amp;action=edit&amp;redlink=1" class="new" title="Process function (page does not exist)">process function</a>, in other words, &lt;math&gt;\delta Q=TdS&lt;/math&gt;.<sup id="cite_ref-Sychev1991_25-0" class="reference"><a href="#cite_note-Sychev1991-25">[25]</a></sup>
+</p><p>Though it is almost customary in textbooks to say that Carathéodory's principle expresses the second law and to treat it as equivalent to the Clausius or to the Kelvin-Planck statements, such is not the case. To get all the content of the second law, Carathéodory's principle needs to be supplemented by Planck's principle, that isochoric work always increases the internal energy of a closed system that was initially in its own internal thermodynamic equilibrium.<sup id="cite_ref-Munster_45_19-1" class="reference"><a href="#cite_note-Munster_45-19">[19]</a></sup><sup id="cite_ref-L.26Y_20-1" class="reference"><a href="#cite_note-L.26Y-20">[20]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Equivalence_of_the_Clausius_and_the_Kelvin_statements">Equivalence of the Clausius and the Kelvin statements</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Deriving_Kelvin_Statement_from_Clausius_Statement.svg" title="File:Deriving Kelvin Statement from Clausius Statement.svg">File:Deriving Kelvin Statement from Clausius Statement.svg</a>  <div class="thumbcaption">Derive Kelvin Statement from Clausius Statement</div></div></div>
+<p>Suppose there is an engine violating the Kelvin statement: i.e.,one that drains heat and converts it completely into work in a cyclic fashion without any other result. Now pair it with a reversed <a href="/w/index.php?title=Carnot_engine&amp;action=edit&amp;redlink=1" class="new" title="Carnot engine (page does not exist)">Carnot engine</a> as shown by the graph. The net and sole effect of this newly created engine consisting of the two engines mentioned is transferring heat &lt;math&gt;\Delta Q=Q\left(\frac{1}{\eta}-1\right)&lt;/math&gt; from the cooler reservoir to the hotter one, which violates the Clausius statement. Thus a violation of the Kelvin statement implies a violation of the Clausius statement, i.e. the Clausius statement implies the Kelvin statement. We can prove in a similar manner that the Kelvin statement implies the Clausius statement, and hence the two are equivalent.
+</p>
+<h3><span class="mw-headline" id="Gravitational_systems">Gravitational systems</span></h3>
+<p>In non-gravitational systems, objects always have positive <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a>, meaning that the temperature rises with energy. Therefore, when energy flows from a high-temperature object to a low-temperature object, the source temperature is decreased while the sink temperature is increased; hence temperature differences tend to diminish over time.
+</p><p>However, this is not always the case for systems in which the gravitational force is important. The most striking examples are black holes, which - <a href="/wiki/Black_hole_thermodynamics" title="Black hole thermodynamics">according to theory</a> - have negative heat capacity. The larger the black hole, the more energy it contains, but the lower its temperature. Thus, the <a href="/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black hole</a> in the center of the <a href="/wiki/Milky_way" title="Milky way" class="mw-redirect">milky way</a> is supposed to have a temperature of 10<sup>−14</sup> K, much lower than the <a href="/wiki/Cosmic_microwave_background" title="Cosmic microwave background">cosmic microwave background</a> temperature of 2.7K, but as it absorbs photons of the cosmic microwave background its mass is increasing so that its low temperature further decreases with time.
+</p><p>For this reason, gravitational systems tend towards non-even distribution of mass and energy.
+</p>
+<h2><span class="mw-headline" id="Corollaries">Corollaries</span></h2>
+<h3><span class="mw-headline" id="Perpetual_motion_of_the_second_kind">Perpetual motion of the second kind</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Before the establishment of the Second Law, many people who were interested in inventing a perpetual motion machine had tried to circumvent the restrictions of <a href="/w/index.php?title=First_Law_of_Thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="First Law of Thermodynamics (page does not exist)">First Law of Thermodynamics</a> by extracting the massive internal energy of the environment as the power of the machine. Such a machine is called a "perpetual motion machine of the second kind". The second law declared the impossibility of such machines.
+</p>
+<h3><span class="mw-headline" id="Carnot_theorem">Carnot theorem</span></h3>
+<p><a href="/w/index.php?title=Carnot_theorem_(thermodynamics)&amp;action=edit&amp;redlink=1" class="new" title="Carnot theorem (thermodynamics) (page does not exist)">Carnot's theorem</a> (1824) is a principle that limits the maximum efficiency for any possible engine. The efficiency solely depends on the temperature difference between the hot and cold thermal reservoirs. Carnot's theorem states:
+</p>
+<ul>
+<li>All irreversible heat engines between two heat reservoirs are less efficient than a <a href="/w/index.php?title=Carnot_engine&amp;action=edit&amp;redlink=1" class="new" title="Carnot engine (page does not exist)">Carnot engine</a> operating between the same reservoirs.
+</li>
+<li>All reversible heat engines between two heat reservoirs are equally efficient with a Carnot engine operating between the same reservoirs.
+</li>
+</ul>
+<p>In his ideal model, the heat of caloric converted into work could be reinstated by reversing the motion of the cycle, a concept subsequently known as <a href="/wiki/Thermodynamic_reversibility" title="Thermodynamic reversibility" class="mw-redirect">thermodynamic reversibility</a>. Carnot however further postulated that some caloric is lost, not being converted to mechanical work. Hence no real heat engine could realise the <a href="/w/index.php?title=Carnot_cycle&amp;action=edit&amp;redlink=1" class="new" title="Carnot cycle (page does not exist)">Carnot cycle</a>'s reversibility and was condemned to be less efficient.
+</p><p>Though formulated in terms of caloric (see the obsolete <a href="/wiki/Caloric_theory" title="Caloric theory">caloric theory</a>), rather than <a href="/wiki/Entropy" title="Entropy">entropy</a>, this was an early insight into the second law.
+</p>
+<h3><span class="mw-headline" id="Clausius_Inequality">Clausius Inequality</span></h3>
+<p>The <a href="/w/index.php?title=Clausius_Theorem&amp;action=edit&amp;redlink=1" class="new" title="Clausius Theorem (page does not exist)">Clausius Theorem</a> (1854) states that in a cyclic process
+</p>
+<dl>
+<dd> &lt;math&gt;\oint \frac{\delta Q}{T} \leq 0.&lt;/math&gt;
+</dd>
+</dl>
+<p>The equality holds in the reversible case<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> and the '&lt;' is in the irreversible case. The reversible case is used to introduce the state function <a href="/wiki/Entropy" title="Entropy">entropy</a>. This is because in cyclic processes the variation of a state function is zero from state functionality.
+</p>
+<h3><span class="mw-headline" id="Thermodynamic_temperature">Thermodynamic temperature</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+For an arbitrary heat engine, the efficiency is:
+</p>
+<dl>
+<dd> &lt;math&gt;\eta = \frac {A}{q_H} = \frac{q_H-q_C}{q_H} = 1 - \frac{q_C}{q_H} \qquad (1)&lt;/math&gt;
+</dd>
+</dl>
+<p>where A is the work done per cycle. Thus the efficiency depends only on q<sub>C</sub>/q<sub>H</sub>.
+</p><p><a href="/w/index.php?title=Carnot_theorem_(thermodynamics)&amp;action=edit&amp;redlink=1" class="new" title="Carnot theorem (thermodynamics) (page does not exist)">Carnot's theorem</a> states that all reversible engines operating between the same heat reservoirs are equally efficient.
+Thus, any reversible heat engine operating between temperatures <i>T</i><sub>1</sub> and <i>T</i><sub>2</sub> must have the same efficiency, that is to say, the efficiency is the function of temperatures only: 
+&lt;math&gt;\frac{q_C}{q_H} = f(T_H,T_C)\qquad (2).&lt;/math&gt;
+</p><p>In addition, a reversible heat engine operating between temperatures <i>T</i><sub>1</sub> and <i>T</i><sub>3</sub> must have the same efficiency as one consisting of two cycles, one between <i>T</i><sub>1</sub> and another (intermediate) temperature <i>T</i><sub>2</sub>, and the second between <i>T</i><sub>2</sub> and<i>T</i><sub>3</sub>. This can only be the case if
+</p>
+<dl>
+<dd> &lt;math&gt;
+</dd>
+</dl>
+<p>f(T_1,T_3) = \frac{q_3}{q_1} = \frac{q_2 q_3} {q_1 q_2} = f(T_1,T_2)f(T_2,T_3).
+&lt;/math&gt;
+</p><p>Now consider the case where &lt;math&gt;T_1&lt;/math&gt; is a fixed reference temperature: the temperature of the <a href="/wiki/Triple_point" title="Triple point">triple point</a> of water. Then for any <i>T</i><sub>2</sub> and <i>T</i><sub>3</sub>,
+</p>
+<dl>
+<dd> &lt;math&gt;f(T_2,T_3) = \frac{f(T_1,T_3)}{f(T_1,T_2)} = \frac{273.16 \cdot f(T_1,T_3)}{273.16 \cdot f(T_1,T_2)}.&lt;/math&gt;
+</dd>
+</dl>
+<p>Therefore if thermodynamic temperature is defined by
+</p>
+<dl>
+<dd> &lt;math&gt;T = 273.16 \cdot f(T_1,T) \,&lt;/math&gt;
+</dd>
+</dl>
+<p>then the function <i>f</i>, viewed as a function of thermodynamic temperature, is simply
+</p>
+<dl>
+<dd> &lt;math&gt;f(T_2,T_3) = \frac{T_3}{T_2},&lt;/math&gt;
+</dd>
+</dl>
+<p>and the reference temperature <i>T</i><sub>1</sub> will have the value 273.16. (Of course any reference temperature and any positive numerical value could be used—the choice here corresponds to the <a href="/w/index.php?title=Kelvin&amp;action=edit&amp;redlink=1" class="new" title="Kelvin (page does not exist)">Kelvin</a> scale.)
+</p>
+<h3><span class="mw-headline" id="Entropy">Entropy</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+According to the <a href="/w/index.php?title=Clausius_theorem&amp;action=edit&amp;redlink=1" class="new" title="Clausius theorem (page does not exist)">Clausius equality</a>, for a reversible process
+</p>
+<dl>
+<dd> &lt;math&gt;\oint \frac{\delta Q}{T}=0&lt;/math&gt;
+</dd>
+</dl>
+<p>That means the line integral &lt;math&gt;\int_L \frac{\delta Q}{T}&lt;/math&gt; is path independent.
+</p><p>So we can define a state function S called entropy, which satisfies
+</p>
+<dl>
+<dd> &lt;math&gt;dS = \frac{\delta Q}{T} \!&lt;/math&gt;
+</dd>
+</dl>
+<p>With this we can only obtain the difference of entropy by integrating the above formula. To obtain the absolute value, we need the <a href="/w/index.php?title=Third_Law_of_Thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="Third Law of Thermodynamics (page does not exist)">Third Law of Thermodynamics</a>, which states that S=0 at <a href="/wiki/Absolute_zero" title="Absolute zero">absolute zero</a> for perfect crystals.
+</p><p>For any irreversible process, since entropy is a state function, we can always connect the initial and terminal status with an imaginary reversible process and integrating on that path to calculate the difference in entropy.
+</p><p>Now reverse the reversible process and combine it with the said irreversible process. Applying <a href="/w/index.php?title=Clausius_inequality&amp;action=edit&amp;redlink=1" class="new" title="Clausius inequality (page does not exist)">Clausius inequality</a> on this loop,
+</p>
+<dl>
+<dd> &lt;math&gt;-\Delta S+\int\frac{\delta Q}{T}=\oint\frac{\delta Q}{T}&lt; 0&lt;/math&gt;
+</dd>
+</dl>
+<p>Thus,
+</p>
+<dl>
+<dd> &lt;math&gt;\Delta S \ge \int \frac{\delta Q}{T} \,\!&lt;/math&gt;
+</dd>
+</dl>
+<p>where the equality holds if the transformation is reversible.
+</p><p>Notice that if the process is an <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a>, then &lt;math&gt;\delta Q=0&lt;/math&gt;, so &lt;math&gt;\Delta S\ge 0&lt;/math&gt;.
+</p>
+<h3><span class="mw-headline" id="Exergy.2C_available_useful_work">Exergy, available useful work</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+An important and revealing idealized special case is to consider applying the Second Law to the scenario of an isolated system (called the total system or universe), made up of two parts: a sub-system of interest, and the sub-system's surroundings. These surroundings are imagined to be so large that they can be considered as an <i>unlimited</i> heat reservoir at temperature <i>T<sub>R</sub></i> and pressure <i>P<sub>R</sub></i> — so that no matter how much heat is transferred to (or from) the sub-system, the temperature of the surroundings will remain <i>T<sub>R</sub></i>; and no matter how much the volume of the sub-system expands (or contracts), the pressure of the surroundings will remain <i>P<sub>R</sub></i>.
+</p><p>Whatever changes to <i>dS</i> and <i>dS<sub>R</sub></i> occur in the entropies of the sub-system and the surroundings individually, according to the Second Law the entropy <i>S<sub>tot</sub></i> of the isolated total system must not decrease:
+</p>
+<dl>
+<dd> &lt;math&gt; dS_{\mathrm{tot}}= dS + dS_R \ge 0 &lt;/math&gt;
+</dd>
+</dl>
+<p>According to the <a href="/w/index.php?title=First_Law_of_Thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="First Law of Thermodynamics (page does not exist)">First Law of Thermodynamics</a>, the change <i>dU</i> in the internal energy of the sub-system is the sum of the heat <i>δq</i> added to the sub-system, <i>less</i> any work <i>δw</i> done <i>by</i> the sub-system, <i>plus</i> any net chemical energy entering the sub-system <i>d ∑μ<sub>iR</sub>N<sub>i</sub></i>, so that:
+</p>
+<dl>
+<dd> &lt;math&gt; dU = \delta q - \delta w + d(\sum \mu_{iR}N_i) \,&lt;/math&gt;
+</dd>
+</dl>
+<p>where μ<sub>iR</sub> are the <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potentials</a> of chemical species in the external surroundings.
+</p><p>Now the heat leaving the reservoir and entering the sub-system is
+</p>
+<dl>
+<dd> &lt;math&gt; \delta q = T_R (-dS_R) \le T_R dS &lt;/math&gt;
+</dd>
+</dl>
+<p>where we have first used the definition of entropy in classical thermodynamics (alternatively, in statistical thermodynamics, the relation between entropy change, temperature and absorbed heat can be derived); and then the Second Law inequality from above.
+</p><p>It therefore follows that any net work <i>δw</i> done by the sub-system must obey
+</p>
+<dl>
+<dd> &lt;math&gt; \delta w \le - dU + T_R dS + \sum \mu_{iR} dN_i \,&lt;/math&gt;
+</dd>
+</dl>
+<p>It is useful to separate the work <i>δw</i> done by the subsystem into the <i>useful</i> work <i>δw<sub>u</sub></i> that can be done <i>by</i> the sub-system, over and beyond the work <i>p<sub>R</sub> dV</i> done merely by the sub-system expanding against the surrounding external pressure, giving the following relation for the useful work (exergy) that can be done:
+</p>
+<dl>
+<dd> &lt;math&gt; \delta w_u \le -d (U - T_R S + p_R V - \sum \mu_{iR} N_i )\,&lt;/math&gt;
+</dd>
+</dl>
+<p>It is convenient to define the right-hand-side as the exact derivative of a thermodynamic potential, called the <i>availability</i> or <i><a href="/wiki/Exergy" title="Exergy">exergy</a></i> <i>E</i> of the subsystem,
+</p>
+<dl>
+<dd> &lt;math&gt; E = U - T_R S + p_R V - \sum \mu_{iR} N_i &lt;/math&gt;
+</dd>
+</dl>
+<p>The Second Law therefore implies that for any process which can be considered as divided simply into a subsystem, and an unlimited temperature and pressure reservoir with which it is in contact,
+</p>
+<dl>
+<dd> &lt;math&gt; dE + \delta w_u \le 0 \, &lt;/math&gt;
+</dd>
+</dl>
+<p>i.e. the change in the subsystem's exergy plus the useful work done <i>by</i> the subsystem (or, the change in the subsystem's exergy less any work, additional to that done by the pressure reservoir, done <i>on</i> the system) must be less than or equal to zero.
+</p><p>In sum, if a proper <i>infinite-reservoir-like</i> reference state is chosen as the system surroundings in the real world, then the Second Law predicts a decrease in <i>E</i> for an irreversible process and no change for a reversible process.
+</p>
+<dl>
+<dd> &lt;math&gt;dS_{tot} \ge 0 &lt;/math&gt; Is equivalent to &lt;math&gt; dE + \delta w_u \le 0 &lt;/math&gt;
+</dd>
+</dl>
+<p>This expression together with the associated reference state permits a <a href="/wiki/Design_engineer" title="Design engineer">design engineer</a> working at the macroscopic scale (above the <a href="/wiki/Thermodynamic_limit" title="Thermodynamic limit">thermodynamic limit</a>) to utilize the Second Law without directly measuring or considering entropy change in a total isolated system. (<i>Also, see <a href="/wiki/Process_engineer" title="Process engineer" class="mw-redirect">process engineer</a></i>). Those changes have already been considered by the assumption that the system under consideration can reach equilibrium with the reference state without altering the reference state. An efficiency for a process or collection of processes that compares it to the reversible ideal may also be found (<i>See <a href="/w/index.php?title=Exergy_efficiency&amp;action=edit&amp;redlink=1" class="new" title="Exergy efficiency (page does not exist)">second law efficiency</a></i>.)
+</p><p>This approach to the Second Law is widely utilized in <a href="/wiki/Engineering" title="Engineering">engineering</a> practice, <a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;redlink=1" class="new" title="Environmental accounting (page does not exist)">environmental accounting</a>, <a href="/w/index.php?title=Systems_ecology&amp;action=edit&amp;redlink=1" class="new" title="Systems ecology (page does not exist)">systems ecology</a>, and other disciplines.
+</p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Sadi_Carnot.jpeg" title="File:Sadi Carnot.jpeg">File:Sadi Carnot.jpeg</a>  <div class="thumbcaption">Nicolas Léonard Sadi Carnot in the traditional uniform of a student of the <a href="/wiki/%C3%89cole_Polytechnique" title="École Polytechnique">École Polytechnique</a>.</div></div></div>
+<p>The first theory of the conversion of heat into mechanical work is due to <a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Nicolas Léonard Sadi Carnot</a> in 1824. He was the first to realize correctly that the efficiency of this conversion depends on the difference of temperature between an engine and its environment.
+</p><p>Recognizing the significance of <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a>'s work on the conservation of energy, <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Rudolf Clausius</a> was the first to formulate the second law during 1850, in this form: heat does not flow <i>spontaneously</i> from cold to hot bodies. While common knowledge now, this was contrary to the <a href="/wiki/Caloric_theory" title="Caloric theory">caloric theory</a> of heat popular at the time, which considered heat as a fluid. From there he was able to infer the principle of Sadi Carnot and the definition of entropy (1865).
+</p><p>Established during the 19th century, the <a href="/w/index.php?title=Kelvin-Planck_statement&amp;action=edit&amp;redlink=1" class="new" title="Kelvin-Planck statement (page does not exist)">Kelvin-Planck statement of the Second Law</a> says, "It is impossible for any device that operates on a <a href="/wiki/Cyclic_process" title="Cyclic process" class="mw-redirect">cycle</a> to receive heat from a single <a href="/w/index.php?title=Heat_reservoir&amp;action=edit&amp;redlink=1" class="new" title="Heat reservoir (page does not exist)">reservoir</a> and produce a net amount of work." This was shown to be equivalent to the statement of Clausius.
+</p><p>The <a href="/wiki/Ergodic_hypothesis" title="Ergodic hypothesis">ergodic hypothesis</a> is also important for the <a href="/wiki/Boltzmann" title="Boltzmann" class="mw-redirect">Boltzmann</a> approach. It says that, over long periods of time, the time spent in some region of the phase space of microstates with the same energy is proportional to the volume of this region, i.e. that all accessible microstates are equally probable over a long period of time. Equivalently, it says that time average and average over the statistical ensemble are the same.
+</p><p>It has been shown that not only classical systems but also <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanical</a> ones tend to maximize their entropy over time. Thus the second law follows, given initial conditions with low entropy. More precisely, it has been shown that the local <a href="/w/index.php?title=Von_Neumann_entropy&amp;action=edit&amp;redlink=1" class="new" title="Von Neumann entropy (page does not exist)">von Neumann entropy</a> is at its maximum value with a very high probability.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The result is valid for a large class of isolated quantum systems (e.g. a gas in a container). While the full system is pure and therefore does not have any entropy, the <a href="/wiki/Quantum_entanglement" title="Quantum entanglement">entanglement</a> between gas and container gives rise to an increase of the local entropy of the gas. This result is one of the most important achievements of <a href="/w/index.php?title=Quantum_thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="Quantum thermodynamics (page does not exist)">quantum thermodynamics</a>.{{ safesubst:#invoke:Unsubst||$N=Dubious |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Today, much effort in the field is attempting to understand why the initial conditions early in the universe were those of low entropy,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> as this is seen as the origin of the second law (see below).
+</p>
+<h3><span class="mw-headline" id="Informal_descriptions">Informal descriptions</span></h3>
+<p>The second law can be stated in various succinct ways, including:
+</p>
+<ul>
+<li>It is impossible to produce work in the surroundings using a cyclic process connected to a single heat reservoir (<a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Kelvin</a>, 1851).
+</li>
+<li>It is impossible to carry out a cyclic process using an engine connected to two heat reservoirs that will have as its only effect the transfer of a quantity of heat from the low-temperature reservoir to the high-temperature reservoir (<a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a>, 1854).
+</li>
+<li>If thermodynamic <a href="/w/index.php?title=Work_(thermodynamics)&amp;action=edit&amp;redlink=1" class="new" title="Work (thermodynamics) (page does not exist)">work</a> is to be done at a finite rate, <a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">free energy</a> must be expended. (Stoner, 2000)<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Mathematical_descriptions">Mathematical descriptions</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Clausius-1.jpg" title="File:Clausius-1.jpg">File:Clausius-1.jpg</a>  <div class="thumbcaption">Rudolf Clausius</div></div></div>
+<p>In 1856, the German physicist <a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Rudolf Clausius</a> stated what he called the "second fundamental theorem in the <a href="/w/index.php?title=Mechanical_theory_of_heat&amp;action=edit&amp;redlink=1" class="new" title="Mechanical theory of heat (page does not exist)">mechanical theory of heat</a>" in the following form:<sup id="cite_ref-Clausius_17-1" class="reference"><a href="#cite_note-Clausius-17">[17]</a></sup>
+</p>
+<dl>
+<dd> &lt;math&gt;\int \frac{\delta Q}{T} = -N&lt;/math&gt;
+</dd>
+</dl>
+<p>where <i>Q</i> is heat, <i>T</i> is temperature and <i>N</i> is the "equivalence-value" of all uncompensated transformations involved in a cyclical process. Later, in 1865, Clausius would come to define "equivalence-value" as entropy. On the heels of this definition, that same year, the most famous version of the second law was read in a presentation at the Philosophical Society of Zurich on April 24, in which, in the end of his presentation, Clausius concludes:
+</p>
+<blockquote style="font-size: 125%">The entropy of the universe tends to a maximum.</blockquote>
+<p>This statement is the best-known phrasing of the second law. Moreover, owing to the general broadness of the terminology used here, e.g. <a href="/wiki/Universe" title="Universe">universe</a>, as well as lack of specific conditions, e.g. open, closed, or isolated, to which this statement applies, many people take this simple statement to mean that the second law of thermodynamics applies virtually to every subject imaginable. This, of course, is not true; this statement is only a simplified version of a more complex description.
+</p><p>In terms of time variation, the mathematical statement of the second law for an <a href="/w/index.php?title=Isolated_system&amp;action=edit&amp;redlink=1" class="new" title="Isolated system (page does not exist)">isolated system</a> undergoing an arbitrary transformation is:
+</p>
+<dl>
+<dd> &lt;math&gt;\frac{dS}{dt} \ge 0&lt;/math&gt;
+</dd>
+</dl>
+<p>where
+</p>
+<dl>
+<dd> <i>S</i> is the entropy of the system and
+</dd>
+<dd> <i>t</i> is <a href="/wiki/Time" title="Time">time</a>.
+</dd>
+</dl>
+<p>The equality sign holds in the case that only reversible processes take place inside the system. If irreversible processes take place (which is the case in real systems in operation) the &gt;-sign holds. An alternative way of formulating of the second law for isolated systems is:
+</p>
+<dl>
+<dd> &lt;math&gt;\frac{dS}{dt} = \dot S_{i}&lt;/math&gt; with &lt;math&gt; \dot S_{i} \ge 0&lt;/math&gt;
+</dd>
+</dl>
+<p>with &lt;math&gt; \dot S_{i}&lt;/math&gt; the sum of the rate of <a href="/w/index.php?title=Entropy_production&amp;action=edit&amp;redlink=1" class="new" title="Entropy production (page does not exist)">entropy production</a> by all processes inside the system. The advantage of this formulation is that it shows the effect of the <a href="/w/index.php?title=Entropy_production&amp;action=edit&amp;redlink=1" class="new" title="Entropy production (page does not exist)">entropy production</a>. The rate of entropy production is a very important concept since it determines (limits) the efficiency of thermal machines. Multiplied with ambient temperature &lt;math&gt;T_{a}&lt;/math&gt; it gives the so-called dissipated energy &lt;math&gt; P_{diss}=T_{a}\dot S_{i}&lt;/math&gt;.
+</p><p>The expression of the second law for closed systems (so, allowing heat exchange and moving boundaries, but not exchange of matter) is:
+</p>
+<dl>
+<dd> &lt;math&gt;\frac{dS}{dt} = \frac{\dot Q}{T}+\dot S_{i}&lt;/math&gt; with &lt;math&gt; \dot S_{i} \ge 0&lt;/math&gt;
+</dd>
+</dl>
+<p>Here
+</p>
+<dl>
+<dd> &lt;math&gt;\dot Q&lt;/math&gt; is the heat flow into the system
+</dd>
+<dd> &lt;math&gt;T&lt;/math&gt; is the temperature at the point where the heat enters the system.
+</dd>
+</dl>
+<p>If heat is supplied to the system at several places we have to take the algebraic sum of the corresponding terms.
+</p><p>For open systems (also allowing exchange of matter):
+</p>
+<dl>
+<dd> &lt;math&gt;\frac{dS}{dt} = \frac{\dot Q}{T}+\dot S+\dot S_{i}&lt;/math&gt; with &lt;math&gt; \dot S_{i} \ge 0&lt;/math&gt;
+</dd>
+</dl>
+<p>Here &lt;math&gt;\dot S&lt;/math&gt; is the flow of entropy into the system associated with the flow of matter entering the system. It should not be confused with the time derivative of the entropy. If matter is supplied at several places we have to take the algebraic sum of these contributions.
+</p><p><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical mechanics</a> gives an explanation for the second law by postulating that a material is composed of atoms and molecules which are in constant motion. A particular set of positions and velocities for each particle in the system is called a <a href="/w/index.php?title=Microstate_(statistical_mechanics)&amp;action=edit&amp;redlink=1" class="new" title="Microstate (statistical mechanics) (page does not exist)">microstate</a> of the system and because of the constant motion, the system is constantly changing its microstate. Statistical mechanics postulates that, in equilibrium, each microstate that the system might be in is equally likely to occur, and when this assumption is made, it leads directly to the conclusion that the second law must hold in a statistical sense. That is, the second law will hold on average, with a statistical variation on the order of 1/√N where <i>N</i> is the number of particles in the system. For everyday (macroscopic) situations, the probability that the second law will be violated is practically zero. However, for systems with a small number of particles, thermodynamic parameters, including the entropy, may show significant statistical deviations from that predicted by the second law. Classical thermodynamic theory does not deal with these statistical variations.
+</p>
+<h2><span class="mw-headline" id="Derivation_from_statistical_mechanics">Derivation from statistical mechanics</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Due to <a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a>, derivations of the Second Law have to make an assumption regarding the past, namely that the system is <a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">uncorrelated</a> at some time in the past; this allows for simple probabilistic treatment. This assumption is usually thought as a <a href="/wiki/Boundary_condition" title="Boundary condition" class="mw-redirect">boundary condition</a>, and thus the second Law is ultimately a consequence of the initial conditions somewhere in the past, probably at the beginning of the universe (the <a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a>), though <a href="/w/index.php?title=Boltzmann_brain&amp;action=edit&amp;redlink=1" class="new" title="Boltzmann brain (page does not exist)">other scenarios</a> have also been suggested.<sup id="cite_ref-Hawking_AOT_33-0" class="reference"><a href="#cite_note-Hawking_AOT-33">[33]</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup><sup id="cite_ref-Lebowitz_35-0" class="reference"><a href="#cite_note-Lebowitz-35">[35]</a></sup>
+</p><p>Given these assumptions, in statistical mechanics, the Second Law is not a postulate, rather it is a consequence of the <a href="/wiki/Statistical_mechanics#Fundamental_postulate" title="Statistical mechanics">fundamental postulate</a>, also known as the equal prior probability postulate, so long as one is clear that simple probability arguments are applied only to the future, while for the past there are auxiliary sources of information which tell us that it was low entropy.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} The first part of the second law, which states that the entropy of a thermally isolated system can only increase is a trivial consequence of the equal prior probability postulate, if we restrict the notion of the entropy to systems in thermal equilibrium. The entropy of an isolated system in thermal equilibrium containing an amount of energy of &lt;math&gt;E&lt;/math&gt; is:
+</p>
+<dl>
+<dd> &lt;math&gt;S = k_{\mathrm B} \ln\left[\Omega\left(E\right)\right]\,&lt;/math&gt;
+</dd>
+</dl>
+<p>where &lt;math&gt;\Omega\left(E\right)&lt;/math&gt; is the number of quantum states in a small interval between &lt;math&gt;E&lt;/math&gt; and &lt;math&gt;E +\delta E&lt;/math&gt;. Here &lt;math&gt;\delta E&lt;/math&gt; is a macroscopically small energy interval that is kept fixed. Strictly speaking this means that the entropy depends on the choice of &lt;math&gt;\delta E&lt;/math&gt;. However, in the thermodynamic limit (i.e. in the limit of infinitely large system size), the specific entropy (entropy per unit volume or per unit mass) does not depend on &lt;math&gt;\delta E&lt;/math&gt;.
+</p><p>Suppose we have an isolated system whose macroscopic state is specified by a number of variables. These macroscopic variables can, e.g., refer to the total volume, the positions of pistons in the system, etc. Then &lt;math&gt;\Omega&lt;/math&gt; will depend on the values of these variables. If a variable is not fixed, (e.g. we do not clamp a piston in a certain position), then because all the accessible states are equally likely in equilibrium, the free variable in equilibrium will be such that &lt;math&gt;\Omega&lt;/math&gt; is maximized as that is the most probable situation in equilibrium.
+</p><p>If the variable was initially fixed to some value then upon release and when the new equilibrium has been reached, the fact the variable will adjust itself so that &lt;math&gt;\Omega&lt;/math&gt; is maximized, implies that the entropy will have increased or it will have stayed the same (if the value at which the variable was fixed happened to be the equilibrium value).
+</p><p>The entropy of a system that is not in equilibrium can be defined as:
+</p>
+<dl>
+<dd> &lt;math&gt;S = -k_{\mathrm B}\sum_{j}P_{j}\ln\left(P_{j}\right)&lt;/math&gt;
+</dd>
+</dl>
+<p><a href="/wiki/Entropy" title="Entropy">see here</a>. Here the &lt;math&gt;P_{j}&lt;/math&gt; is the probabilities for the system to be found in the states labeled by the subscript j. In thermal equilibrium, the probabilities for states inside the energy interval &lt;math&gt;\delta E&lt;/math&gt; are all equal to &lt;math&gt;1/\Omega&lt;/math&gt;, and in that case the general definition coincides with the previous definition of S that applies to the case of thermal equilibrium.
+</p><p>Suppose we start from an equilibrium situation and we suddenly remove a constraint on a variable. Then right after we do this, there are a number &lt;math&gt;\Omega&lt;/math&gt; of accessible microstates, but equilibrium has not yet been reached, so the actual probabilities of the system being in some accessible state are not yet equal to the prior probability of &lt;math&gt;1/\Omega&lt;/math&gt;. We have already seen that in the final equilibrium state, the entropy will have increased or have stayed the same relative to the previous equilibrium state. Boltzmann's <a href="/wiki/H-theorem" title="H-theorem">H-theorem</a>, however, proves that the entropy will increase continuously as a function of time during the intermediate out of equilibrium state.
+</p>
+<h3><span class="mw-headline" id="Derivation_of_the_entropy_change_for_reversible_processes">Derivation of the entropy change for reversible processes</span></h3>
+<p>The second part of the Second Law states that the entropy change of a system undergoing a reversible process is given by:
+</p>
+<dl>
+<dd> &lt;math&gt;dS =\frac{\delta Q}{T}&lt;/math&gt;
+</dd>
+</dl>
+<p>where the temperature is defined as:
+</p>
+<dl>
+<dd>&lt;math&gt;\frac{1}{k_{\mathrm B} T}\equiv\beta\equiv\frac{d\ln\left[\Omega\left(E\right)\right]}{dE}&lt;/math&gt;
+</dd>
+</dl>
+<p>See <a href="/wiki/Microcanonical_ensemble" title="Microcanonical ensemble">here</a> for the justification for this definition. Suppose that the system has some external parameter, x, that can be changed. In general, the energy eigenstates of the system will depend on x. According to the <a href="/wiki/Adiabatic_theorem" title="Adiabatic theorem">adiabatic theorem</a> of quantum mechanics, in the limit of an infinitely slow change of the system's Hamiltonian, the system will stay in the same energy eigenstate and thus change its energy according to the change in energy of the energy eigenstate it is in.
+</p><p>The generalized force, X, corresponding to the external variable x is defined such that &lt;math&gt;X dx&lt;/math&gt; is the work performed by the system if x is increased by an amount dx. E.g., if x is the volume, then X is the pressure. The generalized force for a system known to be in energy eigenstate &lt;math&gt;E_{r}&lt;/math&gt; is given by:
+</p>
+<dl>
+<dd> &lt;math&gt;X = -\frac{dE_{r}}{dx}&lt;/math&gt;
+</dd>
+</dl>
+<p>Since the system can be in any energy eigenstate within an interval of &lt;math&gt;\delta E&lt;/math&gt;, we define the generalized force for the system as the expectation value of the above expression:
+</p>
+<dl>
+<dd> &lt;math&gt;X = -\left\langle\frac{dE_{r}}{dx}\right\rangle\,&lt;/math&gt;
+</dd>
+</dl>
+<p>To evaluate the average, we partition the &lt;math&gt;\Omega\left(E\right)&lt;/math&gt; energy eigenstates by counting how many of them have a value for &lt;math&gt;\frac{dE_{r}}{dx}&lt;/math&gt; within a range between &lt;math&gt;Y&lt;/math&gt; and &lt;math&gt;Y + \delta Y&lt;/math&gt;. Calling this number &lt;math&gt;\Omega_{Y}\left(E\right)&lt;/math&gt;, we have:
+</p>
+<dl>
+<dd> &lt;math&gt;\Omega\left(E\right)=\sum_{Y}\Omega_{Y}\left(E\right)\,&lt;/math&gt;
+</dd>
+</dl>
+<p>The average defining the generalized force can now be written:
+</p>
+<dl>
+<dd> &lt;math&gt;X = -\frac{1}{\Omega\left(E\right)}\sum_{Y} Y\Omega_{Y}\left(E\right)\,&lt;/math&gt;
+</dd>
+</dl>
+<p>We can relate this to the derivative of the entropy w.r.t. x at constant energy E as follows. Suppose we change x to x + dx. Then &lt;math&gt;\Omega\left(E\right)&lt;/math&gt; will change because the energy eigenstates depend on x, causing energy eigenstates to move into or out of the range between &lt;math&gt;E&lt;/math&gt; and &lt;math&gt;E+\delta E&lt;/math&gt;. Let's focus again on the energy eigenstates for which &lt;math&gt;\frac{dE_{r}}{dx}&lt;/math&gt; lies within the range between &lt;math&gt;Y&lt;/math&gt; and &lt;math&gt;Y + \delta Y&lt;/math&gt;. Since these energy eigenstates increase in energy by Y dx, all such energy eigenstates that are in the interval ranging from E – Y dx to E move from below E to above E. There are
+</p>
+<dl>
+<dd> &lt;math&gt;N_{Y}\left(E\right)=\frac{\Omega_{Y}\left(E\right)}{\delta E} Y dx\,&lt;/math&gt;
+</dd>
+</dl>
+<p>such energy eigenstates. If &lt;math&gt;Y dx\leq\delta E&lt;/math&gt;, all these energy eigenstates will move into the range between &lt;math&gt;E&lt;/math&gt; and &lt;math&gt;E+\delta E&lt;/math&gt; and contribute to an increase in &lt;math&gt;\Omega&lt;/math&gt;. The number of energy eigenstates that move from below &lt;math&gt;E+\delta E&lt;/math&gt; to above &lt;math&gt;E+\delta E&lt;/math&gt; is, of course, given by &lt;math&gt;N_{Y}\left(E+\delta E\right)&lt;/math&gt;. The difference
+</p>
+<dl>
+<dd> &lt;math&gt;N_{Y}\left(E\right) - N_{Y}\left(E+\delta E\right)\,&lt;/math&gt;
+</dd>
+</dl>
+<p>is thus the net contribution to the increase in &lt;math&gt;\Omega&lt;/math&gt;. Note that if Y dx is larger than &lt;math&gt;\delta E&lt;/math&gt; there will be the energy eigenstates that move from below E to above &lt;math&gt;E+\delta E&lt;/math&gt;. They are counted in both &lt;math&gt;N_{Y}\left(E\right)&lt;/math&gt; and &lt;math&gt;N_{Y}\left(E+\delta E\right)&lt;/math&gt;, therefore the above expression is also valid in that case.
+</p><p>Expressing the above expression as a derivative w.r.t. E and summing over Y yields the expression:
+</p>
+<dl>
+<dd> &lt;math&gt;\left(\frac{\partial\Omega}{\partial x}\right)_{E} = -\sum_{Y}Y\left(\frac{\partial\Omega_{Y}}{\partial E}\right)_{x}= \left(\frac{\partial\left(\Omega X\right)}{\partial E}\right)_{x}\,&lt;/math&gt;
+</dd>
+</dl>
+<p>The logarithmic derivative of &lt;math&gt;\Omega&lt;/math&gt; w.r.t. x is thus given by:
+</p>
+<dl>
+<dd> &lt;math&gt;\left(\frac{\partial\ln\left(\Omega\right)}{\partial x}\right)_{E} = \beta X +\left(\frac{\partial X}{\partial E}\right)_{x}\,&lt;/math&gt;
+</dd>
+</dl>
+<p>The first term is intensive, i.e. it does not scale with system size. In contrast, the last term scales as the inverse system size and will thus vanishes in the thermodynamic limit. We have thus found that:
+</p>
+<dl>
+<dd> &lt;math&gt;\left(\frac{\partial S}{\partial x}\right)_{E} = \frac{X}{T}\,&lt;/math&gt;
+</dd>
+</dl>
+<p>Combining this with
+</p>
+<dl>
+<dd> &lt;math&gt;\left(\frac{\partial S}{\partial E}\right)_{x} = \frac{1}{T}\,&lt;/math&gt;
+</dd>
+</dl>
+<p>Gives:
+</p>
+<dl>
+<dd> &lt;math&gt;dS = \left(\frac{\partial S}{\partial E}\right)_{x}dE+\left(\frac{\partial S}{\partial x}\right)_{E}dx = \frac{dE}{T} + \frac{X}{T} dx=\frac{\delta Q}{T}\,&lt;/math&gt;
+</dd>
+</dl>
+<h3><span class="mw-headline" id="Derivation_for_systems_described_by_the_canonical_ensemble">Derivation for systems described by the canonical ensemble</span></h3>
+<p>If a system is in thermal contact with a heat bath at some temperature T then, in equilibrium, the probability distribution over the energy eigenvalues are given by the <a href="/wiki/Canonical_ensemble" title="Canonical ensemble">canonical ensemble</a>:
+</p>
+<dl>
+<dd> &lt;math&gt;P_{j}=\frac{\exp\left(-\frac{E_{j}}{k_{\mathrm B} T}\right)}{Z}&lt;/math&gt;
+</dd>
+</dl>
+<p>Here Z is a factor that normalizes the sum of all the probabilities to 1, this function is known as the <a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">partition function</a>. We now consider an infinitesimal reversible change in the temperature and in the external parameters on which the energy levels depend. It follows from the general formula for the entropy:
+</p>
+<dl>
+<dd> &lt;math&gt;S = -k_{\mathrm B}\sum_{j}P_{j}\ln\left(P_{j}\right)&lt;/math&gt;
+</dd>
+</dl>
+<p>that
+</p>
+<dl>
+<dd> &lt;math&gt;dS = -k_{\mathrm B}\sum_{j}\ln\left(P_{j}\right)dP_{j}&lt;/math&gt;
+</dd>
+</dl>
+<p>Inserting the formula for &lt;math&gt;P_{j}&lt;/math&gt; for the canonical ensemble in here gives:
+</p>
+<dl>
+<dd> &lt;math&gt;dS = \frac{1}{T}\sum_{j}E_{j}dP_{j}=\frac{1}{T}\sum_{j}d\left(E_{j}P_{j}\right) - \frac{1}{T}\sum_{j}P_{j}dE_{j}= \frac{dE + \delta W}{T}=\frac{\delta Q}{T}&lt;/math&gt;
+</dd>
+</dl>
+<h3><span class="mw-headline" id="General_derivation_from_unitarity_of_quantum_mechanics">General derivation from unitarity of quantum mechanics</span></h3>
+<p>The time development operator in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum theory</a> is <a href="/w/index.php?title=Unitarity_(physics)&amp;action=edit&amp;redlink=1" class="new" title="Unitarity (physics) (page does not exist)">unitary</a>, because the <a href="/wiki/Hamiltonian_(quantum_mechanics)" title="Hamiltonian (quantum mechanics)">Hamiltonian</a> is <a href="/wiki/Hermitian_matrix" title="Hermitian matrix">hermitian</a>. Consequently, the <a href="/w/index.php?title=Transition_probability&amp;action=edit&amp;redlink=1" class="new" title="Transition probability (page does not exist)">transition probability</a> matrix is <a href="/w/index.php?title=Doubly_stochastic_matrix&amp;action=edit&amp;redlink=1" class="new" title="Doubly stochastic matrix (page does not exist)">doubly stochastic</a>, which implies the Second Law of Thermodynamics.<sup id="cite_ref-everett56_36-0" class="reference"><a href="#cite_note-everett56-36">[36]</a></sup><sup id="cite_ref-dewitt73_37-0" class="reference"><a href="#cite_note-dewitt73-37">[37]</a></sup> This derivation is quite general, based on the <a href="/wiki/Shannon_entropy" title="Shannon entropy" class="mw-redirect">Shannon entropy</a>, and does not require any assumptions beyond unitarity, which is universally accepted. It is a <i>consequence</i> of the irreversibility or <a href="/wiki/Invertible_matrix" title="Invertible matrix">singular nature</a> of the general transition matrix.
+</p>
+<h2><span class="mw-headline" id="Non-equilibrium_states">Non-equilibrium states</span></h2>
+<p>It is only by convention, for the purposes of thermodynamic analysis, that any arbitrary occasion of space-time is said to be in thermodynamic equilibrium. In general, an occasion of space-time found in nature is not in thermodynamic equilibrium, read in the most stringent terms. In looser terms, nothing in the entire universe is or has ever been truly in exact thermodynamic equilibrium.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> If it is assumed, for the purposes of physical analysis, that one is dealing with a system in thermodynamic equilibrium, then statistically it is possible for that system to achieve moments of non-equilibrium. In some statistically unlikely events, hot particles "steal" the energy of cold particles, enough that the cold side gets colder and the hot side gets hotter, for a very brief time.
+</p><p>The physics involved in such events is beyond the scope of classical equilibrium thermodynamics, and is the topic of the <a href="/wiki/Fluctuation_theorem" title="Fluctuation theorem">fluctuation theorem</a> (not to be confused with the <a href="/wiki/Fluctuation-dissipation_theorem" title="Fluctuation-dissipation theorem">fluctuation-dissipation theorem</a>). This was first proved by Bochov and Kuzovlev,<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> and later by <a href="/w/index.php?title=Denis_Evans&amp;action=edit&amp;redlink=1" class="new" title="Denis Evans (page does not exist)">Evans</a> and <a href="/w/index.php?title=Debra_Searles&amp;action=edit&amp;redlink=1" class="new" title="Debra Searles (page does not exist)">Searles</a>.<sup id="cite_ref-Evans_FT_41-0" class="reference"><a href="#cite_note-Evans_FT-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> It gives a numerical estimate of the probability that a system away from equilibrium will have a certain change in entropy over a certain amount of time. The theorem is proved with the exact time reversible dynamical equations of motion but assumes the <a href="/w/index.php?title=Axiom_of_Causality&amp;action=edit&amp;redlink=1" class="new" title="Axiom of Causality (page does not exist)">Axiom of Causality</a>, which is equivalent to assuming uncorrelated initial conditions (namely, uncorrelated past). Such events have been observed at a small enough scale where the likelihood of such a thing happening is significant. Quantitative predictions of this theorem have been confirmed in laboratory experiments by use of <a href="/wiki/Optical_tweezers" title="Optical tweezers">optical tweezers</a> apparatus.<sup id="cite_ref-WSME_2002_43-0" class="reference"><a href="#cite_note-WSME_2002-43">[43]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Arrow_of_time">Arrow of time</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+The second law of thermodynamics is a physical law that is not symmetric to reversal of the time direction.
+</p><p>The second law has been proposed to supply an explanation of the difference between moving forward and backwards in time, such as why the cause precedes the effect (<a href="/wiki/Arrow_of_time#The_causal_arrow_of_time" title="Arrow of time">the causal arrow of time</a>).<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Controversies">Controversies</span></h2>
+<h3><span class="mw-headline" id="Maxwell.27s_demon">Maxwell's demon</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:James-clerk-maxwell3.jpg" title="File:James-clerk-maxwell3.jpg">File:James-clerk-maxwell3.jpg</a>  <div class="thumbcaption">James Clerk Maxwell</div></div></div>
+<p><a href="/w/index.php?title=James_Clerk_Maxwell&amp;action=edit&amp;redlink=1" class="new" title="James Clerk Maxwell (page does not exist)">James Clerk Maxwell</a> imagined one container divided into two parts, <i>A</i> and <i>B</i>. Both parts are filled with the same <a href="/w/index.php?title=Gas&amp;action=edit&amp;redlink=1" class="new" title="Gas (page does not exist)">gas</a> at equal temperatures and placed next to each other. Observing the <a href="/wiki/Molecule" title="Molecule">molecules</a> on both sides, an imaginary <a href="/wiki/Demon" title="Demon">demon</a> guards a trapdoor between the two parts. When a faster-than-average molecule from <i>A</i> flies towards the trapdoor, the demon opens it, and the molecule will fly from <i>A</i> to <i>B</i>. The average <a href="/wiki/Speed" title="Speed">speed</a> of the molecules in <i>B</i> will have increased while in <i>A</i> they will have slowed down on average. Since average molecular speed corresponds to temperature, the temperature decreases in <i>A</i> and increases in <i>B</i>, contrary to the second law of thermodynamics.
+</p><p>One of the most famous responses to this question was suggested in 1929 by <a href="/wiki/Le%C3%B3_Szil%C3%A1rd" title="Leó Szilárd">Leó Szilárd</a> and later by <a href="/wiki/L%C3%A9on_Brillouin" title="Léon Brillouin">Léon Brillouin</a>. Szilárd pointed out that a real-life Maxwell's demon would need to have some means of measuring molecular speed, and that the act of acquiring information would require an expenditure of energy.
+</p>
+<h3><span class="mw-headline" id="Loschmidt.27s_paradox">Loschmidt's paradox</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a>, also known as the reversibility paradox, is the objection that it should not be possible to deduce an irreversible process from time-symmetric dynamics. This puts the <a href="/wiki/Time_reversal_symmetry" title="Time reversal symmetry" class="mw-redirect">time reversal symmetry</a> of nearly all known low-level fundamental physical processes at odds with any attempt to infer from them the second law of thermodynamics which describes the behavior of macroscopic systems. Both of these are well-accepted principles in physics, with sound observational and theoretical support, yet they seem to be in conflict; hence the <a href="/wiki/Paradox" title="Paradox">paradox</a>.
+</p><p>Due to this paradox, derivations of the Second Law have to make an assumption regarding the past, namely that the system is <a href="/wiki/Correlation_and_dependence" title="Correlation and dependence">uncorrelated</a> at some time in the past, or - equivalently - that the entropy in the past was lower than in the future. This assumption is usually thought as a <a href="/wiki/Boundary_condition" title="Boundary condition" class="mw-redirect">boundary condition</a>, and thus the second Law is ultimately derived from the initial conditions of the <a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a>.<sup id="cite_ref-Hawking_AOT_33-1" class="reference"><a href="#cite_note-Hawking_AOT-33">[33]</a></sup><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Gibbs_paradox">Gibbs paradox</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+In <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">statistical mechanics</a>, a simple derivation of the <a href="/wiki/Entropy" title="Entropy">entropy</a> of an ideal gas of distinguishable particles based on the <a href="/wiki/Canonical_ensemble" title="Canonical ensemble">canonical ensemble</a> yields an expression for the entropy which is not <a href="/wiki/Extensive_variable" title="Extensive variable" class="mw-redirect">extensive</a> (is not proportional to the amount of gas in question). This leads to an apparent <a href="/wiki/Physical_paradox" title="Physical paradox">paradox</a> known as the Gibbs paradox, allowing, for instance, the entropy of closed systems to decrease, violating the second law of thermodynamics.
+</p><p>The paradox is averted by recognizing that the identity of the particles does not influence the entropy. In the conventional explanation, this is associated with an indistinguishability of the particles associated with quantum mechanics. However, a growing number of papers now take the perspective that it is merely the definition of entropy that is changed to ignore particle permutation (and thereby avert the paradox). The resulting equation for the entropy (of a classical ideal gas) is extensive, and is known as the <a href="/w/index.php?title=Sackur-Tetrode_equation&amp;action=edit&amp;redlink=1" class="new" title="Sackur-Tetrode equation (page does not exist)">Sackur-Tetrode equation</a>.
+</p>
+<h3><span class="mw-headline" id="Poincar.C3.A9_recurrence_theorem">Poincaré recurrence theorem</span></h3>
+<p>The <a href="/w/index.php?title=Poincar%C3%A9_recurrence_theorem&amp;action=edit&amp;redlink=1" class="new" title="Poincaré recurrence theorem (page does not exist)">Poincaré recurrence theorem</a> states that certain systems will, after a sufficiently long time, return to a state very close to the initial state. The Poincaré recurrence time is the length of time elapsed until the recurrence, which is of the order of &lt;math&gt;\sim \exp\left(S/k\right)&lt;/math&gt;.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> The result applies to physical systems in which energy is conserved. The Recurrence theorem apparently contradicts the Second law of thermodynamics, which says that large dynamical systems evolve irreversibly towards the state with higher entropy, so that if one starts with a low-entropy state, the system will never return to it. There are many possible ways to resolve this paradox, but none of them is universally accepted.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} The most reasonable argument is that for typical thermodynamical systems the recurrence time is so large (many many times longer than the lifetime of the universe) that, for all practical purposes, one cannot observe the recurrence.
+</p>
+<h3><span class="mw-headline" id="Future_of_the_universe">Future of the universe</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+It has been suggested in the past that since the entropy in the universe is continuously rising, the amount of free energy diminishes and the universe will arrive at a <a href="/wiki/Heat_death_of_the_universe" title="Heat death of the universe">heat death</a>, in which no <a href="/w/index.php?title=Work_(thermodynamics)&amp;action=edit&amp;redlink=1" class="new" title="Work (thermodynamics) (page does not exist)">work</a> can be done and life cannot exist. An expanding universe, however, is not in a thermodynamical equilibrium, and simple considerations leading to the heat death scenario are not valid.
+</p><p>Taking the current view of the universe into account, it has been proposed that the universe will probably exhibit a future in which all known energy sources (such as stars) will decay. Nevertheless, it may be the case that work in smaller and smaller energy scales will still be possible, so that "interesting things can continue to happen at ... increasingly low levels of energy".<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Quotations">Quotations</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<blockquote class="templatequote">The law that entropy always increases holds, I think, the supreme position among the <a href="/wiki/Laws_of_Nature" title="Laws of Nature" class="mw-redirect">laws of Nature</a>. If someone points out to you that your pet theory of the <a href="/wiki/Universe" title="Universe">universe</a> is in disagreement with <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a> — then so much the worse for Maxwell's equations. If it is found to be contradicted by observation — well, these experimentalists do bungle things sometimes. But if your theory is found to be against the second law of thermodynamics I can give you no hope; there is nothing for it but to collapse in deepest humiliation.<div class="templatequotecite">&#8212;Sir <a href="/w/index.php?title=Arthur_Stanley_Eddington&amp;action=edit&amp;redlink=1" class="new" title="Arthur Stanley Eddington (page does not exist)">Arthur Stanley Eddington</a>, <i>The Nature of the Physical World</i> (1927)</div>
+</blockquote>
+<blockquote class="templatequote">The tendency for entropy to increase in isolated systems is expressed in the second law of thermodynamics — perhaps the most pessimistic and amoral formulation in all human thought.<div class="templatequotecite">&#8212;<a href="/wiki/Gregory_Hill_(writer)" title="Gregory Hill (writer)" class="mw-redirect">Gregory Hill</a> and <a href="/w/index.php?title=Kerry_Thornley&amp;action=edit&amp;redlink=1" class="new" title="Kerry Thornley (page does not exist)">Kerry Thornley</a>, <i><a href="/w/index.php?title=Principia_Discordia&amp;action=edit&amp;redlink=1" class="new" title="Principia Discordia (page does not exist)">Principia Discordia</a></i> (1965)</div>
+</blockquote>
+<blockquote class="templatequote">There have been nearly as many formulations of the second law as there have been discussions of it.<div class="templatequotecite">&#8212;Philosopher / Physicist <a href="/wiki/Percy_Williams_Bridgman" title="Percy Williams Bridgman">P.W. Bridgman</a>, (1941)</div>
+</blockquote>
+<blockquote class="templatequote">Clausius is the author of the sybillic utterance, "The energy of the universe is constant; the entropy of the universe tends to a maximum." The objectives of continuum thermomechanics stop far short of explaining the "universe", but within that theory we may easily derive an explicit statement in some ways reminiscent of Clausius, but referring only to a modest object: an isolated body of finite size.<div class="templatequotecite">&#8212;<a href="/wiki/Clifford_Truesdell" title="Clifford Truesdell">Truesdell, C.</a>, Muncaster, R.G. (1980). <i>Fundamentals of Maxwell's Kinetic Theory of a Simple Monatomic Gas, Treated as a Branch of Rational Mechanics</i>, Academic Press, New York, ISBN0-12-701350-4, p.17.</div>
+</blockquote>
+<blockquote class="templatequote">The [historically] early appearance of life is certainly an argument in favour of the idea that life is the result of spontaneous self-organization that occurs whenever conditions for it permit. However, we must admit that we remain far from any quantitative theory.<div class="templatequotecite">&#8212;<a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Prigogine, I.</a>, <a href="/w/index.php?title=Isabelle_Stengers&amp;action=edit&amp;redlink=1" class="new" title="Isabelle Stengers (page does not exist)">Stengers, I.</a> (1984). <i>Order Out of Chaos. Man's New Dialogue with Nature</i>, Bantam Books, Toronto, <a href="/wiki/Special:BookSources/0553340824" class="internal mw-magiclink-isbn">ISBN 0-553-34082-4</a>, p. 176.</div>
+</blockquote>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p><a href="/w/index.php?title=Template:Colbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Colbegin (page does not exist)">Template:Colbegin</a>
+</p>
+<ul>
+<li><a href="/w/index.php?title=Clausius%E2%80%93Duhem_inequality&amp;action=edit&amp;redlink=1" class="new" title="Clausius–Duhem inequality (page does not exist)">Clausius–Duhem inequality</a>
+</li>
+<li><i><a href="/w/index.php?title=Entropy:_A_New_World_View&amp;action=edit&amp;redlink=1" class="new" title="Entropy: A New World View (page does not exist)">Entropy: A New World View</a></i>
+</li>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">History of thermodynamics</a>
+</li>
+<li><a href="/wiki/Jarzynski_equality" title="Jarzynski equality">Jarzynski equality</a>
+</li>
+<li><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws of thermodynamics</a>
+</li>
+<li><a href="/w/index.php?title=Maximum_entropy_thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="Maximum entropy thermodynamics (page does not exist)">Maximum entropy thermodynamics</a>
+</li>
+<li><i><a href="/w/index.php?title=Reflections_on_the_Motive_Power_of_Fire&amp;action=edit&amp;redlink=1" class="new" title="Reflections on the Motive Power of Fire (page does not exist)">Reflections on the Motive Power of Fire</a></i>
+</li>
+<li><a href="/wiki/Thermal_diode" title="Thermal diode">Thermal diode</a>
+</li>
+<li><a href="/w/index.php?title=Relativistic_heat_conduction&amp;action=edit&amp;redlink=1" class="new" title="Relativistic heat conduction (page does not exist)">Relativistic heat conduction</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Colend&amp;action=edit&amp;redlink=1" class="new" title="Template:Colend (page does not exist)">Template:Colend</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+<a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<h3><span class="mw-headline" id="Bibliography_of_citations">Bibliography of citations</span></h3>
+<p><a href="/w/index.php?title=Template:Refbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Refbegin (page does not exist)">Template:Refbegin</a>
+</p>
+<ul>
+<li>Adkins, C.J. (1968/1983). <i>Equilibrium Thermodynamics</i>, (1st edition 1968), third edition 1983, Cambridge University Press, Cambridge UK, <a href="/wiki/Special:BookSources/0521254450" class="internal mw-magiclink-isbn">ISBN 0-521-25445-0</a>.
+</li>
+<li>Bailyn, M. (1994). <i>A Survey of Thermodynamics</i>, American Institute of Physics, New York, <a href="/wiki/Special:BookSources/0883187973" class="internal mw-magiclink-isbn">ISBN 0-88318-797-3</a>.
+</li>
+<li>Buchdahl, H.A. (1966). <i>The Concepts of Classical Thermodynamics</i>, Cambridge University Press, Cambridge UK.
+</li>
+<li><a href="/wiki/Herbert_Callen" title="Herbert Callen">Callen, H.B.</a> (1960/1985). <i>Thermodynamics and an Introduction to Thermostatistics</i>, (1st edition 1960) 2nd edition 1985, Wiley, New York, <a href="/wiki/Special:BookSources/0471862568" class="internal mw-magiclink-isbn">ISBN 0-471-86256-8</a>.
+</li>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>. A translation may be found <a rel="nofollow" class="external text" href="http://neo-classical-physics.info/uploads/3/0/6/5/3065888/caratheodory_-_thermodynamics.pdf">here</a>. Also a mostly reliable <a rel="nofollow" class="external text" href="http://books.google.com.au/books?id=xwBRAAAAMAAJ&amp;q=Investigation+into+the+foundations">translation is to be found</a> at Kestin, J. (1976). <i>The Second Law of Thermodynamics</i>, Dowden, Hutchinson &amp; Ross, Stroudsburg PA.
+</li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot, S.</a> (1824/1986). <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/reflections-on-the-motive-power-of-fire-a-critical-edition-with-the-surviving-scientific-manuscripts-translated-and-edited-by-fox-robert/oclc/812944517&amp;referer=brief_results"><i>Reflections on the motive power of fire</i></a>, Manchester University Press, Manchester UK, <a href="/wiki/Special:BookSources/0719017416" class="internal mw-magiclink-isbn">ISBN 0719017416</a>. <a rel="nofollow" class="external text" href="http://www.archive.org/stream/reflectionsonmot00carnrich#page/n7/mode/2up">Also here.</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a> Translated into English: <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li>Eu, B.C. (2002). <i>Generalized Thermodynamics. The Thermodynamics of Irreversible Processes and Generalized Hydrodynamics</i>, Kluwer Academic Publishers, Dordrecht, ISBN 1–4020–0788–4.
+</li>
+<li>Grandy, W.T., Jr (2008). <a rel="nofollow" class="external text" href="http://global.oup.com/academic/product/entropy-and-the-time-evolution-of-macroscopic-systems-9780199546176?cc=au&amp;lang=en&amp;"><i>Entropy and the Time Evolution of Macroscopic Systems</i></a>. Oxford University Press. <a href="/wiki/Special:BookSources/9780199546176" class="internal mw-magiclink-isbn">ISBN 978-0-19-954617-6</a>.
+</li>
+<li>Kondepudi, D., <a href="/wiki/Ilya_Prigogine" title="Ilya Prigogine">Prigogine, I.</a> (1998). <i>Modern Thermodynamics: From Heat Engines to Dissipative Structures</i>, John Wiley &amp; Sons, Chichester, ISBN 0–471–97393–9.
+</li>
+<li>Lebon, G., Jou, D., Casas-Vázquez, J. (2008). <i>Understanding Non-equilibrium Thermodynamics: Foundations, Applications, Frontiers</i>, Springer-Verlag, Berlin, e-<a href="/wiki/Special:BookSources/9783540742524" class="internal mw-magiclink-isbn">ISBN 978-3-540-74252-4</a>.
+</li>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li>Münster, A. (1970), <i>Classical Thermodynamics</i>, translated by E.S. Halberstadt, Wiley–Interscience, London, <a href="/wiki/Special:BookSources/0471624306" class="internal mw-magiclink-isbn">ISBN 0-471-62430-6</a>.
+</li>
+<li><a href="/wiki/Max_Planck" title="Max Planck">Planck, M.</a> (1926). Über die Begründing des zweiten Hauptsatzes der Thermodynamik, <i>S.B. Preuß. Akad. Wiss. phys. math. Kl.</i>: 453–463.
+</li>
+<li>Quinn, T.J. (1983). <i>Temperature</i>, Academic Press, London, <a href="/wiki/Special:BookSources/0125696809" class="internal mw-magiclink-isbn">ISBN 0-12-569680-9</a>.
+</li>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a> Also published in <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li><a href="/wiki/Clifford_Truesdell" title="Clifford Truesdell">Truesdell, C.</a> (1980). <i>The Tragicomical History of Thermodynamics 1822-1854</i>, Springer, New York, ISBN 0–387–90403–4.
+</li>
+<li><a href="/w/index.php?title=Mark_Zemansky&amp;action=edit&amp;redlink=1" class="new" title="Mark Zemansky (page does not exist)">Zemansky, M.W.</a> (1968). <i>Heat and Thermodynamics. An Intermediate Textbook</i>, fifth edition, McGraw-Hill Book Company, New York.
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Goldstein, Martin, and Inge F., 1993. <i>The Refrigerator and the Universe</i>. Harvard Univ. Press. Chpts. 4–9 contain an introduction to the Second Law, one a bit less technical than this entry. <a href="/wiki/Special:BookSources/9780674753242" class="internal mw-magiclink-isbn">ISBN 978-0-674-75324-2</a>
+</li>
+<li>Leff, Harvey S., and Rex, Andrew F. (eds.) 2003. <i>Maxwell's Demon 2&#160;: Entropy, classical and quantum information, computing</i>. Bristol UK; Philadelphia PA: <a href="/wiki/Institute_of_Physics" title="Institute of Physics">Institute of Physics</a>. <a href="/wiki/Special:BookSources/9780585492377" class="internal mw-magiclink-isbn">ISBN 978-0-585-49237-7</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>(technical).
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a> (<a rel="nofollow" class="external text" href="http://books.google.com/books?id=tgdJAAAAIAAJ">full text of 1897 ed.)</a>) (<a rel="nofollow" class="external text" href="http://www.history.rochester.edu/steam/carnot/1943/">html</a>)
+</li>
+<li>Stephen Jay Kline (1999). <i>The Low-Down on Entropy and Interpretive Thermodynamics</i>, La Cañada, CA: DCW Industries. <a href="/wiki/Special:BookSources/1928729010" class="internal mw-magiclink-isbn">ISBN 1928729010</a>.
+</li>
+<li>Kostic, M., <i>Revisiting The Second Law of Energy Degradation and Entropy Generation: From Sadi Carnot's Ingenious Reasoning to Holistic Generalization</i>.
+</li>
+<li>AIP Conf. Proc. 1411, pp.&#160;327–350; doi: <a rel="nofollow" class="external free" href="http://dx.doi.org/10.1063/1.3665247">http://dx.doi.org/10.1063/1.3665247</a>. American Institute of Physics, 2011. <a href="/wiki/Special:BookSources/9780735409859" class="internal mw-magiclink-isbn">ISBN 978-0-7354-0985-9</a>. Abstract at: <a rel="nofollow" class="external autonumber" href="http://adsabs.harvard.edu/abs/2011AIPC.1411..327K">[1]</a>. Full article (24 pages <a rel="nofollow" class="external autonumber" href="http://scitation.aip.org/getpdf/servlet/GetPDFServlet?filetype=pdf&amp;id=APCPCS001411000001000327000001&amp;idtype=cvips&amp;doi=10.1063/1.3665247&amp;prog=normal&amp;bypassSSO=1">[2]</a>), also at <a rel="nofollow" class="external autonumber" href="http://www.kostic.niu.edu/2ndLaw/Revisiting%20The%20Second%20Law%20of%20Energy%20Degradation%20and%20Entropy%20Generation%20-%20From%20Carnot%20to%20Holistic%20Generalization-4.pdf">[3]</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a>: "<a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/statphys-statmech/">Philosophy of Statistical Mechanics</a>" – by Lawrence Sklar.
+</li>
+<li><a rel="nofollow" class="external text" href="http://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node30.html"><i>Second law of thermodynamics</i></a> in the MIT Course <a rel="nofollow" class="external text" href="http://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html"><i>Unified Thermodynamics and Propulsion</i></a> from Prof. Z. S. Spakovszky
+</li>
+<li><a href="/wiki/E.T._Jaynes" title="E.T. Jaynes" class="mw-redirect">E.T. Jaynes</a>, 1988, "<a rel="nofollow" class="external text" href="http://bayes.wustl.edu/etj/articles/ccarnot.pdf">The evolution of Carnot's principle,</a>" in G. J. Erickson and C. R. Smith (eds.)<i>Maximum-Entropy and Bayesian Methods in Science and Engineering, Vol 1</i>, p.&#160;267.
+</li>
+<li><a rel="nofollow" class="external text" href="http://neo-classical-physics.info/uploads/3/0/6/5/3065888/caratheodory_-_thermodynamics.pdf">Caratheodory, C., "Examination of the foundations of thermodynamics," trans. by D. H. Delphenich</a>
+</li>
+</ul>
+<p><br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.728 seconds
+Real time usage: 1.825 seconds
+Preprocessor visited node count: 1247/1000000
+Preprocessor generated node count: 8297/1000000
+Post‐expand include size: 4802/2097152 bytes
+Template argument size: 2813/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:96564-0!*!0!!en!2!* and timestamp 20170407172308
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Second_law_of_thermodynamics&amp;oldid=96564">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Second_law_of_thermodynamics&amp;oldid=96564</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Concepts_in_physics&amp;action=edit&amp;redlink=1" class="new" title="Category:Concepts in physics (page does not exist)">Concepts in physics</a></li><li><a href="/w/index.php?title=Category:Laws_of_thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="Category:Laws of thermodynamics (page does not exist)">Laws of thermodynamics</a></li><li><a href="/w/index.php?title=Category:Non-equilibrium_thermodynamics&amp;action=edit&amp;redlink=1" class="new" title="Category:Non-equilibrium thermodynamics (page does not exist)">Non-equilibrium thermodynamics</a></li><li><a href="/w/index.php?title=Category:Philosophy_of_thermal_and_statistical_physics&amp;action=edit&amp;redlink=1" class="new" title="Category:Philosophy of thermal and statistical physics (page does not exist)">Philosophy of thermal and statistical physics</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Second+law+of+thermodynamics" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Second_law_of_thermodynamics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Second_law_of_thermodynamics&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Second_law_of_thermodynamics" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Second_law_of_thermodynamics&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Second_law_of_thermodynamics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Second_law_of_thermodynamics" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Second_law_of_thermodynamics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Second_law_of_thermodynamics&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Second_law_of_thermodynamics&amp;oldid=96564" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Second_law_of_thermodynamics&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 February 2014, at 06:19.</li>
+											<li id="footer-info-viewcount">This page has been accessed 106 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 2.479 secs. -->
+	</body>
+</html>

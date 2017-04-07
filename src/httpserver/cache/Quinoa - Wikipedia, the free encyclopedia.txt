@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Quinoa - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Quinoa","wgTitle":"Quinoa","wgCurRevisionId":35532,"wgRevisionId":35532,"wgArticleId":35532,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category with local link different than on Wikidata","Chenopodium","Crops originating from the Americas","Crops originating from Ecuador","Crops originating from Peru","Edible nuts and seeds","Flora of South America","Grains","Leaf vegetables","Quechua words and phrases","Staple foods","Tropical agriculture"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Quinoa","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Quinoa skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Quinoa</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+</p>
+<div><a href="/w/index.php?title=Template:Taxobox/core&amp;action=edit&amp;redlink=1" class="new" title="Template:Taxobox/core (page does not exist)">Template:Taxobox/core</a></div>
+<p><b>Quinoa</b> (<a href="/w/index.php?title=Template:IPAc-en&amp;action=edit&amp;redlink=1" class="new" title="Template:IPAc-en (page does not exist)">Template:IPAc-en</a> or <a href="/w/index.php?title=Template:IPAc-en&amp;action=edit&amp;redlink=1" class="new" title="Template:IPAc-en (page does not exist)">Template:IPAc-en</a>, <a href="/w/index.php?title=Template:Lang-es&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-es (page does not exist)">Template:Lang-es</a>, from <a href="/w/index.php?title=Template:Lang-qu&amp;action=edit&amp;redlink=1" class="new" title="Template:Lang-qu (page does not exist)">Template:Lang-qu</a>), a species of <a href="/wiki/Goosefoot" title="Goosefoot" class="mw-redirect">goosefoot</a> <i>(<a href="/wiki/Chenopodium" title="Chenopodium">Chenopodium</a>),</i> is a <a href="/w/index.php?title=Grain&amp;action=edit&amp;redlink=1" class="new" title="Grain (page does not exist)">grain</a> <a href="/w/index.php?title=Crop&amp;action=edit&amp;redlink=1" class="new" title="Crop (page does not exist)">crop</a> grown primarily for its edible <a href="/wiki/Seed" title="Seed">seeds</a>. It is a <a href="/w/index.php?title=Pseudocereal&amp;action=edit&amp;redlink=1" class="new" title="Pseudocereal (page does not exist)">pseudocereal</a> rather than a true <a href="/wiki/Cereal" title="Cereal">cereal</a>, as it is not a member of the <a href="/wiki/Poaceae" title="Poaceae">true grass family</a>. As a <a href="/wiki/Chenopodioideae" title="Chenopodioideae">chenopod</a>, quinoa is closely related to species such as <a href="/wiki/Beetroot" title="Beetroot">beetroots</a>, <a href="/wiki/Spinach" title="Spinach">spinach</a> and <a href="/wiki/Tumbleweed" title="Tumbleweed">tumbleweeds</a>.
+</p><p>It is high in protein, lacks gluten, and is tolerant of dry soil.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Biology"><span class="tocnumber">2</span> <span class="toctext">Biology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Natural_distribution"><span class="tocnumber">2.1</span> <span class="toctext">Natural distribution</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Saponin_content"><span class="tocnumber">2.2</span> <span class="toctext">Saponin content</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Nutritional_value"><span class="tocnumber">3</span> <span class="toctext">Nutritional value</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Cultivation"><span class="tocnumber">4</span> <span class="toctext">Cultivation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Climate_requirements"><span class="tocnumber">4.1</span> <span class="toctext">Climate requirements</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Sowing"><span class="tocnumber">4.2</span> <span class="toctext">Sowing</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Cultivation_management"><span class="tocnumber">4.3</span> <span class="toctext">Cultivation management</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Harvesting_and_handling"><span class="tocnumber">4.4</span> <span class="toctext">Harvesting and handling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#History_and_culture"><span class="tocnumber">5</span> <span class="toctext">History and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Early_history"><span class="tocnumber">5.1</span> <span class="toctext">Early history</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Rising_popularity_and_crop_value"><span class="tocnumber">5.2</span> <span class="toctext">Rising popularity and crop value</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Kosher_controversy"><span class="tocnumber">5.3</span> <span class="toctext">Kosher controversy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#International_Year_of_Quinoa"><span class="tocnumber">6</span> <span class="toctext">International Year of Quinoa</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Lanscape_with_Chenopodium_quinoa_Cachilaya_Bolivia_Lake_Titicaca.JPG" title="File:Lanscape with Chenopodium quinoa Cachilaya Bolivia Lake Titicaca.JPG">File:Lanscape with Chenopodium quinoa Cachilaya Bolivia Lake Titicaca.JPG</a>  <div class="thumbcaption">Landscape with Chenopodium quinoa Cachilaya Bolivia Lake Titicaca</div></div></div>
+<p>Quinoa (the name is derived from the <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> spelling of the <a href="/w/index.php?title=Quechua_languages&amp;action=edit&amp;redlink=1" class="new" title="Quechua languages (page does not exist)">Quechua</a> name <i>kinwa</i> or occasionally "Qin-wah") originated in the <a href="/wiki/Andes" title="Andes">Andean</a> region of <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>, <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>, <a href="/wiki/Colombia" title="Colombia">Colombia</a> and <a href="/wiki/Peru" title="Peru">Peru</a>, where it was successfully domesticated 3,000 to 4,000 years ago for human consumption, though archaeological evidence shows a non-domesticated association with pastoral herding some 5,200 to 7,000 years ago.<sup id="cite_ref-Quinoa:_Production.2C_Consumption_and_Social_Value_in_Historical_Context_1-0" class="reference"><a href="#cite_note-Quinoa:_Production.2C_Consumption_and_Social_Value_in_Historical_Context-1">[1]</a></sup>
+</p><p>Similar <i>Chenopodium</i> species, such as pitseed goosefoot (<i><a href="/w/index.php?title=Chenopodium_berlandieri&amp;action=edit&amp;redlink=1" class="new" title="Chenopodium berlandieri (page does not exist)">Chenopodium berlandieri</a></i>) and fat hen (<i><a href="/wiki/Chenopodium_album" title="Chenopodium album">Chenopodium album</a></i>), were grown and domesticated in North America as part of the <a href="/w/index.php?title=Eastern_Agricultural_Complex&amp;action=edit&amp;redlink=1" class="new" title="Eastern Agricultural Complex (page does not exist)">Eastern Agricultural Complex</a> before <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">maize</a> agriculture became popular.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Fat hen, which has a widespread distribution in the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a>, produces edible seeds and greens much like quinoa, but in smaller quantities.
+</p><p>The nutrient composition is favourable compared with common cereals. Quinoa seeds contain <a href="/wiki/Essential_amino_acid" title="Essential amino acid">essential amino acids</a> like <a href="/wiki/Lysine" title="Lysine">lysine</a> and acceptable quantities of calcium, phosphorus, and iron.<sup id="cite_ref-Oxford_3-0" class="reference"><a href="#cite_note-Oxford-3">[3]</a></sup>
+</p><p>After harvest, the seeds must be processed to remove the coating containing the bitter-tasting <a href="/wiki/Saponin" title="Saponin">saponins</a>. Quinoa seeds are in general cooked the same way as rice and can be used in a wide range of dishes. Quinoa leaves are also eaten as a <a href="/wiki/Leaf_vegetable" title="Leaf vegetable">leaf vegetable</a>, much like <a href="/wiki/Amaranth" title="Amaranth">amaranth</a>, but the commercial availability of quinoa greens is limited.
+</p>
+<h2><span class="mw-headline" id="Biology">Biology</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:QuinoaGrains.jpg" title="File:QuinoaGrains.jpg">File:QuinoaGrains.jpg</a>  <div class="thumbcaption">Quinoa seeds</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Chenopodium_quinoa_before_flowering.jpg" title="File:Chenopodium quinoa before flowering.jpg">File:Chenopodium quinoa before flowering.jpg</a>  <div class="thumbcaption">Quinoa plant before flowering</div></div></div>
+<p>Quinoa is a <a href="/wiki/Dicotyledon" title="Dicotyledon">dicotyledonous</a>, annual plant usually about <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> high. It has broad, generally pubescent, powdery, smooth (rarely) to lobed leaves normally arranged alternately. The woody central <a href="/w/index.php?title=Plant_stem&amp;action=edit&amp;redlink=1" class="new" title="Plant stem (page does not exist)">stem</a> is either branched or unbranched depending on the variety and may be green, red or purple. The <a href="/wiki/Panicle" title="Panicle">panicles</a> arise either from the top of the plant or from axils on the stem. The panicles have a central axis from which a secondary axis emerges either with flowers (amaranthiform), or bearing a tertiary axis carrying the flowers (glomeruliform).<sup id="cite_ref-Lost_crops_4-0" class="reference"><a href="#cite_note-Lost_crops-4">[4]</a></sup> The green <a href="/w/index.php?title=Ovary_(plants)&amp;action=edit&amp;redlink=1" class="new" title="Ovary (plants) (page does not exist)">hypogynous</a> flowers have a simple <a href="/wiki/Petal" title="Petal">perianth</a> and are generally bisexual and self-fertilizing.<sup id="cite_ref-Lost_crops_4-1" class="reference"><a href="#cite_note-Lost_crops-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The fruits are about <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> in diameter and of various colours—from white to red or black depending on the <a href="/wiki/Cultivar" title="Cultivar">cultivar</a>.<sup id="cite_ref-Oxford_3-1" class="reference"><a href="#cite_note-Oxford-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Natural_distribution">Natural distribution</span></h3>
+<p><i>Chenopodium quinoa</i> is believed to have been domesticated in the Peruvian Andes from wild populations of <i>Chenopodium quinoa</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> There are non-cultivated quinoa plants (<i>Chenopodium quinoa</i> var. <i>melanospermum</i>) which grow in the same area where it is cultivated; it is presumed that those are related to quinoa's wild predecessors, but they could be descendants of cultivated plants.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Saponin_content">Saponin content</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Red_quinoa.png" title="File:Red quinoa.png">File:Red quinoa.png</a>  <div class="thumbcaption">Red quinoa, cooked.</div></div></div>
+<p>In their natural state, quinoa seeds or, collectively, just "quinoa", have a coating of bitter-tasting <a href="/wiki/Saponin" title="Saponin">saponins</a>, making them <a href="/w/index.php?title=Unpalatable&amp;action=edit&amp;redlink=1" class="new" title="Unpalatable (page does not exist)">unpalatable</a>. Most quinoa sold commercially in North America has been processed to remove this coating.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> This bitterness has beneficial effects during cultivation, as the plant is unpopular with birds and therefore requires minimal protection.<sup id="cite_ref-AlternativeFieldCropsManual_9-0" class="reference"><a href="#cite_note-AlternativeFieldCropsManual-9">[9]</a></sup> Attempts to lower the saponin content of quinoa through selective breeding to produce sweeter, more palatable varieties have proven difficult due to cross pollination contamination.<sup id="cite_ref-Quinoa_saponin_10-0" class="reference"><a href="#cite_note-Quinoa_saponin-10">[10]</a></sup>
+</p><p>The <a href="/w/index.php?title=Toxicity_category_rating&amp;action=edit&amp;redlink=1" class="new" title="Toxicity category rating (page does not exist)">toxicity category rating</a> of quinoa saponins treats them as mild eye and respiratory irritants and as a low gastrointestinal irritant.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> The saponin is a toxic <a href="/wiki/Glycoside" title="Glycoside">glycoside</a>, a main contributor to its <a href="/wiki/Hemolysis" title="Hemolysis">hemolytic</a> effects when combined directly with blood cells. In South America, quinoa saponin has many uses outside of consumption as a food, including as a detergent for clothing and washing and as an antiseptic for skin injuries.<sup id="cite_ref-Quinoa_12-0" class="reference"><a href="#cite_note-Quinoa-12">[12]</a></sup> High levels of <a href="/wiki/Oxalic_acid" title="Oxalic acid">oxalic acid</a> are found in the leaves and stems of all species of the <i><a href="/wiki/Chenopodium" title="Chenopodium">Chenopodium</a></i> genus, but are also present in the related plant families of <i><a href="/wiki/Polygonaceae" title="Polygonaceae">Polygonaceae</a></i> and <i><a href="/wiki/Amaranthaceae" title="Amaranthaceae">Amaranthaceae</a></i>.<sup id="cite_ref-oxalic_acid_quinoa_leaves_13-0" class="reference"><a href="#cite_note-oxalic_acid_quinoa_leaves-13">[13]</a></sup> The risks associated with quinoa are minimal, provided it is properly prepared and the leaves are not eaten to excess.
+</p>
+<h2><span class="mw-headline" id="Nutritional_value">Nutritional value</span></h2>
+<p><a href="/w/index.php?title=Template:Nutritional_value&amp;action=edit&amp;redlink=1" class="new" title="Template:Nutritional value (page does not exist)">Template:Nutritional value</a>
+Quinoa was important to the diet of <a href="/wiki/Pre-Columbian_era" title="Pre-Columbian era">pre-Columbian</a> <a href="/w/index.php?title=Andean_civilizations&amp;action=edit&amp;redlink=1" class="new" title="Andean civilizations (page does not exist)">Andean civilizations</a>.<sup id="cite_ref-Keen_14-0" class="reference"><a href="#cite_note-Keen-14">[14]</a></sup> Today, people appreciate quinoa for its nutritional value. Quinoa has been called a <a href="/w/index.php?title=Superfood&amp;action=edit&amp;redlink=1" class="new" title="Superfood (page does not exist)">superfood</a>.<sup id="cite_ref-Superfood_15-0" class="reference"><a href="#cite_note-Superfood-15">[15]</a></sup> <a href="/wiki/Protein" title="Protein">Protein</a> content is very high for a cereal/pseudo-cereal (14% by mass), yet not as high as most beans and legumes. Quinoa's protein content per 100 calories is higher than <a href="/wiki/Brown_rice" title="Brown rice">brown rice</a>, potatoes, barley and millet, but is less than <a href="/wiki/Wild_rice" title="Wild rice">wild rice</a> and oats.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Nutritional evaluations of quinoa indicate that it is a source of <a href="/w/index.php?title=Complete_protein&amp;action=edit&amp;redlink=1" class="new" title="Complete protein (page does not exist)">complete protein</a>.<sup id="cite_ref-oardc.osu.edu_17-0" class="reference"><a href="#cite_note-oardc.osu.edu-17">[17]</a></sup><sup id="cite_ref-SELFNutritionData_18-0" class="reference"><a href="#cite_note-SELFNutritionData-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Furthermore, it is a good source of <a href="/wiki/Dietary_fiber" title="Dietary fiber">dietary fiber</a> and <a href="/w/index.php?title=Phosphorus_in_biological_systems&amp;action=edit&amp;redlink=1" class="new" title="Phosphorus in biological systems (page does not exist)">phosphorus</a> and is high in <a href="/w/index.php?title=Magnesium_in_biological_systems&amp;action=edit&amp;redlink=1" class="new" title="Magnesium in biological systems (page does not exist)">magnesium</a> and <a href="/wiki/Iron#Nutrition" title="Iron">iron</a>. Quinoa is also a source of <a href="/wiki/Calcium" title="Calcium">calcium</a>, and thus is useful for <a href="/w/index.php?title=Vegan&amp;action=edit&amp;redlink=1" class="new" title="Vegan (page does not exist)">vegans</a> and those who are <a href="/wiki/Lactose_intolerance" title="Lactose intolerance">lactose intolerant</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Quinoa is <a href="/wiki/Gluten" title="Gluten">gluten</a>-free and considered easy to digest. Because of all these characteristics, quinoa is being considered a possible crop in NASA's <a href="/wiki/Controlled_Ecological_Life_Support_System" title="Controlled Ecological Life Support System">Controlled Ecological Life Support System</a> for long-duration human occupied spaceflights.<sup id="cite_ref-NASA_21-0" class="reference"><a href="#cite_note-NASA-21">[21]</a></sup>
+</p><p>Quinoa may be germinated in its raw form to boost its nutritional value, provided that the grains are first rinsed thoroughly to remove any saponin that may be present.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> <a href="/wiki/Germination" title="Germination">Germination</a> activates its natural enzymes and multiplies its vitamin content.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> In fact, quinoa has a notably short germination period: Only 2–4 hours resting in a glass of clean water is enough to make it sprout and release gases, as opposed to, e.g., 12 hours with wheat.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> This process, besides its nutritional enhancements, softens the seeds, making them suitable to be added to salads and other cold foods.
+</p>
+<h2><span class="mw-headline" id="Cultivation">Cultivation</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Harvested_seeds_of_homegrown_Chenopodium_quinoa.jpg" title="File:Harvested seeds of homegrown Chenopodium quinoa.jpg">File:Harvested seeds of homegrown Chenopodium quinoa.jpg</a>  <div class="thumbcaption">Harvested quinoa seeds</div></div></div>
+<h3><span class="mw-headline" id="Climate_requirements">Climate requirements</span></h3>
+<p>Quinoa is highly variable due to a high complexity of different subspecies, varieties and <a href="/wiki/Landrace" title="Landrace">landraces</a> (domesticated plants or animals adapted to the environment in which they originated). However, in general it is undemanding and altitude-hardy. It is grown from coastal regions (Chile) to over <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> in the Andes near the equator, with most of the cultivars being grown between <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> and <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. Depending on the variety, quinoa's optimal growing conditions are in cool climates with temperatures that range from <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> during the night to near <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> during the day. Some cultivars can also withstand lower temperatures without damage. Light frosts normally do not affect the plants at any stage of development, except during flowering. Mid-summer frosts during flowering, often occurring in the Andes, lead to sterilization of the pollen. Rainfall conditions are highly variable between the different cultivars, ranging from <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> during growing season. Optimal for quinoa growth is well-distributed rainfall during early growth and development and dry conditions during seed maturation and harvesting.<sup id="cite_ref-Lost_crops_4-2" class="reference"><a href="#cite_note-Lost_crops-4">[4]</a></sup>
+</p><p>Quinoa has been cultivated in the United States, primarily in the high elevation <a href="/wiki/San_Luis_Valley" title="San Luis Valley">San Luis Valley</a> (SLV) of <a href="/wiki/Colorado" title="Colorado">Colorado</a> where it was introduced in 1982. The SLV is a high-altitude desert valley where maximum summer temperatures rarely exceed <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> with night temperatures of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. Due to its short growing season, North American quinoa cultivation requires short-maturity varieties, typically of Bolivian or Chilean origin.
+</p>
+<h3><span class="mw-headline" id="Sowing">Sowing</span></h3>
+<p>Quinoa does best in sandy, well-drained soils with a low nutrient content, moderate salinity, and a soil pH of 6 to&#160;8.5.
+</p><p>The <a href="/wiki/Seedbed" title="Seedbed">seedbed</a> must be well prepared and drained to avoid waterlogging. In the Andes, quinoa seeds normally are broadcast over the land and raked into the soil. Sometimes quinoa is sown in narrow,<a href="/w/index.php?title=Template:Clarify&amp;action=edit&amp;redlink=1" class="new" title="Template:Clarify (page does not exist)">Template:Clarify</a> shallow soils.
+</p>
+<h3><span class="mw-headline" id="Cultivation_management">Cultivation management</span></h3>
+<p>Yields are maximised when <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> <a href="/wiki/Nitrogen" title="Nitrogen">N</a>/acre is available.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} The addition of phosphorus does not improve yield. In eastern North America, it is susceptible to a leaf miner that may reduce crop success; this <a href="/w/index.php?title=Leaf_miner&amp;action=edit&amp;redlink=1" class="new" title="Leaf miner (page does not exist)">leaf miner</a> also affects the common weed and close relative <i><a href="/wiki/Chenopodium_album" title="Chenopodium album">Chenopodium album</a></i>, but <i>C. album</i> is much more resistant.
+</p>
+<h3><span class="mw-headline" id="Harvesting_and_handling">Harvesting and handling</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Camino_a_Puno_Golpeando_quinoa.JPG" title="File:Camino a Puno Golpeando quinoa.JPG">File:Camino a Puno Golpeando quinoa.JPG</a>  <div class="thumbcaption">Threshing quinoa</div></div></div>
+<p>Quinoa is usually harvested by hand and rarely by machine, because the extreme variability of the maturity period of native quinoas complicates mechanization. Harvest needs to be precisely timed to avoid high seed losses from shattering, and different panicles on the same plant mature at different times. The seed yield (often around 3 t/ha up to 5 t/ha) is comparable to wheat yields in the Andean areas. In the United States, varieties have been selected for uniformity of maturity and are mechanically harvested using conventional small grain combines. Quinoa is allowed to stand until the grain has reached a moisture content below 10% and plants are dry.
+Handling involves threshing the seedheads and winnowing the seed to remove the <a href="/wiki/Husk" title="Husk">husk</a>. Before storage, the seeds need to be dried in order to avoid <a href="/wiki/Germination" title="Germination">germination</a>.<sup id="cite_ref-Lost_crops_4-3" class="reference"><a href="#cite_note-Lost_crops-4">[4]</a></sup> Dry seeds can be stored raw until washed or mechanically processed to remove the pericarp to eliminate the bitter layer containing saponins.
+<br style="clear:both;" />
+</p>
+<h2><span class="mw-headline" id="History_and_culture">History and culture</span></h2>
+<h3><span class="mw-headline" id="Early_history">Early history</span></h3>
+<p>Quinoa was first domesticated by the <a href="/wiki/Andes" title="Andes">Andean</a> peoples around 3,000 years ago.<sup id="cite_ref-Superfood_15-1" class="reference"><a href="#cite_note-Superfood-15">[15]</a></sup> Quinoa has been an important staple in the <a href="/w/index.php?title=Andean_civilizations&amp;action=edit&amp;redlink=1" class="new" title="Andean civilizations (page does not exist)">Andean cultures</a> where the plant is indigenous but relatively obscure in the rest of the world.<sup id="cite_ref-Keen_14-1" class="reference"><a href="#cite_note-Keen-14">[14]</a></sup> The <a href="/w/index.php?title=Inca&amp;action=edit&amp;redlink=1" class="new" title="Inca (page does not exist)">Incas</a>, who held the crop to be sacred,<sup id="cite_ref-inca_crops_25-0" class="reference"><a href="#cite_note-inca_crops-25">[25]</a></sup> referred to quinoa as <i>chisaya mama</i> or "mother of all grains", and it was the Inca emperor who would traditionally sow the first seeds of the season using "golden implements".<sup id="cite_ref-inca_crops_25-1" class="reference"><a href="#cite_note-inca_crops-25">[25]</a></sup> During the <a href="/wiki/Conquistador" title="Conquistador">Spanish conquest of South America</a>, the Spanish colonists scorned quinoa as "food for Indians",<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> and even actively suppressed its cultivation, due to its status within indigenous religious ceremonies.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> In fact, the conquistadores forbade quinoa cultivation for a time<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> and the Incas were forced to grow wheat instead.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Rising_popularity_and_crop_value">Rising popularity and crop value</span></h3>
+<table class="wikitable" style="text-align:center; margin:1em auto;">
+<caption> World Quinoa Production (thousand metric tons)
+</caption>
+<tr>
+<th> Country </th>
+<th>1961</th>
+<th>1970</th>
+<th>1980</th>
+<th>1990</th>
+<th>2000</th>
+<th>2010</th>
+<th>2011
+</th></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Peru&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Peru (page does not exist)">Template:Country data Peru</a></td>
+<td>22.5 </td>
+<td>7.3 </td>
+<td>16.3 </td>
+<td>6.3 </td>
+<td>28.2 </td>
+<td>41.1 </td>
+<td>41.2
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Bolivia (page does not exist)">Template:Country data Bolivia</a></td>
+<td>9.2 </td>
+<td>9.7 </td>
+<td>8.9 </td>
+<td>16.1 </td>
+<td>23.8 </td>
+<td>36.1 </td>
+<td>38.3
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Ecuador&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Ecuador (page does not exist)">Template:Country data Ecuador</a></td>
+<td>0.7 </td>
+<td>0.7 </td>
+<td>0.5 </td>
+<td>0.7 </td>
+<td>0.7 </td>
+<td>0.9 </td>
+<td>0.8
+</td></tr>
+<tr>
+<th> Total</th>
+<th>32.4 </th>
+<th>17.7 </th>
+<th>25.8 </th>
+<th>23.0 </th>
+<th>52.6 </th>
+<th>78.1 </th>
+<th>80.2
+</th></tr>
+<tr>
+<td> Export price<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> USD/Kg</td>
+<td></td>
+<td> $0.080 </td>
+<td> $0.492 </td>
+<td> $0.854 </td>
+<td> $1.254 </td>
+<td> $3.029 </td>
+<td>
+</td></tr>
+<tr>
+<td colspan="8" style="font-size:75%"><i>Source: <a href="/w/index.php?title=Food_and_Agriculture_Organization_of_the_United_Nations&amp;action=edit&amp;redlink=1" class="new" title="Food and Agriculture Organization of the United Nations (page does not exist)">Food and Agriculture Organization of the United Nations</a> (FAO)</i> <sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+</td></tr></table>
+<p>Quinoa has become increasingly popular in the United States, Canada, Europe, China and Japan where the crop is not typically grown, increasing crop value.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> Between 2006 and early 2013 quinoa crop prices have tripled.<sup id="cite_ref-The_Guardian_33-0" class="reference"><a href="#cite_note-The_Guardian-33">[33]</a></sup> In 2011, the average crop value was $3,115 USD per ton with some varieties selling as high as $8,000 per ton.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> This compares with <a href="/wiki/Wheat" title="Wheat">wheat</a> prices of $9 per bushel (about $340 per ton). Since the 1970s, producers’ associations and cooperatives have worked toward greater producer control of the market. The higher price fetched by quinoa does make it harder for people to purchase, but it also brings livable income for farmers, and is enabling many urban refugees to return to working the land.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+</p><p>The popularity of quinoa in non-indigenous regions has raised concerns over <a href="/wiki/Food_security" title="Food security">food security</a>. Due to continued widespread poverty in regions where quinoa is produced, and because few other crops are compatible with the soil and climate in these regions, it has been suggested that the inflated price of quinoa disrupts local access to food supplies.<sup id="cite_ref-The_Guardian_33-1" class="reference"><a href="#cite_note-The_Guardian-33">[33]</a></sup> In 2013, <i>The Guardian</i> compared quinoa consumption to Peruvian asparagus, a popular Andean crop criticized for excessive water use,<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> as "feeding our apparently insatiable 365-day-a-year hunger for this luxury vegetable[...]"<sup id="cite_ref-The_Guardian_33-2" class="reference"><a href="#cite_note-The_Guardian-33">[33]</a></sup> It has also been suggested that, as people rise above a subsistence-level income, they choose higher-status Western processed foods. However, anthropologist Pablo Laguna has noted that farmers tend to save quinoa for personal consumption, and that consumption of the grain in nearby cities has traditionally been lower. According to Laguna, the net benefit of increased revenue for farmers outweighs the costs, saying that it is "very good news for small, indigenous farmers".<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+The transformation of quinoa from a healthy staple food for farming families and communities into a product that is held to be worth too much to keep for oneself and one's family is an ongoing process. As it stands, quinoa is seen as a valuable resource that can bring in far greater amounts<a href="/w/index.php?title=Template:Clarify&amp;action=edit&amp;redlink=1" class="new" title="Template:Clarify (page does not exist)">Template:Clarify</a> of cheap, low nutrient foods such as pasta and rice.  A food which used to be seen as a peasant food that provided farming families with a very important source of nutrition now occupies a spectrum from an everyday food of urban Bolivia's middle class to a luxury food in the Peruvian capital of Lima where "it sells at a higher per pound price than chicken, and four times as much as rice".<sup id="cite_ref-complicated_38-0" class="reference"><a href="#cite_note-complicated-38">[38]</a></sup>  Efforts are being made in some areas, however, to distribute quinoa more widely and ensure that farming and poorer populations have access to it and have an understanding of the nutritional importance of this food source.  Efforts include incorporating quinoa into free school breakfasts and including it in government provisions distributed to pregnant and nursing women in need.<sup id="cite_ref-complicated_38-1" class="reference"><a href="#cite_note-complicated-38">[38]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Kosher_controversy">Kosher controversy</span></h3>
+<p>Quinoa has become popular in the Jewish community as a substitute for the leavened grains that are forbidden during the <a href="/wiki/Passover" title="Passover">Passover</a> holiday. Several of the <a href="/w/index.php?title=Kosher&amp;action=edit&amp;redlink=1" class="new" title="Kosher (page does not exist)">kosher</a> certification organizations refuse to certify quinoa as being kosher for passover citing reasons including its resemblance to prohibited grains, or fear of cross-contamination of the product from nearby fields of the prohibited grain.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</p>
+<h2><span class="mw-headline" id="International_Year_of_Quinoa">International Year of Quinoa</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Official_Logo_for_the_International_Year_of_Quinoa.jpg" title="File:Official Logo for the International Year of Quinoa.jpg">File:Official Logo for the International Year of Quinoa.jpg</a>  <div class="thumbcaption">Logo of International Year of Quinoa 2013</div></div></div>
+<p>The <a href="/wiki/United_Nations" title="United Nations">United Nations</a> <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">General Assembly</a> declared 2013 as the "International Year of Quinoa" <sup id="cite_ref-UN_Resolution_66.2F221._International_Year_of_Quinoa.2C_2013_40-0" class="reference"><a href="#cite_note-UN_Resolution_66.2F221._International_Year_of_Quinoa.2C_2013-40">[40]</a></sup><sup id="cite_ref-International_Year_of_Quinoa.2C_2013_41-0" class="reference"><a href="#cite_note-International_Year_of_Quinoa.2C_2013-41">[41]</a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> in recognition of ancestral practices of the <a href="/wiki/Andean" title="Andean" class="mw-redirect">Andean</a> people, who have preserved quinoa as food for present and future generations, through knowledge and practices of living in harmony with nature. The objective is to draw the world’s attention to the role that quinoa plays in providing food security, nutrition and poverty eradication, in support of achieving <a href="/wiki/Millennium_Development_Goals" title="Millennium Development Goals">Millennium Development Goals</a>.
+</p><p>The <a href="/w/index.php?title=Food_and_Agriculture_Organization_of_the_United_Nations&amp;action=edit&amp;redlink=1" class="new" title="Food and Agriculture Organization of the United Nations (page does not exist)">Food and Agriculture Organization of the United Nations</a> serves as the Secretariat of the international year. Bolivia has the presidency of the Coordination Committee, while <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>, <a href="/wiki/Peru" title="Peru">Peru</a> and <a href="/wiki/Chile" title="Chile">Chile</a> share the vice presidency, with the rapporteurship in the hands of <a href="/w/index.php?title=Argentina&amp;action=edit&amp;redlink=1" class="new" title="Argentina (page does not exist)">Argentina</a> and <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_news&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite news (page does not exist)">Template:Cite news</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Cite_journal&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite journal (page does not exist)">Template:Cite journal</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Wikispecies-inline&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikispecies-inline (page does not exist)">Template:Wikispecies-inline</a>
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Dmoz&amp;action=edit&amp;redlink=1" class="new" title="Template:Dmoz (page does not exist)">Template:Dmoz</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.nutritionvalue.org/Quinoa%2C_cooked_nutritional_value.html">Quinoa nutrition facts and analysis</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.fao.org/quinoa-2013/">International Year of Quinoa (2013)</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Cereals&amp;action=edit&amp;redlink=1" class="new" title="Template:Cereals (page does not exist)">Template:Cereals</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.604 seconds
+Real time usage: 0.685 seconds
+Preprocessor visited node count: 1119/1000000
+Preprocessor generated node count: 12532/1000000
+Post‐expand include size: 1747/2097152 bytes
+Template argument size: 72/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:35532-0!*!0!!en!2!* and timestamp 20170407172235
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Quinoa&amp;oldid=35532">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Quinoa&amp;oldid=35532</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/w/index.php?title=Category:Chenopodium&amp;action=edit&amp;redlink=1" class="new" title="Category:Chenopodium (page does not exist)">Chenopodium</a></li><li><a href="/w/index.php?title=Category:Crops_originating_from_the_Americas&amp;action=edit&amp;redlink=1" class="new" title="Category:Crops originating from the Americas (page does not exist)">Crops originating from the Americas</a></li><li><a href="/w/index.php?title=Category:Crops_originating_from_Ecuador&amp;action=edit&amp;redlink=1" class="new" title="Category:Crops originating from Ecuador (page does not exist)">Crops originating from Ecuador</a></li><li><a href="/w/index.php?title=Category:Crops_originating_from_Peru&amp;action=edit&amp;redlink=1" class="new" title="Category:Crops originating from Peru (page does not exist)">Crops originating from Peru</a></li><li><a href="/w/index.php?title=Category:Edible_nuts_and_seeds&amp;action=edit&amp;redlink=1" class="new" title="Category:Edible nuts and seeds (page does not exist)">Edible nuts and seeds</a></li><li><a href="/w/index.php?title=Category:Flora_of_South_America&amp;action=edit&amp;redlink=1" class="new" title="Category:Flora of South America (page does not exist)">Flora of South America</a></li><li><a href="/w/index.php?title=Category:Grains&amp;action=edit&amp;redlink=1" class="new" title="Category:Grains (page does not exist)">Grains</a></li><li><a href="/wiki/Category:Leaf_vegetables" title="Category:Leaf vegetables">Leaf vegetables</a></li><li><a href="/w/index.php?title=Category:Quechua_words_and_phrases&amp;action=edit&amp;redlink=1" class="new" title="Category:Quechua words and phrases (page does not exist)">Quechua words and phrases</a></li><li><a href="/w/index.php?title=Category:Staple_foods&amp;action=edit&amp;redlink=1" class="new" title="Category:Staple foods (page does not exist)">Staple foods</a></li><li><a href="/w/index.php?title=Category:Tropical_agriculture&amp;action=edit&amp;redlink=1" class="new" title="Category:Tropical agriculture (page does not exist)">Tropical agriculture</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Quinoa" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Quinoa"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Quinoa&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Quinoa" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Quinoa&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Quinoa&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Quinoa" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Quinoa" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Quinoa&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Quinoa&amp;oldid=35532" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Quinoa&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 February 2014, at 07:53.</li>
+											<li id="footer-info-viewcount">This page has been accessed 245 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.051 secs. -->
+	</body>
+</html>

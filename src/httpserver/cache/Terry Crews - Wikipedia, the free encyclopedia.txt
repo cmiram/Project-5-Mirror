@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Terry Crews - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Terry_Crews","wgTitle":"Terry Crews","wgCurRevisionId":1017596,"wgRevisionId":1017596,"wgArticleId":1017596,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link different than on Wikidata","1968 births","Living people","Male actors from Michigan","American male film actors","African-American male actors","African-American players of American football","American Christians","American football defensive ends","American football linebackers","Los Angeles Rams players","People from Flint, Michigan","Players of American football from Michigan","Participants in American reality television series","Rhein Fire players","San Diego Chargers players","Sportspeople from Flint, Michigan","Washington Redskins players","Western Michigan Broncos football players","American male voice actors","American male television actors","20th-century American male actors","21st-century American male actors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Terry_Crews","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Terry_Crews skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Terry Crews</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Pp-pc1&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-pc1 (page does not exist)">Template:Pp-pc1</a>
+<a href="/w/index.php?title=Template:Infobox_person&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox person (page does not exist)">Template:Infobox person</a>
+<a href="/w/index.php?title=Template:Infobox_NFL_player&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox NFL player (page does not exist)">Template:Infobox NFL player</a>
+</p><p><b>Terry Alan Crews</b> (born July 30, 1968) is an American actor and former <a href="/wiki/National_Football_League" title="National Football League">NFL</a> player. He is perhaps best known for playing <a href="/w/index.php?title=List_of_Everybody_Hates_Chris_characters&amp;action=edit&amp;redlink=1" class="new" title="List of Everybody Hates Chris characters (page does not exist)">Julius</a> on the <a href="/wiki/UPN" title="UPN">UPN</a>/<a href="/w/index.php?title=The_CW_Television_Network&amp;action=edit&amp;redlink=1" class="new" title="The CW Television Network (page does not exist)">CW</a> sitcom <i><a href="/wiki/Everybody_Hates_Chris" title="Everybody Hates Chris">Everybody Hates Chris</a></i> and for his appearances in <a href="/wiki/Old_Spice" title="Old Spice">Old Spice</a> commercials,<sup id="cite_ref-expendables_1-0" class="reference"><a href="#cite_note-expendables-1">[1]</a></sup> <i><a href="/wiki/Arrested_Development_(TV_series)" title="Arrested Development (TV series)">Arrested Development</a></i>, <i><a href="/w/index.php?title=The_Newsroom_(U.S._TV_series)&amp;action=edit&amp;redlink=1" class="new" title="The Newsroom (U.S. TV series) (page does not exist)">The Newsroom</a></i> and for his roles in films like <i><a href="/w/index.php?title=Friday_After_Next&amp;action=edit&amp;redlink=1" class="new" title="Friday After Next (page does not exist)">Friday After Next</a></i>, <i><a href="/wiki/White_Chicks" title="White Chicks">White Chicks</a></i>, <i><a href="/w/index.php?title=Bridesmaids&amp;action=edit&amp;redlink=1" class="new" title="Bridesmaids (page does not exist)">Bridesmaids</a></i>, <i><a href="/w/index.php?title=Idiocracy&amp;action=edit&amp;redlink=1" class="new" title="Idiocracy (page does not exist)">Idiocracy</a></i>, <i><a href="/w/index.php?title=Gamer_(film)&amp;action=edit&amp;redlink=1" class="new" title="Gamer (film) (page does not exist)">Gamer</a></i>, and <i><a href="/w/index.php?title=The_Expendables_(2010_film)&amp;action=edit&amp;redlink=1" class="new" title="The Expendables (2010 film) (page does not exist)">The Expendables</a></i>. He has starred as Nick Kingston-Persons in the <a href="/w/index.php?title=TBS_(TV_channel)&amp;action=edit&amp;redlink=1" class="new" title="TBS (TV channel) (page does not exist)">TBS</a> sitcom <i><a href="/w/index.php?title=Are_We_There_Yet%3F_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="Are We There Yet? (TV series) (page does not exist)">Are We There Yet?</a></i> and as himself in the <a href="/w/index.php?title=Black_Entertainment_Television&amp;action=edit&amp;redlink=1" class="new" title="Black Entertainment Television (page does not exist)">BET</a> reality series <i><a href="/w/index.php?title=The_Family_Crews&amp;action=edit&amp;redlink=1" class="new" title="The Family Crews (page does not exist)">The Family Crews</a></i>. Currently he plays NYPD Sergeant Terry Jeffords on the <a href="/wiki/Fox_Broadcasting_Company" title="Fox Broadcasting Company">Fox</a> sitcom <i><a href="/w/index.php?title=Brooklyn_Nine-Nine&amp;action=edit&amp;redlink=1" class="new" title="Brooklyn Nine-Nine (page does not exist)">Brooklyn Nine-Nine</a></i>. 
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_education"><span class="tocnumber">1</span> <span class="toctext">Early life and education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Filmography"><span class="tocnumber">4</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Film"><span class="tocnumber">4.1</span> <span class="toctext">Film</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Television"><span class="tocnumber">4.2</span> <span class="toctext">Television</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Music_videos"><span class="tocnumber">4.3</span> <span class="toctext">Music videos</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Video_games"><span class="tocnumber">4.4</span> <span class="toctext">Video games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life_and_education">Early life and education</span></h2>
+<p>Crews was born in <a href="/wiki/Flint,_Michigan" title="Flint, Michigan">Flint, Michigan</a> on July 30, 1968,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> the son of Patricia and Terry Crews, Sr.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Crews grew up in a strict <a href="/w/index.php?title=Christian&amp;action=edit&amp;redlink=1" class="new" title="Christian (page does not exist)">Christian</a> household where the rearing of the children was mainly held down by his mother. After earning his high school diploma from Flint Academy, he received a Chrysler-sponsored art scholarship at the prestigious <a href="/wiki/Interlochen_Center_for_the_Arts" title="Interlochen Center for the Arts">Interlochen Center for the Arts</a> in Northern Michigan. This achievement was soon followed by an equally impressive Art Excellence scholarship and a full-ride athletic scholarship for football at Western Michigan University in Kalamazoo. As a defensive end for the WMU Broncos, Crews earned All-Conference honors and helped his team win the <a href="/wiki/Mid-American_Conference" title="Mid-American Conference">Mid-American Conference</a> Championship in 1988. Crews was drafted by the <a href="/w/index.php?title=St._Louis_Rams&amp;action=edit&amp;redlink=1" class="new" title="St. Louis Rams (page does not exist)">Los Angeles Rams</a> in the 11th round of the <a href="/w/index.php?title=1991_NFL_Draft&amp;action=edit&amp;redlink=1" class="new" title="1991 NFL Draft (page does not exist)">1991 NFL Draft</a>.<sup id="cite_ref-terrycrewsdraft_4-0" class="reference"><a href="#cite_note-terrycrewsdraft-4">[4]</a></sup> His career included stints with the Rams, <a href="/wiki/San_Diego_Chargers" title="San Diego Chargers">San Diego Chargers</a>, the <a href="/wiki/Washington_Redskins" title="Washington Redskins">Washington Redskins</a> and the <a href="/wiki/Philadelphia_Eagles" title="Philadelphia Eagles">Philadelphia Eagles</a>.
+</p>
+<h2><span class="mw-headline" id="Career">Career</span></h2>
+<p>After retiring from the NFL in 1997, Crews pursued an acting career and got a role as T-Money on <i><a href="/w/index.php?title=Battle_Dome&amp;action=edit&amp;redlink=1" class="new" title="Battle Dome (page does not exist)">Battle Dome</a></i> (modeled after <i><a href="/wiki/American_Gladiators" title="American Gladiators">American Gladiators</a></i>). Crews played the <a href="/wiki/Beefcake" title="Beefcake">beefcake</a> "he-man" in films such as <i><a href="/wiki/White_Chicks" title="White Chicks">White Chicks</a></i>. He played Damon Pearly in <i><a href="/w/index.php?title=Friday_After_Next&amp;action=edit&amp;redlink=1" class="new" title="Friday After Next (page does not exist)">Friday After Next</a></i>, starring <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> and <a href="/wiki/Mike_Epps" title="Mike Epps">Mike Epps</a>. He has also done commercials with <a href="/w/index.php?title=Nike,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Nike, Inc. (page does not exist)">Nike</a>. He last starred in the <a href="/w/index.php?title=Situation_comedy&amp;action=edit&amp;redlink=1" class="new" title="Situation comedy (page does not exist)">sitcom</a> <i><a href="/wiki/Everybody_Hates_Chris" title="Everybody Hates Chris">Everybody Hates Chris</a></i> as <a href="/w/index.php?title=List_of_Everybody_Hates_Chris_characters&amp;action=edit&amp;redlink=1" class="new" title="List of Everybody Hates Chris characters (page does not exist)">Julius Rock</a>, and his more modern movie appearances were alongside <a href="/wiki/Adam_Sandler" title="Adam Sandler">Adam Sandler</a> in <i><a href="/w/index.php?title=The_Longest_Yard_(2005_film)&amp;action=edit&amp;redlink=1" class="new" title="The Longest Yard (2005 film) (page does not exist)">The Longest Yard</a>,</i> <i><a href="/w/index.php?title=Click_(2006_film)&amp;action=edit&amp;redlink=1" class="new" title="Click (2006 film) (page does not exist)">Click</a></i>, and <i><a href="/w/index.php?title=The_Benchwarmers&amp;action=edit&amp;redlink=1" class="new" title="The Benchwarmers (page does not exist)">The Benchwarmers</a></i> (as well as the long-delayed <a href="/wiki/Mike_Judge" title="Mike Judge">Mike Judge</a> film <i><a href="/w/index.php?title=Idiocracy&amp;action=edit&amp;redlink=1" class="new" title="Idiocracy (page does not exist)">Idiocracy</a>,</i> where Crews played President Dwayne Elizondo Mountain Dew Herbert Camacho).
+</p><p>Crews has made many cameo appearances. He was in <a href="/w/index.php?title=Blink-182&amp;action=edit&amp;redlink=1" class="new" title="Blink-182 (page does not exist)">Blink-182</a>'s music video of "<a href="/w/index.php?title=Down_(Blink-182_song)&amp;action=edit&amp;redlink=1" class="new" title="Down (Blink-182 song) (page does not exist)">Down</a>" as a police officer, in <a href="/wiki/Jamie_Kennedy" title="Jamie Kennedy">Jamie Kennedy</a>'s "<a href="/w/index.php?title=Rollin%27_with_Saget&amp;action=edit&amp;redlink=1" class="new" title="Rollin' with Saget (page does not exist)">Rollin' with Saget</a>" as the security guard, and in films such as <i><a href="/wiki/Training_Day" title="Training Day">Training Day</a></i> and <i><a href="/wiki/Soul_Plane" title="Soul Plane">Soul Plane</a>.</i>
+</p><p>Crews usually portrays buff-looking characters with a humorous softer side. But more recently, he has been able to alternate with more serious projects such as his recent appearances in <i><a href="/w/index.php?title=Harsh_Times&amp;action=edit&amp;redlink=1" class="new" title="Harsh Times (page does not exist)">Harsh Times</a></i>, <i><a href="/w/index.php?title=Street_Kings_(film)&amp;action=edit&amp;redlink=1" class="new" title="Street Kings (film) (page does not exist)">Street Kings</a></i>, and <i><a href="/w/index.php?title=The_Expendables_(2010_film)&amp;action=edit&amp;redlink=1" class="new" title="The Expendables (2010 film) (page does not exist)">The Expendables</a></i>.
+</p><p>He has been featured in several <a href="/wiki/Old_Spice" title="Old Spice">Old Spice</a> TV commercials for their "Odor Blocker Body Wash", their body sprays, deodorant and most recently, their shaving lotion. The ads are directed by <a href="/wiki/Tim_Heidecker" title="Tim Heidecker">Tim Heidecker</a> and <a href="/wiki/Eric_Wareheim" title="Eric Wareheim">Eric Wareheim</a>.<sup id="cite_ref-oldspice_5-0" class="reference"><a href="#cite_note-oldspice-5">[5]</a></sup>
+</p><p>In the sitcom <i><a href="/w/index.php?title=Are_We_There_Yet%3F_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="Are We There Yet? (TV series) (page does not exist)">Are We There Yet?</a></i>, Crews had a lead role as Nick Kingston-Persons. In the series' first trailer, <a href="/wiki/Ice_Cube" title="Ice Cube">Ice Cube</a> said that Crews is the perfect person to replace him as Nick, and that his physical comedy is undeniable. The series was picked up for 90 new episodes<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> (approx six seasons) by August 2010, while Crews enjoyed box office success in three movies in August 2010 (<i><a href="/w/index.php?title=Middle_Men_(film)&amp;action=edit&amp;redlink=1" class="new" title="Middle Men (film) (page does not exist)">Middle Men</a></i>, <i><a href="/w/index.php?title=The_Expendables_(2010_film)&amp;action=edit&amp;redlink=1" class="new" title="The Expendables (2010 film) (page does not exist)">The Expendables</a></i>, <i><a href="/w/index.php?title=Lottery_Ticket_(film)&amp;action=edit&amp;redlink=1" class="new" title="Lottery Ticket (film) (page does not exist)">Lottery Ticket</a></i>).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p><p>He also stars in his own reality series on <a href="/w/index.php?title=Black_Entertainment_Television&amp;action=edit&amp;redlink=1" class="new" title="Black Entertainment Television (page does not exist)">BET</a> entitled <i><a href="/w/index.php?title=The_Family_Crews&amp;action=edit&amp;redlink=1" class="new" title="The Family Crews (page does not exist)">The Family Crews</a></i> which is about his everyday life with his family. The show premiered on February 21, 2010.
+</p><p>In 2012, he joined the cast of the <a href="/wiki/Aaron_Sorkin" title="Aaron Sorkin">Aaron Sorkin</a>-helmed drama <i><a href="/w/index.php?title=The_Newsroom_(U.S._TV_series)&amp;action=edit&amp;redlink=1" class="new" title="The Newsroom (U.S. TV series) (page does not exist)">The Newsroom</a></i>. He will be portraying the bodyguard and <a href="/wiki/Life_coach" title="Life coach" class="mw-redirect">life coach</a> of Will McAvoy, the show's protagonist.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> There was a reference to his football past during his first appearance in the series, but the football past of his character, <i>Lonny Church</i>, is different from his real-life one. Terry was also a contestant in a <a href="/wiki/NBC" title="NBC">NBC</a> celebrity reality competition series called <i><a href="/w/index.php?title=Stars_Earn_Stripes&amp;action=edit&amp;redlink=1" class="new" title="Stars Earn Stripes (page does not exist)">Stars Earn Stripes</a></i>.
+</p><p>In July 2013, it was revealed that Crews is to play a real life version of the cartoon character used as the mascot for the group <a href="/w/index.php?title=Major_Lazer&amp;action=edit&amp;redlink=1" class="new" title="Major Lazer (page does not exist)">Major Lazer</a>, appearing in the video for their track, "Scare Me".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span></h2>
+<p>Crews has four daughters, Azriel, Tera, Wynfrey, Naomi Burton, and one son, Isaiah, one grandchild (one being a stepdaughter from his wife's previous relationship) with his wife of 22 years, <a href="/w/index.php?title=The_Family_Crews&amp;action=edit&amp;redlink=1" class="new" title="The Family Crews (page does not exist)">Rebecca King-Crews</a>, a former <a href="/wiki/Beauty_queen" title="Beauty queen" class="mw-redirect">beauty queen</a> and <a href="/wiki/Gospel" title="Gospel">gospel</a> <a href="/wiki/Recording_artist" title="Recording artist" class="mw-redirect">recording artist</a>.
+</p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span></h2>
+<h3><span class="mw-headline" id="Film">Film</span></h3>
+<table class="wikitable sortable">
+
+<tr>
+<th> Year
+</th>
+<th> Title
+</th>
+<th> Role
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> 2000
+</td>
+<td> <i><a href="/wiki/The_6th_Day" title="The 6th Day">The 6th Day</a></i>
+</td>
+<td> Vincent Bansworth
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2001
+</td>
+<td> <i><a href="/wiki/Training_Day" title="Training Day">Training Day</a></i>
+</td>
+<td> <a href="/wiki/Bloods" title="Bloods">Bloods</a> member
+</td>
+<td> Uncredited
+</td></tr>
+<tr>
+<td rowspan="2">2002
+</td>
+<td> <i><a href="/wiki/Serving_Sara" title="Serving Sara">Serving Sara</a></i>
+</td>
+<td> Vernon
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Friday_After_Next&amp;action=edit&amp;redlink=1" class="new" title="Friday After Next (page does not exist)">Friday After Next</a></i>
+</td>
+<td> Damon Pearly
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2003
+</td>
+<td> <i><a href="/wiki/Deliver_Us_from_Eva" title="Deliver Us from Eva">Deliver Us from Eva</a></i>
+</td>
+<td> Big bartender
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Malibu%27s_Most_Wanted" title="Malibu's Most Wanted">Malibu's Most Wanted</a></i>
+</td>
+<td> 8 Ball
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=BAADASSSSS!&amp;action=edit&amp;redlink=1" class="new" title="BAADASSSSS! (page does not exist)">BAADASSSSS!</a></i>
+</td>
+<td> Big T
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2004
+</td>
+<td> <i><a href="/wiki/Soul_Plane" title="Soul Plane">Soul Plane</a></i>
+</td>
+<td> Bouncer
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Starsky_%26_Hutch_(film)" title="Starsky &amp; Hutch (film)">Starsky &amp; Hutch</a></i>
+</td>
+<td> Porter
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/White_Chicks" title="White Chicks">White Chicks</a></i>
+</td>
+<td> Latrell Spencer
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2005
+</td>
+<td> <i><a href="/w/index.php?title=The_Longest_Yard_(2005_film)&amp;action=edit&amp;redlink=1" class="new" title="The Longest Yard (2005 film) (page does not exist)">The Longest Yard</a></i>
+</td>
+<td> Cheeseburger Eddy "89"
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="7">2006
+</td>
+<td> <i><a href="/w/index.php?title=The_Alibi&amp;action=edit&amp;redlink=1" class="new" title="The Alibi (page does not exist)">The Alibi</a></i>
+</td>
+<td> Crazy Eight
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Harsh_Times&amp;action=edit&amp;redlink=1" class="new" title="Harsh Times (page does not exist)">Harsh Times</a></i>
+</td>
+<td> Darrell
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Benchwarmers&amp;action=edit&amp;redlink=1" class="new" title="The Benchwarmers (page does not exist)">The Benchwarmers</a></i>
+</td>
+<td> Steven
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Puff,_Puff,_Pass&amp;action=edit&amp;redlink=1" class="new" title="Puff, Puff, Pass (page does not exist)">Puff, Puff, Pass</a></i>
+</td>
+<td> Cool Crush Ice Killa
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Click_(2006_film)&amp;action=edit&amp;redlink=1" class="new" title="Click (2006 film) (page does not exist)">Click</a></i>
+</td>
+<td> Singing guy in car
+</td>
+<td> Uncredited
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Idiocracy&amp;action=edit&amp;redlink=1" class="new" title="Idiocracy (page does not exist)">Idiocracy</a></i>
+</td>
+<td> President Dwayne Elizondo Mountain Dew Herbert Camacho
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Inland_Empire_(film)" title="Inland Empire (film)">Inland Empire</a></i>
+</td>
+<td> Street person
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4">2007
+</td>
+<td> <i><a href="/w/index.php?title=Norbit&amp;action=edit&amp;redlink=1" class="new" title="Norbit (page does not exist)">Norbit</a></i>
+</td>
+<td> Big Black Jack Latimore
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=How_to_Rob_a_Bank&amp;action=edit&amp;redlink=1" class="new" title="How to Rob a Bank (page does not exist)">How to Rob a Bank</a></i>
+</td>
+<td> Officer Degepse
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Who%27s_Your_Caddy%3F&amp;action=edit&amp;redlink=1" class="new" title="Who's Your Caddy? (page does not exist)">Who's Your Caddy?</a></i>
+</td>
+<td> Tank
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Balls_of_Fury&amp;action=edit&amp;redlink=1" class="new" title="Balls of Fury (page does not exist)">Balls of Fury</a></i>
+</td>
+<td> Freddy "Fingers" Wilson
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2008
+</td>
+<td> <i><a href="/w/index.php?title=Street_Kings&amp;action=edit&amp;redlink=1" class="new" title="Street Kings (page does not exist)">Street Kings</a></i>
+</td>
+<td> Detective II Terrence Washington
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Get_Smart_(film)&amp;action=edit&amp;redlink=1" class="new" title="Get Smart (film) (page does not exist)">Get Smart</a></i>
+</td>
+<td> Agent 91
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Get_Smart%27s_Bruce_and_Lloyd:_Out_of_Control&amp;action=edit&amp;redlink=1" class="new" title="Get Smart's Bruce and Lloyd: Out of Control (page does not exist)">Get Smart's Bruce and Lloyd: Out of Control</a></i>
+</td>
+<td> Agent 91
+</td>
+<td><a href="/wiki/Direct-to-video" title="Direct-to-video">Direct-to-DVD</a>
+</td></tr>
+<tr>
+<td rowspan="2">2009
+</td>
+<td> <i><a href="/w/index.php?title=Terminator_Salvation&amp;action=edit&amp;redlink=1" class="new" title="Terminator Salvation (page does not exist)">Terminator Salvation</a></i>
+</td>
+<td> Captain Jericho
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Gamer_(film)&amp;action=edit&amp;redlink=1" class="new" title="Gamer (film) (page does not exist)">Gamer</a></i>
+</td>
+<td> Hackman
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">2010
+</td>
+<td> <i><a href="/w/index.php?title=The_Expendables_(2010_film)&amp;action=edit&amp;redlink=1" class="new" title="The Expendables (2010 film) (page does not exist)">The Expendables</a></i>
+</td>
+<td> Hale Caesar
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Lottery_Ticket_(film)&amp;action=edit&amp;redlink=1" class="new" title="Lottery Ticket (film) (page does not exist)">Lottery Ticket</a></i>
+</td>
+<td> Jimmy
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Middle_Men_(film)&amp;action=edit&amp;redlink=1" class="new" title="Middle Men (film) (page does not exist)">Middle Men</a></i>
+</td>
+<td> James
+</td>
+<td>
+</td></tr>
+<tr>
+<td>2011
+</td>
+<td> <i><a href="/w/index.php?title=Bridesmaids_(2011_film)&amp;action=edit&amp;redlink=1" class="new" title="Bridesmaids (2011 film) (page does not exist)">Bridesmaids</a></i>
+</td>
+<td> Boot camp instructor
+</td>
+<td> Cameo
+</td></tr>
+<tr>
+<td>2012
+</td>
+<td> <i><a href="/w/index.php?title=The_Expendables_2&amp;action=edit&amp;redlink=1" class="new" title="The Expendables 2 (page does not exist)">The Expendables 2</a></i>
+</td>
+<td> Hale Caesar
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4">2013
+</td>
+<td> <i><a href="/w/index.php?title=Scary_Movie_5&amp;action=edit&amp;redlink=1" class="new" title="Scary Movie 5 (page does not exist)">Scary Movie 5</a></i>
+</td>
+<td> Martin
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Aztec_Warrior&amp;action=edit&amp;redlink=1" class="new" title="Aztec Warrior (page does not exist)">Aztec Warrior</a></i>
+</td>
+<td> Juan Claudio
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Cloudy_with_a_Chance_of_Meatballs_2&amp;action=edit&amp;redlink=1" class="new" title="Cloudy with a Chance of Meatballs 2 (page does not exist)">Cloudy with a Chance of Meatballs 2</a></i>
+</td>
+<td> Earl Devereaux
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Reach_Me&amp;action=edit&amp;redlink=1" class="new" title="Reach Me (page does not exist)">Reach Me</a></i>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4">2014
+</td>
+<td> <i><a href="/w/index.php?title=Single_Moms_Club&amp;action=edit&amp;redlink=1" class="new" title="Single Moms Club (page does not exist)">Single Moms Club</a></i>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=The_Expendables_3&amp;action=edit&amp;redlink=1" class="new" title="The Expendables 3 (page does not exist)">The Expendables 3</a></i>
+</td>
+<td> Hale Caesar
+</td>
+<td> Post-Production
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Blended_(film)&amp;action=edit&amp;redlink=1" class="new" title="Blended (film) (page does not exist)">Blended</a></i>
+</td>
+<td>
+</td>
+<td> Filming
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Draft_Day&amp;action=edit&amp;redlink=1" class="new" title="Draft Day (page does not exist)">Draft Day</a></i>
+</td>
+<td>
+</td>
+<td> Filming
+</td></tr>
+</table>
+<h3><span class="mw-headline" id="Television">Television</span></h3>
+<table class="wikitable sortable">
+
+<tr>
+<th> Year
+</th>
+<th> Title
+</th>
+<th> Role
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> 1999–2001
+</td>
+<td> <i><a href="/w/index.php?title=Battle_Dome&amp;action=edit&amp;redlink=1" class="new" title="Battle Dome (page does not exist)">Battle Dome</a></i>
+</td>
+<td> T-Money
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2004
+</td>
+<td> <i><a href="/wiki/CSI:_Miami" title="CSI: Miami">CSI: Miami</a></i>
+</td>
+<td> Craig Waters
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2005
+</td>
+<td> <i><a href="/wiki/My_Wife_and_Kids" title="My Wife and Kids">My Wife and Kids</a></i>
+</td>
+<td> Daryl
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2005–2009
+</td>
+<td> <i><a href="/wiki/Everybody_Hates_Chris" title="Everybody Hates Chris">Everybody Hates Chris</a></i>
+</td>
+<td> Julius Rock
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2006
+</td>
+<td> <i><a href="/w/index.php?title=The_Boondocks_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="The Boondocks (TV series) (page does not exist)">The Boondocks</a></i>
+</td>
+<td> Various characters
+</td>
+<td> Voice
+</td></tr>
+<tr>
+<td> 2007
+</td>
+<td> <i><a href="/w/index.php?title=Wild_%27n_Out&amp;action=edit&amp;redlink=1" class="new" title="Wild 'n Out (page does not exist)">Wild 'n Out</a></i>
+</td>
+<td>Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2010–2012
+</td>
+<td> <i><a href="/w/index.php?title=Are_We_There_Yet%3F_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="Are We There Yet? (TV series) (page does not exist)">Are We There Yet?</a></i>
+</td>
+<td> Nick Kingston-Persons
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2010–2011
+</td>
+<td> <i><a href="/w/index.php?title=The_Family_Crews&amp;action=edit&amp;redlink=1" class="new" title="The Family Crews (page does not exist)">The Family Crews</a></i>
+</td>
+<td> Himself
+</td>
+<td> Reality show
+</td></tr>
+<tr>
+<td> 2011
+</td>
+<td> <i><a href="/w/index.php?title=BrainSurge&amp;action=edit&amp;redlink=1" class="new" title="BrainSurge (page does not exist)">BrainSurge</a></i>
+</td>
+<td> Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2012
+</td>
+<td> <i><a href="/w/index.php?title=The_Newsroom_(U.S._TV_series)&amp;action=edit&amp;redlink=1" class="new" title="The Newsroom (U.S. TV series) (page does not exist)">The Newsroom</a></i>
+</td>
+<td> Lonny Church
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Stars_Earn_Stripes&amp;action=edit&amp;redlink=1" class="new" title="Stars Earn Stripes (page does not exist)">Stars Earn Stripes</a></i>
+</td>
+<td> Himself
+</td>
+<td> Reality show
+</td></tr>
+<tr>
+<td rowspan="3">2013
+</td>
+<td> <i><a href="/w/index.php?title=Real_Husbands_of_Hollywood&amp;action=edit&amp;redlink=1" class="new" title="Real Husbands of Hollywood (page does not exist)">Real Husbands of Hollywood</a></i>
+</td>
+<td> Himself
+</td>
+<td> Reality show
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Second_Generation_Wayans&amp;action=edit&amp;redlink=1" class="new" title="Second Generation Wayans (page does not exist)">Second Generation Wayans</a></i>
+</td>
+<td> Himself
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <i><a href="/wiki/Arrested_Development_(TV_series)" title="Arrested Development (TV series)">Arrested Development</a></i>
+</td>
+<td> Herbert Love
+</td>
+<td>
+</td></tr>
+<tr>
+<td> 2013&#8211;present
+</td>
+<td> <i><a href="/w/index.php?title=Brooklyn_Nine-Nine&amp;action=edit&amp;redlink=1" class="new" title="Brooklyn Nine-Nine (page does not exist)">Brooklyn Nine-Nine</a></i>
+</td>
+<td> Terry Jeffords
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="5">2013
+</td>
+<td> <i><a href="/w/index.php?title=Kris_(television_show)&amp;action=edit&amp;redlink=1" class="new" title="Kris (television show) (page does not exist)">Kris</a></i>
+</td>
+<td> Himself
+</td>
+<td> Guest Host
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Drunk_History&amp;action=edit&amp;redlink=1" class="new" title="Drunk History (page does not exist)">Drunk History</a></i>
+</td>
+<td> <a href="/wiki/Donald_DeFreeze" title="Donald DeFreeze">Donald DeFreeze</a>
+</td>
+<td> Episode: San Francisco
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Hollywood_Game_Night&amp;action=edit&amp;redlink=1" class="new" title="Hollywood Game Night (page does not exist)">Hollywood Game Night</a></i>
+</td>
+<td> Himself
+</td>
+<td> Season Finale
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Ultimate_Spider-Man_(TV_series)&amp;action=edit&amp;redlink=1" class="new" title="Ultimate Spider-Man (TV series) (page does not exist)">Ultimate Spider-Man</a></i>
+</td>
+<td> <a href="/wiki/Blade_(comics)" title="Blade (comics)">Blade</a>
+</td>
+<td> Voice
+</td></tr>
+<tr>
+<td> <i><a href="/w/index.php?title=Regular_Show&amp;action=edit&amp;redlink=1" class="new" title="Regular Show (page does not exist)">Regular Show</a></i>
+</td>
+<td> Brock Stettman
+</td>
+<td> Voice
+</td></tr></table>
+<h3><span class="mw-headline" id="Music_videos">Music videos</span></h3>
+<table class="wikitable sortable">
+
+<tr>
+<th> Year2000
+</th>
+<th> Artist
+</th>
+<th> Song
+</th>
+<th> Role
+</th></tr>
+<tr>
+<td> 2004
+</td>
+<td> <a href="/w/index.php?title=Blink-182&amp;action=edit&amp;redlink=1" class="new" title="Blink-182 (page does not exist)">Blink-182</a>
+</td>
+<td> "<a href="/w/index.php?title=Down_(Blink-182_song)&amp;action=edit&amp;redlink=1" class="new" title="Down (Blink-182 song) (page does not exist)">Down</a>"
+</td>
+<td> Police officer
+</td></tr>
+<tr>
+<td> 2005
+</td>
+<td> <a href="/wiki/Jamie_Kennedy" title="Jamie Kennedy">Jamie Kennedy</a> &amp; <a href="/w/index.php?title=Stu_Stone&amp;action=edit&amp;redlink=1" class="new" title="Stu Stone (page does not exist)">Stu Stone</a>
+</td>
+<td> "<a href="/w/index.php?title=Rollin_With_Saget&amp;action=edit&amp;redlink=1" class="new" title="Rollin With Saget (page does not exist)">Rollin With Saget</a>"
+</td>
+<td> Bouncer
+</td></tr>
+<tr>
+<td> 2013
+</td>
+<td> <a href="/w/index.php?title=Major_Lazer&amp;action=edit&amp;redlink=1" class="new" title="Major Lazer (page does not exist)">Major Lazer</a> <small>(feat. Peaches &amp; Timberlee)</small>
+</td>
+<td> "Scare Me"
+</td>
+<td> Major Lazer
+</td></tr></table>
+<h3><span class="mw-headline" id="Video_games">Video games</span></h3>
+<table class="wikitable sortable">
+
+<tr>
+<th> Year
+</th>
+<th> Title
+</th>
+<th> Role
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> 2012
+</td>
+<td> <i><a href="/w/index.php?title=The_Expendables_2&amp;action=edit&amp;redlink=1" class="new" title="The Expendables 2 (page does not exist)">The Expendables 2</a></i>
+</td>
+<td> Hale Caesar
+</td>
+<td> Voice
+</td></tr>
+<tr>
+<td> 2013
+</td>
+<td> <i><a href="/w/index.php?title=Saints_Row_IV&amp;action=edit&amp;redlink=1" class="new" title="Saints Row IV (page does not exist)">Saints Row IV</a></i>
+</td>
+<td> Benjamin King
+</td>
+<td> Voice
+</td></tr></table>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.terrycrews.com/">Official website</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm187719/"></a><a href="/w/index.php?title=Template:Title_without_disambig&amp;action=edit&amp;redlink=1" class="new" title="Template:Title without disambig (page does not exist)">Template:Title without disambig</a><a rel="nofollow" class="external text" href="http://www.imdb.com/name/nm187719/"></a> at the <a href="/w/index.php?title=Internet_Movie_Database&amp;action=edit&amp;redlink=1" class="new" title="Internet Movie Database (page does not exist)">Internet Movie Database</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.bet.com/shows/the-family-crews.html">BET Shows - The Family Crews Website</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Authority_control&amp;action=edit&amp;redlink=1" class="new" title="Template:Authority control (page does not exist)">Template:Authority control</a>
+</p><p><a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.244 seconds
+Real time usage: 0.461 seconds
+Preprocessor visited node count: 259/1000000
+Preprocessor generated node count: 2079/1000000
+Post‐expand include size: 758/2097152 bytes
+Template argument size: 51/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:1017596-0!*!0!!en!*!* and timestamp 20170407173035
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Terry_Crews&amp;oldid=1017596">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Terry_Crews&amp;oldid=1017596</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:1968_births" title="Category:1968 births">1968 births</a></li><li><a href="/w/index.php?title=Category:Living_people&amp;action=edit&amp;redlink=1" class="new" title="Category:Living people (page does not exist)">Living people</a></li><li><a href="/w/index.php?title=Category:Male_actors_from_Michigan&amp;action=edit&amp;redlink=1" class="new" title="Category:Male actors from Michigan (page does not exist)">Male actors from Michigan</a></li><li><a href="/w/index.php?title=Category:American_male_film_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:American male film actors (page does not exist)">American male film actors</a></li><li><a href="/w/index.php?title=Category:African-American_male_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:African-American male actors (page does not exist)">African-American male actors</a></li><li><a href="/w/index.php?title=Category:African-American_players_of_American_football&amp;action=edit&amp;redlink=1" class="new" title="Category:African-American players of American football (page does not exist)">African-American players of American football</a></li><li><a href="/w/index.php?title=Category:American_Christians&amp;action=edit&amp;redlink=1" class="new" title="Category:American Christians (page does not exist)">American Christians</a></li><li><a href="/w/index.php?title=Category:American_football_defensive_ends&amp;action=edit&amp;redlink=1" class="new" title="Category:American football defensive ends (page does not exist)">American football defensive ends</a></li><li><a href="/wiki/Category:American_football_linebackers" title="Category:American football linebackers">American football linebackers</a></li><li><a href="/wiki/Category:Los_Angeles_Rams_players" title="Category:Los Angeles Rams players">Los Angeles Rams players</a></li><li><a href="/w/index.php?title=Category:People_from_Flint,_Michigan&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Flint, Michigan (page does not exist)">People from Flint, Michigan</a></li><li><a href="/w/index.php?title=Category:Players_of_American_football_from_Michigan&amp;action=edit&amp;redlink=1" class="new" title="Category:Players of American football from Michigan (page does not exist)">Players of American football from Michigan</a></li><li><a href="/w/index.php?title=Category:Participants_in_American_reality_television_series&amp;action=edit&amp;redlink=1" class="new" title="Category:Participants in American reality television series (page does not exist)">Participants in American reality television series</a></li><li><a href="/w/index.php?title=Category:Rhein_Fire_players&amp;action=edit&amp;redlink=1" class="new" title="Category:Rhein Fire players (page does not exist)">Rhein Fire players</a></li><li><a href="/wiki/Category:San_Diego_Chargers_players" title="Category:San Diego Chargers players">San Diego Chargers players</a></li><li><a href="/w/index.php?title=Category:Sportspeople_from_Flint,_Michigan&amp;action=edit&amp;redlink=1" class="new" title="Category:Sportspeople from Flint, Michigan (page does not exist)">Sportspeople from Flint, Michigan</a></li><li><a href="/wiki/Category:Washington_Redskins_players" title="Category:Washington Redskins players">Washington Redskins players</a></li><li><a href="/w/index.php?title=Category:Western_Michigan_Broncos_football_players&amp;action=edit&amp;redlink=1" class="new" title="Category:Western Michigan Broncos football players (page does not exist)">Western Michigan Broncos football players</a></li><li><a href="/w/index.php?title=Category:American_male_voice_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:American male voice actors (page does not exist)">American male voice actors</a></li><li><a href="/w/index.php?title=Category:American_male_television_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:American male television actors (page does not exist)">American male television actors</a></li><li><a href="/w/index.php?title=Category:20th-century_American_male_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:20th-century American male actors (page does not exist)">20th-century American male actors</a></li><li><a href="/w/index.php?title=Category:21st-century_American_male_actors&amp;action=edit&amp;redlink=1" class="new" title="Category:21st-century American male actors (page does not exist)">21st-century American male actors</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Terry+Crews" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Terry_Crews"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Terry_Crews&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Terry_Crews" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Terry_Crews&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Terry_Crews&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Terry_Crews" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Terry_Crews" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Terry_Crews&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Terry_Crews&amp;oldid=1017596" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Terry_Crews&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 February 2014, at 00:49.</li>
+											<li id="footer-info-viewcount">This page has been accessed 84 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.768 secs. -->
+	</body>
+</html>

@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Deforestation - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Deforestation","wgTitle":"Deforestation","wgCurRevisionId":4988,"wgRevisionId":4988,"wgArticleId":4988,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Deforestation","Climate forcing agents","World forestry","Environmental issues","Aftermath of war","History of forestry","Forest pathology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Deforestation","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Deforestation skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Deforestation</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+</p>
+<a href="/w/index.php?title=Template:Pp-protected&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-protected (page does not exist)">Template:Pp-protected</a><div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bolivia-Deforestation-EO.JPG" title="File:Bolivia-Deforestation-EO.JPG">File:Bolivia-Deforestation-EO.JPG</a>  <div class="thumbcaption">Satellite photograph of deforestation in progress in the <a href="/w/index.php?title=Tierras_Bajas&amp;action=edit&amp;redlink=1" class="new" title="Tierras Bajas (page does not exist)">Tierras Bajas</a> project in eastern <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>.</div></div></div>
+<p><b>Deforestation</b>, <b>clearance</b> or <b>clearing</b> is the removal of a forest or stand of trees where the land is thereafter converted to a non-forest use.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Examples of deforestation include conversion of forestland to farms, ranches, or urban use.
+</p><p>More than half of the animal and plant species in the world live in tropical forests.<sup id="cite_ref-Rainforest_Facts_2-0" class="reference"><a href="#cite_note-Rainforest_Facts-2">[2]</a></sup>
+<a href="/w/index.php?title=Template:Toc_left&amp;action=edit&amp;redlink=1" class="new" title="Template:Toc left (page does not exist)">Template:Toc left</a>
+</p><p>The term <i>deforestation</i> is often misused to describe any activity where all trees in an area are removed.<a href="/w/index.php?title=Template:Failed_verification&amp;action=edit&amp;redlink=1" class="new" title="Template:Failed verification (page does not exist)">Template:Failed verification</a><a href="/w/index.php?title=Template:POV-statement&amp;action=edit&amp;redlink=1" class="new" title="Template:POV-statement (page does not exist)">Template:POV-statement</a> However in <a href="/wiki/Temperate_climate" title="Temperate climate">temperate climates</a>, the <a href="/wiki/Clear_cutting" title="Clear cutting" class="mw-redirect">removal of all trees in an area</a><a href="/w/index.php?title=Template:Failed_verification&amp;action=edit&amp;redlink=1" class="new" title="Template:Failed verification (page does not exist)">Template:Failed verification</a>—in conformance with <a href="/wiki/Sustainable_forestry" title="Sustainable forestry" class="mw-redirect">sustainable forestry</a> practices—is correctly described as <i>regeneration harvest</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In <a href="/wiki/Prairie#Mesic" title="Prairie">temperate mesic climates</a>, natural regeneration of forest stands often will not occur in the absence of disturbance, whether natural or anthropogenic.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Furthermore, biodiversity after regeneration harvest often mimics that found after natural disturbance, including biodiversity loss after naturally occurring rainforest destruction.<sup id="cite_ref-SahneyBentonFalconLang_2010RainforestCollapse_5-0" class="reference"><a href="#cite_note-SahneyBentonFalconLang_2010RainforestCollapse-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Deforestation occurs for many reasons: trees are cut down to be used or sold as fuel (sometimes in the form of <a href="/w/index.php?title=Charcoal&amp;action=edit&amp;redlink=1" class="new" title="Charcoal (page does not exist)">charcoal</a>) or timber, while cleared land is used as <a href="/wiki/Pasture" title="Pasture">pasture</a> for livestock, plantations of commodities and settlements. The removal of trees without sufficient <a href="/wiki/Reforestation" title="Reforestation">reforestation</a> has resulted in damage to <a href="/wiki/Habitat" title="Habitat">habitat</a>, <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> loss and <a href="/wiki/Arid" title="Arid">aridity</a>. It has adverse impacts on <a href="/w/index.php?title=Biosequestration&amp;action=edit&amp;redlink=1" class="new" title="Biosequestration (page does not exist)">biosequestration</a> of atmospheric <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>. Deforestation has also been used in <a href="/wiki/War" title="War">war</a> to deprive an enemy of cover for its forces and also vital resources. A modern example of this was the use of <a href="/wiki/Agent_Orange" title="Agent Orange">Agent Orange</a> by the United States military in Vietnam during the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>. Deforested regions typically incur significant adverse <a href="/wiki/Soil_erosion" title="Soil erosion" class="mw-redirect">soil erosion</a> and frequently degrade into <a href="http://en.wiktionary.org/wiki/wasteland" class="extiw" title="wikt:wasteland">wasteland</a>.
+</p><p>Disregard or ignorance of intrinsic value, lack of ascribed value, lax forest management and deficient environmental laws are some of the factors that allow deforestation to occur on a large scale. In many countries, deforestation, both naturally occurring and human induced, is an ongoing issue. Deforestation causes <a href="/wiki/Extinction" title="Extinction">extinction</a>, changes to climatic conditions, <a href="/wiki/Desertification" title="Desertification">desertification</a>, and displacement of populations as observed by current conditions and in the past through the fossil record.<sup id="cite_ref-SahneyBentonFalconLang_2010RainforestCollapse_5-1" class="reference"><a href="#cite_note-SahneyBentonFalconLang_2010RainforestCollapse-5">[5]</a></sup>
+</p><p>Among countries with a per capita <a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a> of at least US$4,600, net deforestation rates have ceased to increase.<a href="/w/index.php?title=Template:When&amp;action=edit&amp;redlink=1" class="new" title="Template:When (page does not exist)">Template:When</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Causes"><span class="tocnumber">1</span> <span class="toctext">Causes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Environmental_problems"><span class="tocnumber">2</span> <span class="toctext">Environmental problems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Atmospheric"><span class="tocnumber">2.1</span> <span class="toctext">Atmospheric</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hydrological"><span class="tocnumber">2.2</span> <span class="toctext">Hydrological</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Soil"><span class="tocnumber">2.3</span> <span class="toctext">Soil</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Biodiversity"><span class="tocnumber">2.4</span> <span class="toctext">Biodiversity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Economic_impact"><span class="tocnumber">3</span> <span class="toctext">Economic impact</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Forest_transition_theory"><span class="tocnumber">4</span> <span class="toctext">Forest transition theory</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Historical_causes"><span class="tocnumber">5</span> <span class="toctext">Historical causes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Prehistory"><span class="tocnumber">5.1</span> <span class="toctext">Prehistory</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Pre-industrial_history"><span class="tocnumber">5.2</span> <span class="toctext">Pre-industrial history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Industrial_era"><span class="tocnumber">6</span> <span class="toctext">Industrial era</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Rates_of_deforestation"><span class="tocnumber">6.1</span> <span class="toctext">Rates of deforestation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Regions"><span class="tocnumber">6.1.1</span> <span class="toctext">Regions</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Control"><span class="tocnumber">7</span> <span class="toctext">Control</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Reducing_emissions"><span class="tocnumber">7.1</span> <span class="toctext">Reducing emissions</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Payments_for_conserving_forests"><span class="tocnumber">7.1.1</span> <span class="toctext">Payments for conserving forests</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Farming"><span class="tocnumber">7.2</span> <span class="toctext">Farming</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Monitoring_deforestation"><span class="tocnumber">7.3</span> <span class="toctext">Monitoring deforestation</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Forest_management"><span class="tocnumber">7.4</span> <span class="toctext">Forest management</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Sustainable_practices"><span class="tocnumber">7.4.1</span> <span class="toctext">Sustainable practices</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#Reforestation"><span class="tocnumber">7.5</span> <span class="toctext">Reforestation</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Forest_plantations"><span class="tocnumber">7.6</span> <span class="toctext">Forest plantations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Military_context"><span class="tocnumber">8</span> <span class="toctext">Military context</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Causes">Causes</span></h2>
+<p>According to the United Nations Framework Convention on Climate Change (UNFCCC) secretariat, the overwhelming direct cause of deforestation is agriculture. <a href="/wiki/Subsistence_farming" title="Subsistence farming" class="mw-redirect">Subsistence farming</a> is responsible for 48% of deforestation; <a href="/w/index.php?title=Commercial_agriculture&amp;action=edit&amp;redlink=1" class="new" title="Commercial agriculture (page does not exist)">commercial agriculture</a> is responsible for 32% of deforestation; <a href="/wiki/Logging" title="Logging">logging</a> is responsible for 14% of deforestation and fuel wood removals make up 5% of deforestation.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p><p>Experts do not agree on whether industrial logging is an important contributor to global deforestation.<sup id="cite_ref-causesof_10-0" class="reference"><a href="#cite_note-causesof-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Some argue that poor people are more likely to clear forest because they have no alternatives, others that the poor lack the ability to pay for the materials and labour needed to clear forest.<sup id="cite_ref-causesof_10-1" class="reference"><a href="#cite_note-causesof-10">[10]</a></sup> One study found that population increases due to high fertility rates were a primary driver of tropical deforestation in only 8% of cases.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+</p><p>Other causes of contemporary deforestation may include <a href="/wiki/Political_corruption" title="Political corruption">corruption</a> of government institutions,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> the <a href="/w/index.php?title=International_inequality&amp;action=edit&amp;redlink=1" class="new" title="International inequality (page does not exist)">inequitable</a> distribution of wealth and power,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> <a href="/wiki/Population_growth" title="Population growth">population growth</a><sup id="cite_ref-population1_16-0" class="reference"><a href="#cite_note-population1-16">[16]</a></sup> and <a href="/w/index.php?title=Human_overpopulation&amp;action=edit&amp;redlink=1" class="new" title="Human overpopulation (page does not exist)">overpopulation</a>,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> and <a href="/wiki/Urbanization" title="Urbanization">urbanization</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> <a href="/wiki/Globalization" title="Globalization">Globalization</a> is often viewed as another root cause of deforestation,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> though there are cases in which the impacts of globalization (new ﬂows of labor, capital, commodities, and ideas) have promoted localized forest recovery.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Riau_deforestation_2006.jpg" title="File:Riau deforestation 2006.jpg">File:Riau deforestation 2006.jpg</a>  <div class="thumbcaption">The last batch of sawnwood from the <a href="/w/index.php?title=Peat_swamp_forest&amp;action=edit&amp;redlink=1" class="new" title="Peat swamp forest (page does not exist)">peat forest</a> in Indragiri Hulu, Sumatra, <a href="/w/index.php?title=Deforestation_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Indonesia (page does not exist)">Indonesia</a>. Deforestation for <a href="/w/index.php?title=Elaeis_guineensis&amp;action=edit&amp;redlink=1" class="new" title="Elaeis guineensis (page does not exist)">oil palm</a> plantation.</div></div></div>
+<p>In 2000 the United Nations <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a> (FAO) found that "the role of population dynamics in a local setting may vary from decisive to negligible," and that deforestation can result from "a combination of population pressure and stagnating economic, social and technological conditions."<sup id="cite_ref-population1_16-1" class="reference"><a href="#cite_note-population1-16">[16]</a></sup>
+</p><p>The degradation of forest ecosystems has also been traced to economic incentives that make forest conversion appear more profitable than forest conservation.<sup id="cite_ref-economicvalue_23-0" class="reference"><a href="#cite_note-economicvalue-23">[23]</a></sup> Many important forest functions have no markets, and hence, no economic value that is readily apparent to the forests' owners or the communities that rely on forests for their well-being.<sup id="cite_ref-economicvalue_23-1" class="reference"><a href="#cite_note-economicvalue-23">[23]</a></sup> From the perspective of the developing world, the benefits of forest as carbon sinks or biodiversity reserves go primarily to richer developed nations and there is insufficient compensation for these services. Developing countries feel that some countries in the developed world, such as the United States of America, cut down their forests centuries ago and benefited greatly from this deforestation, and that it is hypocritical to deny developing countries the same opportunities: that the poor shouldn't have to bear the cost of preservation when the rich created the problem.<sup id="cite_ref-costarica_24-0" class="reference"><a href="#cite_note-costarica-24">[24]</a></sup>
+</p><p>Some commentators have noted a shift in the drivers of deforestation over the past 30 years.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Whereas deforestation was primarily driven by subsistence activities and government-sponsored development projects like <a href="/wiki/Transmigration_program" title="Transmigration program">transmigration</a> in countries like <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> and <a href="/wiki/Colonization" title="Colonization">colonization</a> in <a href="/wiki/Latin_America" title="Latin America">Latin America</a>, <a href="/wiki/India" title="India">India</a>, <a href="/wiki/Java" title="Java">Java</a>, and so on, during late 19th century and the earlier half of the 20th century. By the 1990s the majority of deforestation was caused by industrial factors, including extractive industries, large-scale cattle ranching, and extensive agriculture.<sup id="cite_ref-rud_26-0" class="reference"><a href="#cite_note-rud-26">[26]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Environmental_problems">Environmental problems</span></h2>
+<h3><span class="mw-headline" id="Atmospheric">Atmospheric</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Manantenina_bushfire.jpg" title="File:Manantenina bushfire.jpg">File:Manantenina bushfire.jpg</a>  <div class="thumbcaption">Illegal slash and burn practice in <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>, 2010</div></div></div>
+<p>Deforestation is ongoing and is shaping <a href="/wiki/Climate" title="Climate">climate</a> and <a href="/w/index.php?title=Geography&amp;action=edit&amp;redlink=1" class="new" title="Geography (page does not exist)">geography</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-newsfromafrica.org_28-0" class="reference"><a href="#cite_note-newsfromafrica.org-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+</p><p>Deforestation is a contributor to <a href="/w/index.php?title=Global_warming&amp;action=edit&amp;redlink=1" class="new" title="Global warming (page does not exist)">global warming</a>,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-Fearnidel_33-0" class="reference"><a href="#cite_note-Fearnidel-33">[33]</a></sup> and is often cited as one of the major causes of the enhanced <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a>. Tropical deforestation is responsible for approximately 20% of world greenhouse gas emissions.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> According to the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> deforestation, mainly in tropical areas, could account for up to one-third of total <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">anthropogenic</a> <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> emissions.<sup id="cite_ref-IPCC_deforestation_35-0" class="reference"><a href="#cite_note-IPCC_deforestation-35">[35]</a></sup> But recent calculations suggest that carbon dioxide emissions from deforestation and forest degradation (excluding <a href="/w/index.php?title=Peatland&amp;action=edit&amp;redlink=1" class="new" title="Peatland (page does not exist)">peatland</a> emissions) contribute about 12% of total anthropogenic carbon dioxide emissions with a range from 6 to 17%.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> Deforestation causes carbon dioxide to linger in the atmosphere. As carbon dioxide accrues, it produces a layer in the atmosphere that traps radiation from the sun. The radiation converts to heat which causes global warming, which is better known as the greenhouse effect.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> Plants remove <a href="/wiki/Carbon" title="Carbon">carbon</a> in the form of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> from the <a href="/w/index.php?title=Earth%27s_atmosphere&amp;action=edit&amp;redlink=1" class="new" title="Earth's atmosphere (page does not exist)">atmosphere</a> during the process of <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>, but release some carbon dioxide back into the atmosphere during normal respiration. Only when actively growing can a tree or forest remove carbon, by storing it in plant tissues. Both the decay and burning of wood releases much of this stored carbon back to the atmosphere. In order for forests to take up carbon, there must be a net accumulation of wood. One way is for the wood to be harvested and turned into long-lived products, with new young trees replacing them.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> Deforestation may also cause carbon stores held in soil to be released. Forests can be either sinks or sources depending upon environmental circumstances. Mature forests alternate between being net sinks and net sources of carbon dioxide (see <a href="/w/index.php?title=Carbon_dioxide_sink&amp;action=edit&amp;redlink=1" class="new" title="Carbon dioxide sink (page does not exist)">carbon dioxide sink</a> and <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a>).
+</p><p>In deforested areas, the land heats up faster and reaches a higher temperature, leading to localized upward motions that enhance the formation of clouds and ultimately produce more rainfall.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> However, according to the Geophysical Fluid Dynamics Laboratory, the models used to investigate remote responses to tropical deforestation showed a broad but mild temperature increase all through the tropical atmosphere. The model predicted &lt;0.2°C warming for upper air at 700 mb and 500 mb. However, the model shows no significant changes in other areas besides the Tropics. Though the model showed no significant changes to the climate in areas other than the Tropics, this may not be the case since the model has possible errors and the results are never absolutely definite.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:SouthEast_Asia_fires_Oct_2006.jpg" title="File:SouthEast Asia fires Oct 2006.jpg">File:SouthEast Asia fires Oct 2006.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Deforestation_in_Borneo&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Borneo (page does not exist)">Fires on Borneo and Sumatra</a>, 2006. People use <a href="/wiki/Slash-and-burn" title="Slash-and-burn">slash-and-burn</a> deforestation to clear land for agriculture.</div></div></div>
+<p><a href="/w/index.php?title=Reducing_emissions_from_deforestation_and_forest_degradation&amp;action=edit&amp;redlink=1" class="new" title="Reducing emissions from deforestation and forest degradation (page does not exist)">Reducing emissions from deforestation and forest degradation (REDD)</a> in developing countries has emerged as a new potential to complement ongoing climate policies. The idea consists in providing financial compensations for the reduction of greenhouse gas (GHG) emissions from deforestation and forest degradation".<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup>
+</p><p>Rainforests are widely believed by laymen to contribute a significant amount of the world's oxygen,<sup id="cite_ref-timesonline.co.uk_42-0" class="reference"><a href="#cite_note-timesonline.co.uk-42">[42]</a></sup> although it is now accepted by scientists that rainforests contribute little net <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> to the <a href="/w/index.php?title=Earth%27s_atmosphere&amp;action=edit&amp;redlink=1" class="new" title="Earth's atmosphere (page does not exist)">atmosphere</a> and deforestation has only a minor effect on atmospheric oxygen levels.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> However, the incineration and burning of forest plants to clear land releases large amounts of CO<sub>2</sub>, which contributes to global warming.<sup id="cite_ref-Fearnidel_33-1" class="reference"><a href="#cite_note-Fearnidel-33">[33]</a></sup> Scientists also state that tropical deforestation releases 1.5 billion tons of carbon each year into the atmosphere.<sup id="cite_ref-ReferenceC_45-0" class="reference"><a href="#cite_note-ReferenceC-45">[45]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hydrological">Hydrological</span></h3>
+<p>The water cycle is also affected by deforestation. Trees extract groundwater through their roots and release it into the atmosphere. When part of a forest is removed, the trees no longer transpire this water, resulting in a much drier climate. Deforestation reduces the content of water in the soil and groundwater as well as atmospheric moisture. The dry soil leads to lower water intake for the trees to extract.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> Deforestation reduces soil cohesion, so that <a href="/wiki/Soil_erosion" title="Soil erosion" class="mw-redirect">erosion</a>, flooding and <a href="/wiki/Landslide" title="Landslide">landslides</a> ensue.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup>
+</p><p>Shrinking forest cover lessens the landscape's capacity to intercept, retain and <a href="/w/index.php?title=Transpiration&amp;action=edit&amp;redlink=1" class="new" title="Transpiration (page does not exist)">transpire</a> precipitation. Instead of trapping precipitation, which then percolates to groundwater systems, deforested areas become sources of surface water runoff, which moves much faster than subsurface flows. That quicker transport of surface water can translate into <a href="/wiki/Flash_flood" title="Flash flood">flash flooding</a> and more localized floods than would occur with the forest cover. Deforestation also contributes to decreased <a href="/wiki/Evapotranspiration" title="Evapotranspiration">evapotranspiration</a>, which lessens atmospheric moisture which in some cases affects precipitation levels downwind from the deforested area, as water is not recycled to downwind forests, but is lost in runoff and returns directly to the oceans. According to one study, in deforested north and northwest China, the average annual precipitation decreased by one third between the 1950s and the 1980s.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Trees, and plants in general, affect the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a> significantly:
+</p>
+<ul>
+<li>their canopies intercept a proportion of <a href="/w/index.php?title=Precipitation_(meteorology)&amp;action=edit&amp;redlink=1" class="new" title="Precipitation (meteorology) (page does not exist)">precipitation</a>, which is then evaporated back to the atmosphere (<a href="/w/index.php?title=Interception_(water)&amp;action=edit&amp;redlink=1" class="new" title="Interception (water) (page does not exist)">canopy interception</a>);
+</li>
+<li>their litter, stems and trunks slow down <a href="/w/index.php?title=Surface_runoff&amp;action=edit&amp;redlink=1" class="new" title="Surface runoff (page does not exist)">surface runoff</a>;
+</li>
+<li>their roots create <a href="/w/index.php?title=Macropore&amp;action=edit&amp;redlink=1" class="new" title="Macropore (page does not exist)">macropores</a> – large conduits – in the soil that increase <a href="/w/index.php?title=Infiltration_(hydrology)&amp;action=edit&amp;redlink=1" class="new" title="Infiltration (hydrology) (page does not exist)">infiltration</a> of water;
+</li>
+<li>they contribute to terrestrial evaporation and reduce <a href="/wiki/Water_content" title="Water content">soil moisture</a> via <a href="/w/index.php?title=Transpiration&amp;action=edit&amp;redlink=1" class="new" title="Transpiration (page does not exist)">transpiration</a>;
+</li>
+<li>their <a href="/w/index.php?title=Plant_litter&amp;action=edit&amp;redlink=1" class="new" title="Plant litter (page does not exist)">litter</a> and other organic residue change soil properties that affect the capacity of soil to store water.
+</li>
+<li>their leaves control the <a href="/wiki/Humidity" title="Humidity">humidity</a> of the atmosphere by <a href="/w/index.php?title=Transpiration&amp;action=edit&amp;redlink=1" class="new" title="Transpiration (page does not exist)">transpiring</a>. 99% of the water absorbed by the roots moves up to the leaves and is transpired.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup>
+</li>
+</ul>
+<p>As a result, the presence or absence of trees can change the quantity of water on the surface, in the soil or groundwater, or in the atmosphere. This in turn changes erosion rates and the availability of water for either ecosystem functions or human services.
+</p><p>The forest may have little impact on flooding in the case of large rainfall events, which overwhelm the storage capacity of forest soil if the soils are at or close to saturation.
+</p><p><a href="/wiki/Tropical_rainforest" title="Tropical rainforest">Tropical rainforests</a> produce about 30% of our planet's fresh water.<sup id="cite_ref-timesonline.co.uk_42-1" class="reference"><a href="#cite_note-timesonline.co.uk-42">[42]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Soil">Soil</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Hillside_deforestation_in_Rio_de_Janeiro.jpg" title="File:Hillside deforestation in Rio de Janeiro.jpg">File:Hillside deforestation in Rio de Janeiro.jpg</a>  <div class="thumbcaption">Deforestation for the use of <a href="/wiki/Clay" title="Clay">clay</a> in the <a href="/w/index.php?title=Deforestation_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Brazil (page does not exist)">Brazilian</a> city of <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>. The hill depicted is Morro da Covanca, in <a href="/w/index.php?title=Jacarepagu%C3%A1&amp;action=edit&amp;redlink=1" class="new" title="Jacarepaguá (page does not exist)">Jacarepaguá</a></div></div></div>
+<p>Undisturbed forests have a very low rate of <a href="/wiki/Soil" title="Soil">soil</a> loss, approximately 2 metric <a href="/wiki/Ton" title="Ton">tons</a> per square kilometer (6 short tons per square mile).{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Deforestation generally increases rates of soil <a href="/wiki/Erosion" title="Erosion">erosion</a>, by increasing the amount of <a href="/w/index.php?title=Surface_runoff&amp;action=edit&amp;redlink=1" class="new" title="Surface runoff (page does not exist)">runoff</a> and reducing the protection of the soil from tree litter. This can be an advantage in excessively leached tropical rain forest soils. Forestry operations themselves also increase erosion through the development of roads and the use of mechanized equipment.
+</p><p>China's <a href="/wiki/Loess_Plateau" title="Loess Plateau">Loess Plateau</a> was cleared of forest millennia ago. Since then it has been eroding, creating dramatic incised valleys, and providing the sediment that gives the Yellow River its yellow color and that causes the flooding of the river in the lower reaches (hence the river's nickname 'China's sorrow').
+</p><p>Removal of trees does not always increase erosion rates. In certain regions of southwest US, shrubs and trees have been encroaching on grassland. The trees themselves enhance the loss of grass between tree canopies. The bare intercanopy areas become highly erodible. The US Forest Service, in Bandelier National Monument for example, is studying how to restore the former ecosystem, and reduce erosion, by removing the trees.
+</p><p>Tree roots bind soil together, and if the soil is sufficiently shallow they act to keep the soil in place by also binding with underlying <a href="/wiki/Bedrock" title="Bedrock">bedrock</a>. Tree removal on steep slopes with shallow soil thus increases the risk of <a href="/wiki/Landslide" title="Landslide">landslides</a>, which can threaten people living nearby.
+</p>
+<h3><span class="mw-headline" id="Biodiversity">Biodiversity</span></h3>
+<p>Deforestation on a human scale results in decline in biodiversity,<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup> and on a natural global scale is known to cause the extinction of many species.<sup id="cite_ref-SahneyBentonFalconLang_2010RainforestCollapse_5-2" class="reference"><a href="#cite_note-SahneyBentonFalconLang_2010RainforestCollapse-5">[5]</a></sup> The removal or destruction of areas of forest cover has resulted in a degraded environment with reduced <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> Forests support biodiversity, providing habitat for <a href="/wiki/Wildlife" title="Wildlife">wildlife</a>;<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup> moreover, forests foster <a href="/wiki/Medicinal_plants" title="Medicinal plants">medicinal conservation</a>.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup> With forest biotopes being irreplaceable source of new drugs (such as <a href="/wiki/Paclitaxel" title="Paclitaxel">taxol</a>), deforestation can destroy <a href="/wiki/Genetics" title="Genetics">genetic</a> variations (such as crop resistance) irretrievably.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Illegal_export_of_rosewood_001.jpg" title="File:Illegal export of rosewood 001.jpg">File:Illegal export of rosewood 001.jpg</a>  <div class="thumbcaption"><a href="/w/index.php?title=Illegal_logging_in_Madagascar&amp;action=edit&amp;redlink=1" class="new" title="Illegal logging in Madagascar (page does not exist)">Illegal logging in Madagascar</a>. In 2009, the vast majority of the illegally obtained rosewood was exported to <a href="/wiki/China" title="China">China</a>.</div></div></div>
+<p>Since the tropical rainforests are the most diverse <a href="/wiki/Ecosystem" title="Ecosystem">ecosystems</a> on Earth<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> and about 80% of the world's known <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> could be found in tropical rainforests,<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup> removal or destruction of significant areas of forest cover has resulted in a <a href="/wiki/Soil_degradation" title="Soil degradation" class="mw-redirect">degraded</a><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup> environment with reduced biodiversity.<sup id="cite_ref-SahneyBentonFalconLang_2010RainforestCollapse_5-3" class="reference"><a href="#cite_note-SahneyBentonFalconLang_2010RainforestCollapse-5">[5]</a></sup><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup> A study in <a href="/wiki/Rond%C3%B4nia" title="Rondônia">Rondônia</a>, Brazil, has shown that deforestation also removes the microbial community which is involved in the recycling of nutrients, the production of clean water and the removal of pollutants.<sup id="cite_ref-ro_61-0" class="reference"><a href="#cite_note-ro-61">[61]</a></sup>
+</p><p>It has been estimated that we are losing 137 plant, animal and insect species every single day due to rainforest deforestation, which equates to 50,000 species a year.<sup id="cite_ref-rain-tree.com_62-0" class="reference"><a href="#cite_note-rain-tree.com-62">[62]</a></sup> Others state that tropical rainforest deforestation is contributing to the ongoing <a href="/w/index.php?title=Holocene_mass_extinction&amp;action=edit&amp;redlink=1" class="new" title="Holocene mass extinction (page does not exist)">Holocene mass extinction</a>.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup> The known extinction rates from deforestation rates are very low, approximately 1 species per year from mammals and birds which extrapolates to approximately 23,000 species per year for all species. Predictions have been made that more than 40% of the animal and <a href="/wiki/Flora" title="Flora">plant species</a> in <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> could be wiped out in the 21st century.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup> Such predictions were called into question by 1995 data that show that within regions of Southeast Asia much of the original forest has been converted to monospecific plantations, but that potentially endangered species are few and tree flora remains widespread and stable.<sup id="cite_ref-ReferenceB_66-0" class="reference"><a href="#cite_note-ReferenceB-66">[66]</a></sup>
+</p><p>Scientific understanding of the process of extinction is insufficient to accurately make predictions about the impact of deforestation on biodiversity.<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup> Most predictions of forestry related biodiversity loss are based on species-area models, with an underlying assumption that as the forest declines species diversity will decline similarly.<sup id="cite_ref-ReferenceA_68-0" class="reference"><a href="#cite_note-ReferenceA-68">[68]</a></sup> However, many such models have been proven to be wrong and loss of habitat does not necessarily lead to large scale loss of species.<sup id="cite_ref-ReferenceA_68-1" class="reference"><a href="#cite_note-ReferenceA-68">[68]</a></sup> Species-area models are known to overpredict the number of species known to be threatened in areas where actual deforestation is ongoing, and greatly overpredict the number of threatened species that are widespread.<sup id="cite_ref-ReferenceB_66-1" class="reference"><a href="#cite_note-ReferenceB-66">[66]</a></sup>
+</p><p>A recent study of the Brazilian Amazon predicts that despite a lack of extinctions thus far,  up to 90 percent of predicted extinctions will finally occur in the next 40 years.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Economic_impact">Economic impact</span></h2>
+<p>Damage to forests and other aspects of nature could halve <a href="/wiki/Living_standard" title="Living standard" class="mw-redirect">living standards</a> for the world's <a href="/wiki/Poverty" title="Poverty">poor</a> and reduce global <a href="/w/index.php?title=GDP&amp;action=edit&amp;redlink=1" class="new" title="GDP (page does not exist)">GDP</a> by about 7% by 2050, a report concluded at the <a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity</a> (CBD) meeting in Bonn.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup> Historically, utilization of forest products, including timber and fuel wood, has played a key role in human societies, comparable to the roles of water and cultivable land. Today, developed countries continue to utilize timber for building houses, and wood pulp for <a href="/w/index.php?title=Paper&amp;action=edit&amp;redlink=1" class="new" title="Paper (page does not exist)">paper</a>. In developing countries almost three billion people rely on wood for heating and cooking.<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup>
+</p><p>The forest products industry is a large part of the economy in both developed and developing countries. Short-term economic gains made by conversion of forest to agriculture, or <a href="/w/index.php?title=Over-exploitation&amp;action=edit&amp;redlink=1" class="new" title="Over-exploitation (page does not exist)">over-exploitation</a> of wood products, typically leads to loss of long-term income and long-term biological productivity. <a href="/wiki/West_Africa" title="West Africa">West Africa</a>, <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>, <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a> and many other regions have experienced lower revenue because of declining timber harvests. Illegal logging causes billions of dollars of losses to national economies annually.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup>
+</p><p>The new procedures to get amounts of wood are causing more harm to the economy and overpower the amount of money spent by people employed in logging.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup> According to a study, "in most areas studied, the various ventures that prompted deforestation rarely generated more than US$5 for every ton of carbon they released and frequently returned far less than US$1". The price on the European market for an offset tied to a one-ton reduction in carbon is 23 <a href="/wiki/Euro" title="Euro">euro</a> (about US$35).<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup>
+</p><p>Rapidly growing economies also have an effect on deforestation. Most pressure will come from the world's developing countries, which have the fastest-growing populations and most rapid economic (industrial) growth.<sup id="cite_ref-autogenerated1_75-0" class="reference"><a href="#cite_note-autogenerated1-75">[75]</a></sup> In 1995, economic growth in developing countries reached nearly 6%, compared with the 2% growth rate for developed countries.”<sup id="cite_ref-autogenerated1_75-1" class="reference"><a href="#cite_note-autogenerated1-75">[75]</a></sup> As our human population grows, new homes, communities, and expansions of cities will occur. Connecting all of the new expansions will be roads, a very important part in our daily life. Rural roads promote economic development but also facilitate deforestation.<sup id="cite_ref-autogenerated1_75-2" class="reference"><a href="#cite_note-autogenerated1-75">[75]</a></sup> About 90% of the deforestation has occurred within 100 km of roads in most parts of the Amazon.<sup id="cite_ref-autogenerated2_76-0" class="reference"><a href="#cite_note-autogenerated2-76">[76]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Forest_transition_theory">Forest transition theory</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Forest_transition_theory.jpg" title="File:Forest transition theory.jpg">File:Forest transition theory.jpg</a>  <div class="thumbcaption">The forest transition and historical baselines.<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[77]</a></sup></div></div></div>
+<p>The forest area change may follow a pattern suggested by the <a href="/w/index.php?title=Forest_transition&amp;action=edit&amp;redlink=1" class="new" title="Forest transition (page does not exist)">forest transition</a> (FT) theory,<sup id="cite_ref-MeyfroidtLambin2011_78-0" class="reference"><a href="#cite_note-MeyfroidtLambin2011-78">[78]</a></sup> whereby at early stages in its development a country is characterized by high forest cover and low deforestation rates (HFLD countries).<sup id="cite_ref-rud_26-1" class="reference"><a href="#cite_note-rud-26">[26]</a></sup>
+</p><p>Then deforestation rates accelerate (HFHD, high forest cover – high deforestation rate), and forest cover is reduced (LFHD, low forest cover – high deforestation rate), before the deforestation rate slows (LFLD, low forest cover – low deforestation rate), after which forest cover stabilizes and eventually starts recovering. FT is not a “law of nature,” and the pattern is influenced by national context (for example, human population density, stage of development, structure of the economy), global economic forces, and government policies. A country may reach very low levels of forest cover before it stabilizes, or it might through good policies be able to “bridge” the forest transition.
+</p><p>FT depicts a broad trend, and an extrapolation of historical rates therefore tends to underestimate future BAU deforestation for counties at the early stages in the transition (HFLD), while it tends to overestimate BAU deforestation for countries at the later stages (LFHD and LFLD).
+</p><p>Countries with high forest cover can be expected to be at early stages of the FT. GDP per capita captures the stage in a country’s economic development, which is linked to the pattern of natural resource use, including forests. The choice of forest cover and GDP per capita also fits well with the two key scenarios in the FT:
+</p><p>(i) a forest scarcity path, where forest scarcity triggers forces (for example, higher prices of forest products) that lead to forest cover stabilization; and
+</p><p>(ii) an economic development path, where new and better off-farm employment opportunities associated with economic growth (= increasing GDP per capita) reduce profitability of frontier agriculture and slows deforestation.<sup id="cite_ref-rud_26-2" class="reference"><a href="#cite_note-rud-26">[26]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Historical_causes">Historical causes</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<h3><span class="mw-headline" id="Prehistory">Prehistory</span></h3>
+<p>The <a href="/w/index.php?title=Carboniferous_Rainforest_Collapse&amp;action=edit&amp;redlink=1" class="new" title="Carboniferous Rainforest Collapse (page does not exist)">Carboniferous Rainforest Collapse</a><sup id="cite_ref-SahneyBentonFalconLang_2010RainforestCollapse_5-4" class="reference"><a href="#cite_note-SahneyBentonFalconLang_2010RainforestCollapse-5">[5]</a></sup> was an event that occurred 300 million years ago. Climate change devastated tropical rainforests causing the extinction of many plant and animal species. The change was abrupt, specifically, at this time climate became cooler and drier, conditions that are not favourable to the growth of rainforests and much of the biodiversity within them. Rainforests were fragmented forming shrinking 'islands' further and further apart. This sudden collapse affected several large groups, effects on amphibians were particularly devastating, while reptiles fared better, being ecologically adapted to the drier conditions that followed.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:N%C3%A9olithique_0001.jpg" title="File:Néolithique 0001.jpg">File:Néolithique 0001.jpg</a>  <div class="thumbcaption">An array of Neolithic artifacts, including bracelets, axe heads, chisels, and polishing tools.</div></div></div>
+<p>Rainforests once covered 14% of the earth's land surface; now they cover a mere 6% and experts estimate that the last remaining rainforests could be consumed in less than 40 years.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[79]</a></sup>
+Small scale deforestation was practiced by some societies for tens of thousands of years before the beginnings of civilization.<sup id="cite_ref-FutureEaters_80-0" class="reference"><a href="#cite_note-FutureEaters-80">[80]</a></sup> The first evidence of deforestation appears in the <a href="/wiki/Mesolithic_period" title="Mesolithic period" class="mw-redirect">Mesolithic period</a>.<sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[81]</a></sup> It was probably used to convert closed forests into more open ecosystems favourable to game animals.<sup id="cite_ref-FutureEaters_80-1" class="reference"><a href="#cite_note-FutureEaters-80">[80]</a></sup> With the advent of agriculture, larger areas began to be deforested, and fire became the prime tool to clear land for crops. In Europe there is little solid evidence before 7000 BC. Mesolithic <a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">foragers</a> used fire to create openings for <a href="/wiki/Red_deer" title="Red deer">red deer</a> and <a href="/wiki/Wild_boar" title="Wild boar">wild boar</a>. In Great Britain, shade-tolerant species such as <a href="/wiki/Oak" title="Oak">oak</a> and <a href="/w/index.php?title=Ash_tree&amp;action=edit&amp;redlink=1" class="new" title="Ash tree (page does not exist)">ash</a> are replaced in the <a href="/wiki/Palynology" title="Palynology">pollen record</a> by <a href="/wiki/Hazel" title="Hazel">hazels</a>, brambles, grasses and nettles. Removal of the forests led to decreased <a href="/w/index.php?title=Transpiration&amp;action=edit&amp;redlink=1" class="new" title="Transpiration (page does not exist)">transpiration</a>, resulting in the formation of upland <a href="/wiki/Peat_bog" title="Peat bog" class="mw-redirect">peat bogs</a>. Widespread decrease in <a href="/wiki/Elm" title="Elm">elm</a> <a href="/wiki/Pollen" title="Pollen">pollen</a> across Europe between 8400–8300 BC and 7200–7000 BC, starting in southern Europe and gradually moving north to Great Britain, may represent land clearing by fire at the onset of <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> agriculture.
+</p><p>The <a href="/w/index.php?title=Neolithic_period&amp;action=edit&amp;redlink=1" class="new" title="Neolithic period (page does not exist)">Neolithic period</a> saw extensive deforestation for <a href="/wiki/Agriculture" title="Agriculture">farming land</a>.<sup id="cite_ref-82" class="reference"><a href="#cite_note-82">[82]</a></sup><sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[83]</a></sup> Stone axes were being made from about 3000 BC not just from flint, but from a wide variety of hard rocks from across Britain and North America as well. They include the noted <a href="/wiki/Langdale_axe_industry" title="Langdale axe industry">Langdale axe industry</a> in the <a href="/wiki/English_Lake_District" title="English Lake District" class="mw-redirect">English Lake District</a>, quarries developed at <a href="/wiki/Penmaenmawr" title="Penmaenmawr">Penmaenmawr</a> in <a href="/wiki/North_Wales" title="North Wales">North Wales</a> and numerous other locations. Rough-outs were made locally near the quarries, and some were polished locally to give a fine finish. This step not only increased the <a href="/w/index.php?title=Mechanical_strength&amp;action=edit&amp;redlink=1" class="new" title="Mechanical strength (page does not exist)">mechanical strength</a> of the axe, but also made penetration of wood easier. <a href="/wiki/Flint" title="Flint">Flint</a> was still used from sources such as <a href="/wiki/Grimes_Graves" title="Grimes Graves">Grimes Graves</a> but from many other mines across Europe.
+</p><p>Evidence of deforestation has been found in <a href="/wiki/Minoan_civilization" title="Minoan civilization">Minoan</a> <a href="/wiki/Crete" title="Crete">Crete</a>; for example the environs of the <a href="/wiki/Palace_of_Knossos" title="Palace of Knossos" class="mw-redirect">Palace of Knossos</a> were severely deforested in the <a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a>.<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[84]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Pre-industrial_history">Pre-industrial history</span></h3>
+<p>Throughout most of history, humans were hunter gatherers who hunted within forests. In most areas, such as the <a href="/wiki/Amazon_rainforest" title="Amazon rainforest">Amazon</a>, the tropics, Central America, and the Caribbean,<sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[85]</a></sup> only after shortages of wood and other forest products occur are policies implemented to ensure forest resources are used in a sustainable manner.
+</p><p>In <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a>, Tjeered van Andel and co-writers<sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[86]</a></sup> summarized three regional studies of historic erosion and alluviation and found that, wherever adequate evidence exists, a major phase of erosion follows, by about 500-1,000 years the introduction of farming in the various regions of Greece, ranging from the later Neolithic to the Early Bronze Age. The thousand years following the mid-first millennium BC saw serious, intermittent pulses of soil erosion in numerous places. The historic <a href="/w/index.php?title=Silting&amp;action=edit&amp;redlink=1" class="new" title="Silting (page does not exist)">silting</a> of ports along the southern coasts of <a href="/w/index.php?title=Asia_Minor&amp;action=edit&amp;redlink=1" class="new" title="Asia Minor (page does not exist)">Asia Minor</a> (<i>e.g.</i> <a href="/wiki/Clarus" title="Clarus" class="mw-redirect">Clarus</a>, and the examples of <a href="/wiki/Ephesus" title="Ephesus">Ephesus</a>, <a href="/wiki/Priene" title="Priene">Priene</a> and <a href="/wiki/Miletus" title="Miletus">Miletus</a>, where harbors had to be abandoned because of the silt deposited by the Meander) and in coastal <a href="/w/index.php?title=Syria&amp;action=edit&amp;redlink=1" class="new" title="Syria (page does not exist)">Syria</a> during the last centuries BC.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Rano_Raraku_quarry.jpg" title="File:Rano Raraku quarry.jpg">File:Rano Raraku quarry.jpg</a>  <div class="thumbcaption">Easter Island</div></div></div>
+<p><a href="/wiki/Easter_Island" title="Easter Island">Easter Island</a> has suffered from heavy <a href="/wiki/Soil_erosion" title="Soil erosion" class="mw-redirect">soil erosion</a> in recent centuries, aggravated by agriculture and deforestation.<sup id="cite_ref-87" class="reference"><a href="#cite_note-87">[87]</a></sup> <a href="/wiki/Jared_Diamond" title="Jared Diamond">Jared Diamond</a> gives an extensive look into the collapse of the ancient Easter Islanders in his book <i><a href="/w/index.php?title=Collapse_(book)&amp;action=edit&amp;redlink=1" class="new" title="Collapse (book) (page does not exist)">Collapse</a></i>. The disappearance of the island's trees seems to coincide with a decline of its civilization around the 17th and 18th century. He attributed the collapse to deforestation and over-exploitation of all resources.<sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[88]</a></sup><sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[89]</a></sup>
+</p><p>The famous silting up of the harbor for <a href="/w/index.php?title=Bruges&amp;action=edit&amp;redlink=1" class="new" title="Bruges (page does not exist)">Bruges</a>, which moved port commerce to <a href="/w/index.php?title=Antwerp&amp;action=edit&amp;redlink=1" class="new" title="Antwerp (page does not exist)">Antwerp</a>, also followed a period of increased settlement growth (and apparently of deforestation) in the upper river basins. In early medieval <a href="/w/index.php?title=Riez&amp;action=edit&amp;redlink=1" class="new" title="Riez (page does not exist)">Riez</a> in upper <a href="/wiki/Provence" title="Provence">Provence</a>, alluvial silt from two small rivers raised the riverbeds and widened the floodplain, which slowly buried the Roman settlement in alluvium and gradually moved new construction to higher ground; concurrently the headwater valleys above Riez were being opened to pasturage.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>A typical <a href="/w/index.php?title=Progress_trap&amp;action=edit&amp;redlink=1" class="new" title="Progress trap (page does not exist)">progress trap</a> was that cities were often built in a forested area, which would provide wood for some industry (for example, construction, shipbuilding, pottery). When deforestation occurs without proper replanting, however; local wood supplies become difficult to obtain near enough to remain competitive, leading to the city's abandonment, as happened repeatedly in Ancient <a href="/w/index.php?title=Asia_Minor&amp;action=edit&amp;redlink=1" class="new" title="Asia Minor (page does not exist)">Asia Minor</a>. Because of fuel needs, mining and metallurgy often led to deforestation and city abandonment.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>With most of the population remaining active in (or indirectly dependent on) the agricultural sector, the main pressure in most areas remained land clearing for crop and cattle farming. Enough wild green was usually left standing (and partially used, for example, to collect firewood, timber and fruits, or to graze pigs) for wildlife to remain viable. The elite's (nobility and higher clergy) protection of their own hunting privileges and game often protected significant woodlands.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Major parts in the spread (and thus more durable growth) of the population were played by monastical 'pioneering' (especially by the <a href="/wiki/Benedictine" title="Benedictine" class="mw-redirect">Benedictine</a> and <a href="/wiki/Commerce" title="Commerce">Commercial</a> orders) and some <a href="/wiki/Feudal" title="Feudal" class="mw-redirect">feudal</a> lords' recruiting farmers to settle (and become tax payers) by offering relatively good legal and fiscal conditions. Even when speculators sought to encourage towns, settlers needed an agricultural belt around or sometimes within defensive walls. When populations were quickly decreased by causes such as the <a href="/wiki/Black_Death" title="Black Death">Black Death</a> or devastating warfare (for example, <a href="/w/index.php?title=Genghis_Khan&amp;action=edit&amp;redlink=1" class="new" title="Genghis Khan (page does not exist)">Genghis Khan</a>'s <a href="/wiki/Mongol" title="Mongol" class="mw-redirect">Mongol</a> hordes in eastern and central Europe, <a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a> in Germany), this could lead to settlements being abandoned. The land was reclaimed by nature, but the <a href="/wiki/Secondary_forest" title="Secondary forest">secondary forests</a> usually lacked the original <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Rugendas_-_Defrichement_d_une_Foret.jpg" title="File:Rugendas - Defrichement d une Foret.jpg">File:Rugendas - Defrichement d une Foret.jpg</a>  <div class="thumbcaption">Deforestation of Brazil's <a href="/wiki/Atlantic_Forest" title="Atlantic Forest">Atlantic Forest</a> c.1820-1825</div></div></div>
+<p>From 1100 to 1500 AD, significant deforestation took place in <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> as a result of the <a href="/w/index.php?title=Human_overpopulation&amp;action=edit&amp;redlink=1" class="new" title="Human overpopulation (page does not exist)">expanding human population</a>. The large-scale building of wooden sailing ships by European (coastal) naval owners since the 15th century for exploration, <a href="/wiki/Colonialism" title="Colonialism">colonisation</a>, <a href="/wiki/Slave_trade" title="Slave trade" class="mw-redirect">slave trade</a>–and other trade on the high seas consumed many forest resources. <a href="/wiki/Piracy" title="Piracy">Piracy</a> also contributed to the over harvesting of forests, as in Spain. This led to a weakening of the domestic economy after Columbus' discovery of America, as the economy became dependent on colonial activities (plundering, mining, cattle, plantations, trade, etc.){{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>In <i>Changes in the Land</i> (1983), <a href="/w/index.php?title=William_Cronon&amp;action=edit&amp;redlink=1" class="new" title="William Cronon (page does not exist)">William Cronon</a> analyzed and documented 17th-century English colonists' reports of increased seasonal flooding in <a href="/w/index.php?title=New_England&amp;action=edit&amp;redlink=1" class="new" title="New England (page does not exist)">New England</a> during the period when new settlers initially cleared the forests for agriculture. They believed flooding was linked to widespread forest clearing upstream.
+</p><p>The massive use of <a href="/w/index.php?title=Charcoal&amp;action=edit&amp;redlink=1" class="new" title="Charcoal (page does not exist)">charcoal</a> on an industrial scale in <a href="/wiki/Early_Modern_Europe" title="Early Modern Europe" class="mw-redirect">Early Modern Europe</a> was a new type of consumption of western forests; even in Stuart England, the relatively primitive production of charcoal has already reached an impressive level. Stuart England was so widely deforested that it depended on the <a href="/wiki/Baltic_region" title="Baltic region">Baltic</a> trade for ship timbers, and looked to the untapped forests of <a href="/w/index.php?title=New_England&amp;action=edit&amp;redlink=1" class="new" title="New England (page does not exist)">New England</a> to supply the need. Each of Nelson's <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> war ships at Trafalgar (1805) required 6,000 mature oaks for its construction. In France, <a href="/wiki/Jean-Baptiste_Colbert" title="Jean-Baptiste Colbert">Colbert</a> planted <a href="/wiki/Oak" title="Oak">oak</a> forests to supply the French navy in the future. When the oak plantations matured in the mid-19th century, the masts were no longer required because shipping had changed.
+</p><p><a href="/wiki/Norman_F._Cantor" title="Norman F. Cantor" class="mw-redirect">Norman F. Cantor</a>'s summary of the effects of late medieval deforestation applies equally well to Early Modern Europe:<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[90]</a></sup>
+</p>
+<blockquote class="templatequote">Europeans had lived in the midst of vast forests throughout the earlier medieval centuries. After 1250 they became so skilled at deforestation that by 1500 they were running short of wood for heating and cooking. They were faced with a nutritional decline because of the elimination of the generous supply of wild game that had inhabited the now-disappearing forests, which throughout medieval times had provided the staple of their carnivorous high-protein diet. By 1500 Europe was on the edge of a fuel and nutritional disaster [from] which it was saved in the sixteenth century only by the burning of soft coal and the cultivation of potatoes and maize.
+</blockquote>
+<h2><span class="mw-headline" id="Industrial_era">Industrial era</span></h2>
+<p>In the 19th century, introduction of <a href="/wiki/Steamboat" title="Steamboat">steamboats</a> in the United States was the cause of deforestation of banks of major rivers, such as the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>, with increased and more severe flooding one of the environmental results. The steamboat crews cut wood every day from the riverbanks to fuel the steam engines. Between <a href="/wiki/St._Louis" title="St. Louis">St. Louis</a> and the confluence with the <a href="/wiki/Ohio_River" title="Ohio River">Ohio River</a> to the south, the Mississippi became more wide and shallow, and changed its channel laterally. Attempts to improve navigation by the use of <a href="/w/index.php?title=Snagboat&amp;action=edit&amp;redlink=1" class="new" title="Snagboat (page does not exist)">snag pullers</a> often resulted in crews' clearing large trees 100 to <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> back from the banks. Several French colonial towns of the <a href="/wiki/Illinois_Country" title="Illinois Country">Illinois Country</a>, such as <a href="/wiki/Kaskaskia,_Illinois" title="Kaskaskia, Illinois">Kaskaskia</a>, <a href="/wiki/Cahokia,_Illinois" title="Cahokia, Illinois">Cahokia</a> and St. Philippe, <a href="/wiki/Illinois" title="Illinois">Illinois</a> were flooded and abandoned in the late 19th century, with a loss to the cultural record of their <a href="/wiki/Archeology" title="Archeology" class="mw-redirect">archeology</a>.<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[91]</a></sup>
+</p><p>The wholescale clearance of woodland to create agricultural land can be seen in many parts of the world, such as the <a href="/w/index.php?title=Central_forest-grasslands_transition&amp;action=edit&amp;redlink=1" class="new" title="Central forest-grasslands transition (page does not exist)">Central forest-grasslands transition</a> and other areas of the <a href="/wiki/Great_Plains" title="Great Plains">Great Plains</a> of the <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">United States</a>. Specific parallels are seen in the 20th-century deforestation occurring in many developing nations.
+</p>
+<h3><span class="mw-headline" id="Rates_of_deforestation">Rates of deforestation</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Fires_and_Deforestation_on_the_Amazon_Frontier,_Rondonia,_Brazil_-_August_12,_2007.jpg" title="File:Fires and Deforestation on the Amazon Frontier, Rondonia, Brazil - August 12, 2007.jpg">File:Fires and Deforestation on the Amazon Frontier, Rondonia, Brazil - August 12, 2007.jpg</a>  <div class="thumbcaption"><a href="/wiki/Slash-and-burn" title="Slash-and-burn">Slash-and-burn</a> farming in the state of Rondônia, western Brazil</div></div></div>
+<p>Global deforestation<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[92]</a></sup> sharply accelerated around 1852.<sup id="cite_ref-Wilson_93-0" class="reference"><a href="#cite_note-Wilson-93">[93]</a></sup><sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[94]</a></sup> It has been estimated that about half of the Earth's mature <a href="/wiki/Tropical_forest" title="Tropical forest" class="mw-redirect">tropical forests</a>—between 7.5 million and 8 million km<sup>2</sup> (2.9 million to 3 million sq mi) of the original 15 million to 16 million km<sup>2</sup> (5.8 million to 6.2 million sq mi) that until 1947 covered the planet<sup id="cite_ref-worldbook_95-0" class="reference"><a href="#cite_note-worldbook-95">[95]</a></sup>—have now been destroyed.<sup id="cite_ref-Rainforest_Facts_2-1" class="reference"><a href="#cite_note-Rainforest_Facts-2">[2]</a></sup><sup id="cite_ref-Nielsen_96-0" class="reference"><a href="#cite_note-Nielsen-96">[96]</a></sup> Some scientists have predicted that unless significant measures (such as seeking out and protecting old growth forests that have not been disturbed)<sup id="cite_ref-worldbook_95-1" class="reference"><a href="#cite_note-worldbook-95">[95]</a></sup> are taken on a worldwide basis, by 2030 there will only be 10% remaining,<sup id="cite_ref-Wilson_93-1" class="reference"><a href="#cite_note-Wilson-93">[93]</a></sup><sup id="cite_ref-Nielsen_96-1" class="reference"><a href="#cite_note-Nielsen-96">[96]</a></sup> with another 10% <a href="/w/index.php?title=Degraded_forest&amp;action=edit&amp;redlink=1" class="new" title="Degraded forest (page does not exist)">in a degraded condition</a>.<sup id="cite_ref-Wilson_93-2" class="reference"><a href="#cite_note-Wilson-93">[93]</a></sup> 80% will have been lost, and with them hundreds of thousands of irreplaceable species.<sup id="cite_ref-Wilson_93-3" class="reference"><a href="#cite_note-Wilson-93">[93]</a></sup>  Some cartographers have attempted to illustrate the sheer scale of deforestation by country using a <a href="/wiki/Cartogram" title="Cartogram">cartogram</a>.<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[97]</a></sup>
+</p><p>Estimates vary widely as to the extent of tropical deforestation.<sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[98]</a></sup><sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[99]</a></sup> Scientists estimate that one fifth of the world's tropical rainforest was destroyed between 1960 and 1990{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}. They claim that that rainforests 50 years ago covered 14%{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} of the world's land surface, now only cover 5–7%, and that all tropical forests will be gone by the middle of the 21st century.<sup id="cite_ref-envsci-encyc-104_100-0" class="reference"><a href="#cite_note-envsci-encyc-104-100">[100]</a></sup>
+</p><p>A 2002 analysis of satellite imagery suggested that the rate of deforestation in the humid tropics (approximately 5.8 million hectares per year) was roughly 23% lower than the most commonly quoted rates.<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[101]</a></sup> Conversely, a newer analysis of satellite images reveals that <a href="/w/index.php?title=Deforestation_of_the_Amazon_rainforest&amp;action=edit&amp;redlink=1" class="new" title="Deforestation of the Amazon rainforest (page does not exist)">deforestation of the Amazon rainforest</a> is twice as fast as scientists previously estimated.<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[102]</a></sup><sup id="cite_ref-103" class="reference"><a href="#cite_note-103">[103]</a></sup>
+</p><p>Some have argued that deforestation trends may follow a <a href="/wiki/Environmental_Kuznets_Curve" title="Environmental Kuznets Curve" class="mw-redirect">Kuznets curve</a>,<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">[104]</a></sup> which if true would nonetheless fail to eliminate the risk of irreversible loss of non-economic forest values (for example, the extinction of species).<sup id="cite_ref-105" class="reference"><a href="#cite_note-105">[105]</a></sup><sup id="cite_ref-106" class="reference"><a href="#cite_note-106">[106]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Haiti_deforestation.jpg" title="File:Haiti deforestation.jpg">File:Haiti deforestation.jpg</a>  <div class="thumbcaption">Satellite image of <a href="/wiki/Haiti" title="Haiti">Haiti</a>'s border with the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a> (right) shows the amount of <a href="/w/index.php?title=Deforestation_in_Haiti&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Haiti (page does not exist)">deforestation on the Haitian side</a></div></div></div>
+<p>A 2005 report by the United Nations <a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization</a> (FAO) estimates that although the Earth's total forest area continues to decrease at about 13 million hectares per year, the global rate of deforestation has recently been slowing.<sup id="cite_ref-pantropical_107-0" class="reference"><a href="#cite_note-pantropical-107">[107]</a></sup><sup id="cite_ref-108" class="reference"><a href="#cite_note-108">[108]</a></sup> Still others claim that rainforests are being destroyed at an ever-quickening pace.<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">[109]</a></sup> The London-based <a href="/w/index.php?title=Rainforest_Foundation&amp;action=edit&amp;redlink=1" class="new" title="Rainforest Foundation (page does not exist)">Rainforest Foundation</a> notes that "the UN figure is based on a definition of forest as being an area with as little as 10% actual tree cover, which would therefore include areas that are actually savannah-like ecosystems and badly damaged forests."<sup id="cite_ref-news.mongabay.com_110-0" class="reference"><a href="#cite_note-news.mongabay.com-110">[110]</a></sup> Other critics of the FAO data point out that they do not distinguish between forest types,<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">[111]</a></sup> and that they are based largely on reporting from forestry departments of individual countries,<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">[112]</a></sup> which do not take into account unofficial activities like illegal logging.<sup id="cite_ref-113" class="reference"><a href="#cite_note-113">[113]</a></sup>
+</p><p>Despite these uncertainties, there is agreement that destruction of rainforests remains a significant environmental problem. Up to 90% of <a href="/wiki/West_Africa" title="West Africa">West Africa</a>'s coastal rainforests have disappeared since 1900.<sup id="cite_ref-114" class="reference"><a href="#cite_note-114">[114]</a></sup>
+In <a href="/w/index.php?title=South_Asia&amp;action=edit&amp;redlink=1" class="new" title="South Asia (page does not exist)">South Asia</a>, about 88% of the rainforests have been lost.<sup id="cite_ref-115" class="reference"><a href="#cite_note-115">[115]</a></sup> Much of what remains of the world's rainforests is in the <a href="/wiki/Amazon_basin" title="Amazon basin" class="mw-redirect">Amazon basin</a>, where the <a href="/w/index.php?title=Amazon_Rainforest&amp;action=edit&amp;redlink=1" class="new" title="Amazon Rainforest (page does not exist)">Amazon Rainforest</a> covers approximately 4 million square kilometres.<sup id="cite_ref-116" class="reference"><a href="#cite_note-116">[116]</a></sup> The regions with the highest tropical deforestation rate between 2000 and 2005 were <a href="/wiki/Central_America" title="Central America">Central America</a>—which lost 1.3% of its forests each year—and tropical Asia.<sup id="cite_ref-news.mongabay.com_110-1" class="reference"><a href="#cite_note-news.mongabay.com-110">[110]</a></sup> In <a href="/wiki/Central_America" title="Central America">Central America</a>, two-thirds of lowland tropical forests have been turned into pasture since 1950 and 40% of all the rainforests have been lost in the last 40 years.<sup id="cite_ref-ru.org_117-0" class="reference"><a href="#cite_note-ru.org-117">[117]</a></sup> <a href="/wiki/Brazil" title="Brazil">Brazil</a> has lost 90–95% of its <a href="/w/index.php?title=Mata_Atl%C3%A2ntica&amp;action=edit&amp;redlink=1" class="new" title="Mata Atlântica (page does not exist)">Mata Atlântica</a> forest.,<sup id="cite_ref-118" class="reference"><a href="#cite_note-118">[118]</a></sup> 
+<a href="/wiki/Paraguay" title="Paraguay">Paraguay</a> was losing its natural semi humid forests in the country’s western regions at a rate of 15.000 hectares at a randomly studied 2-month period in 2010,<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">[119]</a></sup> Paraguay’s parliament refused in 2009 to pass a law that would have stopped cutting of natural forests altogether.<sup id="cite_ref-120" class="reference"><a href="#cite_note-120">[120]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Deforestation_around_Pakke_Tiger_Reserve,_India.JPG" title="File:Deforestation around Pakke Tiger Reserve, India.JPG">File:Deforestation around Pakke Tiger Reserve, India.JPG</a>  <div class="thumbcaption">Deforestation around Pakke Tiger Reserve, India</div></div></div>
+<p><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a> has lost 90% of its eastern rainforests.<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">[121]</a></sup><sup id="cite_ref-122" class="reference"><a href="#cite_note-122">[122]</a></sup> As of 2007, <a href="/w/index.php?title=Deforestation_in_Haiti&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Haiti (page does not exist)">less than 1% of Haiti's forests remained.</a><sup id="cite_ref-123" class="reference"><a href="#cite_note-123">[123]</a></sup> <a href="/w/index.php?title=Mexico&amp;action=edit&amp;redlink=1" class="new" title="Mexico (page does not exist)">Mexico</a>, India, the <a href="/wiki/Philippines" title="Philippines">Philippines</a>, <a href="/w/index.php?title=Deforestation_in_Indonesia&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Indonesia (page does not exist)">Indonesia</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a>, <a href="/wiki/Burma" title="Burma">Burma</a>, <a href="/w/index.php?title=Deforestation_in_Malaysia&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Malaysia (page does not exist)">Malaysia</a>, <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>, China, <a href="/w/index.php?title=Deforestation_in_Sri_Lanka&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Sri Lanka (page does not exist)">Sri Lanka</a>, <a href="/wiki/Laos" title="Laos">Laos</a>, <a href="/wiki/Nigeria" title="Nigeria">Nigeria</a>, the <a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a>, <a href="/wiki/Liberia" title="Liberia">Liberia</a>, <a href="/wiki/Guinea" title="Guinea">Guinea</a>, <a href="/wiki/Ghana" title="Ghana">Ghana</a> and the <a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a>, have lost large areas of their rainforest.<sup id="cite_ref-124" class="reference"><a href="#cite_note-124">[124]</a></sup><sup id="cite_ref-125" class="reference"><a href="#cite_note-125">[125]</a></sup> Several countries, notably <a href="/w/index.php?title=Deforestation_in_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Brazil (page does not exist)">Brazil</a>, have declared their deforestation a national emergency.<sup id="cite_ref-126" class="reference"><a href="#cite_note-126">[126]</a></sup><sup id="cite_ref-127" class="reference"><a href="#cite_note-127">[127]</a></sup> The <a href="/wiki/World_Wildlife_Fund" title="World Wildlife Fund" class="mw-redirect">World Wildlife Fund</a>'s <a href="/wiki/Ecoregion" title="Ecoregion">ecoregion</a> project catalogues habitat types throughout the world, including habitat loss such as deforestation, showing for example that even in the rich forests of parts of Canada such as the <a href="/w/index.php?title=Mid-Continental_Canadian_forests&amp;action=edit&amp;redlink=1" class="new" title="Mid-Continental Canadian forests (page does not exist)">Mid-Continental Canadian forests</a> of the prairie provinces half of the forest cover has been lost or altered.
+</p>
+<h4><span class="mw-headline" id="Regions">Regions</span></h4>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Rates of deforestation vary around the world.
+</p><p>In 2011 <a href="/w/index.php?title=Conservation_International&amp;action=edit&amp;redlink=1" class="new" title="Conservation International (page does not exist)">Conservation International</a> listed the top 10 most endangered forests, characterized by having all lost 90% or more of their original <a href="/wiki/Habitat" title="Habitat">habitat</a>, and each harboring at least 1500 <a href="/wiki/Endemism" title="Endemism">endemic</a> plant species (species found nowhere else in the world).<sup id="cite_ref-ci2011_128-0" class="reference"><a href="#cite_note-ci2011-128">[128]</a></sup>
+</p>
+<dl><dd><table class="wikitable sortable" border="0" style="background:#ffffff" align="top">
+<caption style="text-align:center; background:DarkGreen; color:white;"><big><b>Top 10 Most Endangered Forests 2011</big></b>
+</caption>
+<tr>
+<th style="background:LightGreen; color:Black">Endangered forest
+</th>
+<th style="background:LightGreen; color:Black">Region
+</th>
+<th style="background:LightGreen; color:Black">Remaining habitat
+</th>
+<th style="background:LightGreen; color:Black">Predominate vegetation type
+</th>
+<th style="background:LightGreen; color:Black">Notes
+</th></tr>
+<tr>
+<td> <a href="/w/index.php?title=Indo-Burma&amp;action=edit&amp;redlink=1" class="new" title="Indo-Burma (page does not exist)">Indo-Burma</a>
+</td>
+<td> Asia-Pacific
+</td>
+<td> 5%
+</td>
+<td> <a href="/wiki/Tropical_and_subtropical_moist_broadleaf_forests" title="Tropical and subtropical moist broadleaf forests">Tropical and subtropical moist broadleaf forests</a>
+</td>
+<td> Rivers, floodplain wetlands, mangrove forests. <a href="/wiki/Burma" title="Burma">Burma</a>, <a href="/wiki/Thailand" title="Thailand">Thailand</a>, <a href="/wiki/Laos" title="Laos">Laos</a>, <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>, <a href="/w/index.php?title=Deforestation_in_Cambodia&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Cambodia (page does not exist)">Cambodia</a>, <a href="/wiki/India" title="India">India</a>.<sup id="cite_ref-129" class="reference"><a href="#cite_note-129">[129]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a>
+</td>
+<td> Asia-Pacific
+</td>
+<td> 5%
+</td>
+<td> Tropical and subtropical moist broadleaf forests
+</td>
+<td> See note for region covered.<sup id="cite_ref-130" class="reference"><a href="#cite_note-130">[130]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Sundaland" title="Sundaland">Sundaland</a>
+</td>
+<td> Asia-Pacific
+</td>
+<td> 7%
+</td>
+<td> Tropical and subtropical moist broadleaf forests
+</td>
+<td> Western half of the Indo-Malayan archipelago including southern <a href="/w/index.php?title=Deforestation_in_Borneo&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Borneo (page does not exist)">Borneo</a> and <a href="/wiki/Sumatra" title="Sumatra">Sumatra</a>.<sup id="cite_ref-131" class="reference"><a href="#cite_note-131">[131]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Philippines" title="Philippines">Philippines</a>
+</td>
+<td> Asia-Pacific
+</td>
+<td> 7%
+</td>
+<td> Tropical and subtropical moist broadleaf forests
+</td>
+<td> Forests over the entire country including 7,100 islands.<sup id="cite_ref-132" class="reference"><a href="#cite_note-132">[132]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Atlantic_Forest" title="Atlantic Forest">Atlantic Forest</a>
+</td>
+<td> South America
+</td>
+<td> 8%
+</td>
+<td> Tropical and subtropical moist broadleaf forests
+</td>
+<td> Forests along <a href="/wiki/Brazil" title="Brazil">Brazil</a>'s Atlantic coast, extends to parts of <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>, <a href="/w/index.php?title=Argentina&amp;action=edit&amp;redlink=1" class="new" title="Argentina (page does not exist)">Argentina</a> and <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>.<sup id="cite_ref-133" class="reference"><a href="#cite_note-133">[133]</a></sup>
+</td></tr>
+<tr>
+<td> Mountains of Southwest China
+</td>
+<td> Asia-Pacific
+</td>
+<td> 8%
+</td>
+<td> <a href="/wiki/Temperate_coniferous_forest" title="Temperate coniferous forest">Temperate coniferous forest</a>
+</td>
+<td> See note for region covered.<sup id="cite_ref-134" class="reference"><a href="#cite_note-134">[134]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=California_Floristic_Province&amp;action=edit&amp;redlink=1" class="new" title="California Floristic Province (page does not exist)">California Floristic Province</a>
+</td>
+<td> North America
+</td>
+<td> 10%
+</td>
+<td> <a href="/wiki/Tropical_and_subtropical_dry_broadleaf_forests" title="Tropical and subtropical dry broadleaf forests">Tropical and subtropical dry broadleaf forests</a>
+</td>
+<td> See note for region covered.<sup id="cite_ref-135" class="reference"><a href="#cite_note-135">[135]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Coastal_Forests_of_Eastern_Africa&amp;action=edit&amp;redlink=1" class="new" title="Coastal Forests of Eastern Africa (page does not exist)">Coastal Forests of Eastern Africa</a>
+</td>
+<td> Africa
+</td>
+<td> 10%
+</td>
+<td> Tropical and subtropical moist broadleaf forests
+</td>
+<td> <a href="/wiki/Mozambique" title="Mozambique">Mozambique</a>, <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a>, <a href="/wiki/Somalia" title="Somalia">Somalia</a>.<sup id="cite_ref-136" class="reference"><a href="#cite_note-136">[136]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a> &amp; Indian Ocean Islands
+</td>
+<td> Africa
+</td>
+<td> 10%
+</td>
+<td> Tropical and subtropical moist broadleaf forests
+</td>
+<td> <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>, <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a>, <a href="/w/index.php?title=Reunion_(island)&amp;action=edit&amp;redlink=1" class="new" title="Reunion (island) (page does not exist)">Reunion</a>, <a href="/wiki/Seychelles" title="Seychelles">Seychelles</a>, <a href="/wiki/Comoros" title="Comoros">Comoros</a>.<sup id="cite_ref-137" class="reference"><a href="#cite_note-137">[137]</a></sup>
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Eastern_Afromontane&amp;action=edit&amp;redlink=1" class="new" title="Eastern Afromontane (page does not exist)">Eastern Afromontane</a>
+</td>
+<td> Africa
+</td>
+<td> 11%
+</td>
+<td> Tropical and subtropical moist broadleaf forests<br /><a href="/wiki/Montane_grasslands_and_shrublands" title="Montane grasslands and shrublands">Montane grasslands and shrublands</a>
+</td>
+<td> Forests scattered along the eastern edge of Africa, from <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a> in the north to <a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a> in the south.<sup id="cite_ref-138" class="reference"><a href="#cite_note-138">[138]</a></sup>
+</td></tr></table></dd></dl>
+<dl>
+<dd><dl>
+<dd>Table source:<sup id="cite_ref-ci2011_128-1" class="reference"><a href="#cite_note-ci2011-128">[128]</a></sup>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Control">Control</span></h2>
+<h3><span class="mw-headline" id="Reducing_emissions">Reducing emissions</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Main international organizations including the United Nations and the World Bank, have begun to develop programs aimed at curbing deforestation. The blanket term <a href="/w/index.php?title=Reducing_emissions_from_deforestation_and_forest_degradation&amp;action=edit&amp;redlink=1" class="new" title="Reducing emissions from deforestation and forest degradation (page does not exist)">Reducing Emissions from Deforestation and Forest Degradation</a> (REDD) describes these sorts of programs, which use direct monetary or other incentives to encourage developing countries to limit and/or roll back deforestation. Funding has been an issue, but at the <a href="/wiki/UN_Framework_Convention_on_Climate_Change" title="UN Framework Convention on Climate Change" class="mw-redirect">UN Framework Convention on Climate Change</a> (UNFCCC) Conference of the Parties-15 (COP-15) in Copenhagen in December 2009, an accord was reached with a collective commitment by developed countries for new and additional resources, including forestry and investments through international institutions, that will approach USD 30 billion for the period 2010–2012.<sup id="cite_ref-139" class="reference"><a href="#cite_note-139">[139]</a></sup> Significant work is underway on tools for use in monitoring developing country adherence to their agreed REDD targets. These tools, which rely on remote forest monitoring using satellite imagery and other data sources, include the <a href="/w/index.php?title=Center_for_Global_Development&amp;action=edit&amp;redlink=1" class="new" title="Center for Global Development (page does not exist)">Center for Global Development's</a> FORMA (Forest Monitoring for Action) initiative <sup id="cite_ref-140" class="reference"><a href="#cite_note-140">[140]</a></sup> and the <a href="/w/index.php?title=Group_on_Earth_Observations&amp;action=edit&amp;redlink=1" class="new" title="Group on Earth Observations (page does not exist)"> Group on Earth Observations'</a> Forest Carbon Tracking Portal.<sup id="cite_ref-141" class="reference"><a href="#cite_note-141">[141]</a></sup> Methodological guidance for forest monitoring was also emphasized at COP-15.<sup id="cite_ref-142" class="reference"><a href="#cite_note-142">[142]</a></sup> The environmental organization <a href="/w/index.php?title=Avoided_Deforestation_Partners&amp;action=edit&amp;redlink=1" class="new" title="Avoided Deforestation Partners (page does not exist)">Avoided Deforestation Partners</a> leads the campaign for development of REDD through funding from the U.S. government.<sup id="cite_ref-143" class="reference"><a href="#cite_note-143">[143]</a></sup>
+</p><p>In evaluating implications of overall emissions reductions, countries of greatest concern are those categorized as High Forest Cover with High Rates of Deforestation (HFHD) and Low Forest Cover with High Rates of Deforestation (LFHD). Afghanistan, Benin, Botswana, Burma, Burundi, Cameroon, Chad, Ecuador, El Salvador, Ethiopia, Ghana, Guatemala, Guinea, <a href="/w/index.php?title=Deforestation_in_Haiti&amp;action=edit&amp;redlink=1" class="new" title="Deforestation in Haiti (page does not exist)">Haiti</a>, Honduras, Indonesia, Liberia, Malawi, Mali, Mauritania, Mongolia, Namibia, Nepal, Nicaragua, Niger, Nigeria, Pakistan, Paraguay, Philippines, Senegal, Sierra Leone, Sri Lanka, Sudan, Togo, Uganda, United Republic of Tanzania, Zimbabwe are listed as having Low Forest Cover with High Rates of Deforestation (LFHD). Brazil, Cambodia, Democratic Peoples Republic of Korea, Equatorial Guinea, Malaysia, Solomon Islands, Timor-Leste, Venezuela, Zambia are listed as High Forest Cover with High Rates of Deforestation (HFHD).<sup id="cite_ref-144" class="reference"><a href="#cite_note-144">[144]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Payments_for_conserving_forests">Payments for conserving forests</span></h4>
+<p>In Bolivia, deforestation in upper river basins has caused environmental problems, including soil erosion and declining water quality. An innovative project to try and remedy this situation involves landholders in upstream areas being paid by downstream water users to conserve forests. The landholders receive US$20 to conserve the trees, avoid polluting livestock practices, and enhance the biodiversity and forest carbon on their land. They also receive US$30, which purchases a beehive, to compensate for conservation for two hectares of water-sustaining forest for five years. Honey revenue per hectare of forest is US$5 per year, so within five years, the landholder has sold US$50 of honey.<sup id="cite_ref-145" class="reference"><a href="#cite_note-145">[145]</a></sup> The project is being conducted by <a href="/w/index.php?title=Fundaci%C3%B3n_Natura_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Fundación Natura Bolivia (page does not exist)">Fundación Natura Bolivia</a> and Rare Conservation, with support from the <a href="/w/index.php?title=Climate_%26_Development_Knowledge_Network&amp;action=edit&amp;redlink=1" class="new" title="Climate &amp; Development Knowledge Network (page does not exist)">Climate &amp; Development Knowledge Network</a>.
+</p>
+<h3><span class="mw-headline" id="Farming">Farming</span></h3>
+<p>New methods are being developed to farm more intensively, such as high-yield <a href="/wiki/Hybrid_(biology)" title="Hybrid (biology)">hybrid</a> crops, <a href="/wiki/Greenhouse" title="Greenhouse">greenhouse</a>, <a href="/wiki/Autonomous_building" title="Autonomous building">autonomous building</a> gardens, and <a href="/wiki/Hydroponic" title="Hydroponic" class="mw-redirect">hydroponics</a>. These methods are often dependent on chemical inputs to maintain necessary yields. In cyclic <a href="/wiki/Agriculture" title="Agriculture">agriculture</a>, cattle are grazed on farm land that is resting and rejuvenating. Cyclic agriculture actually increases the fertility of the soil. Intensive farming can also decrease soil nutrients by consuming at an accelerated rate the trace minerals needed for crop growth.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}The most promising approach, however, is the concept of <a href="/wiki/Forest_gardening" title="Forest gardening">food forests</a> in <a href="/wiki/Permaculture" title="Permaculture">permaculture</a>, which consists of agroforestal systems carefully designed to mimic natural forests, with an emphasis on plant and animal species of interest for food, timber and other uses. These systems have low dependence on <a href="/wiki/Fossil_fuels" title="Fossil fuels" class="mw-redirect">fossil fuels</a> and <a href="/w/index.php?title=Agro-chemicals&amp;action=edit&amp;redlink=1" class="new" title="Agro-chemicals (page does not exist)">agro-chemicals</a>, are highly self-maintaining, highly productive, and with strong positive impact on soil and water quality, and <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a>.
+</p>
+<h3><span class="mw-headline" id="Monitoring_deforestation">Monitoring deforestation</span></h3>
+<p>There are multiple methods that are appropriate and reliable for reducing and monitoring deforestation. One method is the “visual interpretation of aerial photos or satellite imagery that is labor-intensive but does not require high-level training in computer image processing or extensive computational resources”.<sup id="cite_ref-autogenerated2_76-1" class="reference"><a href="#cite_note-autogenerated2-76">[76]</a></sup> Another method includes hot-spot analysis (that is, locations of rapid change) using expert opinion or coarse resolution satellite data to identify locations for detailed digital analysis with high resolution satellite images.<sup id="cite_ref-autogenerated2_76-2" class="reference"><a href="#cite_note-autogenerated2-76">[76]</a></sup> Deforestation is typically assessed by quantifying the amount of area deforested, measured at the present time.
+From an environmental point of view, quantifying the damage and its possible consequences is a more important task, while conservation efforts are more focused on forested land protection and development of land-use alternatives to avoid continued deforestation.<sup id="cite_ref-autogenerated2_76-3" class="reference"><a href="#cite_note-autogenerated2-76">[76]</a></sup> Deforestation rate and total area deforested, have been widely used for monitoring deforestation in many regions, including the Brazilian Amazon deforestation monitoring by INPE.<sup id="cite_ref-ReferenceC_45-1" class="reference"><a href="#cite_note-ReferenceC-45">[45]</a></sup> Monitoring deforestation is a very complicated process, which becomes even more complicated with the increasing needs for resources.
+</p>
+<h3><span class="mw-headline" id="Forest_management">Forest management</span></h3>
+<p>Efforts to stop or slow deforestation have been attempted for many centuries because it has long been known that deforestation can cause environmental damage sufficient in some cases to cause societies to collapse. In <a href="/wiki/Tonga" title="Tonga">Tonga</a>, paramount rulers developed policies designed to prevent conflicts between short-term gains from converting forest to farmland and long-term problems forest loss would cause,<sup id="cite_ref-146" class="reference"><a href="#cite_note-146">[146]</a></sup> while during the 17th and 18th centuries in <a href="/wiki/Tokugawa_shogunate" title="Tokugawa shogunate">Tokugawa</a>, Japan,<sup id="cite_ref-147" class="reference"><a href="#cite_note-147">[147]</a></sup> the shoguns developed a highly sophisticated system of long-term planning to stop and even reverse deforestation of the preceding centuries through substituting timber by other products and more efficient use of land that had been farmed for many centuries. In 16th-century Germany, landowners also developed <a href="/wiki/Silviculture" title="Silviculture">silviculture</a> to deal with the problem of deforestation. However, these policies tend to be limited to environments with <i>good rainfall</i>, <i>no dry season</i> and <i>very young <a href="/wiki/Soil" title="Soil">soils</a></i> (through <a href="/wiki/Volcano" title="Volcano">volcanism</a> or <a href="/wiki/Glaciation" title="Glaciation" class="mw-redirect">glaciation</a>). This is because on older and less fertile soils trees grow too slowly for silviculture to be economic, whilst in areas with a strong dry season there is always a risk of forest fires destroying a tree crop before it matures.
+</p><p>In the areas where "<a href="/wiki/Slash-and-burn" title="Slash-and-burn">slash-and-burn</a>" is practiced, switching to "<a href="/w/index.php?title=Slash-and-char&amp;action=edit&amp;redlink=1" class="new" title="Slash-and-char (page does not exist)">slash-and-char</a>" would prevent the rapid deforestation and subsequent degradation of soils. The <a href="/w/index.php?title=Biochar&amp;action=edit&amp;redlink=1" class="new" title="Biochar (page does not exist)">biochar</a> thus created, given back to the soil, is not only a durable <a href="/w/index.php?title=Carbon_sequestration&amp;action=edit&amp;redlink=1" class="new" title="Carbon sequestration (page does not exist)">carbon sequestration</a> method, but it also is an extremely beneficial <a href="/wiki/Soil_conditioner" title="Soil conditioner">amendment</a> to the soil. Mixed with <a href="/w/index.php?title=Biomass&amp;action=edit&amp;redlink=1" class="new" title="Biomass (page does not exist)">biomass</a> it brings the creation of <a href="/wiki/Terra_preta" title="Terra preta">terra preta</a>, one of the richest soils on the planet and the only one known to regenerate itself.
+</p>
+<h4><span class="mw-headline" id="Sustainable_practices">Sustainable practices</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Bamboo_Feb09.jpg" title="File:Bamboo Feb09.jpg">File:Bamboo Feb09.jpg</a>  <div class="thumbcaption">Bamboo is advocated as a more sustainable alternative for cutting down wood for fuel.<sup id="cite_ref-bamboo_148-0" class="reference"><a href="#cite_note-bamboo-148">[148]</a></sup></div></div></div>
+<p>Certification, as provided by global certification systems such as <a href="/w/index.php?title=Programme_for_the_Endorsement_of_Forest_Certification&amp;action=edit&amp;redlink=1" class="new" title="Programme for the Endorsement of Forest Certification (page does not exist)">Programme for the Endorsement of Forest Certification</a> and <a href="/wiki/Forest_Stewardship_Council" title="Forest Stewardship Council">Forest Stewardship Council</a>, contributes to tackling deforestation by creating market demand for timber from sustainably managed forests. According to the United Nations Food and Agriculture Organization (FAO), "A major condition for the adoption of sustainable forest management is a demand for products that are produced sustainably and consumer willingness to pay for the higher costs entailed. Certification represents a shift from regulatory approaches to market incentives to promote sustainable forest management. By promoting the positive attributes of forest products from sustainably managed forests, certification focuses on the demand side of environmental conservation."<sup id="cite_ref-149" class="reference"><a href="#cite_note-149">[149]</a></sup> <a href="/w/index.php?title=Rettet_den_Regenwald&amp;action=edit&amp;redlink=1" class="new" title="Rettet den Regenwald (page does not exist)">Rainforest Rescue</a> argues that the standards of organizations like FSC are too closely connected to industry interests and therefore do not guarantee environmentally and socially responsible forest management. In reality, monitoring systems are inadequate and various cases of fraud have been documented worldwide.<sup id="cite_ref-150" class="reference"><a href="#cite_note-150">[150]</a></sup>
+</p><p>Some nations have taken steps to help increase the amount of trees on Earth. In 1981, China created National Tree Planting Day Forest and forest coverage had now reached 16.55% of China's land mass, as against only 12% two decades ago <sup id="cite_ref-151" class="reference"><a href="#cite_note-151">[151]</a></sup>
+</p><p>Using fuel from <a href="/wiki/Bamboo" title="Bamboo">bamboo</a> rather than wood results in cleaner burning, and since bamboo matures much faster than wood, deforestation is reduced as supply can be replenished faster.<sup id="cite_ref-bamboo_148-1" class="reference"><a href="#cite_note-bamboo-148">[148]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Reforestation">Reforestation</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+In many parts of the world, especially in East Asian countries, reforestation and <a href="/wiki/Afforestation" title="Afforestation">afforestation</a> are increasing the area of forested lands.<sup id="cite_ref-152" class="reference"><a href="#cite_note-152">[152]</a></sup> The amount of woodland has increased in 22 of the world's 50 most forested nations. Asia as a whole gained 1 million <a href="/w/index.php?title=Hectare&amp;action=edit&amp;redlink=1" class="new" title="Hectare (page does not exist)">hectares</a> of forest between 2000 and 2005. Tropical forest in El Salvador expanded more than 20% between 1992 and 2001. Based on these trends, one study projects that global forest will increase by 10%—an area the size of India—by 2050.<sup id="cite_ref-news.nationalgeographic.com_153-0" class="reference"><a href="#cite_note-news.nationalgeographic.com-153">[153]</a></sup>
+</p><p>In the <a href="/w/index.php?title=People%27s_Republic_of_China&amp;action=edit&amp;redlink=1" class="new" title="People's Republic of China (page does not exist)">People's Republic of China</a>, where large scale destruction of forests has occurred, the government has in the past required that every able-bodied citizen between the ages of 11 and 60 plant three to five trees per year or do the equivalent amount of work in other forest services. The government claims that at least 1 <a href="/w/index.php?title=1000000000_(number)&amp;action=edit&amp;redlink=1" class="new" title="1000000000 (number) (page does not exist)">billion</a> trees have been planted in China every year since 1982. This is no longer required today, but March 12 of every year in China is the Planting Holiday. Also, it has introduced the <a href="/w/index.php?title=Green_Wall_of_China&amp;action=edit&amp;redlink=1" class="new" title="Green Wall of China (page does not exist)">Green Wall of China</a> project, which aims to halt the expansion of the Gobi desert through the planting of trees. However, due to the large percentage of trees dying off after planting (up to 75%), the project is not very successful.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} There has been a 47-million-hectare increase in forest area in China since the 1970s.<sup id="cite_ref-news.nationalgeographic.com_153-1" class="reference"><a href="#cite_note-news.nationalgeographic.com-153">[153]</a></sup> The total number of trees amounted to be about 35 billion and 4.55% of China's land mass increased in forest coverage. The forest coverage was 12% two decades ago and now is 16.55%.<sup id="cite_ref-154" class="reference"><a href="#cite_note-154">[154]</a></sup>
+</p><p>An ambitious proposal for China is the Aerially Delivered Re-forestation and Erosion Control System and the proposed Sahara Forest Project coupled with the <a href="/w/index.php?title=Seawater_Greenhouse&amp;action=edit&amp;redlink=1" class="new" title="Seawater Greenhouse (page does not exist)">Seawater Greenhouse</a>.
+</p><p>In Western countries, increasing consumer demand for wood products that have been produced and harvested in a sustainable manner is causing forest landowners and forest industries to become increasingly accountable for their forest management and timber harvesting practices.
+</p><p>The <a href="/wiki/Arbor_Day_Foundation" title="Arbor Day Foundation">Arbor Day Foundation</a>'s Rain Forest Rescue program is a charity that helps to prevent deforestation. The charity uses donated money to buy up and preserve rainforest land before the <a href="/wiki/Lumber" title="Lumber">lumber</a> companies can buy it. The Arbor Day Foundation then protects the land from deforestation. This also locks in the way of life of the primitive tribes living on the forest land. Organizations such as <a href="/w/index.php?title=Community_Forestry_International&amp;action=edit&amp;redlink=1" class="new" title="Community Forestry International (page does not exist)">Community Forestry International</a>, <a href="/w/index.php?title=Cool_Earth&amp;action=edit&amp;redlink=1" class="new" title="Cool Earth (page does not exist)">Cool Earth</a>, <a href="/wiki/The_Nature_Conservancy" title="The Nature Conservancy">The Nature Conservancy</a>, <a href="/w/index.php?title=World_Wide_Fund_for_Nature&amp;action=edit&amp;redlink=1" class="new" title="World Wide Fund for Nature (page does not exist)">World Wide Fund for Nature</a>, <a href="/w/index.php?title=Conservation_International&amp;action=edit&amp;redlink=1" class="new" title="Conservation International (page does not exist)">Conservation International</a>, <a href="/w/index.php?title=African_Conservation_Foundation&amp;action=edit&amp;redlink=1" class="new" title="African Conservation Foundation (page does not exist)">African Conservation Foundation</a> and <a href="/wiki/Greenpeace" title="Greenpeace">Greenpeace</a> also focus on preserving forest habitats. Greenpeace in particular has also mapped out the forests that are still intact<sup id="cite_ref-155" class="reference"><a href="#cite_note-155">[155]</a></sup> and published this information on the internet.<sup id="cite_ref-156" class="reference"><a href="#cite_note-156">[156]</a></sup> World Resources Institute in turn has made a simpler thematic map<sup id="cite_ref-157" class="reference"><a href="#cite_note-157">[157]</a></sup> showing the amount of forests present just before the age of man (8000 years ago) and the current (reduced) levels of forest.<sup id="cite_ref-158" class="reference"><a href="#cite_note-158">[158]</a></sup> These maps mark the amount of afforestation required to repair the damage caused by people.
+</p>
+<h3><span class="mw-headline" id="Forest_plantations">Forest plantations</span></h3>
+<p>To meet the world's demand for wood, it has been suggested by forestry writers Botkins and <a href="/w/index.php?title=Sedjo&amp;action=edit&amp;redlink=1" class="new" title="Sedjo (page does not exist)">Sedjo</a> that high-yielding forest <a href="/wiki/Plantations" title="Plantations" class="mw-redirect">plantations</a> are suitable. It has been calculated that plantations yielding 10 cubic meters per hectare annually could supply all the timber required for international trade on 5% of the world's existing forestland. By contrast, natural forests produce about 1–2 cubic meters per hectare; therefore, 5–10 times more forestland would be required to meet demand. Forester Chad Oliver has suggested a forest mosaic with high-yield forest lands interpersed with conservation land.<sup id="cite_ref-159" class="reference"><a href="#cite_note-159">[159]</a></sup>
+</p><p>In the country of Senegal, on the western coast of Africa, a movement headed by youths has helped to plant over 6 million mangrove trees. The trees will protect local villages from storm damages and will provide a habitat for local wildlife. The project started in 2008, and already the Senegalese government has been asked to establish rules and regulations that would protect the new mangrove forests.<sup id="cite_ref-160" class="reference"><a href="#cite_note-160">[160]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Military_context">Military context</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Attack_on_bloody_ridge.jpg" title="File:Attack on bloody ridge.jpg">File:Attack on bloody ridge.jpg</a>  <div class="thumbcaption">American <a href="/wiki/M4_Sherman" title="M4 Sherman">Sherman tanks</a> knocked out by Japanese artillery on Okinawa.</div></div></div>While the preponderance of deforestation is due to demands for agricultural and urban use for the human population, there are some examples of military causes. One example of deliberate deforestation is that which took place in the U.S. <a href="/w/index.php?title=Allied_Occupation_Zones_in_Germany&amp;action=edit&amp;redlink=1" class="new" title="Allied Occupation Zones in Germany (page does not exist)">zone of occupation</a> in Germany after World War II. Before the onset of the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>, defeated Germany was still considered a potential future threat rather than potential future ally. To address this threat, attempts were made to <a href="/w/index.php?title=Industrial_plans_for_Germany&amp;action=edit&amp;redlink=1" class="new" title="Industrial plans for Germany (page does not exist)">lower German industrial potential</a>, of which forests were deemed an element. Sources in the U.S. government admitted that the purpose of this was that the "ultimate destruction of the war potential of German forests." As a consequence of the practice of clear-felling, deforestation resulted which could "be replaced only by long forestry development over perhaps a century."<sup id="cite_ref-161" class="reference"><a href="#cite_note-161">[161]</a></sup>
+<p><a href="/wiki/War" title="War">War</a> can also be a cause of deforestation, either deliberately such as through the use of <a href="/wiki/Agent_Orange" title="Agent Orange">Agent Orange</a><sup id="cite_ref-162" class="reference"><a href="#cite_note-162">[162]</a></sup> during the <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a> where, together with bombs and bulldozers, it contributed to the destruction of 44% of the forest cover,<sup id="cite_ref-163" class="reference"><a href="#cite_note-163">[163]</a></sup> or inadvertently such as in the 1945 <a href="/wiki/Battle_of_Okinawa" title="Battle of Okinawa">Battle of Okinawa</a> where bombardment and other combat operations reduced the lush tropical landscape into "a vast field of mud, lead, decay and maggots".<sup id="cite_ref-164" class="reference"><a href="#cite_note-164">[164]</a></sup>
+<a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p>{{#invoke:Portal|portal}}
+<a href="/w/index.php?title=Template:Colbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Colbegin (page does not exist)">Template:Colbegin</a>
+</p>
+<ul>
+<li><a href="/w/index.php?title=Assarting&amp;action=edit&amp;redlink=1" class="new" title="Assarting (page does not exist)">Assarting</a>
+</li>
+<li><a href="/w/index.php?title=Biochar&amp;action=edit&amp;redlink=1" class="new" title="Biochar (page does not exist)">Biochar</a>
+</li>
+<li><a href="/w/index.php?title=Flexible_Mechanisms&amp;action=edit&amp;redlink=1" class="new" title="Flexible Mechanisms (page does not exist)">CDM &amp; JI A/R projects</a>
+</li>
+<li><a href="/w/index.php?title=Deforestation_by_region&amp;action=edit&amp;redlink=1" class="new" title="Deforestation by region (page does not exist)">Deforestation by region</a>
+</li>
+<li><a href="/w/index.php?title=Deforestation_during_the_Roman_period&amp;action=edit&amp;redlink=1" class="new" title="Deforestation during the Roman period (page does not exist)">Deforestation during the Roman period</a>
+</li>
+<li><a href="/wiki/Desertification" title="Desertification">Desertification</a>
+</li>
+<li><a href="/wiki/Ecoforestry" title="Ecoforestry">Ecoforestry</a>
+</li>
+<li><a href="/w/index.php?title=Economic_impact_analysis&amp;action=edit&amp;redlink=1" class="new" title="Economic impact analysis (page does not exist)">Economic impact analysis</a>
+</li>
+<li><a href="/w/index.php?title=Environmental_philosophy&amp;action=edit&amp;redlink=1" class="new" title="Environmental philosophy (page does not exist)">Environmental philosophy</a>
+</li>
+<li><a href="/w/index.php?title=Environmental_issues_with_paper&amp;action=edit&amp;redlink=1" class="new" title="Environmental issues with paper (page does not exist)">Environmental issues with paper</a>
+</li>
+<li><a href="/wiki/Extinction" title="Extinction">Extinction</a>
+</li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a>
+</li>
+<li><a href="/wiki/Illegal_logging" title="Illegal logging">Illegal logging</a>
+</li>
+<li><a href="/w/index.php?title=Land_use,_land-use_change_and_forestry&amp;action=edit&amp;redlink=1" class="new" title="Land use, land-use change and forestry (page does not exist)">Land use, land-use change and forestry</a>
+</li>
+<li><a href="/w/index.php?title=Moisture_recycling&amp;action=edit&amp;redlink=1" class="new" title="Moisture recycling (page does not exist)">Moisture recycling</a>
+</li>
+<li><a href="/w/index.php?title=Mountaintop_removal&amp;action=edit&amp;redlink=1" class="new" title="Mountaintop removal (page does not exist)">Mountaintop removal</a>
+</li>
+<li><a href="/w/index.php?title=Natural_landscape&amp;action=edit&amp;redlink=1" class="new" title="Natural landscape (page does not exist)">Natural landscape</a>
+</li>
+<li><a href="/wiki/Neolithic" title="Neolithic">Neolithic</a>
+</li>
+<li><a href="/w/index.php?title=Human_overpopulation&amp;action=edit&amp;redlink=1" class="new" title="Human overpopulation (page does not exist)">Overpopulation</a>
+</li>
+<li><a href="/wiki/Rainforest" title="Rainforest">Rainforest</a>
+</li>
+<li><a href="/w/index.php?title=Richard_St._Barbe_Baker&amp;action=edit&amp;redlink=1" class="new" title="Richard St. Barbe Baker (page does not exist)">Richard St. Barbe Baker</a>
+</li>
+<li><a href="/w/index.php?title=Satoyama&amp;action=edit&amp;redlink=1" class="new" title="Satoyama (page does not exist)">Satoyama</a>
+</li>
+<li><a href="/wiki/Slash-and-burn" title="Slash-and-burn">Slash-and-burn</a>
+</li>
+<li><a href="/w/index.php?title=Slash-and-char&amp;action=edit&amp;redlink=1" class="new" title="Slash-and-char (page does not exist)">Slash-and-char</a>
+</li>
+<li><a href="/wiki/Terra_preta" title="Terra preta">Terra preta</a>
+</li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a>
+</li>
+<li><a href="/w/index.php?title=Intact_forest_landscape&amp;action=edit&amp;redlink=1" class="new" title="Intact forest landscape (page does not exist)">Intact forest landscape</a>
+</li>
+<li><a href="/w/index.php?title=World_Forestry_Congress&amp;action=edit&amp;redlink=1" class="new" title="World Forestry Congress (page does not exist)">World Forestry Congress</a>
+</li>
+<li><a href="/w/index.php?title=International_Year_of_Forests&amp;action=edit&amp;redlink=1" class="new" title="International Year of Forests (page does not exist)">International Year of Forests</a>
+</li>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Colend&amp;action=edit&amp;redlink=1" class="new" title="Template:Colend (page does not exist)">Template:Colend</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<dl>
+<dt>Notes
+</dt>
+</dl>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<dl>
+<dt>General references
+</dt>
+</dl>
+<p><a href="/w/index.php?title=Template:Refbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Refbegin (page does not exist)">Template:Refbegin</a>
+</p>
+<ul>
+<li>BBC 2005 TV series on the history of geological factors shaping human history (name?)
+</li>
+<li><i>A Natural History of Europe</i> – 2005 co-production including BBC and ZDF
+</li>
+<li>Whitney, Gordon G. (1996). <i>From Coastal Wilderness to Fruited Plain&#160;: A History of Environmental Change in Temperate North America from 1500 to the Present</i>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. <a href="/wiki/Special:BookSources/052157658X" class="internal mw-magiclink-isbn">ISBN 0-521-57658-X</a>
+</li>
+<li>Williams, Michael. (2003). <i>Deforesting the Earth</i>. University of Chicago Press, Chicago. <a href="/wiki/Special:BookSources/0226899268" class="internal mw-magiclink-isbn">ISBN 0-226-89926-8</a>
+</li>
+<li>Wunder, Sven. (2000). <i>The Economics of Deforestation: The Example of Ecuador</i>. <a href="/wiki/Macmillan_Publishers" title="Macmillan Publishers">Macmillan Press</a>, London. <a href="/wiki/Special:BookSources/0333731468" class="internal mw-magiclink-isbn">ISBN 0-333-73146-8</a>
+</li>
+<li>FAO&amp;CIFOR report: <a rel="nofollow" class="external text" href="http://www.fao.org/docrep/008/ae929e/ae929e00.htm">Forests and Floods: Drowning in Fiction or Thriving on Facts?</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<dl>
+<dt>Ethiopia deforestation references
+</dt>
+</dl>
+<p><a href="/w/index.php?title=Template:Refbegin&amp;action=edit&amp;redlink=1" class="new" title="Template:Refbegin (page does not exist)">Template:Refbegin</a>
+</p>
+<ul>
+<li>Parry, J. (2003). Tree choppers become tree planters. Appropriate Technology, 30(4), 38–39. Retrieved November 22, 2006, from ABI/INFORM Global database. (Document ID: 538367341).
+</li>
+<li>Hillstrom, K &amp; Hillstrom, C. (2003). Africa and the Middle east. A continental Overview of Environmental Issues. Santabarbara, CA: ABC CLIO.
+</li>
+<li>Williams, M. (2006). Deforesting the earth: From prehistory to global crisis: An Abridgment. Chicago: The university of Chicago Press.
+</li>
+<li>Mccann. J.C. (1990). A Great Agrarian cycle? Productivity in Highland Ethiopia, 1900 To 1987. Journal of Interdisciplinary History, xx: 3,389–416. Retrieved November 18, 2006, from JSTOR database.
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Refend&amp;action=edit&amp;redlink=1" class="new" title="Template:Refend (page does not exist)">Template:Refend</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://earthenginepartners.appspot.com/science-2013-global-forest">Global map of deforestation based on Landsat data</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.intactforests.org/world.map.html">Old-growth forest zones within the remaining world forests</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.eia-international.org/campaigns/forests/">EIA forest reports</a>: Investigations into illegal logging.
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.eia-global.org/forests_for_the_world/">EIA in the USA</a> Reports and info.
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/world/2008/nov/19/cocaine-rainforests-columbia-santos-calderon">Cocaine destroys 4&#160;m2 of rainforest per gram</a> The Guardian
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.worldwatch.org/node/6034">"Avoided Deforestation" Plan Gains Support – Worldwatch Institute</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://uk.oneworld.net/guides/forests">OneWorld Tropical Forests Guide</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.forestindustries.eu/redd">Some Background Info to Deforestation and REDD+</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.effects-of-deforestation.com">General info on deforestation effects</a>
+</li>
+</ul>
+<dl>
+<dt>In the media
+</dt>
+</dl>
+<ul>
+<li>March 14, 2007, <i><a href="/wiki/The_Independent" title="The Independent">Independent Online</a></i>: <a rel="nofollow" class="external text" href="http://news.independent.co.uk/environment/article2355962.ece">Destruction of forests in developing world 'out of control'</a>
+</li>
+<li><a href="/w/index.php?title=Template:Cite_web&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite web (page does not exist)">Template:Cite web</a>
+</li>
+</ul>
+<dl>
+<dt>Films online
+</dt>
+</dl>
+<ul>
+<li>Watch the <a href="/wiki/National_Film_Board_of_Canada" title="National Film Board of Canada">National Film Board of Canada</a> documentaries <a rel="nofollow" class="external text" href="http://www.nfb.ca/film/battle_for_the_trees/"><i>Battle for the Trees</i></a> &amp; <a rel="nofollow" class="external text" href="http://www.nfb.ca/film/forest_in_crisis/"><i>Forest in Crisis</i></a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://indigenouspeoplesissues.com/index.php?option=com_content&amp;view=article&amp;id=4668:video-on-deforestation-in-paraguay-as-a-result-of-agricultural-development-impact-to-indigenous-people-and-wildlife&amp;catid=68:videos-and-movies&amp;Itemid=96">Video on Illegal Deforestation In Paraguay</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Deforestation_and_desertification&amp;action=edit&amp;redlink=1" class="new" title="Template:Deforestation and desertification (page does not exist)">Template:Deforestation and desertification</a>
+<a href="/w/index.php?title=Template:Deforestation&amp;action=edit&amp;redlink=1" class="new" title="Template:Deforestation (page does not exist)">Template:Deforestation</a>
+<a href="/w/index.php?title=Template:Human_impact_on_the_environment&amp;action=edit&amp;redlink=1" class="new" title="Template:Human impact on the environment (page does not exist)">Template:Human impact on the environment</a><a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 1.324 seconds
+Real time usage: 1.357 seconds
+Preprocessor visited node count: 3493/1000000
+Preprocessor generated node count: 16755/1000000
+Post‐expand include size: 2629/2097152 bytes
+Template argument size: 656/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:4988-0!*!0!!en!2!* and timestamp 20170407172705
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Deforestation&amp;oldid=4988">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Deforestation&amp;oldid=4988</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Deforestation&amp;action=edit&amp;redlink=1" class="new" title="Category:Deforestation (page does not exist)">Deforestation</a></li><li><a href="/wiki/Category:Climate_forcing_agents" title="Category:Climate forcing agents">Climate forcing agents</a></li><li><a href="/w/index.php?title=Category:World_forestry&amp;action=edit&amp;redlink=1" class="new" title="Category:World forestry (page does not exist)">World forestry</a></li><li><a href="/w/index.php?title=Category:Environmental_issues&amp;action=edit&amp;redlink=1" class="new" title="Category:Environmental issues (page does not exist)">Environmental issues</a></li><li><a href="/w/index.php?title=Category:Aftermath_of_war&amp;action=edit&amp;redlink=1" class="new" title="Category:Aftermath of war (page does not exist)">Aftermath of war</a></li><li><a href="/w/index.php?title=Category:History_of_forestry&amp;action=edit&amp;redlink=1" class="new" title="Category:History of forestry (page does not exist)">History of forestry</a></li><li><a href="/w/index.php?title=Category:Forest_pathology&amp;action=edit&amp;redlink=1" class="new" title="Category:Forest pathology (page does not exist)">Forest pathology</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Deforestation" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Deforestation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Deforestation&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Deforestation" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Deforestation&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Deforestation&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Deforestation" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Deforestation" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Deforestation&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Deforestation&amp;oldid=4988" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Deforestation&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 January 2014, at 13:32.</li>
+											<li id="footer-info-viewcount">This page has been accessed 147 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.657 secs. -->
+	</body>
+</html>

@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Wheat - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wheat","wgTitle":"Wheat","wgCurRevisionId":24388,"wgRevisionId":24388,"wgArticleId":24388,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Wheat","Crops","Energy crops","Poaceae genera","Staple foods","Crops of Metropolitan France"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wheat","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wheat skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Wheat</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+</p>
+<div><a href="/w/index.php?title=Template:Taxobox/core&amp;action=edit&amp;redlink=1" class="new" title="Template:Taxobox/core (page does not exist)">Template:Taxobox/core</a></div>
+<p><b>Wheat</b>  (<i>Triticum</i> spp.)<sup id="cite_ref-Belderok_1-0" class="reference"><a href="#cite_note-Belderok-1">[1]</a></sup> is a <a href="/wiki/Cereal" title="Cereal">cereal grain</a>, originally from the <a href="/wiki/Levant" title="Levant">Levant</a> region of the <a href="/wiki/Near_East" title="Near East">Near East</a> and <a href="/w/index.php?title=Ethiopian_Highlands&amp;action=edit&amp;redlink=1" class="new" title="Ethiopian Highlands (page does not exist)">Ethiopian Highlands</a>, but now cultivated worldwide. In 2010, world production of wheat was 651 million tons, making it the third most-produced <a href="/wiki/Cereal" title="Cereal">cereal</a> after <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">maize</a> (844 million tons) and <a href="/wiki/Rice" title="Rice">rice</a> (672 million tons).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Wheat was the second most-produced cereal in 2009; world production in that year was 682 million tons, after maize (817 million tons), and with rice as a close third (679 million tons).<sup id="cite_ref-OSU2009_3-0" class="reference"><a href="#cite_note-OSU2009-3">[3]</a></sup>
+</p><p>This grain is grown on more land area than any other commercial food.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} World trade in wheat is greater than for all other crops combined.<sup id="cite_ref-WheatBread_4-0" class="reference"><a href="#cite_note-WheatBread-4">[4]</a></sup> Globally, wheat is the leading source of vegetable protein in human food, having a higher protein content than other major cereals, maize (corn) or rice.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> In terms of total production tonnages used for food, it is currently second to rice as the main human food crop and ahead of maize, after allowing for maize's more extensive use in animal  feeds.
+</p><p>Wheat was a key factor enabling the emergence of city-based societies at the start of civilization because it was one of the first crops that could be easily cultivated on a large scale, and had the additional advantage of yielding a harvest that provides long-term storage of food. Wheat contributed to the emergence of city-states in the <a href="/wiki/Fertile_Crescent" title="Fertile Crescent">Fertile Crescent</a>, including the <a href="/wiki/Babylonia" title="Babylonia">Babylonian</a> and <a href="/wiki/Assyria" title="Assyria">Assyrian</a> empires.  Wheat <a href="/wiki/Caryopsis" title="Caryopsis">grain</a> is a <a href="/wiki/Staple_food" title="Staple food">staple food</a> used to make <a href="/wiki/Flour" title="Flour">flour</a> for leavened, flat and steamed <a href="/wiki/Bread" title="Bread">breads</a>, <a href="/wiki/Biscuit" title="Biscuit">biscuits</a>, <a href="/wiki/Cookie" title="Cookie">cookies</a>, <a href="/wiki/Cake" title="Cake">cakes</a>, <a href="/wiki/Breakfast_cereal" title="Breakfast cereal">breakfast cereal</a>, <a href="/wiki/Pasta" title="Pasta">pasta</a>, <a href="/w/index.php?title=Noodles&amp;action=edit&amp;redlink=1" class="new" title="Noodles (page does not exist)">noodles</a>, <a href="/wiki/Couscous" title="Couscous">couscous</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and for <a href="/w/index.php?title=Fermentation_(food)&amp;action=edit&amp;redlink=1" class="new" title="Fermentation (food) (page does not exist)">fermentation</a> to make <a href="/wiki/Beer" title="Beer">beer</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> other <a href="/w/index.php?title=Alcoholic_beverage&amp;action=edit&amp;redlink=1" class="new" title="Alcoholic beverage (page does not exist)">alcoholic beverages</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> or <a href="/wiki/Biofuel" title="Biofuel">biofuel</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p><p>Wheat is planted to a limited extent as a <a href="/wiki/Fodder" title="Fodder">forage crop</a> for livestock, and its straw can be used as a construction material for roofing <a href="/wiki/Thatch" title="Thatch" class="mw-redirect">thatch</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-CVDE_11-0" class="reference"><a href="#cite_note-CVDE-11">[11]</a></sup> The <a href="/wiki/Whole_grain" title="Whole grain">whole grain</a> can be milled to leave just the <a href="/wiki/Endosperm" title="Endosperm">endosperm</a> for white flour. The <a href="/wiki/By-product" title="By-product">by-products</a> of this are <a href="/wiki/Dietary_bran" title="Dietary bran" class="mw-redirect">bran</a> and <a href="/wiki/Cereal_germ" title="Cereal germ">germ</a>. The whole grain is a concentrated source of <a href="/wiki/Vitamin" title="Vitamin">vitamins</a>, <a href="/wiki/Minerals" title="Minerals" class="mw-redirect">minerals</a>, and <a href="/w/index.php?title=Protein_(nutrient)&amp;action=edit&amp;redlink=1" class="new" title="Protein (nutrient) (page does not exist)">protein</a>, while the refined grain is mostly <a href="/wiki/Starch" title="Starch">starch</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origin"><span class="tocnumber">1.1</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Farming_techniques"><span class="tocnumber">1.2</span> <span class="toctext">Farming techniques</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Genetics"><span class="tocnumber">2</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Plant_breeding"><span class="tocnumber">3</span> <span class="toctext">Plant breeding</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Hulled_versus_free-threshing_wheat"><span class="tocnumber">4</span> <span class="toctext">Hulled versus free-threshing wheat</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Naming"><span class="tocnumber">5</span> <span class="toctext">Naming</span></a></li>
+<li class="toclevel-1"><a href="#.3D.3DMajor_cultivated_species_of_wheat.7B.7B_safesubst:.23invoke:Unsubst.7C.7C.24N.3DCitation_needed_.7Cdate.3D_DATE_.7C.24B"><span class="tocnumber">6</span> <span class="toctext">==Major cultivated species of wheat{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#As_a_food"><span class="tocnumber">6.1</span> <span class="toctext">As a food</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Nutrition"><span class="tocnumber">6.1.1</span> <span class="toctext">Nutrition</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Worldwide_Consumption"><span class="tocnumber">6.1.2</span> <span class="toctext">Worldwide Consumption</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Health_concerns"><span class="tocnumber">6.1.3</span> <span class="toctext">Health concerns</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Comparison_of_wheat_with_other_major_staple_foods"><span class="tocnumber">6.1.4</span> <span class="toctext">Comparison of wheat with other major staple foods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Commercial_use"><span class="tocnumber">6.2</span> <span class="toctext">Commercial use</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Production_and_consumption"><span class="tocnumber">6.3</span> <span class="toctext">Production and consumption</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Farming_systems"><span class="tocnumber">6.3.1</span> <span class="toctext">Farming systems</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Futures_contracts"><span class="tocnumber">6.3.2</span> <span class="toctext">Futures contracts</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Geographical_variation"><span class="tocnumber">6.3.3</span> <span class="toctext">Geographical variation</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#World.27s_most_productive_wheat_farms_and_farmers"><span class="tocnumber">6.3.4</span> <span class="toctext">World's most productive wheat farms and farmers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Agronomy"><span class="tocnumber">6.4</span> <span class="toctext">Agronomy</span></a>
+<ul>
+<li class="toclevel-3 tocsection-21"><a href="#Crop_development"><span class="tocnumber">6.4.1</span> <span class="toctext">Crop development</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#Diseases"><span class="tocnumber">6.5</span> <span class="toctext">Diseases</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#Pests"><span class="tocnumber">6.5.1</span> <span class="toctext">Pests</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#See_also"><span class="tocnumber">6.6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#References"><span class="tocnumber">6.7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Further_reading"><span class="tocnumber">6.8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#External_links"><span class="tocnumber">6.9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:WildWheat_Erebuni_Reserve.jpg" title="File:WildWheat Erebuni Reserve.jpg">File:WildWheat Erebuni Reserve.jpg</a>  <div class="thumbcaption">Wild wheat <i><a href="/w/index.php?title=Triticum_araraticum&amp;action=edit&amp;redlink=1" class="new" title="Triticum araraticum (page does not exist)">Triticum araraticum</a></i>, <a href="/w/index.php?title=Armenia&amp;action=edit&amp;redlink=1" class="new" title="Armenia (page does not exist)">Armenia</a>, Erebuni Reserve</div></div></div>
+<p>Wheat is one of the first cereals known to have been domesticated, and wheat's ability to self-pollinate greatly facilitated the selection of many distinct domesticated varieties. The archaeological record suggests that this first occurred in the regions known as the <a href="/wiki/Fertile_crescent" title="Fertile crescent" class="mw-redirect">Fertile Crescent</a>. Recent findings narrow the first domestication of wheat down to a small region of southeastern Turkey,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> and domesticated <a href="/wiki/Einkorn" title="Einkorn" class="mw-redirect">Einkorn</a> wheat at <a href="/wiki/Neval%C4%B1_%C3%87ori" title="Nevalı Çori">Nevalı Çori</a>, <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> northwest of <a href="/wiki/Gobekli_Tepe" title="Gobekli Tepe" class="mw-redirect">Gobekli Tepe</a> in <a href="/w/index.php?title=Turkey&amp;action=edit&amp;redlink=1" class="new" title="Turkey (page does not exist)">Turkey</a>—has been dated to 9,000&#160;<a href="/wiki/Common_Era" title="Common Era">BCE</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+However evidence for the exploitation of wild <a href="/w/index.php?title=Barley&amp;action=edit&amp;redlink=1" class="new" title="Barley (page does not exist)">barley</a> has been dated to 23,000&#160;BCE and some say this is also true of pre-domesticated wheat.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Origin">Origin</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Usdaeinkorn1_Triticum_monococcum.jpg" title="File:Usdaeinkorn1 Triticum monococcum.jpg">File:Usdaeinkorn1 Triticum monococcum.jpg</a>  <div class="thumbcaption">Spikelets of a hulled wheat, <a href="/wiki/Einkorn" title="Einkorn" class="mw-redirect">einkorn</a></div></div></div>  Cultivation and repeated harvesting and sowing of the grains of wild grasses led to the creation of domestic strains, as mutant forms ('sports') of wheat were preferentially chosen by farmers. In domesticated wheat, grains are larger, and the seeds (inside the spikelets) remain attached to the ear by a toughened <a href="/wiki/Rachis" title="Rachis">rachis</a> during harvesting. In wild strains, a more fragile rachis allows the ear to easily <a href="/w/index.php?title=Shattering_(agriculture)&amp;action=edit&amp;redlink=1" class="new" title="Shattering (agriculture) (page does not exist)">shatter</a> and disperse the spikelets.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Selection for these traits by farmers might not have been deliberately intended, but simply have occurred because these traits made gathering the seeds easier; nevertheless such 'incidental' selection was an important part of crop <a href="/wiki/Domestication" title="Domestication">domestication</a>. As the traits that improve wheat as a food source <i>also</i> involve the loss of the plant's natural seed dispersal mechanisms, highly domesticated strains of wheat cannot survive in the wild.
+<p>Cultivation of wheat began to spread beyond the Fertile Crescent after about 8000&#160;BCE. <a href="/wiki/Jared_Diamond" title="Jared Diamond">Jared Diamond</a> traces the spread of cultivated <a href="/wiki/Emmer" title="Emmer">emmer wheat</a> starting in the Fertile Crescent about 8500 BCE. Archaeological analysis of wild <i>emmer</i> indicates that it was first cultivated in the southern <a href="/wiki/Levant" title="Levant">Levant</a> with finds at <a href="/wiki/Iran" title="Iran">Iran</a> dating back as far as 9600&#160;BCE.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-ColledgeArchaeology2007_17-0" class="reference"><a href="#cite_note-ColledgeArchaeology2007-17">[17]</a></sup> Genetic analysis of wild <i><a href="/wiki/Einkorn" title="Einkorn" class="mw-redirect">einkorn</a></i> wheat suggests that it was first grown in the <a href="/w/index.php?title=Karaca_Da%C4%9F&amp;action=edit&amp;redlink=1" class="new" title="Karaca Dağ (page does not exist)">Karacadag Mountains</a> in southeastern Turkey. Dated archeological remains of einkorn wheat in settlement sites near this region, including those at <a href="/wiki/Abu_Hureyra" title="Abu Hureyra" class="mw-redirect">Abu Hureyra</a> in Syria, suggest the domestication of einkorn near the Karacadag Mountain Range.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> With the anomalous exception of two grains from <a href="/w/index.php?title=Iraq_ed-Dubb&amp;action=edit&amp;redlink=1" class="new" title="Iraq ed-Dubb (page does not exist)">Iraq ed-Dubb</a>, the earliest <a href="/wiki/Carbon-14" title="Carbon-14">carbon-14</a> date for einkorn wheat remains at <a href="/wiki/Abu_Hureyra" title="Abu Hureyra" class="mw-redirect">Abu Hureyra</a> is 7800 to 7500 years &#160;BCE.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</p><p>Remains of harvested emmer from several sites near the Karacadag Range have been dated to between 8600 (at <a href="/w/index.php?title=Cayonu&amp;action=edit&amp;redlink=1" class="new" title="Cayonu (page does not exist)">Cayonu</a>)  and 8400&#160;BCE (Abu Hureyra), that is, in the <a href="/wiki/Neolithic" title="Neolithic">Neolithic period</a>. With the exception of Iraq ed-Dubb, the earliest carbon-14 dated remains of domesticated emmer wheat were found in the earliest levels of <a href="/w/index.php?title=Tell_Aswad&amp;action=edit&amp;redlink=1" class="new" title="Tell Aswad (page does not exist)">Tell Aswad</a>, in the <a href="/wiki/Damascus" title="Damascus">Damascus</a> basin, near <a href="/wiki/Mount_Hermon" title="Mount Hermon">Mount Hermon</a> in <a href="/w/index.php?title=Syria&amp;action=edit&amp;redlink=1" class="new" title="Syria (page does not exist)">Syria</a>. These remains were dated by <a href="/w/index.php?title=Willem_van_Zeist&amp;action=edit&amp;redlink=1" class="new" title="Willem van Zeist (page does not exist)">Willem van Zeist</a> and his assistant Johanna Bakker-Heeres to 8800&#160;BCE. They also concluded that the settlers of Tell Aswad did not develop this form of emmer themselves, but brought the domesticated grains with them from an as yet unidentified location elsewhere.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</p><p>The cultivation of emmer reached Greece, Cyprus and India by 6500&#160;BCE, Egypt shortly after 6000&#160;BCE, and Germany and Spain by 5000&#160;BCE.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>  "The early Egyptians were developers of bread and the use of the oven and developed baking into one of the first large-scale food production industries." <sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> By 3000&#160;BCE, wheat had reached England and Scandinavia. A millennium later it reached <a href="/wiki/China" title="China">China</a>. The first identifiable bread wheat (<i>Triticum aestivum</i>) with sufficient gluten for yeasted breads has been identified using DNA analysis in samples from a granary dating to approximately 1350&#160;BCE at <a href="/w/index.php?title=Assiros&amp;action=edit&amp;redlink=1" class="new" title="Assiros (page does not exist)">Assiros</a> in Greek Macedonia.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</p><p>Wheat continued to spread throughout Europe. In England, wheat straw (thatch) was used for roofing in the Bronze Age, and was in common use until the late 19th century.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
+</p><p>The <a href="/w/index.php?title=State_Emblem_of_the_Soviet_Union&amp;action=edit&amp;redlink=1" class="new" title="State Emblem of the Soviet Union (page does not exist)">State Emblem of the Soviet Union</a> featured a wreath made of wheat.
+</p>
+<h3><span class="mw-headline" id="Farming_techniques">Farming techniques</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Wheat_harvest.jpg" title="File:Wheat harvest.jpg">File:Wheat harvest.jpg</a>  <div class="thumbcaption">Wheat harvest on the <a href="/wiki/Palouse" title="Palouse">Palouse</a>, <a href="/wiki/Idaho" title="Idaho">Idaho</a>, United States</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Young_Wheat_crop_in_a_field_near_Solapur,_Maharashtra,_India.jpg" title="File:Young Wheat crop in a field near Solapur, Maharashtra, India.jpg">File:Young Wheat crop in a field near Solapur, Maharashtra, India.jpg</a>  <div class="thumbcaption">Young wheat crop in a field near Solapur, Maharashtra, India</div></div></div>
+<p>Technological advances in soil preparation and seed placement at planting time, use of crop rotation and fertilizers to improve plant growth, and advances in harvesting methods have all combined to promote wheat as a viable crop. Agricultural cultivation using <a href="/w/index.php?title=Horse_collar&amp;action=edit&amp;redlink=1" class="new" title="Horse collar (page does not exist)">horse collar</a> leveraged plows (at about 3000&#160;BCE) was one of the first innovations that increased productivity. Much later, when the use of <a href="/wiki/Seed_drill" title="Seed drill">seed drills</a> replaced broadcasting sowing of seed in the 18th century, another great increase in productivity occurred.
+</p><p>Yields of pure wheat per unit area increased as methods of <a href="/wiki/Crop_rotation" title="Crop rotation">crop rotation</a> were applied to long cultivated land, and the use of <a href="/wiki/Fertilizer" title="Fertilizer">fertilizers</a> became widespread. Improved agricultural husbandry has more recently included threshing machines and reaping machines (the '<a href="/wiki/Combine_harvester" title="Combine harvester">combine harvester</a>'), <a href="/wiki/Tractor" title="Tractor">tractor</a>-drawn cultivators and planters, and better varieties (see <a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a> and <a href="/wiki/Norin_10_wheat" title="Norin 10 wheat">Norin 10 wheat</a>). Great expansion of wheat production occurred as new arable land was farmed in the Americas and Australia in the 19th and 20th centuries.
+</p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span></h2>
+<p>Wheat genetics is more complicated than that of most other domesticated species. Some wheat species are <a href="/wiki/Diploid" title="Diploid" class="mw-redirect">diploid</a>, with two sets of chromosomes, but many are stable <a href="/w/index.php?title=Polyploidy&amp;action=edit&amp;redlink=1" class="new" title="Polyploidy (page does not exist)">polyploids</a>, with four sets of chromosomes (<a href="/wiki/Tetraploid" title="Tetraploid" class="mw-redirect">tetraploid</a>) or six (<a href="/wiki/Hexaploid" title="Hexaploid" class="mw-redirect">hexaploid</a>).<sup id="cite_ref-Hancock_25-0" class="reference"><a href="#cite_note-Hancock-25">[25]</a></sup>
+</p>
+<ul>
+<li> <a href="/wiki/Einkorn" title="Einkorn" class="mw-redirect">Einkorn</a> wheat (<i>T. monococcum</i>) is diploid (AA, two complements of seven chromosomes, 2n=14).<sup id="cite_ref-Belderok_1-1" class="reference"><a href="#cite_note-Belderok-1">[1]</a></sup>
+</li>
+<li> Most tetraploid wheats (e.g. <a href="/wiki/Emmer" title="Emmer">emmer</a> and <a href="/wiki/Durum" title="Durum">durum wheat</a>) are derived from <a href="/wiki/Emmer#Wild_emmer" title="Emmer">wild emmer</a>, <i>T. dicoccoides</i>. Wild emmer is itself the result of a hybridization between two diploid wild grasses, <i>T. urartu</i> and a wild goatgrass such as <i>Aegilops searsii</i> or <i><a href="/w/index.php?title=Aegilops_speltoides&amp;action=edit&amp;redlink=1" class="new" title="Aegilops speltoides (page does not exist)">Ae. speltoides</a></i>. The unknown grass has never been identified among now surviving wild grasses, but the closest living relative is <i>Aegilops speltoides</i>.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} The hybridization that formed wild emmer (AABB) occurred in the wild, long before domestication,<sup id="cite_ref-Hancock_25-1" class="reference"><a href="#cite_note-Hancock-25">[25]</a></sup> and was driven by natural selection.
+</p>
+<ul>
+<li> Hexaploid wheats evolved in farmers' fields. Either domesticated emmer or durum wheat hybridized with yet another wild diploid grass (<i><a href="/w/index.php?title=Aegilops_tauschii&amp;action=edit&amp;redlink=1" class="new" title="Aegilops tauschii (page does not exist)">Aegilops tauschii</a></i>) to make the <a href="/wiki/Hexaploid" title="Hexaploid" class="mw-redirect">hexaploid</a> wheats, <a href="/wiki/Spelt" title="Spelt">spelt</a> wheat and <a href="/w/index.php?title=Common_wheat&amp;action=edit&amp;redlink=1" class="new" title="Common wheat (page does not exist)">bread wheat</a>.<sup id="cite_ref-Hancock_25-2" class="reference"><a href="#cite_note-Hancock-25">[25]</a></sup> These have <i>three</i> sets of paired chromosomes, three times as many as in diploid wheat.
+</li>
+</ul>
+<p>The presence of certain versions of wheat genes has been important for crop yields. Apart from mutant versions of genes selected in antiquity during domestication, there has been more recent deliberate selection of <a href="/wiki/Alleles" title="Alleles" class="mw-redirect">alleles</a> that affect growth characteristics. Genes for the 'dwarfing' trait, first used by <a href="/wiki/Norin_10_wheat" title="Norin 10 wheat">Japanese wheat breeders</a> to produce short-stalked wheat, have had a huge effect on wheat yields world-wide, and were major factors in the success of the <a href="/wiki/Green_Revolution" title="Green Revolution">Green Revolution</a> in Mexico and Asia. Dwarfing genes enable the carbon that is fixed in the plant during photosynthesis to be diverted towards seed production, and they also help prevent the problem of lodging. 'Lodging' occurs when an ear stalk falls over in the wind and rots on the ground, and heavy nitrogenous fertilization of wheat makes the grass grow taller and become more susceptible to this problem. By 1997, 81% of the developing world's wheat area was planted to semi-dwarf wheats, giving both increased yields and better response to nitrogenous fertilizer.
+</p><p>Wild grasses in the genus <i>Triticum</i> and related genera, and grasses such as <a href="/wiki/Rye" title="Rye">rye</a> have been a source of many disease-resistance traits for cultivated wheat <a href="/wiki/Transgenic_plant" title="Transgenic plant" class="mw-redirect">breeding</a> since the 1930s.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+</p><p><a href="/wiki/Heterosis" title="Heterosis">Heterosis</a>, or hybrid vigor (as in the familiar F1 hybrids of maize), occurs in common (hexaploid) wheat, but it is difficult to produce seed of hybrid cultivars on a commercial scale (as is done with <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">maize</a>) because wheat flowers are perfect and normally <a href="/wiki/Self-pollination" title="Self-pollination">self-pollinate</a>. Commercial hybrid wheat seed has been produced using chemical hybridizing agents; these chemicals selectively interfere with pollen development, or naturally occurring cytoplasmic male sterility systems. Hybrid wheat has been a limited commercial success in Europe (particularly <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a>), the USA and South Africa.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> F1 hybrid wheat cultivars should not be confused with the standard method of breeding inbred wheat cultivars by crossing two lines using hand emasculation, then selfing or inbreeding the progeny many (ten or more) generations before release selections are identified to be released as a variety or cultivar.
+</p><p>Synthetic hexaploids made by crossing the wild goatgrass wheat ancestor <i><a href="/w/index.php?title=Aegilops_tauschii&amp;action=edit&amp;redlink=1" class="new" title="Aegilops tauschii (page does not exist)">Aegilops tauschii</a></i> and various durum wheats are now being deployed, and these increase the genetic diversity of cultivated wheats.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+</p><p><a href="/wiki/Stomata" title="Stomata" class="mw-redirect">Stomata</a> (or leaf pores) are involved in both uptake of carbon dioxide gas from the atmosphere and water vapor losses from the leaf due to water <a href="/w/index.php?title=Transpiration&amp;action=edit&amp;redlink=1" class="new" title="Transpiration (page does not exist)">transpiration</a>. Basic physiological investigation of these gas exchange processes has yielded valuable carbon <a href="/w/index.php?title=Isotope&amp;action=edit&amp;redlink=1" class="new" title="Isotope (page does not exist)">isotope</a> based methods that are used for breeding wheat varieties with improved water-use efficiency. These varieties can improve crop productivity in rain-fed dry-land wheat farms.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+</p><p>In 2010, a team of UK scientists funded by <a href="/wiki/Biotechnology_and_Biological_Sciences_Research_Council" title="Biotechnology and Biological Sciences Research Council">BBSRC</a> announced they had decoded the wheat genome for the first time (95% of the genome of a variety of wheat known as Chinese Spring line 42).<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> This genome was released in a basic format for scientists and plant breeders to use but was not a fully annotated sequence which was reported in some of the media.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+</p><p>On 29 November 2012, whole-genome sequence of bread wheat has been published.<sup id="cite_ref-nature.com_34-0" class="reference"><a href="#cite_note-nature.com-34">[34]</a></sup> Random shotgun libraries of total DNA and cDNA from the <i>T. aestivum</i> cv. Chinese Spring (CS42) were sequenced in Roche 454 pyrosequencer using GS FLX Titanium and GS FLX+ platforms to generate 85 Gb of sequence (220 million reads), equivalent to 5X genome coverage and identified between 94,000 and 96,000 genes.<sup id="cite_ref-nature.com_34-1" class="reference"><a href="#cite_note-nature.com-34">[34]</a></sup>
+</p><p>The wheat whole genome sequence data provides direct access to all 96,000 genes and represents an essential step towards a systematic understanding of biology and engineering the cereal crop for valuable traits. Its implications in cereal genetics and breeding includes the examination of genome variation, association mapping using natural populations, performing wide crosses and alien introgression, studying the expression and nucleotide polymorphism in transcriptomes, analyzing population genetics and evolutionary biology, and studying the epigenetic modifications. Moreover, the availability of large-scale genetic markers generated through NGS technology will facilitate trait mapping and make marker-assisted breeding much feasible.<sup id="cite_ref-currentscience.ac.in_35-0" class="reference"><a href="#cite_note-currentscience.ac.in-35">[35]</a></sup>
+</p><p>Moreover, the WGS data not only facilitate in deciphering the complex phenomena such as heterosis and epigenetics, it may also enable breeders to predict which fragment of a chromosome is derived from which parent in the progeny line, thereby recognizing crossover events occurring in every progeny line and inserting markers on genetic and physical maps without ambiguity. In due course, this will assist in introducing specific chromosomal segments from one cultivar to another. Besides, the researchers had identified diverse classes of genes participating in energy production, metabolism and growth that were probably linked with crop yield, which can now be utilized for the development of transgenic wheat. Thus whole genome sequence of wheat and the availability of thousands of SNPs will inevitably permit the breeders to stride towards identifying novel traits, providing biological knowledge and empowering biodiversity-based breeding.<sup id="cite_ref-currentscience.ac.in_35-1" class="reference"><a href="#cite_note-currentscience.ac.in-35">[35]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Plant_breeding">Plant breeding</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:WheatPennsylvania1943.jpg" title="File:WheatPennsylvania1943.jpg">File:WheatPennsylvania1943.jpg</a>  <div class="thumbcaption">Sheaved and <a href="/w/index.php?title=Stook&amp;action=edit&amp;redlink=1" class="new" title="Stook (page does not exist)">stooked</a> wheat</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Wheat_P1210892.jpg" title="File:Wheat P1210892.jpg">File:Wheat P1210892.jpg</a>  <div class="thumbcaption">Wheat</div></div></div>
+<p>In traditional agricultural systems wheat populations often consist of <a href="/w/index.php?title=Landraces&amp;action=edit&amp;redlink=1" class="new" title="Landraces (page does not exist)">landraces</a>, informal farmer-maintained populations that often maintain high levels of morphological diversity. Although landraces of wheat are no longer grown in Europe and North America, they continue to be important elsewhere. The origins of formal wheat breeding lie in the nineteenth century, when single line varieties were created through selection of seed from a single plant noted to have desired properties. Modern wheat breeding developed in the first years of the twentieth century and was closely linked to the development of <a href="/wiki/Mendelian_genetics" title="Mendelian genetics" class="mw-redirect">Mendelian genetics</a>. The standard method of breeding inbred wheat cultivars is by crossing two lines using hand emasculation, then selfing or inbreeding the progeny. Selections are <i>identified</i> (shown to have the genes responsible for the varietal differences) ten or more generations before release as a variety or cultivar.<sup id="cite_ref-Bajaj_36-0" class="reference"><a href="#cite_note-Bajaj-36">[36]</a></sup>
+</p><p><a href="/wiki/F1_hybrid" title="F1 hybrid">F1 hybrid</a> wheat cultivars should not be confused with wheat cultivars deriving from standard <a href="/w/index.php?title=Plant_breeding&amp;action=edit&amp;redlink=1" class="new" title="Plant breeding (page does not exist)">plant breeding</a>. <a href="/wiki/Heterosis" title="Heterosis">Heterosis</a> or hybrid vigor (as in the familiar F1 hybrids of maize) occurs in common (hexaploid) wheat, but it is difficult to produce seed of hybrid cultivars on a commercial scale as is done with <a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">maize</a> because wheat flowers are complete and normally <a href="/wiki/Self-pollination" title="Self-pollination">self-pollinate</a>.<sup id="cite_ref-Bajaj_36-1" class="reference"><a href="#cite_note-Bajaj-36">[36]</a></sup>  Commercial hybrid wheat seed has been produced using chemical hybridizing agents, <a href="/wiki/Plant_hormone" title="Plant hormone">plant growth regulators</a> that selectively interfere with pollen development, or naturally occurring <a href="/w/index.php?title=Cytoplasmic_male_sterility&amp;action=edit&amp;redlink=1" class="new" title="Cytoplasmic male sterility (page does not exist)">cytoplasmic male sterility</a> systems.  Hybrid wheat has been a limited commercial success in Europe (particularly <a href="/w/index.php?title=France&amp;action=edit&amp;redlink=1" class="new" title="France (page does not exist)">France</a>), the <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">United States</a> and South Africa.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+</p><p>The major breeding objectives include high grain yield, good quality, disease and insect resistance and tolerance to abiotic stresses include mineral, moisture and heat tolerance. The major diseases in temperate environments include the following, arranged in a rough order of their significance from cooler to warmer climates: <a href="/w/index.php?title=Eyespot_(wheat)&amp;action=edit&amp;redlink=1" class="new" title="Eyespot (wheat) (page does not exist)">eyespot</a>, <a href="/w/index.php?title=Phaeosphaeria_nodorum&amp;action=edit&amp;redlink=1" class="new" title="Phaeosphaeria nodorum (page does not exist)">Stagonospora nodorum blotch</a> (also known as glume blotch), <a href="/w/index.php?title=Wheat_yellow_rust&amp;action=edit&amp;redlink=1" class="new" title="Wheat yellow rust (page does not exist)">yellow</a> or <a href="/w/index.php?title=Wheat_yellow_rust&amp;action=edit&amp;redlink=1" class="new" title="Wheat yellow rust (page does not exist)">stripe rust</a>, <a href="/wiki/Powdery_mildew#Powdery_mildew_of_wheat" title="Powdery mildew">powdery mildew</a>, <a href="/w/index.php?title=Septoria_tritici&amp;action=edit&amp;redlink=1" class="new" title="Septoria tritici (page does not exist)">Septoria tritici blotch</a> (sometimes known as leaf blotch), <a href="/w/index.php?title=Wheat_leaf_rust&amp;action=edit&amp;redlink=1" class="new" title="Wheat leaf rust (page does not exist)">brown</a> or <a href="/w/index.php?title=Wheat_leaf_rust&amp;action=edit&amp;redlink=1" class="new" title="Wheat leaf rust (page does not exist)">leaf rust</a>, <a href="/wiki/Fusarium_ear_blight" title="Fusarium ear blight">Fusarium head blight</a>, <a href="/w/index.php?title=Pyrenophora_tritici-repentis&amp;action=edit&amp;redlink=1" class="new" title="Pyrenophora tritici-repentis (page does not exist)">tan spot</a> and <a href="/w/index.php?title=Stem_rust&amp;action=edit&amp;redlink=1" class="new" title="Stem rust (page does not exist)">stem rust</a>. In tropical areas, <a href="/w/index.php?title=Spot_blotch_(wheat)&amp;action=edit&amp;redlink=1" class="new" title="Spot blotch (wheat) (page does not exist)">spot blotch</a> (also known as Helminthosporium leaf blight) is also important.
+</p><p>Wheat has also been the subject of <a href="/w/index.php?title=Mutation_breeding&amp;action=edit&amp;redlink=1" class="new" title="Mutation breeding (page does not exist)">mutation breeding</a>, with the use of gamma, x-rays, ultraviolet light, and sometimes harsh chemicals. The varieties of wheat created through this methods are in the hundreds (varieties being as far back as 1960), more of them being created in higher populated countries such as China.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Hulled_versus_free-threshing_wheat">Hulled versus free-threshing wheat</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Wheat-haHula-ISRAEL2.JPG" title="File:Wheat-haHula-ISRAEL2.JPG">File:Wheat-haHula-ISRAEL2.JPG</a>  <div class="thumbcaption">A mature wheat field in Israel</div></div></div>
+<p>The four wild species of wheat, along with the domesticated varieties <a href="/wiki/Einkorn" title="Einkorn" class="mw-redirect">einkorn</a>,<sup id="cite_ref-Potts_39-0" class="reference"><a href="#cite_note-Potts-39">[39]</a></sup> <a href="/wiki/Emmer" title="Emmer">emmer</a><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> and <a href="/wiki/Spelt" title="Spelt">spelt</a>,<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> have hulls. This more primitive morphology (in evolutionary terms) consists of toughened glumes that tightly enclose the grains, and (in domesticated wheats) a semi-brittle rachis that breaks easily on threshing. The result is that when threshed, the wheat ear breaks up into spikelets. To obtain the grain, further processing, such as milling or pounding, is needed to remove the hulls or husks. In contrast, in free-threshing (or naked) forms such as durum wheat and common wheat, the glumes are fragile and the rachis tough. On threshing, the chaff breaks up, releasing the grains. Hulled wheats are often stored as spikelets because the toughened glumes give good protection against pests of stored grain.<sup id="cite_ref-Potts_39-1" class="reference"><a href="#cite_note-Potts-39">[39]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Naming">Naming</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Wheat_in_sack.jpg" title="File:Wheat in sack.jpg">File:Wheat in sack.jpg</a>  <div class="thumbcaption">Sack of wheat</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Modell_eines_Korns_von_Triticum_vulgare_(Weizen)_-Osterloh_Nr._138-.jpg" title="File:Modell eines Korns von Triticum vulgare (Weizen) -Osterloh Nr. 138-.jpg">File:Modell eines Korns von Triticum vulgare (Weizen) -Osterloh Nr. 138-.jpg</a>  <div class="thumbcaption">Model of a wheat grain, <a href="/w/index.php?title=Botanical_Museum_Greifswald&amp;action=edit&amp;redlink=1" class="new" title="Botanical Museum Greifswald (page does not exist)">Botanical Museum Greifswald</a></div></div></div>
+<p>There are many botanical classification systems used for wheat species, discussed in a separate article on <a href="/w/index.php?title=Wheat_taxonomy&amp;action=edit&amp;redlink=1" class="new" title="Wheat taxonomy (page does not exist)">Wheat taxonomy</a>.  The name of a wheat species from one information source may not be the name of a wheat species in another.
+</p><p>Within a species, wheat cultivars are further classified by wheat breeders and farmers in terms of:
+</p>
+<ul>
+<li> Growing season, such as <a href="/wiki/Winter_wheat" title="Winter wheat">winter wheat</a> vs. spring wheat.<sup id="cite_ref-CVDE_11-1" class="reference"><a href="#cite_note-CVDE-11">[11]</a></sup>
+</li>
+<li> <a href="/wiki/Protein" title="Protein">Protein</a> content. Bread wheat protein content ranges from 10% in some soft wheats with high starch contents, to 15% in hard wheats.
+</li>
+<li> The quality of the wheat protein <a href="/wiki/Gluten" title="Gluten">gluten</a>. This protein can determine the suitability of a wheat to a particular dish. A strong and elastic gluten present in bread wheats enables <a href="/wiki/Dough" title="Dough">dough</a> to trap carbon dioxide during leavening, but elastic gluten interferes with the rolling of <a href="/wiki/Pasta" title="Pasta">pasta</a> into thin sheets. The gluten protein in durum wheats used for pasta is strong but not elastic.
+</li>
+<li> Grain color (red, white or amber). Many wheat varieties are reddish-brown due to phenolic compounds present in the bran layer which are transformed to pigments by browning enzymes. White wheats have a lower content of phenolics and browning enzymes, and are generally less astringent in taste than red wheats. The yellowish color of durum wheat and <a href="/wiki/Semolina" title="Semolina">semolina</a> flour made from it is due to a <a href="/wiki/Carotenoid" title="Carotenoid">carotenoid</a> pigment called <a href="/wiki/Lutein" title="Lutein">lutein</a>, which can be oxidized to a colorless form by enzymes present in the grain.
+</li>
+</ul>
+<h1><span class="mw-headline" id=".3D.3DMajor_cultivated_species_of_wheat.7B.7B_safesubst:.23invoke:Unsubst.7C.7C.24N.3DCitation_needed_.7Cdate.3D_DATE_.7C.24B">==Major cultivated species of wheat{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B</span></h1>
+<p><a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}===
+Hexaploid Species
+</p>
+<ul>
+<li><b><a href="/w/index.php?title=Common_wheat&amp;action=edit&amp;redlink=1" class="new" title="Common wheat (page does not exist)">Common wheat</a></b> or <b>Bread wheat</b> (<i>T. aestivum</i>)&#160;– A <a href="/wiki/Ploidy" title="Ploidy">hexaploid</a> species that is the most widely cultivated in the world.
+</li>
+<li><b><a href="/wiki/Spelt" title="Spelt">Spelt</a></b> (<i>T. spelta</i>)&#160;– Another hexaploid species cultivated in limited quantities. Spelt is sometimes considered a subspecies of the closely related species <a href="/w/index.php?title=Common_wheat&amp;action=edit&amp;redlink=1" class="new" title="Common wheat (page does not exist)">common wheat</a> (<i>T. aestivum</i>), in which case its botanical name is considered to be <i>Triticum aestivum</i> subsp. <i>spelta</i>.
+</li>
+</ul>
+<p>Tetraploid Species
+</p>
+<ul>
+<li><b><a href="/wiki/Durum" title="Durum">Durum</a></b> (<i>T. durum</i>)&#160;– The only tetraploid form of wheat widely used today, and the second most widely cultivated wheat.
+</li>
+<li><b><a href="/wiki/Emmer" title="Emmer">Emmer</a></b> (<i>T. dicoccum</i>)&#160;– A <a href="/wiki/Ploidy" title="Ploidy">tetraploid</a> species, cultivated in <a href="/wiki/Ancient_history" title="Ancient history">ancient times</a> but no longer in widespread use.
+</li>
+</ul>
+<p>Diploid Species
+</p>
+<ul>
+<li><b><a href="/wiki/Einkorn" title="Einkorn" class="mw-redirect">Einkorn</a></b> (<i>T. monococcum</i>)&#160;– A <a href="/wiki/Diploid" title="Diploid" class="mw-redirect">diploid</a> species with wild and cultivated variants.  Domesticated at the same time as emmer wheat, but never reached the same importance.
+</li>
+</ul>
+<p>Classes used in the <a href="/w/index.php?title=Wheat_production_in_the_United_States&amp;action=edit&amp;redlink=1" class="new" title="Wheat production in the United States (page does not exist)">United States</a>:
+</p>
+<ul>
+<li><b><a href="/wiki/Durum" title="Durum">Durum</a></b>&#160;– Very hard, translucent, light-colored grain used to make <a href="/wiki/Semolina" title="Semolina">semolina</a> flour for <a href="/wiki/Pasta" title="Pasta">pasta</a> &amp; <a href="/w/index.php?title=Bulghur&amp;action=edit&amp;redlink=1" class="new" title="Bulghur (page does not exist)">bulghur</a>; high in protein, specifically, gluten protein.
+</li>
+<li><b>Hard Red Spring</b>&#160;– Hard, brownish, high-<a href="/wiki/Protein" title="Protein">protein</a> wheat used for bread and hard baked goods. Bread Flour and high-gluten flours are commonly made from hard red spring wheat.  It is primarily traded at the <a href="/w/index.php?title=Minneapolis_Grain_Exchange&amp;action=edit&amp;redlink=1" class="new" title="Minneapolis Grain Exchange (page does not exist)">Minneapolis Grain Exchange</a>.
+</li>
+<li><b>Hard Red Winter</b>&#160;– Hard, brownish, mellow high-protein wheat used for bread, hard baked goods and as an adjunct in other flours to increase protein in pastry flour for pie crusts. Some brands of unbleached all-purpose flours are commonly made from hard red winter wheat alone. It is primarily traded on the <a href="/w/index.php?title=Kansas_City_Board_of_Trade&amp;action=edit&amp;redlink=1" class="new" title="Kansas City Board of Trade (page does not exist)">Kansas City Board of Trade</a>.  One variety is known as "turkey red wheat", and was brought to Kansas by <a href="/wiki/Mennonite" title="Mennonite">Mennonite</a> immigrants from Russia.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
+</li>
+<li><b>Soft Red Winter</b>&#160;– Soft, low-protein wheat used for cakes, pie crusts, biscuits, and <a href="/wiki/Muffins" title="Muffins" class="mw-redirect">muffins</a>.  Cake flour, pastry flour, and some self-rising flours with <a href="/wiki/Baking_powder" title="Baking powder">baking powder</a> and salt added, for example, are made from soft red winter wheat.  It is primarily traded on the <a href="/wiki/Chicago_Board_of_Trade" title="Chicago Board of Trade">Chicago Board of Trade</a>.
+</li>
+<li><b>Hard White</b>&#160;– Hard, light-colored, opaque, chalky, medium-protein wheat planted in dry, temperate areas. Used for bread and brewing.
+</li>
+<li><b>Soft White</b>&#160;– Soft, light-colored, very low protein wheat grown in temperate moist areas. Used for pie crusts and pastry. Pastry flour, for example, is sometimes made from soft white winter wheat.
+</li>
+</ul>
+<p>Red wheats may need bleaching; therefore, white wheats usually command higher prices than red wheats on the commodities market.
+</p>
+<h2><span class="mw-headline" id="As_a_food">As a food</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:USDA_wheat.jpg" title="File:USDA wheat.jpg">File:USDA wheat.jpg</a>  <div class="thumbcaption">Wheat is used in a wide variety of foods.</div></div></div>
+<p><a href="/w/index.php?title=Template:Nutritionalvalue&amp;action=edit&amp;redlink=1" class="new" title="Template:Nutritionalvalue (page does not exist)">Template:Nutritionalvalue</a>
+Raw wheat can be ground into <a href="/wiki/Wheat_flour" title="Wheat flour">flour</a> or, using hard durum wheat only, can be ground into <a href="/wiki/Semolina" title="Semolina">semolina</a>; germinated and dried creating <a href="/wiki/Malt" title="Malt">malt</a>; crushed or cut into cracked wheat; parboiled (or steamed), dried, crushed and de-branned into <a href="/wiki/Bulgur" title="Bulgur">bulgur</a> also known as <a href="/w/index.php?title=Groats&amp;action=edit&amp;redlink=1" class="new" title="Groats (page does not exist)">groats</a>. If the raw wheat is broken into parts at the mill, as is usually done, the outer husk or <a href="/wiki/Bran" title="Bran">bran</a> can be used several ways.  Wheat is a major ingredient in such foods as <a href="/wiki/Bread" title="Bread">bread</a>, <a href="/wiki/Porridge" title="Porridge">porridge</a>, <a href="/wiki/Cracker_(food)" title="Cracker (food)">crackers</a>, <a href="/wiki/Biscuit" title="Biscuit">biscuits</a>, <a href="/wiki/Muesli" title="Muesli">Muesli</a>, <a href="/wiki/Pancake" title="Pancake">pancakes</a>, <a href="/wiki/Pie" title="Pie">pies</a>, <a href="/wiki/Pastry" title="Pastry">pastries</a>, <a href="/wiki/Cake" title="Cake">cakes</a>, <a href="/wiki/Cookie" title="Cookie">cookies</a>, <a href="/wiki/Muffin" title="Muffin">muffins</a>, <a href="/wiki/Bread_roll" title="Bread roll">rolls</a>, <a href="/wiki/Doughnut" title="Doughnut">doughnuts</a>, <a href="/wiki/Gravy" title="Gravy">gravy</a>, <a href="/wiki/Boza" title="Boza">boza</a> (a <a href="/w/index.php?title=Alcoholic_beverage&amp;action=edit&amp;redlink=1" class="new" title="Alcoholic beverage (page does not exist)">fermented beverage</a>), and <a href="/wiki/Breakfast_cereal" title="Breakfast cereal">breakfast cereals</a> (e.g., <a href="/w/index.php?title=Wheatena&amp;action=edit&amp;redlink=1" class="new" title="Wheatena (page does not exist)">Wheatena</a>, <a href="/wiki/Cream_of_Wheat" title="Cream of Wheat">Cream of Wheat</a>, <a href="/w/index.php?title=Shredded_Wheat&amp;action=edit&amp;redlink=1" class="new" title="Shredded Wheat (page does not exist)">Shredded Wheat</a>, and <a href="/wiki/Wheaties" title="Wheaties">Wheaties</a>).
+</p>
+<h3><span class="mw-headline" id="Nutrition">Nutrition</span></h3>
+<p><a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of hard red winter wheat contain about <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of <a href="/w/index.php?title=Protein_(nutrient)&amp;action=edit&amp;redlink=1" class="new" title="Protein (nutrient) (page does not exist)">protein</a>, <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of total <a href="/wiki/Fat" title="Fat">fat</a>, <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of <a href="/wiki/Carbohydrate" title="Carbohydrate">carbohydrate</a> (by difference), <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of <a href="/wiki/Dietary_fiber" title="Dietary fiber">dietary fiber</a>, and <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of <a href="/wiki/Iron" title="Iron">iron</a> (17% of the daily requirement); the same weight of hard red spring wheat contains about <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of protein, <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of total fat, <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of carbohydrate (by difference), <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of dietary fiber, and <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of iron (20% of the daily requirement).<sup id="cite_ref-USDA_ARS_43-0" class="reference"><a href="#cite_note-USDA_ARS-43">[43]</a></sup>
+</p><p>Much of the carbohydrate fraction of wheat is <a href="/wiki/Starch" title="Starch">starch</a>.  Wheat starch is an important commercial product of wheat, but second in economic value to <a href="/wiki/Gluten" title="Gluten">wheat gluten</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>  The principal parts of wheat flour are gluten and starch.  These can be separated in a kind of home experiment, by mixing flour and water to form a small ball of dough, and kneading it gently while rinsing it in a bowl of water.  The starch falls out of the dough and sinks to the bottom of the bowl, leaving behind a ball of gluten.
+</p><p>In wheat, <a href="/w/index.php?title=Natural_phenol&amp;action=edit&amp;redlink=1" class="new" title="Natural phenol (page does not exist)">phenolic</a> compounds are mainly found in the form of insoluble bound <a href="/w/index.php?title=Ferulic_acid&amp;action=edit&amp;redlink=1" class="new" title="Ferulic acid (page does not exist)">ferulic acid</a> and be relevant to resistance to wheat fungal diseases.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> <a href="/w/index.php?title=Alkylresorcinol&amp;action=edit&amp;redlink=1" class="new" title="Alkylresorcinol (page does not exist)">Alkylresorcinols</a> are phenolic lipids present in high amounts in the bran layer (e.g. pericarp, testa and aleurone layers) of wheat and rye (0.1-0.3&#160;% of dry weight).
+</p>
+<h3><span class="mw-headline" id="Worldwide_Consumption">Worldwide Consumption</span></h3>
+<p>Wheat is grown on more than <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>,<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> larger than for any other crop. World trade in wheat is greater than for all other crops combined. With rice, wheat is the world's most favored staple food. Wheat provides more nourishment for humans than any other food source. It is a major diet component because of the wheat plant’s agronomic adaptability with the ability to grow from near arctic regions to equator, from sea level to plains of Tibet, approximately <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> above sea level. In addition to agronomic adaptability, wheat offers ease of grain storage and ease of converting grain into flour for making edible, palatable, interesting and satisfying foods. Wheat is the most important source of carbohydrate in a majority of countries.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}
+</p><p>Wheat protein is easily digested by nearly 99% of human population (see gluten sensitivity for exception), as is its starch.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Wheat also contains a diversity of minerals, vitamins and fats (lipids). With a small amount of animal or legume protein added, a wheat-based meal is highly nutritious.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>
+</p><p>The most common forms of wheat are white and red wheat. However, other natural forms of wheat exist. For example, in the highlands of Ethiopia grows purple wheat, a tetraploid species of wheat that is rich in anti-oxidants. Other commercially minor but nutritionally promising species of naturally evolved wheat species include black, yellow and blue wheat.<sup id="cite_ref-WheatBread_4-1" class="reference"><a href="#cite_note-WheatBread-4">[4]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Health_concerns">Health concerns</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>Several screening studies in Europe, South America, Australasia, and the USA suggest that approximately 0.5–1% of these populations may have undetected coeliac disease.<sup id="cite_ref-VanHeelWest_50-0" class="reference"><a href="#cite_note-VanHeelWest-50">[50]</a></sup> <a href="/wiki/Coeliac_disease" title="Coeliac disease">Coeliac</a> (also written as celiac) <a href="/wiki/Disease" title="Disease">disease</a> is a condition that is caused by an adverse <a href="/wiki/Immune_system" title="Immune system">immune system</a> reaction to <a href="/wiki/Gliadin" title="Gliadin">gliadin</a>, a <a href="/wiki/Gluten" title="Gluten">gluten</a> protein found in wheat (and similar grains of the <a href="/wiki/Tribe_(biology)" title="Tribe (biology)">tribe</a> <a href="/w/index.php?title=Triticeae&amp;action=edit&amp;redlink=1" class="new" title="Triticeae (page does not exist)">Triticeae</a> which includes other species such as <a href="/w/index.php?title=Barley&amp;action=edit&amp;redlink=1" class="new" title="Barley (page does not exist)">barley</a> and <a href="/wiki/Rye" title="Rye">rye</a>). Upon exposure to gliadin, the enzyme <a href="/w/index.php?title=Tissue_transglutaminase&amp;action=edit&amp;redlink=1" class="new" title="Tissue transglutaminase (page does not exist)">tissue transglutaminase</a> modifies the protein, and the immune system cross-reacts with the bowel tissue, causing an <a href="/wiki/Inflammation" title="Inflammation">inflammatory reaction</a>. That leads to flattening of the lining of the <a href="/wiki/Small_intestine" title="Small intestine">small intestine</a>, which <a href="/wiki/Malabsorption" title="Malabsorption">interferes with the absorption</a> of nutrients. The only effective treatment is a lifelong <a href="/wiki/Gluten-free_diet" title="Gluten-free diet">gluten-free diet</a>.
+</p><p>The estimate for people in the <a href="/w/index.php?title=United_States&amp;action=edit&amp;redlink=1" class="new" title="United States (page does not exist)">United States</a> is between 0.5 and 1.0 percent of the population.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup>
+</p><p>While the disease is caused by a reaction to wheat proteins, it is not the same as <a href="/w/index.php?title=Wheat_allergy&amp;action=edit&amp;redlink=1" class="new" title="Wheat allergy (page does not exist)">wheat allergy</a>.
+</p>
+<h3><span class="mw-headline" id="Comparison_of_wheat_with_other_major_staple_foods">Comparison of wheat with other major staple foods</span></h3>
+<p>The following table shows the nutrient content of wheat and other major staple foods in a raw form.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup>
+</p><p>Raw forms of these staples, however, are not edible and cannot be digested. These must be sprouted, or prepared and cooked as appropriate for human consumption. In sprouted or cooked form, the relative nutritional and anti-nutritional contents of each of these grains is remarkably different from that of raw form of these grains reported in this table.
+</p><p>In cooked form, the nutrition value for each staple depends on the cooking method (for example: baking, boiling, steaming, frying, etc.).
+</p><p><a href="/w/index.php?title=Template:Comparison_of_major_staple_foods&amp;action=edit&amp;redlink=1" class="new" title="Template:Comparison of major staple foods (page does not exist)">Template:Comparison of major staple foods</a>
+</p>
+<h2><span class="mw-headline" id="Commercial_use">Commercial use</span></h2>
+<p>Harvested wheat grain that enters trade is classified according to grain properties for the purposes of the <a href="/wiki/Commodity_market" title="Commodity market">commodity markets</a>. Wheat buyers use these to decide which wheat to buy, as each class has special uses, and producers use them to decide which classes of wheat will be most profitable to cultivate.
+</p><p>Wheat is widely cultivated as a <a href="/wiki/Cash_crop" title="Cash crop">cash crop</a> because it produces a good yield per unit area, grows well in a <a href="/wiki/Temperate_climate" title="Temperate climate">temperate climate</a> even with a moderately short <a href="/wiki/Growing_season" title="Growing season">growing season</a>, and yields a versatile, high-quality <a href="/wiki/Flour" title="Flour">flour</a> that is widely used in <a href="/wiki/Baking" title="Baking">baking</a>.  Most <a href="/wiki/Bread" title="Bread">breads</a> are made with wheat flour, including many breads named for the other grains they contain like most <a href="/wiki/Rye" title="Rye">rye</a> and <a href="/wiki/Oat" title="Oat">oat</a> breads. The popularity of foods made from wheat flour creates a large demand for the grain, even in economies with significant food <a href="/wiki/Economic_surplus" title="Economic surplus">surpluses</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Punjabi_Utensil_-_Chaba.JPG" title="File:Punjabi Utensil - Chaba.JPG">File:Punjabi Utensil - Chaba.JPG</a>  <div class="thumbcaption">Utensil made of dry wheat branches for loaves of bread</div></div></div>
+<p>In recent years, low international wheat prices have often encouraged farmers in the USA to change to more profitable crops. In 1998, the price at harvest was $2.68 per <a href="/wiki/Bushel" title="Bushel">bushel</a>. USDA report<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup> revealed that in 1998, average operating costs were $1.43 per bushel and total costs were $3.97 per bushel. In that study, farm wheat yields averaged 41.7 bushels per acre (2.2435 metric ton/hectare), and typical total wheat production value was $31,900 per farm, with total farm production value (including other crops) of $173,681 per farm, plus $17,402 in government payments. There were significant profitability differences between low- and high-cost farms, mainly due to crop yield differences, location, and farm size.
+</p><p>In 2007 there was a dramatic rise in the price of wheat due to freezes and flooding in the northern hemisphere and a drought in Australia. Wheat futures in September, 2007 for December and March delivery had risen above $9.00 a bushel, prices never seen before.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup> There were complaints in Italy about the high price of pasta.
+</p>
+<h2><span class="mw-headline" id="Production_and_consumption">Production and consumption</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:WheatYield.png" title="File:WheatYield.png">File:WheatYield.png</a>  <div class="thumbcaption">A map of worldwide wheat production.</div></div></div>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:The_combine_Claas_Lexion_584_in_the_wheat_harvest.jpg" title="File:The combine Claas Lexion 584 in the wheat harvest.jpg">File:The combine Claas Lexion 584 in the wheat harvest.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=En:Combine_harvester&amp;action=edit&amp;redlink=1" class="new" title="En:Combine harvester (page does not exist)">combine</a> <a href="/w/index.php?title=En:Lexion&amp;action=edit&amp;redlink=1" class="new" title="En:Lexion (page does not exist)">Claas Lexion 584 06833</a> is threshing the wheat. Then he crushes the <a href="/w/index.php?title=En:Chaff&amp;action=edit&amp;redlink=1" class="new" title="En:Chaff (page does not exist)">chaff</a> and blows it across the field.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Unload_wheat_by_the_combine_Claas_Lexion_584.jpg" title="File:Unload wheat by the combine Claas Lexion 584.jpg">File:Unload wheat by the combine Claas Lexion 584.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=En:Combine_harvester&amp;action=edit&amp;redlink=1" class="new" title="En:Combine harvester (page does not exist)">combine</a> <a href="/w/index.php?title=En:Lexion&amp;action=edit&amp;redlink=1" class="new" title="En:Lexion (page does not exist)">Claas Lexion 584 06833</a> mows, threshes, shreddes the <a href="/w/index.php?title=En:Chaff&amp;action=edit&amp;redlink=1" class="new" title="En:Chaff (page does not exist)">chaff</a> and blows it across the field. In the meantime he loads the threshed wheat at full speed on a trailer.</div></div></div>
+<p>In 2003, global per capita wheat consumption was <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, with the highest per capita consumption of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> found in <a href="/wiki/Kyrgyzstan" title="Kyrgyzstan">Kyrgyzstan</a>.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup> In 1997, global wheat consumption was <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> per capita, with the highest consumption <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> per capita in <a href="/wiki/Denmark" title="Denmark">Denmark</a>, but most of this (81%) was for animal feed.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup> Wheat is the primary food staple in North Africa and the Middle East, and is growing in popularity in Asia. Unlike rice, wheat production is more widespread globally though China's share is almost one-sixth of the world.
+</p><p>"There is a little increase in yearly crop yield comparison to the year 1990. The reason for this is not in development of sowing area, but the slow and successive increasing of the average yield. Average 2.5 tons wheat was produced on one hectare crop land in the world in the first half of 1990s, however this value was about 3 tons in 2009. In the world per capita wheat producing area continuously decreased between 1990 and 2009 considering the change of world population. There was no significant change in wheat producing area in this period. However due to the improvement of average yields there is some fluctuation in each year considering the per capita production, but there is no considerable decline. In 1990 per capita production was 111.98 kg/capita/year, while it was already 100.62 kg/capita/year in 2009. The decline is evident and the per capita production level of the year 1990 can not be feasible simultaneously with the growth of world population in spite of the increased average yields. In the whole period the lowest per capita production was in 2006."<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>
+</p><p>In the 20th century, global wheat output expanded by about 5-fold, but until about 1955 most of this reflected increases in wheat crop area, with lesser (about 20%) increases in crop yields per unit area. After 1955 however, there was a dramatic ten-fold increase in the rate of wheat yield improvement per year, and this became the major factor allowing global wheat production to increase. Thus technological innovation and scientific crop management with <a href="/wiki/Haber_process" title="Haber process">synthetic nitrogen fertilizer</a>, irrigation and wheat breeding were the main drivers of wheat output growth in the second half of the century. There were some significant decreases in wheat crop area, for instance in North America.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>
+</p><p>Better seed storage and germination ability (and hence a smaller requirement to retain harvested crop for next year's seed) is another 20th century technological innovation. In Medieval England, farmers saved one-quarter of their wheat harvest as seed for the next crop, leaving only three-quarters for food and feed consumption. By 1999, the global average seed use of wheat was about 6% of output.
+</p><p>Several factors are currently slowing the rate of global expansion of wheat production: population growth rates are falling while wheat yields continue to rise, and the better economic profitability of other crops such as soybeans and maize, linked with investment in modern genetic technologies, has promoted shifts to other crops.
+</p><p>"However, the ever growing world population will certainly make it necessary to increase wheat production, especially if meat consumption grows in the developing countries, too. The reason for the latter is that to produce more meat more fodder is needed, and as a consequence wheat self-sufficiency level of the countries will go under changes. If the human society once reaches such a high level of civilization that ensuring the well-being of few people does not endanger the life of others, then intensification of wheat production and hence establishing food security become an utmost important issue for everybody. And even if the current level of consumption is theoretically sustainable, there is another serious problem that we have to face: today people are dying of hunger in the world even apart from this problem. If we go beyond looking at the average consumption level on the global scale, we will face immense differences among the level of consumption in the different regions of the globe. There is a well known howling discrepancy between the developed and the developing world: namely, there is excess and at the same time wasting of food in the so-called modern societies, and on the other hand lack or undersupply of food in the poorer countries. People are suffering from overweight and its consequent illnesses in the developed world and on the other part of the world people are suffering from lack of food, from undernourishment and its consequent illnesses."<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Farming_systems">Farming systems</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Woman_harvesting_wheat,_Raisen_district,_Madhya_Pradesh,_India_ggia_version.jpg" title="File:Woman harvesting wheat, Raisen district, Madhya Pradesh, India ggia version.jpg">File:Woman harvesting wheat, Raisen district, Madhya Pradesh, India ggia version.jpg</a>  <div class="thumbcaption">Woman harvesting wheat, Raisen district, Madhya Pradesh, India</div></div></div>
+<p>In the <a href="/wiki/Punjab_region" title="Punjab region">Punjab region</a> of <a href="/wiki/India" title="India">India</a> and <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, as well as North China, irrigation has been a major contributor to increased grain output. More widely over the last 40 years, a massive increase in fertilizer use together with the increased availability of semi-dwarf varieties in developing countries, has greatly increased yields per hectare. In developing countries, use of (mainly nitrogenous) fertilizer increased 25-fold in this period. However, farming systems rely on much more than fertilizer and breeding to improve productivity. A good illustration of this is Australian wheat growing in the southern winter cropping zone, where, despite low rainfall (300&#160;mm), wheat cropping is successful even with relatively little use of nitrogenous fertilizer. This is achieved by 'rotation cropping' (traditionally called the ley system) with leguminous pastures and, in the last decade, including a <a href="/wiki/Canola" title="Canola">canola</a> crop in the rotations has boosted wheat yields by a further 25%.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> In these low rainfall areas, better use of available soil-water (and better control of soil erosion) is achieved by retaining the stubble after harvesting and by minimizing tillage.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup>
+</p><p>In 2009, the most productive farms for wheat were in France producing 7.45 metric tonnes per hectare. The five largest producers of wheat in 2009 were China (115 million metric tonnes), India (81 MMT), Russian Federation (62 MMT), United States (60 MMT) and France (38 MMT). The wheat farm productivity in India and Russia were about 35% of the wheat farm productivity in France. China's farm productivity for wheat, in 2009,  was about double that of Russia.<sup id="cite_ref-OSU2009_3-1" class="reference"><a href="#cite_note-OSU2009-3">[3]</a></sup>
+</p><p>In addition to gaps in farming system technology and knowledge, some large wheat grain producing countries have significant losses after harvest at the farm and because of poor roads, inadequate storage technologies, inefficient supply chains and farmers' inability to bring the produce into retail markets dominated by small shopkeepers. Various studies in India, for example, have concluded that about 10% of total wheat production is lost at farm level, another 10% is lost because of poor storage and road networks, and additional amounts lost at the retail level. One study claims that if these post-harvest wheat grain losses could be eliminated with better infrastructure and retail network, in India alone enough food would be saved every year to feed 70 to 100 million people over a year.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Futures_contracts">Futures contracts</span></h3>
+<p>Wheat <a href="/wiki/Futures_contract" title="Futures contract">futures</a> are traded on the <a href="/wiki/Chicago_Board_of_Trade" title="Chicago Board of Trade">Chicago Board of Trade</a>, <a href="/w/index.php?title=Kansas_City_Board_of_Trade&amp;action=edit&amp;redlink=1" class="new" title="Kansas City Board of Trade (page does not exist)">Kansas City Board of Trade</a>, and <a href="/w/index.php?title=Minneapolis_Grain_Exchange&amp;action=edit&amp;redlink=1" class="new" title="Minneapolis Grain Exchange (page does not exist)">Minneapolis Grain Exchange</a>, and have delivery dates in March (H), May (K), July (N), September (U), and December (Z).<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Geographical_variation">Geographical variation</span></h3>
+<table class="sortable wikitable" style="float:right; margin: 0 0 0.5em 1em">
+<caption> Top wheat producers <br />(in million metric tons)
+</caption>
+<tr>
+<th>Rank
+</th>
+<th>Country
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th>
+<th>2012
+</th></tr>
+<tr>
+<td> 1 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_China&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data China (page does not exist)">Template:Country data China</a> </td>
+<td> 115 </td>
+<td> 115 </td>
+<td> 117 </td>
+<td> 126
+</td></tr>
+<tr>
+<td> 2 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_India&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data India (page does not exist)">Template:Country data India</a> </td>
+<td> 80 </td>
+<td> 80 </td>
+<td> 86 </td>
+<td> 95
+</td></tr>
+<tr>
+<td> 3 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_United_States&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data United States (page does not exist)">Template:Country data United States</a> </td>
+<td> 60 </td>
+<td> 60 </td>
+<td> 54 </td>
+<td> 62
+</td></tr>
+<tr>
+<td> 4 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_France&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data France (page does not exist)">Template:Country data France</a> </td>
+<td> 38 </td>
+<td> 40 </td>
+<td> 38 </td>
+<td> 40
+</td></tr>
+<tr>
+<td> 5 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Russia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Russia (page does not exist)">Template:Country data Russia</a> </td>
+<td> 61 </td>
+<td> 41 </td>
+<td> 56 </td>
+<td> 38
+</td></tr>
+<tr>
+<td> 6 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Australia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Australia (page does not exist)">Template:Country data Australia</a> </td>
+<td> 21 </td>
+<td> 22 </td>
+<td> 27 </td>
+<td> 30
+</td></tr>
+<tr>
+<td> 7 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Canada&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Canada (page does not exist)">Template:Country data Canada</a> </td>
+<td> 26 </td>
+<td> 23 </td>
+<td> 25 </td>
+<td> 27
+</td></tr>
+<tr>
+<td> 8 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Pakistan&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Pakistan (page does not exist)">Template:Country data Pakistan</a> </td>
+<td> 24 </td>
+<td> 23 </td>
+<td> 25 </td>
+<td> 24
+</td></tr>
+<tr>
+<td> 9 </td>
+<td> <a href="/w/index.php?title=Template:GER&amp;action=edit&amp;redlink=1" class="new" title="Template:GER (page does not exist)">Template:GER</a> </td>
+<td> 25 </td>
+<td> 24 </td>
+<td> 22 </td>
+<td> 22
+</td></tr>
+<tr>
+<td> 10 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Turkey&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Turkey (page does not exist)">Template:Country data Turkey</a> </td>
+<td> 20 </td>
+<td> 19 </td>
+<td> 21 </td>
+<td> 20
+</td></tr>
+<tr>
+<td> 11 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Ukraine&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Ukraine (page does not exist)">Template:Country data Ukraine</a> </td>
+<td> 20 </td>
+<td> 16 </td>
+<td> 22 </td>
+<td> 16
+</td></tr>
+<tr>
+<td> 12 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Iran&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Iran (page does not exist)">Template:Country data Iran</a> </td>
+<td> 13 </td>
+<td> 13 </td>
+<td> 13 </td>
+<td> 14
+</td></tr>
+<tr>
+<td> 13 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Kazakhstan&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Kazakhstan (page does not exist)">Template:Country data Kazakhstan</a> </td>
+<td> 17 </td>
+<td> 9 </td>
+<td> 22 </td>
+<td> 13
+</td></tr>
+<tr>
+<td> 14 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_United_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data United Kingdom (page does not exist)">Template:Country data United Kingdom</a> </td>
+<td> 14 </td>
+<td> 14 </td>
+<td> 15 </td>
+<td> 13
+</td></tr>
+<tr>
+<td> 15 </td>
+<td> <a href="/w/index.php?title=Template:Country_data_Argentina&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Argentina (page does not exist)">Template:Country data Argentina</a> </td>
+<td> 9 </td>
+<td> 15 </td>
+<td> 14 </td>
+<td> 11
+</td></tr>
+<tr bgcolor="#CCCCCC">
+<td> — </td>
+<td> <i>World</i> </td>
+<td> 686 </td>
+<td> 651 </td>
+<td> 704 </td>
+<td> 675
+</td></tr>
+<tr>
+<td colspan="6"> <i>Source: <a href="/w/index.php?title=FAO&amp;action=edit&amp;redlink=1" class="new" title="FAO (page does not exist)">UN Food &amp; Agriculture Organization</a></i> <sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup>
+</td></tr></table>
+<p>There are substantial differences in wheat farming, trading, policy, sector growth, and wheat uses in different regions of the world. In the EU and Canada for instance, there is significant addition of wheat to animal feeds, but less so in the USA.
+</p><p>The biggest <a href="/wiki/International_wheat_production_statistics" title="International wheat production statistics">wheat producer</a> in 2010 was <a href="/wiki/European_Union" title="European Union">EU-27</a>, followed by China, India, USA and Russian Federation.<sup id="cite_ref-wflour1_67-0" class="reference"><a href="#cite_note-wflour1-67">[67]</a></sup>
+</p><p>The largest exporters of wheat in 2009 were, in order of exported quantities: United States, EU-27, Canada, Russian Federation, Australia, Ukraine and Kazakhstan. Upon the results of 2011, <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> became the world's sixth wheat exporter as well.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup> The largest importers of wheat in 2009 were, in order of imported quantities: Egypt, EU-27, Brazil, Indonesia, Algeria and Japan.  EU-27 was on both export and import list, because EU countries such as Italy and Spain imported wheat, while other EU-27 countries exported their harvest. The <a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a> region&#160;– which includes Kazakhstan, the Russian Federation and Ukraine&#160;– is amongst the most promising area for grain exporters; it possess significant production potential in terms of both wheat yield and area increases. The Black Sea region is also located close to the traditional grain importers in the Middle East, North Africa and Central Asia.<sup id="cite_ref-wflour1_67-1" class="reference"><a href="#cite_note-wflour1-67">[67]</a></sup>
+</p><p>In the rapidly developing countries of Asia, westernization of diets associated with increasing prosperity is leading to growth in <i>per capita</i> demand for wheat at the expense of the other food staples.
+</p><p>In the past, there has been significant governmental intervention in wheat markets, such as price supports in the USA and farm payments in the EU. In the EU these subsidies have encouraged heavy use of fertilizer inputs with resulting high crop yields. In Australia and Argentina direct government subsidies are much lower.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup>
+</p>
+<h3><span class="mw-headline" id="World.27s_most_productive_wheat_farms_and_farmers">World's most productive wheat farms and farmers</span></h3>
+<p>The average world farm yield for wheat was 3.1 tonnes per hectare, in 2010.
+</p><p>Dutch wheat farms were the most productive in 2010, with a nationwide average of 8.9 tonnes per hectare.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup> Belgium was a close second.
+</p><p>Various regions of the world hold wheat production yield contests every year. Yields above 12 tonnes per hectare are routinely achieved in many parts of the world. Chris Dennison of Oamaru, New Zealand, set a world record for wheat yield in 2003 at 15.015 tonnes per hectare (223 bushels/acre). In 2010, this record was surpassed by another New Zealand farmer, Michael Solari, with 15.636  tonnes per hectare (232.64 bushels/acre) at Otama, Gore.<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Agronomy">Agronomy</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Spiklet.jpg" title="File:Spiklet.jpg">File:Spiklet.jpg</a>  <div class="thumbcaption">Wheat spikelet with the three anthers sticking out</div></div></div>
+<h3><span class="mw-headline" id="Crop_development">Crop development</span></h3>
+<p>Wheat normally needs between 110 and 130 days between sowing and harvest, depending upon climate, seed type, and soil conditions (winter wheat lies dormant during a winter freeze). Optimal crop management requires that the farmer have a detailed understanding of each stage of development in the growing plants. In particular, spring <a href="/wiki/Fertilizer" title="Fertilizer">fertilizers</a>, <a href="/wiki/Herbicide" title="Herbicide">herbicides</a>, <a href="/wiki/Fungicide" title="Fungicide">fungicides</a>, and <a href="/wiki/Plant_hormone" title="Plant hormone">growth regulators</a> are typically applied only at specific stages of plant development. For example, it is currently recommended that the second application of nitrogen is best done when the ear (not visible at this stage) is about 1&#160;cm in size (Z31 on <a href="/wiki/Zadoks_scale" title="Zadoks scale">Zadoks scale</a>). Knowledge of stages is also important to identify periods of higher risk from the climate. For example, pollen formation from the mother cell, and the stages between <a href="/w/index.php?title=Anthesis&amp;action=edit&amp;redlink=1" class="new" title="Anthesis (page does not exist)">anthesis</a> and maturity are susceptible to high temperatures, and this adverse effect is made worse by water stress.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup>  Farmers also benefit from knowing when the 'flag leaf' (last leaf) appears, as this leaf represents about 75% of photosynthesis reactions during the grain filling period, and so should be preserved from disease or insect attacks to ensure a good yield.
+</p><p>Several systems exist to identify crop stages, with the <a href="/w/index.php?title=Feekes_scale&amp;action=edit&amp;redlink=1" class="new" title="Feekes scale (page does not exist)">Feekes</a> and <a href="/wiki/Zadoks_scale" title="Zadoks scale">Zadoks scales</a> being the most widely used. Each scale is a standard system which describes successive stages reached by the crop during the agricultural season.
+</p><p><a href="/w/index.php?title=Template:Triple_image&amp;action=edit&amp;redlink=1" class="new" title="Template:Triple image (page does not exist)">Template:Triple image</a>
+</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Diseases">Diseases</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+There are many wheat diseases, mainly caused by <a href="/w/index.php?title=Fungi&amp;action=edit&amp;redlink=1" class="new" title="Fungi (page does not exist)">fungi</a>, <a href="/w/index.php?title=Bacteria&amp;action=edit&amp;redlink=1" class="new" title="Bacteria (page does not exist)">bacteria</a>, and <a href="/wiki/Viruses" title="Viruses" class="mw-redirect">viruses</a>.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup> <a href="/wiki/Transgenic_plant" title="Transgenic plant" class="mw-redirect">Plant breeding</a> to develop new disease-resistant varieties, and sound crop management practices are important for preventing disease. Fungicides, used to prevent the significant crop losses from fungal disease, can be a significant variable cost in wheat production. Estimates of the amount of wheat production lost owing to plant diseases vary between 10–25% in Missouri.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup> A wide range of organisms infect wheat, of which the most important are viruses and fungi.<sup id="cite_ref-75" class="reference"><a href="#cite_note-75">[75]</a></sup>
+</p><p>The main wheat-disease categories are:
+</p>
+<ul>
+<li>Seed-borne diseases: these include seed-borne scab, seed-borne <i><a href="/w/index.php?title=Stagonospora&amp;action=edit&amp;redlink=1" class="new" title="Stagonospora (page does not exist)">Stagonospora</a></i> (previously known as <i>Septoria</i>), <a href="/w/index.php?title=Common_bunt&amp;action=edit&amp;redlink=1" class="new" title="Common bunt (page does not exist)">common bunt</a> (stinking smut), and <a href="/w/index.php?title=Loose_smut&amp;action=edit&amp;redlink=1" class="new" title="Loose smut (page does not exist)">loose smut</a>. These are managed with <a href="/wiki/Fungicide" title="Fungicide">fungicides</a>.
+</li>
+<li>Leaf- and head- <a href="/wiki/Blight" title="Blight">blight</a> diseases: Powdery mildew, <a href="/w/index.php?title=Wheat_leaf_rust&amp;action=edit&amp;redlink=1" class="new" title="Wheat leaf rust (page does not exist)">leaf rust</a>, <i><a href="/w/index.php?title=Septoria_tritici&amp;action=edit&amp;redlink=1" class="new" title="Septoria tritici (page does not exist)">Septoria tritici</a></i> leaf blotch, <i>Stagonospora</i> (<i>Septoria</i>) nodorum leaf and glume blotch, and <i><a href="/wiki/Fusarium" title="Fusarium">Fusarium</a></i> head scab.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[76]</a></sup>
+</li>
+<li>Crown and <a href="/w/index.php?title=Root_rot&amp;action=edit&amp;redlink=1" class="new" title="Root rot (page does not exist)">root rot</a> diseases: Two of the more important of these are '<a href="/w/index.php?title=Take-all&amp;action=edit&amp;redlink=1" class="new" title="Take-all (page does not exist)">take-all</a>' and <i><a href="/w/index.php?title=Cephalosporium_gramineum&amp;action=edit&amp;redlink=1" class="new" title="Cephalosporium gramineum (page does not exist)">Cephalosporium</a></i> stripe. Both of these diseases are soil borne.
+</li>
+<li>Stem rust diseases: Caused by <a href="/wiki/Basidiomycete" title="Basidiomycete" class="mw-redirect">basidiomycete</a> fungi e.g. <a href="/w/index.php?title=Ug99&amp;action=edit&amp;redlink=1" class="new" title="Ug99 (page does not exist)">Ug99</a>
+</li>
+<li>Viral diseases: <a href="/w/index.php?title=Wheat_spindle_streak_mosaic_virus&amp;action=edit&amp;redlink=1" class="new" title="Wheat spindle streak mosaic virus (page does not exist)">Wheat spindle streak mosaic</a> (yellow mosaic) and <a href="/wiki/Barley_yellow_dwarf" title="Barley yellow dwarf">barley yellow dwarf</a> are the two most common viral diseases. Control can be achieved by using resistant varieties.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Pests">Pests</span></h3>
+<p>Wheat is used as a food plant by the <a href="/wiki/Larva" title="Larva">larvae</a> of some <a href="/wiki/Lepidoptera" title="Lepidoptera">Lepidoptera</a> (<a href="/wiki/Butterfly" title="Butterfly">butterfly</a> and <a href="/wiki/Moth" title="Moth">moth</a>) species including <a href="/wiki/Flame_(moth)" title="Flame (moth)">The Flame</a>, <a href="/w/index.php?title=Rustic_Shoulder-knot&amp;action=edit&amp;redlink=1" class="new" title="Rustic Shoulder-knot (page does not exist)">Rustic Shoulder-knot</a>, <a href="/w/index.php?title=Setaceous_Hebrew_Character&amp;action=edit&amp;redlink=1" class="new" title="Setaceous Hebrew Character (page does not exist)">Setaceous Hebrew Character</a> and <a href="/wiki/Turnip_Moth" title="Turnip Moth">Turnip Moth</a>.
+Early in the season, many species of birds, including the <a href="/w/index.php?title=Long-tailed_Widowbird&amp;action=edit&amp;redlink=1" class="new" title="Long-tailed Widowbird (page does not exist)">Long-tailed Widowbird</a>, and rodents feed upon wheat crops.  These animals can cause significant damage to a crop by digging up and eating newly planted seeds or young plants. They can also damage the crop late in the season by eating the grain from the mature spike. Recent post-harvest losses in cereals amount to  billions of dollars per year in the USA alone, and damage to wheat by various borers, beetles and weevils is no exception.<sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[77]</a></sup> Rodents can also cause major losses during storage, and in major grain growing regions, field mice numbers can sometimes build up explosively to plague proportions because of the ready availability of food.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[78]</a></sup>  To reduce the amount of wheat lost to post-harvest pests, <a href="/wiki/Agricultural_Research_Service" title="Agricultural Research Service">Agricultural Research Service</a> scientists have developed an "insect-o-graph," which can detect insects in wheat that are not visible to the naked eye.  The device uses electrical signals to detect the insects as the wheat is being milled.  The new technology is so precise that it can detect 5-10 infested seeds out of 300,000 good ones.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[79]</a></sup>  Tracking insect infestations in stored grain is critical for food safety as well as for the marketing value of the crop.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p>{{#invoke:Portal|portal}}
+</p>
+<ul>
+<li><a href="/wiki/Bran" title="Bran">Bran</a>
+</li>
+<li><a href="/wiki/Chaff" title="Chaff">Chaff</a>
+</li>
+<li><a href="/w/index.php?title=Deficit_irrigation&amp;action=edit&amp;redlink=1" class="new" title="Deficit irrigation (page does not exist)">Deficit irrigation</a>
+</li>
+<li><a href="/wiki/Husk" title="Husk">Husk</a>
+</li>
+<li><a href="/w/index.php?title=Wheatberry&amp;action=edit&amp;redlink=1" class="new" title="Wheatberry (page does not exist)">Wheatberry</a>
+</li>
+<li><a href="/w/index.php?title=Wheat_germ_oil&amp;action=edit&amp;redlink=1" class="new" title="Wheat germ oil (page does not exist)">Wheat germ oil</a>
+</li>
+<li><a href="/wiki/History_of_agriculture_in_the_United_States#Wheat" title="History of agriculture in the United States">Wheat growing history of the USA</a>
+</li>
+<li><a href="/w/index.php?title=Wheat_middlings&amp;action=edit&amp;redlink=1" class="new" title="Wheat middlings (page does not exist)">Wheat middlings</a>
+</li>
+<li><a href="/w/index.php?title=Whole_wheat_flour&amp;action=edit&amp;redlink=1" class="new" title="Whole wheat flour (page does not exist)">Whole wheat flour</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+<a href="/w/index.php?title=Template:Citizendium&amp;action=edit&amp;redlink=1" class="new" title="Template:Citizendium (page does not exist)">Template:Citizendium</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li>Bonjean, A.P., and W.J. Angus (editors).  The World Wheat Book: a history of wheat breeding.  Lavoisier Publ., Paris.  1131 pp.  (2001). <a href="/wiki/Special:BookSources/2743004029" class="internal mw-magiclink-isbn">ISBN 2-7430-0402-9</a>
+</li>
+<li> <a href="/w/index.php?title=Template:Literatur&amp;action=edit&amp;redlink=1" class="new" title="Template:Literatur (page does not exist)">Template:Literatur</a>
+</li>
+<li>Garnsey Peter,  Grain for Rome, in Garnsey P., Hopkins K., Whittaker C. R. (editors), Trade in the Ancient Economy, Chatto &amp; Windus, London 1983
+</li>
+<li>Head L., Atchison J., and Gates A. <i>Ingrained: A Human Bio-geography of Wheat</i>. Ashgate Publ., Burlington. 246 pp. (2012). <a href="/wiki/Special:BookSources/9781409437871" class="internal mw-magiclink-isbn">ISBN 978-1-4094-3787-1</a>
+</li>
+<li>Jasny Naum, <i>The daily bread of ancient Greeks and Romans</i>, Ex Officina Templi, Brugis 1950
+</li>
+<li>Jasny Naum, <i>The Wheats of Classical Antiquity, J</i>. Hopkins Press, Baltimore 1944
+</li>
+<li>Heiser Charles B., <i>Seed to civilisation. The story of food,</i> Harvard University Press, Harvard Mass. 1990
+</li>
+<li>Harlan Jack R., <i>Crops and man</i>, American Society of Agronomy, Madison 1975
+</li>
+<li><a href="/w/index.php?title=Template:Cite_book&amp;action=edit&amp;redlink=1" class="new" title="Template:Cite book (page does not exist)">Template:Cite book</a>
+</li>
+<li>Saltini Antonio, <i>I semi della civiltà. Grano, riso e mais nella storia delle società umane</i>, Prefazione di Luigi Bernabò Brea, Avenue Media, Bologna 1996
+</li>
+<li>Sauer Jonathan D., <i>Geography of Crop Plants. A Select Roster</i>, CRC Press, Boca Raton
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wheatgenome.info/">Information on wheat genome sequencing</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.indexmundi.com/commodities/?commodity=wheat&amp;months=300">Price history of wheat, according to the IMF</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.flickr.com/photos/jaco/sets/72157604419390265/">Photos of wheat fields</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.abc.net.au/catalyst/stories/s1913579.htm">Watch Australian science documentary on developing drought-resistant wheat</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.wheatfoods.org/">Wheat Foods Council</a> Est. 1972
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.wheatworld.org/">NAWG</a>—Web site of the <a href="/w/index.php?title=National_Association_of_Wheat_Growers&amp;action=edit&amp;redlink=1" class="new" title="National Association of Wheat Growers (page does not exist)">National Association of Wheat Growers</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.cimmyt.org/">CIMMYT</a>—Web site of the <a href="/wiki/International_Maize_and_Wheat_Improvement_Center" title="International Maize and Wheat Improvement Center">International Maize and Wheat Improvement Center</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.hort.purdue.edu/newcrop/crops/wheat.html">Triticum species</a> at <a href="/wiki/Purdue_University" title="Purdue University">Purdue University</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.genetics.org/cgi/content/full/168/2/1087">A Workshop Report on Wheat Genome Sequencing</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.genome.org/cgi/content/full/10/10/1509">Molecular Genetic Maps in Wild Emmer Wheat</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.skyways.org/orgs/fordco/malin/">Winter Wheat in the Golden Belt of Kansas</a> by James C. Malin, University of Kansas, 1944
+</li>
+<li><a rel="nofollow" class="external text" href="http://digital.library.unt.edu/permalink/meta-dc-1510:1"><i>Varieties of club wheat</i></a> hosted by the <a rel="nofollow" class="external text" href="http://digital.library.unt.edu/browse/department/govdocs/">UNT Government Documents Department</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.geochembio.com/biology/organisms/wheat/"><b>Triticum aestivum</b>: facts, developmental stages, and inflorescence at GeoChemBio</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;Cmd=DetailsSearch&amp;Term=%22Triticum%22%5BMajr%5D+AND+%22loattrfree+full+text%22%5Bsb%5D">Major topic "Triticum": free full-text articles in National Library of Medicine</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://books.google.com/books?id=GtkDAAAAMBAJ&amp;pg=PA89&amp;dq=popular+mechanics+July+1932+airplane&amp;hl=en&amp;ei=IoAZTePWB-DRnAe63OjPDg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=7&amp;ved=0CDgQ6AEwBjg8#v=onepage&amp;q&amp;f=true">"Gold Harvest Feeds The World"</a> <i>Popular Mechanics</i>, July 1949, post World War Two modernization of wheat harvesting
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Wheat&amp;action=edit&amp;redlink=1" class="new" title="Template:Wheat (page does not exist)">Template:Wheat</a>
+<a href="/w/index.php?title=Template:Cereals&amp;action=edit&amp;redlink=1" class="new" title="Template:Cereals (page does not exist)">Template:Cereals</a>
+<a href="/w/index.php?title=Template:Bioenergy&amp;action=edit&amp;redlink=1" class="new" title="Template:Bioenergy (page does not exist)">Template:Bioenergy</a><a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<a href="/w/index.php?title=Template:Link_FA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link FA (page does not exist)">Template:Link FA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.980 seconds
+Real time usage: 1.031 seconds
+Preprocessor visited node count: 1921/1000000
+Preprocessor generated node count: 14868/1000000
+Post‐expand include size: 3097/2097152 bytes
+Template argument size: 108/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:24388-0!*!0!!en!2!* and timestamp 20170407172805
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Wheat&amp;oldid=24388">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Wheat&amp;oldid=24388</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Wheat&amp;action=edit&amp;redlink=1" class="new" title="Category:Wheat (page does not exist)">Wheat</a></li><li><a href="/wiki/Category:Crops" title="Category:Crops">Crops</a></li><li><a href="/w/index.php?title=Category:Energy_crops&amp;action=edit&amp;redlink=1" class="new" title="Category:Energy crops (page does not exist)">Energy crops</a></li><li><a href="/w/index.php?title=Category:Poaceae_genera&amp;action=edit&amp;redlink=1" class="new" title="Category:Poaceae genera (page does not exist)">Poaceae genera</a></li><li><a href="/w/index.php?title=Category:Staple_foods&amp;action=edit&amp;redlink=1" class="new" title="Category:Staple foods (page does not exist)">Staple foods</a></li><li><a href="/w/index.php?title=Category:Crops_of_Metropolitan_France&amp;action=edit&amp;redlink=1" class="new" title="Category:Crops of Metropolitan France (page does not exist)">Crops of Metropolitan France</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wheat" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wheat"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Wheat&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Wheat" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Wheat&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wheat&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wheat" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wheat" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Wheat&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Wheat&amp;oldid=24388" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Wheat&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2014, at 17:57.</li>
+											<li id="footer-info-viewcount">This page has been accessed 124 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.320 secs. -->
+	</body>
+</html>

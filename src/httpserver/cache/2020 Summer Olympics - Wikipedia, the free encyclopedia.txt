@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>2020 Summer Olympics - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2020_Summer_Olympics","wgTitle":"2020 Summer Olympics","wgCurRevisionId":888900,"wgRevisionId":888900,"wgArticleId":888900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category template with no category set","Commons category with page title different than on Wikidata","2020 Summer Olympics","2020 in multi-sport events","Scheduled multi-sport events","2020 in sports","Sport in Tokyo","Olympic Games in Japan","2020 Summer Olympics bids","21st century in Tokyo","2020 in Japanese sport"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2020_Summer_Olympics","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-2020_Summer_Olympics skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">2020 Summer Olympics</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use dmy dates (page does not exist)">Template:Use dmy dates</a>
+<a href="/w/index.php?title=Template:Pp-semi-indef&amp;action=edit&amp;redlink=1" class="new" title="Template:Pp-semi-indef (page does not exist)">Template:Pp-semi-indef</a>
+</p><p>{{#invoke:Infobox|infobox}}
+</p><p>The <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, officially known as the <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> and colloquially as the <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, is a planned major international <a href="/wiki/Multi-sport_event" title="Multi-sport event">sporting event</a> that is scheduled to be held from 24 July – 9 August 2020 in <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, Japan. Tokyo was announced as the host city at the <a href="/w/index.php?title=125th_IOC_Session&amp;action=edit&amp;redlink=1" class="new" title="125th IOC Session (page does not exist)">125th</a> <a href="/w/index.php?title=IOC_Session&amp;action=edit&amp;redlink=1" class="new" title="IOC Session (page does not exist)">IOC Session</a> in <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>, Argentina, on 7 September 2013.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tokyo hosted the <a href="/wiki/1964_Summer_Olympics" title="1964 Summer Olympics">1964 Summer Olympic Games</a>, and in 2020 will become the first Asian city to host the Olympic Games twice.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bidding"><span class="tocnumber">1</span> <span class="toctext">Bidding</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Vote"><span class="tocnumber">1.1</span> <span class="toctext">Vote</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Development_and_preparation"><span class="tocnumber">2</span> <span class="toctext">Development and preparation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sports"><span class="tocnumber">3</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Calendar"><span class="tocnumber">4</span> <span class="toctext">Calendar</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Venues"><span class="tocnumber">5</span> <span class="toctext">Venues</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Heritage_Zone"><span class="tocnumber">5.1</span> <span class="toctext">Heritage Zone</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Tokyo_Bay_Zone"><span class="tocnumber">5.2</span> <span class="toctext">Tokyo Bay Zone</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Sites_farther_than_8_km_.285_miles.29_from_the_Olympic_Village"><span class="tocnumber">5.3</span> <span class="toctext">Sites farther than 8 km (5 miles) from the Olympic Village</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Football_venues"><span class="tocnumber">5.4</span> <span class="toctext">Football venues</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Non-competition_venues"><span class="tocnumber">5.5</span> <span class="toctext">Non-competition venues</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Media"><span class="tocnumber">6</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Broadcasting"><span class="tocnumber">6.1</span> <span class="toctext">Broadcasting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Bidding">Bidding</span></h2>
+<p><a href="/w/index.php?title=Template:Further2&amp;action=edit&amp;redlink=1" class="new" title="Template:Further2 (page does not exist)">Template:Further2</a>
+<a href="/w/index.php?title=Tokyo_bid_for_the_2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Tokyo bid for the 2020 Summer Olympics (page does not exist)">Tokyo</a>, <a href="/w/index.php?title=Istanbul_bid_for_the_2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Istanbul bid for the 2020 Summer Olympics (page does not exist)">Istanbul</a> and <a href="/w/index.php?title=Madrid_bid_for_the_2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Madrid bid for the 2020 Summer Olympics (page does not exist)">Madrid</a> were the three candidate cities. The applicant cities of <a href="/w/index.php?title=Baku_bid_for_the_2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Baku bid for the 2020 Summer Olympics (page does not exist)">Baku</a> and <a href="/w/index.php?title=Doha_bid_for_the_2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Doha bid for the 2020 Summer Olympics (page does not exist)">Doha</a> were not promoted to candidate status. A <a href="/w/index.php?title=Rome_bid_for_the_2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Rome bid for the 2020 Summer Olympics (page does not exist)">bid</a> from <a href="/wiki/Rome" title="Rome">Rome</a> was withdrawn.
+</p>
+<h3><span class="mw-headline" id="Vote">Vote</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+The IOC voted to select the host city of the 2020 Summer Olympics on 7 September 2013 at the <a href="/w/index.php?title=125th_IOC_Session&amp;action=edit&amp;redlink=1" class="new" title="125th IOC Session (page does not exist)">125th IOC Session</a> at the <a href="/w/index.php?title=Buenos_Aires_Hilton&amp;action=edit&amp;redlink=1" class="new" title="Buenos Aires Hilton (page does not exist)">Buenos Aires Hilton</a> in <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>, <a href="/w/index.php?title=Argentina&amp;action=edit&amp;redlink=1" class="new" title="Argentina (page does not exist)">Argentina</a>. An <a href="/w/index.php?title=Exhaustive_ballot&amp;action=edit&amp;redlink=1" class="new" title="Exhaustive ballot (page does not exist)">exhaustive ballot</a> system was used. No city won over 50% of the votes in the first round, and Madrid and Istanbul were tied for second place. A run-off vote between these two cities was held to determine which would be eliminated. In the final vote, a head-to-head contest between Tokyo and Istanbul, Tokyo was selected by 60 votes to 36.
+</p><p><a href="/w/index.php?title=Template:2020_Olympic_host_city_election&amp;action=edit&amp;redlink=1" class="new" title="Template:2020 Olympic host city election (page does not exist)">Template:2020 Olympic host city election</a>
+</p>
+<h2><span class="mw-headline" id="Development_and_preparation">Development and preparation</span></h2>
+<p>The Tokyo metropolitan government set aside a fund of 400 billion <a href="/wiki/Japanese_yen" title="Japanese yen">yen</a> to cover the cost of hosting the Games. The Japanese government is considering increasing slot capacity at both <a href="/w/index.php?title=Haneda_Airport&amp;action=edit&amp;redlink=1" class="new" title="Haneda Airport (page does not exist)">Haneda Airport</a> and <a href="/w/index.php?title=Narita_Airport&amp;action=edit&amp;redlink=1" class="new" title="Narita Airport (page does not exist)">Narita Airport</a> by easing airspace restrictions. A new railway line is planned to link both airports through an expansion of <a href="/wiki/Tokyo_Station" title="Tokyo Station">Tokyo Station</a>, cutting travel time from Tokyo Station to Haneda from 30 minutes to 18 minutes, and from Tokyo Station to Narita from 55 minutes to 36 minutes; the line would cost 400 billion yen and would be funded primarily by private investors.  But East JR is planning a new route near <a href="/wiki/Tamachi" title="Tamachi">Tamachi</a> to Haneda Airport.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>  Funding is also planned to accelerate completion of the <a href="/w/index.php?title=Central_Circular_Route_(Shuto_Expressway)&amp;action=edit&amp;redlink=1" class="new" title="Central Circular Route (Shuto Expressway) (page does not exist)">Central Circular Route</a>, <a href="/w/index.php?title=Tokyo_Gaikan_Expressway&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Gaikan Expressway (page does not exist)">Tokyo Gaikan Expressway</a> and <a href="/w/index.php?title=Ken-%C5%8C_Expressway&amp;action=edit&amp;redlink=1" class="new" title="Ken-Ō Expressway (page does not exist)">Ken-Ō Expressway</a>, and to refurbish other major expressways in the area.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> There are also plans to extend the <a href="/wiki/Yurikamome" title="Yurikamome">Yurikamome</a> automated transit line from its existing terminal at <a href="/w/index.php?title=Toyosu_Station&amp;action=edit&amp;redlink=1" class="new" title="Toyosu Station (page does not exist)">Toyosu Station</a> to a new terminal at <a href="/w/index.php?title=Kachidoki_Station&amp;action=edit&amp;redlink=1" class="new" title="Kachidoki Station (page does not exist)">Kachidoki Station</a>, passing the site of the Olympic Village, although the Yurikamome would still not have adequate capacity to serve major events in the <a href="/wiki/Odaiba" title="Odaiba">Odaiba</a> area on its own.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+</p><p>The Organizing Committee is headed by former Prime Minister <a href="/w/index.php?title=Yoshiro_Mori&amp;action=edit&amp;redlink=1" class="new" title="Yoshiro Mori (page does not exist)">Yoshiro Mori</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sports minister <a href="/w/index.php?title=Hakubun_Shimomura&amp;action=edit&amp;redlink=1" class="new" title="Hakubun Shimomura (page does not exist)">Hakubun Shimomura</a> is overseeing the preparations on behalf of the Japanese government.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sports">Sports</span></h2>
+<p>Following the 2012 Games, the IOC assessed the 26 sports held in London, with the remit of selecting 25 'core' sports to join new entrants golf and rugby sevens at the 2020 Games. In effect, this would involve the dropping of one sport from the 2016 Games program. This would leave a single vacancy in the 2020 Games program, which the IOC would seek to fill from a shortlist containing seven unrepresented sports and the removed sport. Events such as modern pentathlon, taekwondo and badminton were among those considered vulnerable.
+</p><p>On 12 February 2013, IOC leaders voted to drop <a href="/wiki/Wrestling" title="Wrestling">wrestling</a> from the Olympic program, a surprise decision that removed one of the oldest Olympic sports from the 2020 Games. Wrestling, which combines freestyle and Greco-Roman events, goes back to the inaugural modern Olympics in Athens in 1896,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> and even further to the Ancient Olympics. The decision to drop wrestling was opposed in many countries and by their NOCs.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-International_outrage_on_IOC.27s_decision_to_drop_wrestling_from_the_2020_Olympic_Games_9-0" class="reference"><a href="#cite_note-International_outrage_on_IOC.27s_decision_to_drop_wrestling_from_the_2020_Olympic_Games-9">[9]</a></sup><sup id="cite_ref-Wrestlers_support_Tokyo.27s_2020_Olympic_bid_10-0" class="reference"><a href="#cite_note-Wrestlers_support_Tokyo.27s_2020_Olympic_bid-10">[10]</a></sup><sup id="cite_ref-Bulgaria.27s_national_wrestling_team.27s_coach_goes_on_hunger_strike_to_protest_IOC.27s_decision_to_drop_wrestling_from_2020_Olympic_Games_11-0" class="reference"><a href="#cite_note-Bulgaria.27s_national_wrestling_team.27s_coach_goes_on_hunger_strike_to_protest_IOC.27s_decision_to_drop_wrestling_from_2020_Olympic_Games-11">[11]</a></sup> Wrestling therefore joined seven other sports in a list of eight applying for inclusion in the 2020 Games.
+</p><p>On 29 May 2013, it was announced that three sports remained in contention: squash, baseball/softball, and wrestling.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Five other sports (<a href="/wiki/Karate" title="Karate">karate</a>, <a href="/w/index.php?title=Roller_sport&amp;action=edit&amp;redlink=1" class="new" title="Roller sport (page does not exist)">roller sports</a>, <a href="/wiki/Sport_climbing" title="Sport climbing">sport climbing</a>, <a href="/wiki/Wakeboarding" title="Wakeboarding">wakeboarding</a>, and <a href="/w/index.php?title=Wushu_(sport)&amp;action=edit&amp;redlink=1" class="new" title="Wushu (sport) (page does not exist)">wushu</a>) were excluded from consideration at this point. On 8 September at the 125th IOC Session, the IOC selected wrestling to be included in the Olympic program for 2020 and <a href="/w/index.php?title=2024_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="2024 Summer Olympics (page does not exist)">2024</a>. Wrestling secured 49 votes, while baseball/softball secured 24 votes and squash got 22 votes.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Calendar">Calendar</span></h2>
+<dl>
+<dd><i>All dates are <a href="/wiki/Japan_Standard_Time" title="Japan Standard Time">JST</a> (<a href="/wiki/UTC%2B09:00" title="UTC+09:00">UTC+9</a>)</i>
+</dd>
+</dl>
+<p><a href="/w/index.php?title=Template:2020_Summer_Olympics_calendar&amp;action=edit&amp;redlink=1" class="new" title="Template:2020 Summer Olympics calendar (page does not exist)">Template:2020 Summer Olympics calendar</a>
+</p>
+<h2><span class="mw-headline" id="Venues">Venues</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Tokyo_Big_Sight_at_Night.jpg" title="File:Tokyo Big Sight at Night.jpg">File:Tokyo Big Sight at Night.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Tokyo_Big_Sight&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Big Sight (page does not exist)">Tokyo Big Sight</a> Conference Tower would be used as the International Broadcast Center</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Odaiba_Sunset.jpg" title="File:Odaiba Sunset.jpg">File:Odaiba Sunset.jpg</a>  <div class="thumbcaption">View of the <a href="/wiki/Rainbow_Bridge_(Tokyo)" title="Rainbow Bridge (Tokyo)">Rainbow Bridge</a> from Odaiba Marine Park</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Wakasu_seaside_park_aerial_photo.jpg" title="File:Wakasu seaside park aerial photo.jpg">File:Wakasu seaside park aerial photo.jpg</a>  <div class="thumbcaption">The <a href="/w/index.php?title=Wakasu&amp;action=edit&amp;redlink=1" class="new" title="Wakasu (page does not exist)">Wakasu</a> Olympic Marina, where Sailing will be held</div></div></div>
+<p>It was confirmed in February 2012 that the <a href="/wiki/National_Olympic_Stadium_(Tokyo)" title="National Olympic Stadium (Tokyo)">National Olympic Stadium</a> in Tokyo would receive a $1 billion upgrade and full–scale reconstruction for the <a href="/w/index.php?title=2019_Rugby_World_Cup&amp;action=edit&amp;redlink=1" class="new" title="2019 Rugby World Cup (page does not exist)">2019 Rugby World Cup</a> as well as the 2020 Olympics.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> As a result, a design competition for the new stadium was launched. In November 2012 the Japan Sport Council announced that out of 46 finalists, <a href="/w/index.php?title=Zaha_Hadid_Architects&amp;action=edit&amp;redlink=1" class="new" title="Zaha Hadid Architects (page does not exist)">Zaha Hadid Architects</a> was awarded the design for the new stadium. Plans include dismantling the original stadium, and expanding the capacity from 50,000 to a modern Olympic capacity of about 80,000.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</p><p>28 of the 33 competition venues in Tokyo are within <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of the Olympic Village. 11 new venues are to be constructed.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Heritage_Zone">Heritage Zone</span></h3>
+<p>Seven venues will be located within the central business area of Tokyo, northwest of the Olympic Village. Several of these venues were also used for the <a href="/wiki/1964_Summer_Olympics" title="1964 Summer Olympics">1964 Summer Olympics</a>.
+</p>
+<ul>
+<li><a href="/wiki/National_Olympic_Stadium_(Tokyo)" title="National Olympic Stadium (Tokyo)">National Olympic Stadium</a> – Opening and Closing Ceremonies, Athletics, Football (Final) and Rugby
+</li>
+<li><a href="/w/index.php?title=Yoyogi_National_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Yoyogi National Stadium (page does not exist)">Yoyogi National Stadium</a> – Handball
+</li>
+<li><a href="/w/index.php?title=Tokyo_Metropolitan_Gymnasium&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Metropolitan Gymnasium (page does not exist)">Tokyo Metropolitan Gymnasium</a> – Table tennis
+</li>
+<li><a href="/wiki/Nippon_Budokan" title="Nippon Budokan">Nippon Budokan</a> – Judo
+</li>
+<li><a href="/w/index.php?title=Tokyo_International_Forum&amp;action=edit&amp;redlink=1" class="new" title="Tokyo International Forum (page does not exist)">Tokyo International Forum</a> – Weight Lifting
+</li>
+<li><a href="/wiki/Tokyo_Imperial_Palace" title="Tokyo Imperial Palace">Imperial Palace Garden</a> – Cycling (Road)
+</li>
+<li><a href="/w/index.php?title=Ry%C5%8Dgoku_Kokugikan&amp;action=edit&amp;redlink=1" class="new" title="Ryōgoku Kokugikan (page does not exist)">Kokugikan Arena</a> – Boxing
+</li>
+</ul>
+<h3><span class="mw-headline" id="Tokyo_Bay_Zone">Tokyo Bay Zone</span></h3>
+<p>21 venues will be located in the vicinity of <a href="/wiki/Tokyo_Bay" title="Tokyo Bay">Tokyo Bay</a>, southeast of the Olympic Village, predominantly on <a href="/w/index.php?title=Ariake,_Tokyo&amp;action=edit&amp;redlink=1" class="new" title="Ariake, Tokyo (page does not exist)">Ariake</a>, <a href="/wiki/Odaiba" title="Odaiba">Odaiba</a> and the surrounding <a href="/wiki/Artificial_island" title="Artificial island">artificial islands</a>.
+</p>
+<ul>
+<li><a href="/w/index.php?title=Kasai_Rinkai_Park&amp;action=edit&amp;redlink=1" class="new" title="Kasai Rinkai Park (page does not exist)">Kasai Rinkai Park</a> – Canoe Kayak (slalom)
+</li>
+<li><a href="/w/index.php?title=Wakasu&amp;action=edit&amp;redlink=1" class="new" title="Wakasu (page does not exist)">Wakasu Olympic Marina</a> – Sailing
+</li>
+<li><a href="/w/index.php?title=Oi_Seaside_Park&amp;action=edit&amp;redlink=1" class="new" title="Oi Seaside Park (page does not exist)">Oi Seaside Park</a> – Hockey
+</li>
+<li><a href="/w/index.php?title=Olympic_Aquatics_Centre&amp;action=edit&amp;redlink=1" class="new" title="Olympic Aquatics Centre (page does not exist)">Olympic Aquatics Centre</a> – Aquatics (swimming, diving, waterpolo and synchronised swimming)
+</li>
+<li><a href="/w/index.php?title=Yumenoshima&amp;action=edit&amp;redlink=1" class="new" title="Yumenoshima (page does not exist)">Dream Island Stadium</a> – Equestrian (jumping, dressage and eventing)
+</li>
+<li><a href="/w/index.php?title=Yumenoshima&amp;action=edit&amp;redlink=1" class="new" title="Yumenoshima (page does not exist)">Dream Island Archery Field</a> – Archery
+</li>
+<li><a href="/w/index.php?title=Youth_Plaza_Arenas&amp;action=edit&amp;redlink=1" class="new" title="Youth Plaza Arenas (page does not exist)">Youth Plaza Arena A</a> – Badminton
+</li>
+<li><a href="/w/index.php?title=Youth_Plaza_Arenas&amp;action=edit&amp;redlink=1" class="new" title="Youth Plaza Arenas (page does not exist)">Youth Plaza Arena B</a> – Basketball
+</li>
+<li><a href="/w/index.php?title=Differ_Ariake_Arena&amp;action=edit&amp;redlink=1" class="new" title="Differ Ariake Arena (page does not exist)">Differ Ariake Arena</a> – Volleyball
+</li>
+<li><a href="/wiki/Olympic_Velodrome" title="Olympic Velodrome">Olympic Velodrome</a> – Cycling (track)
+</li>
+<li><a href="/w/index.php?title=Olympic_BMX_Course&amp;action=edit&amp;redlink=1" class="new" title="Olympic BMX Course (page does not exist)">Olympic BMX Course</a> – Cycling (BMX)
+</li>
+<li><a href="/w/index.php?title=Olympic_Gymnastic_Centre&amp;action=edit&amp;redlink=1" class="new" title="Olympic Gymnastic Centre (page does not exist)">Olympic Gymnastic Centre</a> – Gymnastics (artistic, rhythmic and trampoline)
+</li>
+<li><a href="/w/index.php?title=Ariake_Coliseum&amp;action=edit&amp;redlink=1" class="new" title="Ariake Coliseum (page does not exist)">Ariake Coliseum</a> – Tennis
+</li>
+<li><a href="/w/index.php?title=Odaiba_Marine_Park&amp;action=edit&amp;redlink=1" class="new" title="Odaiba Marine Park (page does not exist)">Odaiba Marine Park</a> – Triathlon and Aquatics (marathon swimming)
+</li>
+<li><a href="/w/index.php?title=Shiokaze_Park&amp;action=edit&amp;redlink=1" class="new" title="Shiokaze Park (page does not exist)">Shiokaze Park</a> – Beach Volleyball
+</li>
+<li><a href="/w/index.php?title=Tokyo_Big_Sight&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Big Sight (page does not exist)">Tokyo Big Sight Hall A</a> - Wrestling
+</li>
+<li><a href="/w/index.php?title=Tokyo_Big_Sight&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Big Sight (page does not exist)">Tokyo Big Sight Hall B</a> – Fencing and Taekwondo
+</li>
+<li><a href="/w/index.php?title=Central_Breakwater&amp;action=edit&amp;redlink=1" class="new" title="Central Breakwater (page does not exist)">Sea Forest Cross–Country Course</a> – Equestrian (eventing)
+</li>
+<li><a href="/w/index.php?title=Central_Breakwater&amp;action=edit&amp;redlink=1" class="new" title="Central Breakwater (page does not exist)">Sea Forest Waterway</a> – Rowing and Canoe Kayak (sprint)
+</li>
+<li><a href="/w/index.php?title=Central_Breakwater&amp;action=edit&amp;redlink=1" class="new" title="Central Breakwater (page does not exist)">Sea Forest Mountain Bike Course</a> – Cycling (mountain bike)
+</li>
+</ul>
+<h3><span class="mw-headline" id="Sites_farther_than_8_km_.285_miles.29_from_the_Olympic_Village">Sites farther than 8 km (5 miles) from the Olympic Village</span></h3>
+<ul>
+<li> <a href="/w/index.php?title=Asaka_Shooting_Range&amp;action=edit&amp;redlink=1" class="new" title="Asaka Shooting Range (page does not exist)">Asaka Shooting Range</a> – Shooting
+</li>
+<li> <a href="/w/index.php?title=Musashino_Forest_Sport_Centre&amp;action=edit&amp;redlink=1" class="new" title="Musashino Forest Sport Centre (page does not exist)">Musashino Forest Sport Centre</a> –  Modern Pentathlon (fencing)
+</li>
+<li> <a href="/w/index.php?title=Tokyo_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Stadium (page does not exist)">Tokyo Stadium</a> – Football and Modern Pentathlon (swimming, riding, running, shooting)
+</li>
+<li> <a href="/w/index.php?title=Kasumigaseki_Country_Club&amp;action=edit&amp;redlink=1" class="new" title="Kasumigaseki Country Club (page does not exist)">Kasumigaseki Country Club</a> – Golf
+</li>
+</ul>
+<h3><span class="mw-headline" id="Football_venues">Football venues</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Sapporo_Dome_moving_pitchjpg.jpg" title="File:Sapporo Dome moving pitchjpg.jpg">File:Sapporo Dome moving pitchjpg.jpg</a>  <div class="thumbcaption">The Sapporo Dome in <a href="/w/index.php?title=Sapporo&amp;action=edit&amp;redlink=1" class="new" title="Sapporo (page does not exist)">Sapporo</a></div></div></div>
+<ul>
+<li><a href="/wiki/National_Olympic_Stadium_(Tokyo)" title="National Olympic Stadium (Tokyo)">National Olympic Stadium</a>
+</li>
+<li><a href="/w/index.php?title=Tokyo_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Stadium (page does not exist)">Tokyo Stadium</a>
+</li>
+<li><a href="/wiki/International_Stadium_Yokohama" title="International Stadium Yokohama">International Stadium Yokohama</a>
+</li>
+<li><a href="/wiki/Saitama_Stadium" title="Saitama Stadium" class="mw-redirect">Saitama Stadium</a>
+</li>
+<li><a href="/wiki/Sapporo_Dome" title="Sapporo Dome">Sapporo Dome</a>
+</li>
+<li><a href="/w/index.php?title=Miyagi_Stadium&amp;action=edit&amp;redlink=1" class="new" title="Miyagi Stadium (page does not exist)">Miyagi Stadium</a>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Non-competition_venues">Non-competition venues</span></h3>
+<ul>
+<li><a href="/w/index.php?title=Imperial_Hotel,_Tokyo&amp;action=edit&amp;redlink=1" class="new" title="Imperial Hotel, Tokyo (page does not exist)">Imperial Hotel, Tokyo</a> – IOC
+</li>
+<li>Harumi Futo – Olympic Village
+</li>
+<li><a href="/w/index.php?title=Tokyo_Big_Sight&amp;action=edit&amp;redlink=1" class="new" title="Tokyo Big Sight (page does not exist)">Tokyo Big Sight</a> – Media Press Center, International Broadcast Center
+</li>
+</ul>
+<h2><span class="mw-headline" id="Media">Media</span></h2>
+<h3><span class="mw-headline" id="Broadcasting">Broadcasting</span></h3>
+<p>On 6 January 2011, the IOC announced that it was considering packaging the U.S. television rights for four Olympics instead of the usual two: the 2016 and 2020 Summer Olympics, and the <a href="/wiki/2014_Winter_Olympics" title="2014 Winter Olympics">2014</a> and <a href="/wiki/2018_Winter_Olympics" title="2018 Winter Olympics">2018 Winter Olympics</a>. The IOC's lead negotiator <a href="/w/index.php?title=Richard_Carrion&amp;action=edit&amp;redlink=1" class="new" title="Richard Carrion (page does not exist)">Richard Carrion</a> told the Associated Press the bidding war would be waged among <a href="/wiki/NBC" title="NBC">NBC</a>, <a href="/wiki/ESPN" title="ESPN">ESPN</a>, Fox and perhaps a <a href="/wiki/CBS" title="CBS">CBS</a>/Turner coalition. "We realize this is a major decision going forward for any of these guys," the IOC member from Puerto Rico said. "I would certainly support it if they want to go to four games, and do all the way to 2020."<sup id="cite_ref-ReferenceA_17-0" class="reference"><a href="#cite_note-ReferenceA-17">[17]</a></sup>
+</p><p>IOC president Jacques Rogge heads the exclusive TV Rights and New Media Commission, but the organization of bidding falls to Carrion, who meets regularly with the networks to stoke interest in airing Sochi 2014 and Rio de Janeiro 2016. In packaging four Olympics, Carrion had another two Games to sell, but the 2018 host city would not be selected until 6 July 2011, and the 2020 host until 2013. The IOC took its time to seek a new deal for the U.S., hoping to ride out a recession to get the best price possible. The U.S. television rights are the IOC's single-largest source of revenue.<sup id="cite_ref-ReferenceA_17-1" class="reference"><a href="#cite_note-ReferenceA-17">[17]</a></sup>
+</p><p>On 7 June 2011, the IOC awarded the U.S. television rights for the four Olympics to NBC in a deal worth more than <a href="/wiki/USD" title="USD" class="mw-redirect">$</a>4&#160;billion.<sup id="cite_ref-nbcsports_18-0" class="reference"><a href="#cite_note-nbcsports-18">[18]</a></sup>
+</p><p>Below are the confirmed television right holders:
+</p>
+<ul>
+<li><a href="/w/index.php?title=Template:Country_data_France&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data France (page does not exist)">Template:Country data France</a> – <a href="/wiki/France_T%C3%A9l%C3%A9visions" title="France Télévisions">France Télévisions</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_North_Korea&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data North Korea (page does not exist)">Template:Country data North Korea</a> – <a href="/wiki/Seoul_Broadcasting_System" title="Seoul Broadcasting System">SBS</a><sup id="cite_ref-Korea_20-0" class="reference"><a href="#cite_note-Korea-20">[20]</a></sup>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_South_Korea&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data South Korea (page does not exist)">Template:Country data South Korea</a> – <a href="/wiki/Seoul_Broadcasting_System" title="Seoul Broadcasting System">SBS</a><sup id="cite_ref-Korea_20-1" class="reference"><a href="#cite_note-Korea-20">[20]</a></sup>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_United_Kingdom&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data United Kingdom (page does not exist)">Template:Country data United Kingdom</a> – <a href="/w/index.php?title=BBC&amp;action=edit&amp;redlink=1" class="new" title="BBC (page does not exist)">BBC</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</li>
+<li><a href="/w/index.php?title=Template:Country_data_United_States&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data United States (page does not exist)">Template:Country data United States</a> – <a href="/wiki/NBC" title="NBC">NBC</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a><a href="/w/index.php?title=Template:Wikivoyage&amp;action=edit&amp;redlink=1" class="new" title="Template:Wikivoyage (page does not exist)">Template:Wikivoyage</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://tokyo2020.jp/en/index.php">Tokyo 2020</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.olympic.org">International Olympic Committee</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.olympic.org/tokyo-2020-summer-olympics">IOC Page For Tokyo 2020</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.joc.or.jp/english/">Japanese Olympic Committee</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:S-start&amp;action=edit&amp;redlink=1" class="new" title="Template:S-start (page does not exist)">Template:S-start</a>
+<a href="/w/index.php?title=Template:Succession_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Succession box (page does not exist)">Template:Succession box</a>
+<a href="/w/index.php?title=Template:S-end&amp;action=edit&amp;redlink=1" class="new" title="Template:S-end (page does not exist)">Template:S-end</a>
+</p><p>{{#invoke: Navbox | navbox }}
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.412 seconds
+Real time usage: 0.517 seconds
+Preprocessor visited node count: 639/1000000
+Preprocessor generated node count: 4966/1000000
+Post‐expand include size: 1454/2097152 bytes
+Template argument size: 55/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:888900-0!*!0!!en!2!* and timestamp 20170407172550
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=2020_Summer_Olympics&amp;oldid=888900">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=2020_Summer_Olympics&amp;oldid=888900</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_template_with_no_category_set&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category template with no category set (page does not exist)">Commons category template with no category set</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_page_title_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with page title different than on Wikidata (page does not exist)">Commons category with page title different than on Wikidata</a></li><li><a href="/w/index.php?title=Category:2020_Summer_Olympics&amp;action=edit&amp;redlink=1" class="new" title="Category:2020 Summer Olympics (page does not exist)">2020 Summer Olympics</a></li><li><a href="/w/index.php?title=Category:2020_in_multi-sport_events&amp;action=edit&amp;redlink=1" class="new" title="Category:2020 in multi-sport events (page does not exist)">2020 in multi-sport events</a></li><li><a href="/w/index.php?title=Category:Scheduled_multi-sport_events&amp;action=edit&amp;redlink=1" class="new" title="Category:Scheduled multi-sport events (page does not exist)">Scheduled multi-sport events</a></li><li><a href="/w/index.php?title=Category:2020_in_sports&amp;action=edit&amp;redlink=1" class="new" title="Category:2020 in sports (page does not exist)">2020 in sports</a></li><li><a href="/w/index.php?title=Category:Sport_in_Tokyo&amp;action=edit&amp;redlink=1" class="new" title="Category:Sport in Tokyo (page does not exist)">Sport in Tokyo</a></li><li><a href="/w/index.php?title=Category:Olympic_Games_in_Japan&amp;action=edit&amp;redlink=1" class="new" title="Category:Olympic Games in Japan (page does not exist)">Olympic Games in Japan</a></li><li><a href="/w/index.php?title=Category:2020_Summer_Olympics_bids&amp;action=edit&amp;redlink=1" class="new" title="Category:2020 Summer Olympics bids (page does not exist)">2020 Summer Olympics bids</a></li><li><a href="/w/index.php?title=Category:21st_century_in_Tokyo&amp;action=edit&amp;redlink=1" class="new" title="Category:21st century in Tokyo (page does not exist)">21st century in Tokyo</a></li><li><a href="/w/index.php?title=Category:2020_in_Japanese_sport&amp;action=edit&amp;redlink=1" class="new" title="Category:2020 in Japanese sport (page does not exist)">2020 in Japanese sport</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=2020+Summer+Olympics" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/2020_Summer_Olympics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:2020_Summer_Olympics&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/2020_Summer_Olympics" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=2020_Summer_Olympics&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=2020_Summer_Olympics&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/2020_Summer_Olympics" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/2020_Summer_Olympics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=2020_Summer_Olympics&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=2020_Summer_Olympics&amp;oldid=888900" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=2020_Summer_Olympics&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 January 2014, at 23:00.</li>
+											<li id="footer-info-viewcount">This page has been accessed 94 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 0.902 secs. -->
+	</body>
+</html>

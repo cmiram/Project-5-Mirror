@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Oat - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Oat","wgTitle":"Oat","wgCurRevisionId":31127,"wgRevisionId":31127,"wgArticleId":31127,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Avena","Plants described in 1753","Cereals","Demulcents","Fodder","Medicinal plants","Staple foods","Oats"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Oat","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Oat skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Oat</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+</p>
+<div class="dablink">"Oats" redirects here. For other cultivated and wild species of the <a href="/wiki/Genus" title="Genus">genus</a>, see <a href="/wiki/Avena" title="Avena">Avena</a>.</div>
+<div><a href="/w/index.php?title=Template:Taxobox/core&amp;action=edit&amp;redlink=1" class="new" title="Template:Taxobox/core (page does not exist)">Template:Taxobox/core</a></div>
+<p>The common <b>oat</b> (<i><b>Avena sativa</b></i>) is a <a href="/w/index.php?title=Species&amp;action=edit&amp;redlink=1" class="new" title="Species (page does not exist)">species</a> of <a href="/wiki/Cereal" title="Cereal">cereal grain</a> grown for its seed, which is known by the same name (usually in the plural, unlike other grains). While oats are suitable for human consumption as <a href="/wiki/Oatmeal" title="Oatmeal">oatmeal</a> and <a href="/w/index.php?title=Rolled_oats&amp;action=edit&amp;redlink=1" class="new" title="Rolled oats (page does not exist)">rolled oats</a>, one of the most common uses is as <a href="/w/index.php?title=Livestock&amp;action=edit&amp;redlink=1" class="new" title="Livestock (page does not exist)">livestock</a> feed. However, it is uncommon for ordinary people to consume them raw as animals do.
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cultivation"><span class="tocnumber">2</span> <span class="toctext">Cultivation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Uses"><span class="tocnumber">3</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Health"><span class="tocnumber">4</span> <span class="toctext">Health</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Soluble_fiber"><span class="tocnumber">4.1</span> <span class="toctext">Soluble fiber</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Protein"><span class="tocnumber">4.2</span> <span class="toctext">Protein</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Coeliac_disease"><span class="tocnumber">4.3</span> <span class="toctext">Coeliac disease</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Agronomy"><span class="tocnumber">5</span> <span class="toctext">Agronomy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Seeding_rates"><span class="tocnumber">5.1</span> <span class="toctext">Seeding rates</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Fertilizer_requirements"><span class="tocnumber">5.2</span> <span class="toctext">Fertilizer requirements</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Weed_control"><span class="tocnumber">5.3</span> <span class="toctext">Weed control</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Pests_and_diseases"><span class="tocnumber">5.4</span> <span class="toctext">Pests and diseases</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Harvesting"><span class="tocnumber">5.5</span> <span class="toctext">Harvesting</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Storage"><span class="tocnumber">5.6</span> <span class="toctext">Storage</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Yield_and_quality"><span class="tocnumber">5.7</span> <span class="toctext">Yield and quality</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Processing"><span class="tocnumber">6</span> <span class="toctext">Processing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Cleaning_and_sizing"><span class="tocnumber">6.1</span> <span class="toctext">Cleaning and sizing</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Dehulling"><span class="tocnumber">6.2</span> <span class="toctext">Dehulling</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Kilning"><span class="tocnumber">6.3</span> <span class="toctext">Kilning</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Sizing_of_groats"><span class="tocnumber">6.4</span> <span class="toctext">Sizing of groats</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Final_processing"><span class="tocnumber">6.5</span> <span class="toctext">Final processing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Flaking"><span class="tocnumber">6.5.1</span> <span class="toctext">Flaking</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Oat_bran_milling"><span class="tocnumber">6.5.2</span> <span class="toctext">Oat bran milling</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Whole_flour_milling"><span class="tocnumber">6.5.3</span> <span class="toctext">Whole flour milling</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Oat_flour_preparation_at_home"><span class="tocnumber">6.5.4</span> <span class="toctext">Oat flour preparation at home</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Naming"><span class="tocnumber">7</span> <span class="toctext">Naming</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Oats_futures"><span class="tocnumber">8</span> <span class="toctext">Oats futures</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origin">Origin</span></h2>
+<p>The wild ancestor of <i>Avena sativa</i> and the closely related minor crop, <i>A. byzantina</i>, is the <a href="/w/index.php?title=Polyploidy&amp;action=edit&amp;redlink=1" class="new" title="Polyploidy (page does not exist)">hexaploid</a> wild oat <i>A. sterilis</i>. Genetic evidence shows the ancestral forms of <i>A. sterilis</i> grew in the <a href="/wiki/Fertile_Crescent" title="Fertile Crescent">Fertile Crescent</a> of the <a href="/wiki/Near_East" title="Near East">Near East</a>. Domesticated oats appear relatively late, and far from the Near East, in <a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a> Europe. Oats, like <a href="/wiki/Rye" title="Rye">rye</a>, are usually considered a <a href="/w/index.php?title=Secondary_crop&amp;action=edit&amp;redlink=1" class="new" title="Secondary crop (page does not exist)">secondary crop</a>, i.e., derived from a weed of the primary <a href="/wiki/Cereal" title="Cereal">cereal</a> domesticates <a href="/wiki/Wheat" title="Wheat">wheat</a> and <a href="/w/index.php?title=Barley&amp;action=edit&amp;redlink=1" class="new" title="Barley (page does not exist)">barley</a>. As these cereals spread westwards into cooler, wetter areas, this may have favored the oat weed component, leading to its eventual domestication.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cultivation">Cultivation</span></h2>
+<table class="wikitable" style="float:right; clear:left;">
+
+<tr>
+<th colspan="2">Top Ten Oats Producers—2013<br />(Thousand Metric Tons)
+</th></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_European_Union&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data European Union (page does not exist)">Template:Country data European Union</a> </td>
+<td style="text-align:right;"> 7,581
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Russia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Russia (page does not exist)">Template:Country data Russia</a> </td>
+<td style="text-align:right;"> 4,027
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Canada&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Canada (page does not exist)">Template:Country data Canada</a> </td>
+<td style="text-align:right;"> 2,680
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Australia&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Australia (page does not exist)">Template:Country data Australia</a> </td>
+<td style="text-align:right;"> 1,050
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_United_States&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data United States (page does not exist)">Template:Country data United States</a> </td>
+<td style="text-align:right;"> 929
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Ukraine&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Ukraine (page does not exist)">Template:Country data Ukraine</a> </td>
+<td style="text-align:right;"> 630
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Belarus&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Belarus (page does not exist)">Template:Country data Belarus</a> </td>
+<td style="text-align:right;"> 600
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_China&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data China (page does not exist)">Template:Country data China</a> </td>
+<td style="text-align:right;"> 580
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Chile&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Chile (page does not exist)">Template:Country data Chile</a> </td>
+<td style="text-align:right;"> 560
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=Template:Country_data_Argentina&amp;action=edit&amp;redlink=1" class="new" title="Template:Country data Argentina (page does not exist)">Template:Country data Argentina</a> </td>
+<td style="text-align:right;"> 400
+</td></tr>
+<tr>
+<td> <b>World Total</b> </td>
+<td style="text-align:right;"> 20,732
+</td></tr>
+<tr>
+<td colspan="2"><i>Source:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i>
+</td></tr></table>
+<p>Oats are grown in <a href="/w/index.php?title=Temperate&amp;action=edit&amp;redlink=1" class="new" title="Temperate (page does not exist)">temperate</a> regions. They have a lower summer heat requirement and greater tolerance of rain than other cereals, such as wheat, <a href="/wiki/Rye" title="Rye">rye</a> or barley, so are particularly important in areas with cool, wet summers, such as Northwest Europe; they are even being grown  in Iceland to help prolong the growing season.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>  Oats are an <a href="/wiki/Annual_plant" title="Annual plant">annual plant</a>, and can be planted either in autumn (for late summer harvest) or in the spring (for early autumn harvest). 
+</p><p><br />
+On the Indian subcontinent, oats (known locally in Hindi, <a href="/wiki/Punjabi_cuisine" title="Punjabi cuisine">Punjabi</a>, Awadhi, Bhojpuri, and Nepali languages as "jau" (जौ)) are grown on the foothills of <a href="/w/index.php?title=Himalaya&amp;action=edit&amp;redlink=1" class="new" title="Himalaya (page does not exist)">Himalayas</a>, such as in the <a href="/wiki/India" title="India">Indian</a> state of <a href="/w/index.php?title=Punjab,_India&amp;action=edit&amp;redlink=1" class="new" title="Punjab, India (page does not exist)">Punjab</a>, <a href="/wiki/Uttar_Pradesh" title="Uttar Pradesh">Uttar Pradesh</a> and <a href="/wiki/Bihar" title="Bihar">Bihar</a>. References to its cultivation can be found in the epic <a href="/wiki/Mahabharat" title="Mahabharat" class="mw-redirect">Mahabharat</a>.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:OatsYield.png" title="File:OatsYield.png">File:OatsYield.png</a>  <div class="thumbcaption">Worldwide oat production</div></div></div>
+<p><br style="clear:both;" />
+</p>
+<h2><span class="mw-headline" id="Uses">Uses</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Avena-sativa.jpg" title="File:Avena-sativa.jpg">File:Avena-sativa.jpg</a>  <div class="thumbcaption">Closeup of oat florets (small flowers)</div></div></div>
+<p>Oats have numerous uses in foods; most commonly, they are <a href="/w/index.php?title=Rolled_oats&amp;action=edit&amp;redlink=1" class="new" title="Rolled oats (page does not exist)">rolled</a> or crushed into <a href="/wiki/Oatmeal" title="Oatmeal">oatmeal</a>, or ground into fine oat <a href="/wiki/Flour" title="Flour">flour</a>. Oatmeal is chiefly eaten as <a href="/wiki/Porridge" title="Porridge">porridge</a>, but may also be used in a variety of baked goods, such as <a href="/w/index.php?title=Oatcake&amp;action=edit&amp;redlink=1" class="new" title="Oatcake (page does not exist)">oatcakes</a>, <a href="/w/index.php?title=Oatmeal_cookie&amp;action=edit&amp;redlink=1" class="new" title="Oatmeal cookie (page does not exist)">oatmeal cookies</a>, and oat bread. Oats are also an ingredient in many cold cereals, in particular <a href="/wiki/Muesli" title="Muesli">muesli</a> and <a href="/wiki/Granola" title="Granola">granola</a>. Oats may also be consumed raw, and cookies with raw oats are becoming popular.
+</p><p>Historical attitudes towards oats have varied. <a href="/w/index.php?title=Oat_bread&amp;action=edit&amp;redlink=1" class="new" title="Oat bread (page does not exist)">Oat bread</a> was first manufactured in Britain, where the first oat bread factory was established in 1899. In Scotland, they were, and still are, held in high esteem, as a mainstay of the national diet.
+</p><p>In Scotland, a dish called <a href="/w/index.php?title=Cow_pat&amp;action=edit&amp;redlink=1" class="new" title="Cow pat (page does not exist)">cow pat</a> was made by soaking the husks from oats for a week, so the fine, floury part of the meal remained as sediment to be strained off, boiled and eaten.<sup id="cite_ref-Gauldie1981_4-0" class="reference"><a href="#cite_note-Gauldie1981-4">[4]</a></sup> Oats are also widely used there as a thickener in soups, as barley or rice might be used in other countries.
+</p><p>Oats are also commonly used as feed for horses when extra carbohydrates, and the subsequent boost in energy, are required. The oat hull may be crushed ("rolled" or "crimped") for the horse to more easily digest the grain{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}}, or may be fed whole. They may be given alone or as part of a blended food pellet. Cattle are also fed oats, either whole, or ground into a coarse flour using a <a href="/w/index.php?title=Roller_mill&amp;action=edit&amp;redlink=1" class="new" title="Roller mill (page does not exist)">roller mill</a>, <a href="/wiki/Burr_mill" title="Burr mill">burr mill</a>, or <a href="/w/index.php?title=Hammer_mill&amp;action=edit&amp;redlink=1" class="new" title="Hammer mill (page does not exist)">hammer mill</a>.
+</p><p>Winter oats may be grown as an off-season <a href="/wiki/Groundcover" title="Groundcover">groundcover</a> and ploughed under in the spring as a <a href="/wiki/Green_fertilizer" title="Green fertilizer" class="mw-redirect">green fertilizer</a>, or harvested in early summer. They also can be used for pasture; they can be grazed a while, then allowed to head out for grain production, or grazed continuously until other pastures are ready.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+</p><p>Oat <a href="/wiki/Straw" title="Straw">straw</a> is prized by cattle and horse producers as bedding, due to its soft, relatively dust-free, and absorbent nature. The straw can also be used for making <a href="/wiki/Corn_dolly" title="Corn dolly">corn dollies</a>. Tied in a muslin bag, oat straw was used to soften bath water.
+</p><p>Oats are also occasionally used in several different drinks. In Britain, they are sometimes used for brewing <a href="/wiki/Beer" title="Beer">beer</a>. <a href="/wiki/Oatmeal_stout" title="Oatmeal stout" class="mw-redirect">Oatmeal stout</a> is one variety brewed using a percentage of oats for the <a href="/w/index.php?title=Wort_(brewing)&amp;action=edit&amp;redlink=1" class="new" title="Wort (brewing) (page does not exist)">wort</a>. The more rarely used oat malt is produced by the Thomas Fawcett &amp; Sons Maltings, and was used in the Maclay Oat Malt Stout before <a href="/w/index.php?title=Maclays_Brewery&amp;action=edit&amp;redlink=1" class="new" title="Maclays Brewery (page does not exist)">Maclays Brewery</a> ceased independent brewing operations. A cold, sweet drink called <a href="/w/index.php?title=Avena_(drink)&amp;action=edit&amp;redlink=1" class="new" title="Avena (drink) (page does not exist)"><i>avena</i></a> made of ground oats and milk is a popular refreshment throughout Latin America. Oatmeal <a href="/wiki/Caudle" title="Caudle">caudle</a>, made of ale and oatmeal with spices, was a traditional British drink and a favourite of <a href="/wiki/Oliver_Cromwell" title="Oliver Cromwell">Oliver Cromwell</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p><p>Oat extract can also be used to soothe skin conditions. It is the principal ingredient for the <a href="/w/index.php?title=Aveeno&amp;action=edit&amp;redlink=1" class="new" title="Aveeno (page does not exist)">Aveeno</a> line of products.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+</p><p>Oat grass has been used traditionally for medicinal purposes, including to help balance the <a href="/wiki/Menstrual_cycle" title="Menstrual cycle">menstrual cycle</a>, treat <a href="/wiki/Dysmenorrhea" title="Dysmenorrhea">dysmenorrhoea</a>, and for <a href="/wiki/Osteoporosis" title="Osteoporosis">osteoporosis</a> and <a href="/wiki/Urinary_tract_infections" title="Urinary tract infections" class="mw-redirect">urinary tract infections</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Health">Health</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Haverkorrels_Avena_sativa.jpg" title="File:Haverkorrels Avena sativa.jpg">File:Haverkorrels Avena sativa.jpg</a>  <div class="thumbcaption">Oat grains in their <a href="/wiki/Husk" title="Husk">husks</a></div></div></div>
+<p>Oats are generally considered "healthful", or a <a href="/wiki/Health_food" title="Health food">health food</a>, being touted commercially as nutritious. The discovery of their healthy <a href="/wiki/Cholesterol" title="Cholesterol">cholesterol</a>-lowering properties has led to wider appreciation of oats as human food.
+</p>
+<h3><span class="mw-headline" id="Soluble_fiber">Soluble fiber</span></h3>
+<p>Oat bran is the outer casing of the oat. Its consumption is believed to lower <a href="/wiki/Low-density_lipoprotein" title="Low-density lipoprotein">LDL</a> ("bad") <a href="/wiki/Cholesterol" title="Cholesterol">cholesterol</a>, and possibly to reduce the risk of <a href="/wiki/Heart_disease" title="Heart disease" class="mw-redirect">heart disease</a>.
+</p><p>Oats contain more soluble fibre than any other grain, resulting in slower digestion and an extended sensation of fullness.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> One type of soluble fibre, <a href="/w/index.php?title=Beta-glucan&amp;action=edit&amp;redlink=1" class="new" title="Beta-glucan (page does not exist)">beta-glucans</a>, has been proven to help lower cholesterol.
+</p><p>After reports of research finding that dietary oats can help lower cholesterol,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> an "oat bran craze" swept the U.S. in the late 1980s, peaking in 1989, when <a href="/wiki/Potato_chip" title="Potato chip">potato chips</a> with added oat bran were marketed. The food fad was short-lived and faded by the early 1990s. The popularity of oatmeal and other oat products again increased after a January 1998 decision by the <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> (FDA), when it issued a final rule that allows food companies to make <a href="/wiki/Health_claims_on_food_labels" title="Health claims on food labels">health claims on food labels</a> of foods that contain soluble fibre from whole oats (oat bran, oat flour and rolled oats), noting that 3.0&#160;grams of soluble fibre daily from these foods may reduce the risk of <a href="/wiki/Heart_disease" title="Heart disease" class="mw-redirect">heart disease</a>. To qualify for the health claim, the whole oat-containing food must provide at least 0.75&#160;grams of soluble fibre per serving.  A class of <a href="/wiki/Polysaccharide" title="Polysaccharide">polysaccharides</a> known as beta-D-glucans comprise the soluble fibre in whole oats.
+</p><p>Beta-D-glucans, usually referred to as beta-glucans, comprise a class of indigestible polysaccharides widely found in nature in sources such as grains, <a href="/w/index.php?title=Barley&amp;action=edit&amp;redlink=1" class="new" title="Barley (page does not exist)">barley</a>, <a href="/wiki/Yeast" title="Yeast">yeast</a>, <a href="/w/index.php?title=Bacteria&amp;action=edit&amp;redlink=1" class="new" title="Bacteria (page does not exist)">bacteria</a>, <a href="/wiki/Algae" title="Algae">algae</a> and <a href="/wiki/Mushroom" title="Mushroom">mushrooms</a>. In oats, barley and other cereal grains, they are located primarily in the <a href="/wiki/Endosperm" title="Endosperm">endosperm</a> <a href="/wiki/Cell_wall" title="Cell wall">cell wall</a>.
+</p><p>Oat beta-glucan is a soluble fibre. It is a viscous polysaccharide made up of units of the monosaccharide D-<a href="/wiki/Glucose" title="Glucose">glucose</a>. Oat beta-glucan is composed of mixed-linkage polysaccharides. This means the <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a> between the D-glucose or D-glucopyranosyl units are either beta-1, 3 linkages or beta-1, 4 linkages. This type of beta-glucan is also referred to as a mixed-linkage (1→3), (1→4)-beta-D-glucan. The (1→3)-linkages break up the uniform structure of the beta-D-glucan molecule and make it soluble and flexible. In comparison, the indigestible polysaccharide <a href="/wiki/Cellulose" title="Cellulose">cellulose</a> is also a beta-glucan, but is not soluble. The reason it is insoluble is cellulose consists only of (1→4)-beta-D-linkages. The percentages of beta-glucan in the various whole oat products are: oat bran, greater than 5.5% and up to 23.0%; rolled oats, about 4%; and whole oat flour about 4%.
+</p><p>Oats, after corn (<a href="/w/index.php?title=Maize&amp;action=edit&amp;redlink=1" class="new" title="Maize (page does not exist)">maize</a>), have the highest <a href="/wiki/Lipid" title="Lipid">lipid</a> content of any cereal, e.g., greater than 10% for oats and as high as 17% for some maize cultivars compared to about 2-3% for wheat and most other cereals. The polar lipid content of oats (about 8–17% glycolipid and 10–20% phospholipid or a total of about 33%) is greater than that of other cereals, since much of the lipid fraction is contained within the endosperm.
+</p>
+<h3><span class="mw-headline" id="Protein">Protein</span></h3>
+<p><a href="/w/index.php?title=Template:Nutritionalvalue&amp;action=edit&amp;redlink=1" class="new" title="Template:Nutritionalvalue (page does not exist)">Template:Nutritionalvalue</a>
+</p><p>Oats are the only cereal containing a <a href="/wiki/Globulin" title="Globulin">globulin</a> or <a href="/wiki/Legume" title="Legume">legume</a>-like protein, <a href="/w/index.php?title=Avenalin&amp;action=edit&amp;redlink=1" class="new" title="Avenalin (page does not exist)">avenalin</a>, as the major (80%) storage protein.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Globulins are characterised by solubility in dilute saline. The more typical cereal proteins, such as <a href="/wiki/Gluten" title="Gluten">gluten</a> and <a href="/w/index.php?title=Zein&amp;action=edit&amp;redlink=1" class="new" title="Zein (page does not exist)">zein</a>, are <a href="/w/index.php?title=Prolamin&amp;action=edit&amp;redlink=1" class="new" title="Prolamin (page does not exist)">prolamines</a> (prolamins). The minor protein of oat is a prolamine, avenin.
+</p><p>Oat protein is nearly equivalent in quality to <a href="/w/index.php?title=Soy_protein&amp;action=edit&amp;redlink=1" class="new" title="Soy protein (page does not exist)">soy protein</a>, which <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> research has shown to be equal to meat, milk, and egg protein.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The protein content of the hull-less oat kernel (<a href="/w/index.php?title=Groats&amp;action=edit&amp;redlink=1" class="new" title="Groats (page does not exist)">groat</a>) ranges from 12 to 24%, the highest among cereals.
+</p>
+<h3><span class="mw-headline" id="Coeliac_disease">Coeliac disease</span></h3>
+<p><a href="/wiki/Coeliac_disease" title="Coeliac disease">Coeliac disease (celiac disease)</a> is often associated with the ingestion of wheat, or more specifically, a group of proteins labelled prolamines, or more commonly, gluten.
+Oats lack many of the prolamines found in wheat; however, oats do contain avenin.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Avenin is toxic to the intestinal mucosa of avenin-sensitive individuals, and can trigger a reaction in these coeliacs.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</p><p><a href="/w/index.php?title=Template:Further2&amp;action=edit&amp;redlink=1" class="new" title="Template:Further2 (page does not exist)">Template:Further2</a>
+</p><p>The most recent research indicates some cultivars of oat can be a safe part of a gluten-free diet, because different varieties of oats have different levels of toxicity.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Although oats do contain avenin, several studies suggest this may not be problematic for all coeliacs. The first such study was published in 1995.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> A follow-up study indicated it is safe to use oats even in a longer period.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</p><p>Additionally, oats are frequently processed near wheat, barley and other grains, so become contaminated with other glutens. Because of this, the <a href="/w/index.php?title=FAO&amp;action=edit&amp;redlink=1" class="new" title="FAO (page does not exist)">FAO</a>'s <a href="/wiki/Codex_Alimentarius_Commission" title="Codex Alimentarius Commission" class="mw-redirect">Codex Alimentarius Commission</a> officially lists them as a gluten-containing crop. Oats from Ireland and Scotland, where less wheat is grown, are less likely to be contaminated in this way.{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Oats are part of a gluten-free diet in countries like Finland and Sweden. Suppliers in both those countries offer "pure oat" products.
+</p><p><a href="/w/index.php?title=Template:Further2&amp;action=edit&amp;redlink=1" class="new" title="Template:Further2 (page does not exist)">Template:Further2</a>
+</p>
+<h2><span class="mw-headline" id="Agronomy">Agronomy</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:2013_07_13_Avoine_noire_d%27Epinal.JPG" title="File:2013 07 13 Avoine noire d'Epinal.JPG">File:2013 07 13 Avoine noire d'Epinal.JPG</a>  <div class="thumbcaption">«&#160;Noire d'Epinal&#160;»&#160;: an ancient oat variety.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:SK-OatAvena-sativa.JPG" title="File:SK-OatAvena-sativa.JPG">File:SK-OatAvena-sativa.JPG</a>  <div class="thumbcaption">Oats in <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a> near harvest time</div></div></div>
+<p>Oats are sown in the spring or early summer in colder areas, as soon as the soil can be worked. An early start is crucial to good yields, as oats go dormant in summer heat. In warmer areas, oats are sown in late summer or early fall. Oats are cold-tolerant and are unaffected by late frosts or snow.
+</p>
+<h3><span class="mw-headline" id="Seeding_rates">Seeding rates</span></h3>
+<p>Typically, about 125 to 175&#160;kg/ha (between 2.75 and 3.25 <a href="/wiki/Bushels" title="Bushels" class="mw-redirect">bushels</a> per acre) are sown, either broadcast, <a href="/wiki/Seed_drill" title="Seed drill">drilled</a>, or <a href="/w/index.php?title=Air_seeder&amp;action=edit&amp;redlink=1" class="new" title="Air seeder (page does not exist)">planted using an air seeder</a>. Lower rates are used when <a href="/w/index.php?title=Interseeding&amp;action=edit&amp;redlink=1" class="new" title="Interseeding (page does not exist)">interseeding</a> with a legume. Somewhat higher rates can be used on the best soils, or where there are problems with weeds. Excessive sowing rates lead to problems with lodging, and may reduce yields.
+</p>
+<h3><span class="mw-headline" id="Fertilizer_requirements">Fertilizer requirements</span></h3>
+<p>Oats remove substantial amounts of <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> from the soil. They also remove phosphorus in the form of P<sub>2</sub>O<sub>5</sub> at the rate of 0.25 pound per bushel per acre (1 bushel = 38 pounds at 12% moisture).{{ safesubst:#invoke:Unsubst||$N=Citation needed |date=__DATE__ |$B=
+<a href="/w/index.php?title=Template:Fix&amp;action=edit&amp;redlink=1" class="new" title="Template:Fix (page does not exist)">Template:Fix</a>
+}} Phosphate is thus applied at a rate of 30 to 40&#160;kg/ha, or 30 to 40&#160;lb/acre. Oats remove potash (K<sub>2</sub>O) at a rate of 0.19 pound per bushel per acre, which causes it to use 15–30&#160;kg/ha, or 13–27&#160;lb/acre. Usually, 50–100&#160;kg/ha (45–90&#160;lb/ac) of nitrogen in the form of <a href="/wiki/Urea" title="Urea">urea</a> or <a href="/wiki/Ammonia" title="Ammonia">anhydrous ammonia</a> is sufficient, as oats use about one pound per bushel per acre. A sufficient amount of nitrogen is particularly important for plant height, and hence, straw quality and yield. When the prior-year crop was a legume, or where ample manure is applied, nitrogen rates can be reduced somewhat.
+</p>
+<h3><span class="mw-headline" id="Weed_control">Weed control</span></h3>
+<p>The vigorous growth of oats tends to choke out most weeds. A few tall <a href="/wiki/Broadleaf" title="Broadleaf" class="mw-redirect">broadleaf</a> weeds, such as <a href="/wiki/Ragweed" title="Ragweed">ragweed</a>, <a href="/wiki/Goosegrass" title="Goosegrass" class="mw-redirect">goosegrass</a>, <a href="/w/index.php?title=Wild_mustard&amp;action=edit&amp;redlink=1" class="new" title="Wild mustard (page does not exist)">wild mustard</a>, and <a href="/w/index.php?title=Buttonweed&amp;action=edit&amp;redlink=1" class="new" title="Buttonweed (page does not exist)">buttonweed</a> (velvetleaf), occasionally create a problem, as they complicate harvest and reduce yields. These can be controlled with a modest application of a broadleaf herbicide, such as <a href="/w/index.php?title=2,4-D&amp;action=edit&amp;redlink=1" class="new" title="2,4-D (page does not exist)">2,4-D</a>, while the weeds are still small.
+</p>
+<h3><span class="mw-headline" id="Pests_and_diseases">Pests and diseases</span></h3>
+<p>Oats are relatively free from diseases and pests with the exception being leaf diseases, such as leaf rust and <a href="/w/index.php?title=Stem_rust&amp;action=edit&amp;redlink=1" class="new" title="Stem rust (page does not exist)">stem rust</a>. A few <a href="/wiki/Lepidoptera" title="Lepidoptera">lepidopteran</a> <a href="/wiki/Caterpillar" title="Caterpillar">caterpillars</a> feed on the plants—e.g. <a href="/w/index.php?title=Rustic_shoulder-knot&amp;action=edit&amp;redlink=1" class="new" title="Rustic shoulder-knot (page does not exist)">rustic shoulder-knot</a> and <a href="/w/index.php?title=Setaceous_Hebrew_Character&amp;action=edit&amp;redlink=1" class="new" title="Setaceous Hebrew Character (page does not exist)">setaceous Hebrew character moths</a>, but these rarely become a major pest. See also <a href="/w/index.php?title=List_of_oat_diseases&amp;action=edit&amp;redlink=1" class="new" title="List of oat diseases (page does not exist)">List of oat diseases</a>.
+</p>
+<h3><span class="mw-headline" id="Harvesting">Harvesting</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Havreskjering_Fossheim_Lindahl.jpeg" title="File:Havreskjering Fossheim Lindahl.jpeg">File:Havreskjering Fossheim Lindahl.jpeg</a>  <div class="thumbcaption">Harvesting of oats in <a href="/wiki/J%C3%B8lster" title="Jølster">Jølster</a>, Norway <i>ca.</i> 1890 <br /> <i>(Photo: <a href="/w/index.php?title=Axel_Lindahl&amp;action=edit&amp;redlink=1" class="new" title="Axel Lindahl (page does not exist)">Axel Lindahl</a>/Norwegian Museum of Cultural History)</i></div></div></div>
+<p>Harvest techniques are a matter of available equipment, local tradition, and priorities. Farmers seeking the highest yield from their crops time their harvest so the kernels have reached 35% moisture, or when the greenest kernels are just turning cream-colour. They then harvest by <a href="/wiki/Swather" title="Swather">swathing</a>, cutting the plants at about 10&#160;cm (4&#160;inches) above ground, and putting the swathed plants into windrows with the grain all oriented the same way. They leave the windrows to dry in the sun for several days before combining them using a <a href="/w/index.php?title=Pickup_header&amp;action=edit&amp;redlink=1" class="new" title="Pickup header (page does not exist)">pickup header</a>. Finally, they bale the straw.
+</p><p>Oats can also be left standing until completely ripe and then <a href="/wiki/Combine_harvester" title="Combine harvester">combined</a> with a grain head. This causes greater field losses as the grain falls from the heads, and to harvesting losses, as the grain is threshed out by the reel. Without a <a href="/w/index.php?title=Draper_head&amp;action=edit&amp;redlink=1" class="new" title="Draper head (page does not exist)">draper head</a>, there is also more damage to the straw, since it is not properly oriented as it enters the combine's throat. Overall yield loss is 10–15% compared to proper swathing.
+</p><p>Historical harvest methods involved cutting with a scythe or sickle, and <a href="/wiki/Threshing" title="Threshing">threshing</a> under the feet of cattle. Late 19th- and early 20th-century harvesting was performed using a <a href="/wiki/Binder_(material)" title="Binder (material)">binder</a>. Oats were gathered into shocks, and then collected and run through a stationary <a href="/wiki/Threshing_machine" title="Threshing machine">threshing machine</a>.
+</p>
+<h3><span class="mw-headline" id="Storage">Storage</span></h3>
+<p>After combining, the oats are transported to the farmyard using a grain truck, semi, or <a href="/wiki/Road_train" title="Road train">road train</a>, where they are <a href="/wiki/Auger" title="Auger">augered</a> or <a href="/w/index.php?title=Conveyor&amp;action=edit&amp;redlink=1" class="new" title="Conveyor (page does not exist)">conveyed</a> into a <a href="/w/index.php?title=Grain_bin&amp;action=edit&amp;redlink=1" class="new" title="Grain bin (page does not exist)">bin</a> for storage. Sometimes, when there is not enough bin space, they are augered into portable grain rings, or piled on the ground. Oats can be safely stored at 12% moisture; at higher moisture levels, they must be <a href="/w/index.php?title=Aerate&amp;action=edit&amp;redlink=1" class="new" title="Aerate (page does not exist)">aerated</a>, or dried.
+</p>
+<h3><span class="mw-headline" id="Yield_and_quality">Yield and quality</span></h3>
+<p>In the United States, No.1 oats weigh <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>; No.3 oats must weigh at least <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>. If over <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>, they are graded as No.4, and oats under <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> are graded as "light weight".
+</p><p>In Canada, No.1 oats weigh <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>; No.2 oats must weigh <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>; No.3 oats must weigh at least <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> and if oats are lighter than <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> they do not make No.4 oats and have no grade.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</p><p>Note, however, that oats are bought and sold, and yields are figured, on the basis of a bushel equal to <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> or <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>) in the United States and a bushel equal to <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> or <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a>) in Canada. Yields range from <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> on marginal land, to <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> on high-producing land. The average production is 100 bushels per acre, or 3.5 tonnes per hectare.
+</p><p>Straw yields are variable, ranging from one to three tonnes per hectare, mainly due to available nutrients, and the variety used (some are short-strawed, meant specifically for straight combining).
+</p>
+<h2><span class="mw-headline" id="Processing">Processing</span></h2>
+<p><a href="/w/index.php?title=Template:Refimprove_section&amp;action=edit&amp;redlink=1" class="new" title="Template:Refimprove section (page does not exist)">Template:Refimprove section</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Porridge_oats.JPG" title="File:Porridge oats.JPG">File:Porridge oats.JPG</a>  <div class="thumbcaption"><a href="/wiki/Porridge" title="Porridge">Porridge</a> oats before cooking</div></div></div>
+<p>Oats processing is a relatively simple process:
+</p>
+<h3><span class="mw-headline" id="Cleaning_and_sizing">Cleaning and sizing</span></h3>
+<p>Upon delivery to the milling plant, chaff, rocks, other grains, and other foreign material are removed from the oats.
+</p>
+<h3><span class="mw-headline" id="Dehulling">Dehulling</span></h3>
+<p>Centrifugal acceleration is used to separate the outer hull from the inner oat groat. Oats are fed by gravity onto the centre of a horizontally spinning stone, which accelerates them towards the outer ring. Groats and hulls are separated on impact with this ring. The lighter oat hulls are then aspirated away, while the denser oat groats are taken to the next step of processing. Oat hulls can be used as feed, processed further into insoluble oat fibre, or used as a biomass fuel.
+</p>
+<h3><span class="mw-headline" id="Kilning">Kilning</span></h3>
+<p>The unsized oat groats pass through a heat and moisture treatment to balance moisture, but mainly to stabilize them. Oat groats are high in fat (lipids), and once removed from their protective hulls and exposed to air, enzymatic (lipase) activity begins to break down the fat into free fatty acids, ultimately causing an <a href="/w/index.php?title=Off-flavours&amp;action=edit&amp;redlink=1" class="new" title="Off-flavours (page does not exist)">off-flavour</a> or <a href="/wiki/Rancidity" title="Rancidity" class="mw-redirect">rancidity</a>. Oats begin to show signs of enzymatic rancidity within four days of being dehulled if not stabilized. This process is primarily done in food-grade plants, not in feed-grade plants. Groats are not considered raw if they have gone through this process; the heat disrupts the germ, and they cannot sprout.
+</p>
+<h3><span class="mw-headline" id="Sizing_of_groats">Sizing of groats</span></h3>
+<p>Many whole oat groats break during the dehulling process, leaving the following types of groats to be sized and separated for further processing: whole oat groats, coarse steel cut groats, steel cut groats, and fine steel cut groats. Groats are sized and separated using screens, shakers and indent screens. After the whole oat groats are separated, the remaining broken groats get sized again into the three groups (coarse, regular, fine), and then stored. "Steel cut" refers to all sized or cut groats. When not enough broken groats are available to size for further processing, whole oat groats are sent to a cutting unit with steel blades that evenly cut groats into the three sizes above.
+</p>
+<h3><span class="mw-headline" id="Final_processing">Final processing</span></h3>
+<p>Three methods are used to make the finished product:
+</p>
+<h4><span class="mw-headline" id="Flaking">Flaking</span></h4>
+<p>This process uses two large smooth or corrugated rolls spinning at the same speed in opposite directions at a controlled distance. Oat flakes, also known as <a href="/w/index.php?title=Rolled_oats&amp;action=edit&amp;redlink=1" class="new" title="Rolled oats (page does not exist)">rolled oats</a>, have many different sizes, thicknesses and other characteristics depending on the size of oat groats passed between the rolls. Typically, the three sizes of steel cut oats are used to make instant, baby and quick rolled oats, whereas whole oat groats are used to make regular, medium and thick rolled oats. Oat flakes range in thickness from 0.36&#160;mm to 1.00&#160;mm.
+</p>
+<h4><span class="mw-headline" id="Oat_bran_milling">Oat bran milling</span></h4>
+<p>This process takes the oat groats through several roll stands to flatten and separate the bran from the flour (endosperm). The two separate products (flour and bran) get sifted through a gyrating sifter screen to further separate them. The final products are oat bran and debranned oat flour.
+</p>
+<h4><span class="mw-headline" id="Whole_flour_milling">Whole flour milling</span></h4>
+<p>This process takes oat groats straight to a grinding unit (stone or hammer mill) and then over sifter screens to separate the coarse flour and final whole oat flour. The coarser flour is sent back to the grinding unit until it is ground fine enough to be whole oat flour. This method is used often in India and other countries. In India whole grain flour of oats (<b>jai</b>) used to make Indian bread known as <b>jarobra</b> in <a href="/wiki/Himachal_Pradesh" title="Himachal Pradesh">Himachal Pradesh</a>.
+</p>
+<h4><span class="mw-headline" id="Oat_flour_preparation_at_home">Oat flour preparation at home</span></h4>
+<p>Oat flour can be purchased, but one can grind for small scale use by pulsing <a href="/w/index.php?title=Rolled_oats&amp;action=edit&amp;redlink=1" class="new" title="Rolled oats (page does not exist)">rolled oats</a> or old-fashioned (not quick) oats in a <a href="/wiki/Food_processor" title="Food processor">food processor</a> or <a href="/w/index.php?title=Spice_mill&amp;action=edit&amp;redlink=1" class="new" title="Spice mill (page does not exist)">spice mill</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Naming">Naming</span></h2>
+<p>In <a href="/wiki/Scottish_English" title="Scottish English">Scottish English</a>, oats may be referred to as <b>corn</b>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> (In the English language, the major staple grain of the local area is often referred to as "corn". In the US, corn refers to what others call "maize".)
+</p>
+<h2><span class="mw-headline" id="Oats_futures">Oats futures</span></h2>
+<p>Oats <a href="/wiki/Futures_exchange" title="Futures exchange">futures</a> are traded on the <a href="/wiki/Chicago_Board_of_Trade" title="Chicago Board of Trade">Chicago Board of Trade</a>, and have delivery dates in March (H), May (K), July (N), September (U) and December (Z).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/w/index.php?title=Export_hay&amp;action=edit&amp;redlink=1" class="new" title="Export hay (page does not exist)">Export hay</a>
+</li>
+<li><a href="/w/index.php?title=Mornflake_Oats&amp;action=edit&amp;redlink=1" class="new" title="Mornflake Oats (page does not exist)">Mornflake Oats</a>
+</li>
+<li><a href="/wiki/Muesli" title="Muesli">Muesli</a>
+</li>
+<li><a href="/w/index.php?title=Oat_milk&amp;action=edit&amp;redlink=1" class="new" title="Oat milk (page does not exist)">Oat milk</a>
+</li>
+<li><a href="/w/index.php?title=Oatcake&amp;action=edit&amp;redlink=1" class="new" title="Oatcake (page does not exist)">Oatcake</a>
+</li>
+<li><a href="/wiki/Oatmeal" title="Oatmeal">Oatmeal</a>
+</li>
+<li><a href="/wiki/Porridge" title="Porridge">Porridge</a>
+</li>
+<li><a href="/w/index.php?title=Quaker_Oats_Company&amp;action=edit&amp;redlink=1" class="new" title="Quaker Oats Company (page does not exist)">Quaker Oats Company</a>
+</li>
+<li><a href="/w/index.php?title=Rolled_oats&amp;action=edit&amp;redlink=1" class="new" title="Rolled oats (page does not exist)">Rolled oats</a>
+</li>
+<li><a href="/w/index.php?title=Steel-cut_oats&amp;action=edit&amp;redlink=1" class="new" title="Steel-cut oats (page does not exist)">Steel-cut oats</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.creamofthewest.com/news/articles/article.php?pageID=20">How Oats Are Processed</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.oatbran.org">Oat Bran foundation</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Cereals&amp;action=edit&amp;redlink=1" class="new" title="Template:Cereals (page does not exist)">Template:Cereals</a>
+<a href="/w/index.php?title=Template:Agriculture_country_lists&amp;action=edit&amp;redlink=1" class="new" title="Template:Agriculture country lists (page does not exist)">Template:Agriculture country lists</a>
+<a href="/w/index.php?title=Template:Bioenergy&amp;action=edit&amp;redlink=1" class="new" title="Template:Bioenergy (page does not exist)">Template:Bioenergy</a><a href="/w/index.php?title=Template:Link_GA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link GA (page does not exist)">Template:Link GA</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.544 seconds
+Real time usage: 1.030 seconds
+Preprocessor visited node count: 765/1000000
+Preprocessor generated node count: 9740/1000000
+Post‐expand include size: 2346/2097152 bytes
+Template argument size: 347/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:31127-0!*!0!!en!2!* and timestamp 20170407173057
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Oat&amp;oldid=31127">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Oat&amp;oldid=31127</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Avena&amp;action=edit&amp;redlink=1" class="new" title="Category:Avena (page does not exist)">Avena</a></li><li><a href="/w/index.php?title=Category:Plants_described_in_1753&amp;action=edit&amp;redlink=1" class="new" title="Category:Plants described in 1753 (page does not exist)">Plants described in 1753</a></li><li><a href="/wiki/Category:Cereals" title="Category:Cereals">Cereals</a></li><li><a href="/w/index.php?title=Category:Demulcents&amp;action=edit&amp;redlink=1" class="new" title="Category:Demulcents (page does not exist)">Demulcents</a></li><li><a href="/w/index.php?title=Category:Fodder&amp;action=edit&amp;redlink=1" class="new" title="Category:Fodder (page does not exist)">Fodder</a></li><li><a href="/wiki/Category:Medicinal_plants" title="Category:Medicinal plants">Medicinal plants</a></li><li><a href="/w/index.php?title=Category:Staple_foods&amp;action=edit&amp;redlink=1" class="new" title="Category:Staple foods (page does not exist)">Staple foods</a></li><li><a href="/w/index.php?title=Category:Oats&amp;action=edit&amp;redlink=1" class="new" title="Category:Oats (page does not exist)">Oats</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oat" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Oat"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Oat&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Oat" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Oat&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Oat&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Oat" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Oat" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Oat&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Oat&amp;oldid=31127" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Oat&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 January 2014, at 18:20.</li>
+											<li id="footer-info-viewcount">This page has been accessed 126 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.763 secs. -->
+	</body>
+</html>

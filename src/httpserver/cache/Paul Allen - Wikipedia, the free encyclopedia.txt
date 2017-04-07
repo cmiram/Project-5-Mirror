@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Paul Allen - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paul_Allen","wgTitle":"Paul Allen","wgCurRevisionId":15254,"wgRevisionId":15254,"wgArticleId":15254,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Commons category with local link different than on Wikidata","1953 births","20th-century American businesspeople","21st-century American businesspeople","American billionaires","American computer businesspeople","American computer programmers","American construction businesspeople","American inventors","American investors","American philanthropists","American real estate and property developers","American real estate company founders","American soccer chairmen and investors","American technology chief executives","American technology company founders","Businesspeople from Washington (state)","Businesspeople in software","Cancer survivors","Fellows of the American Academy of Arts and Sciences","Giving Pledgers","History of Microsoft","Living people","Major League Soccer executives","Members of the United States National Academy of Engineering","Microsoft employees","People from Seattle, Washington","Portland Trail Blazers owners","Seattle Seahawks owners","Lakeside School alumni","American real estate businesspeople"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Paul_Allen","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Paul_Allen skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Paul Allen</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other people named Paul Allen, see <a href="/w/index.php?title=Paul_Allen_(disambiguation)&amp;action=edit&amp;redlink=1" class="new" title="Paul Allen (disambiguation) (page does not exist)">Paul Allen (disambiguation)</a>.</div>
+<p><a href="/w/index.php?title=Template:Use_mdy_dates&amp;action=edit&amp;redlink=1" class="new" title="Template:Use mdy dates (page does not exist)">Template:Use mdy dates</a>
+<a href="/w/index.php?title=Template:Infobox_person&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox person (page does not exist)">Template:Infobox person</a>
+</p><p><b>Paul Gardner Allen</b> (born January 21, 1953) is an American business magnate, investor and philanthropist, best known as the co-founder, with <a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a>, of <a href="/wiki/Microsoft_Corporation" title="Microsoft Corporation" class="mw-redirect">Microsoft Corporation</a>. As of March 2013, he was estimated to be the 53rd-richest person in the world, with an estimated wealth of $15 billion.<sup id="cite_ref-forbes_profile_1-0" class="reference"><a href="#cite_note-forbes_profile-1">[1]</a></sup>
+</p><p>He is the founder and chairman of <a href="/wiki/Vulcan_Inc." title="Vulcan Inc.">Vulcan Inc.</a>, which manages his various business and philanthropic efforts. Allen also has a multi-billion dollar investment portfolio including technology companies, real estate holdings, and stakes in other technology, media, and content companies. Allen also owns two professional sports teams, the <a href="/wiki/Seattle_Seahawks" title="Seattle Seahawks">Seattle Seahawks</a> of the <a href="/wiki/National_Football_League" title="National Football League">National Football League</a> (NFL),<sup id="cite_ref-seahawks_2-0" class="reference"><a href="#cite_note-seahawks-2">[2]</a></sup> and the <a href="/wiki/Portland_Trail_Blazers" title="Portland Trail Blazers">Portland Trail Blazers</a> of the <a href="/wiki/National_Basketball_Association" title="National Basketball Association">National Basketball Association</a> (NBA).<sup id="cite_ref-trailblazers_3-0" class="reference"><a href="#cite_note-trailblazers-3">[3]</a></sup> He is also part-owner of the <a href="/w/index.php?title=Seattle_Sounders_FC&amp;action=edit&amp;redlink=1" class="new" title="Seattle Sounders FC (page does not exist)">Seattle Sounders FC</a>, which joined <a href="/wiki/Major_League_Soccer" title="Major League Soccer">Major League Soccer</a> (MLS) in 2009.<sup id="cite_ref-soccer_4-0" class="reference"><a href="#cite_note-soccer-4">[4]</a></sup>
+</p><p>He is also the founder of the <a href="/w/index.php?title=Allen_Institute_for_Brain_Science&amp;action=edit&amp;redlink=1" class="new" title="Allen Institute for Brain Science (page does not exist)">Allen Institute for Brain Science</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> the <a href="/w/index.php?title=Allen_Institute_for_Artificial_Intelligence&amp;action=edit&amp;redlink=1" class="new" title="Allen Institute for Artificial Intelligence (page does not exist)">Allen Institute for Artificial Intelligence</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and <a href="/w/index.php?title=Stratolaunch_Systems&amp;action=edit&amp;redlink=1" class="new" title="Stratolaunch Systems (page does not exist)">Stratolaunch Systems</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_career"><span class="tocnumber">1</span> <span class="toctext">Early life and career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Microsoft"><span class="tocnumber">1.1</span> <span class="toctext">Microsoft</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Recognition"><span class="tocnumber">1.2</span> <span class="toctext">Recognition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Philanthropy"><span class="tocnumber">2</span> <span class="toctext">Philanthropy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Scientific_endeavors"><span class="tocnumber">2.1</span> <span class="toctext">Scientific endeavors</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Paul_G._Allen_Family_Foundation"><span class="tocnumber">2.2</span> <span class="toctext">Paul G. Allen Family Foundation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Museums_and_collections"><span class="tocnumber">2.3</span> <span class="toctext">Museums and collections</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#The_arts"><span class="tocnumber">2.4</span> <span class="toctext">The arts</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Universities"><span class="tocnumber">2.5</span> <span class="toctext">Universities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Investments"><span class="tocnumber">3</span> <span class="toctext">Investments</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Technology"><span class="tocnumber">3.1</span> <span class="toctext">Technology</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Private_space_travel"><span class="tocnumber">3.2</span> <span class="toctext">Private space travel</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Real_estate"><span class="tocnumber">3.3</span> <span class="toctext">Real estate</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Venues"><span class="tocnumber">3.4</span> <span class="toctext">Venues</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Vessels"><span class="tocnumber">3.5</span> <span class="toctext">Vessels</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Sports"><span class="tocnumber">4</span> <span class="toctext">Sports</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Santa_Barbara_Breakers"><span class="tocnumber">4.1</span> <span class="toctext">Santa Barbara Breakers</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Portland_Trail_Blazers"><span class="tocnumber">4.2</span> <span class="toctext">Portland Trail Blazers</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Seattle_Seahawks"><span class="tocnumber">4.3</span> <span class="toctext">Seattle Seahawks</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Seattle_Sounders_FC"><span class="tocnumber">4.4</span> <span class="toctext">Seattle Sounders FC</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Filmmaking"><span class="tocnumber">5</span> <span class="toctext">Filmmaking</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Books"><span class="tocnumber">6</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Albums"><span class="tocnumber">7</span> <span class="toctext">Albums</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life_and_career">Early life and career</span></h2>
+<p>Paul Allen was born in <a href="/w/index.php?title=Seattle,_Washington&amp;action=edit&amp;redlink=1" class="new" title="Seattle, Washington (page does not exist)">Seattle, Washington</a>, to parents Kenneth Samuel Allen, an associate director of the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a> libraries, and Edna Faye (née Gardner) Allen, on January 21, 1953.<sup id="cite_ref-more_than_money_8-0" class="reference"><a href="#cite_note-more_than_money-8">[8]</a></sup> Allen attended <a href="/wiki/Lakeside_School" title="Lakeside School">Lakeside School</a>, a private school in Seattle, and befriended <a href="/wiki/Bill_Gates" title="Bill Gates">Bill Gates</a>, who was almost three years younger and shared a common enthusiasm for computers.<sup id="cite_ref-before_microsoft_9-0" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup> They used Lakeside's <a href="/w/index.php?title=Teletype_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Teletype Corporation (page does not exist)">Teletype</a> terminal to develop their programming skills on several <a href="/wiki/Time-sharing" title="Time-sharing">time-sharing</a> computer systems.<sup id="cite_ref-before_microsoft_9-1" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup> After earning a perfect score of 1600 on the <a href="/w/index.php?title=SAT&amp;action=edit&amp;redlink=1" class="new" title="SAT (page does not exist)">SAT</a> (pre-1995 scale), Allen went to Washington State University but <a href="/w/index.php?title=Dropping_out&amp;action=edit&amp;redlink=1" class="new" title="Dropping out (page does not exist)">dropped out</a> after two years in order to work as a programmer for <a href="/wiki/Honeywell" title="Honeywell">Honeywell</a> in <a href="/w/index.php?title=Boston&amp;action=edit&amp;redlink=1" class="new" title="Boston (page does not exist)">Boston</a>, placing him near his old friend again.<sup id="cite_ref-before_microsoft_9-2" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup> Allen later convinced Gates to drop out of <a href="/w/index.php?title=Harvard_University&amp;action=edit&amp;redlink=1" class="new" title="Harvard University (page does not exist)">Harvard University</a> in order to create Microsoft.
+</p>
+<h3><span class="mw-headline" id="Microsoft">Microsoft</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Allen co-founded Microsoft with Bill Gates in <a href="/wiki/Albuquerque,_New_Mexico" title="Albuquerque, New Mexico">Albuquerque, New Mexico</a>, in 1975, and began marketing a <a href="/wiki/BASIC" title="BASIC">BASIC</a> programming language interpreter.<sup id="cite_ref-before_microsoft_9-3" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup> Allen came up with the original name of "Micro-Soft," as recounted in a 1995 <i><a href="/wiki/Fortune_(magazine)" title="Fortune (magazine)">Fortune</a></i> magazine article.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>  In 1980, after promising to deliver IBM a Disk Operating System (<a href="/w/index.php?title=DOS&amp;action=edit&amp;redlink=1" class="new" title="DOS (page does not exist)">DOS</a>) they had not yet developed for the <a href="/wiki/Intel_8088" title="Intel 8088">Intel 8088</a>-based <a href="/w/index.php?title=IBM_PC&amp;action=edit&amp;redlink=1" class="new" title="IBM PC (page does not exist)">IBM PC</a>, Allen spearheaded a deal for Microsoft to purchase a <a href="/wiki/86-DOS" title="86-DOS">Quick and Dirty Operating System (QDOS)</a> written by <a href="/wiki/Tim_Paterson" title="Tim Paterson">Tim Paterson</a> who, at the time, was employed at <a href="/wiki/Seattle_Computer_Products" title="Seattle Computer Products">Seattle Computer Products</a>. As a result of this transaction, Microsoft was able to secure a contract to supply the DOS that would eventually run on IBM's PC line. This contract with IBM was the watershed in Microsoft history that led to Allen and Gates' wealth.<sup id="cite_ref-before_microsoft_9-4" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup>
+</p><p>Allen was diagnosed with <a href="/w/index.php?title=Hodgkin%27s_lymphoma&amp;action=edit&amp;redlink=1" class="new" title="Hodgkin's lymphoma (page does not exist)">Hodgkin's lymphoma</a> in 1982. His cancer was successfully treated by several months of <a href="/wiki/Radiation_therapy" title="Radiation therapy">radiation therapy</a>. However, he did not return to Microsoft and began distancing himself from the company.<sup id="cite_ref-before_microsoft_9-5" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup> Allen officially resigned from his position on the Microsoft Board of Directors in November 2000 but was asked to consult as a senior strategy advisor to the company's executives<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> and still owns a reported 138&#160;million shares.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Recognition">Recognition</span></h3>
+<p>Paul Allen has received various awards recognizing many different areas including sports, philanthropy, and the arts:
+</p>
+<ul>
+<li> On March 9, 2005, Paul Allen, Burt Rutan, and the <a href="/wiki/SpaceShipOne" title="SpaceShipOne">SpaceShipOne</a> team were awarded the 2005 National Air and Space Museum Trophy for Current Achievement.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</li>
+</ul>
+<ul>
+<li> In 2007 and 2008, Allen was listed among the <a href="/w/index.php?title=Time_100&amp;action=edit&amp;redlink=1" class="new" title="Time 100 (page does not exist)"><i>Time</i> 100 Most Influential People in The World</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</li>
+</ul>
+<ul>
+<li> In 2008, Allen received an honorary degree of Doctor of Science from the <a href="/wiki/Cold_Spring_Harbor_Laboratory" title="Cold Spring Harbor Laboratory">Cold Spring Harbor Laboratory</a>'s <a href="/wiki/Watson_School_of_Biological_Sciences" title="Watson School of Biological Sciences">Watson School of Biological Sciences</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</li>
+</ul>
+<ul>
+<li> He received the Vanguard Award from the <a href="/w/index.php?title=National_Cable_%26_Telecommunications_Association&amp;action=edit&amp;redlink=1" class="new" title="National Cable &amp; Telecommunications Association (page does not exist)">National Cable &amp; Telecommunications Association</a> on May 20, 2008.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+</li>
+</ul>
+<ul>
+<li> On October 30, 2008, the Seattle-King County Association of Realtors honored Allen for his “unwavering commitment to nonprofit organizations in the Pacific Northwest and lifetime giving approaching US$1 billion.”<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+</li>
+</ul>
+<ul>
+<li> In 2009, Allen's philanthropy as the long-time owner of the Trail Blazers was recognized with an Oregon Sports Award<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+</li>
+</ul>
+<ul>
+<li> Allen has received awards and honorary degrees from several universities. In May 1999, <a href="/wiki/Washington_State_University" title="Washington State University">Washington State University</a> bestowed its highest honor, the Regents' Distinguished Alumnus Award, upon him. He received a <i><a href="/wiki/Honorary_degree" title="Honorary degree">Docteur honoris causa</a></i> from the <a href="/wiki/%C3%89cole_Polytechnique_F%C3%A9d%C3%A9rale_de_Lausanne" title="École Polytechnique Fédérale de Lausanne">École Polytechnique Fédérale de Lausanne</a> on March 31, 2007.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+</li>
+</ul>
+<ul>
+<li> On October 26, 2010, Paul Allen was awarded the W.J.S. Krief Lifetime Achievement Award for his contributions to the field of neuroscience by the Cajal Club.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+</li>
+</ul>
+<ul>
+<li> On January 26, 2011 at Seattle’s <a href="/wiki/Benaroya_Hall" title="Benaroya Hall">Benaroya Hall</a>, Paul Allen was named Seattle Sports Commission Sports Citizen of the Year, an award that has been renamed the Paul Allen Award.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+</li>
+</ul>
+<ul>
+<li> In 2011, Paul Allen was elected to the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>
+</li>
+</ul>
+<ul>
+<li> On October 15, 2012, Allen received the Eli and Edythe Broad Award for Philanthropy in the Arts at the National Arts Awards.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Philanthropy">Philanthropy</span></h2>
+<p>Paul Allen has given more than $1.5 billion towards the advancement of science, technology, education, wildlife conservation, the arts and community services in his lifetime.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>  In 2010, Allen became a signatory of <a href="/w/index.php?title=The_Giving_Pledge&amp;action=edit&amp;redlink=1" class="new" title="The Giving Pledge (page does not exist)">The Giving Pledge</a>, promising to give at least half of his fortune to philanthropic causes.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> A report in February 2012 named Allen as the most charitable living American in 2011; Allen's direct giving in 2011 totaled $372.6 million.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Scientific_endeavors">Scientific endeavors</span></h3>
+<p>Paul Allen has founded and provided support to many scientific endeavors, including:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Allen_Institute_for_Brain_Science&amp;action=edit&amp;redlink=1" class="new" title="Allen Institute for Brain Science (page does not exist)">Allen Institute for Brain Science</a>: The Allen Institute for Brain Science is a Seattle-based non-profit dedicated to understanding how the human brain works. In total, Paul Allen has donated $500 million to the Allen Institute for Brain Science, making it his single largest philanthropic recipient. Allen launched the institute in 2003 with a $100 million donation, and contributed another $100 million after it completed the Allen Mouse Brain Atlas and other early initiatives. In 2012, Allen expanded the scope of the institute and infused it with an additional $300 million pledge. The Allen Institute for Brain Science makes research tools freely available to the scientific community using an open data model.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> 
+</li>
+</ul>
+<ul>
+<li> <a href="/w/index.php?title=Allen_Institute_for_Artificial_Intelligence&amp;action=edit&amp;redlink=1" class="new" title="Allen Institute for Artificial Intelligence (page does not exist)">Allen Institute for Artificial Intelligence</a>: In fall of 2013, Paul Allen announced the expansion of Allen Institute for Artificial Intelligence, a new research institution that will be modeled after the Allen Institute for Brain Science.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> 
+</li>
+</ul>
+<ul>
+<li> Allen Distinguished Investigators: Allen launched a grant program in 2010 to support scientists pursuing early-stage research projects who often have difficulty securing funding from traditional sources.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>
+</li>
+</ul>
+<ul>
+<li> <a href="/wiki/Allen_Telescope_Array" title="Allen Telescope Array">Allen Telescope Array</a>: Paul Allen donated the seed money to build SETI’s radio telescope array, eventually contributing $30 million to the project.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> 
+</li>
+</ul>
+<ul>
+<li> Wildlife Conservation: Allen bankrolled a range of <a href="/wiki/Wildlife_conservation" title="Wildlife conservation">wildlife conservation</a> projects in Africa over the past several years. Allen contributed nearly $10 million in direct gifts and grants to African charities and projects, including protecting lions in Namibia, developing a migratory corridor for elephants in <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a>, and protecting gorillas in the <a href="/wiki/Democratic_Republic_of_Congo" title="Democratic Republic of Congo" class="mw-redirect">Democratic Republic of Congo</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> 
+</li>
+</ul>
+<p>Paul Allen is a founding member of The <a href="/w/index.php?title=International_SeaKeepers_Society&amp;action=edit&amp;redlink=1" class="new" title="International SeaKeepers Society (page does not exist)">International SeaKeepers Society</a> and hosts its proprietary SeaKeeper 1000TM oceanographic and atmospheric monitoring system on all three of his megayachts.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> 
+</p><p>Allen has a flower fly named after him for his contributions to <a href="/wiki/Dipterology" title="Dipterology" class="mw-redirect">Dipterology</a>, called Paul Allen's flower fly.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Paul_G._Allen_Family_Foundation">Paul G. Allen Family Foundation</span></h3>
+<p>The <a rel="nofollow" class="external text" href="http://www.pgafoundations.com/">Paul G. Allen Family Foundation</a> was established in 1988 to administer a portion of Paul Allen’s philanthropic contributions. Between 1990-2012, the Foundation gave away $454 million, with the majority of the funds awarded to science and technology ($160.1 million), followed by arts and culture ($102.1 million), along with community development and social change ($98.9 million) and diverse other causes. During that period, 59% of the Foundation's money went to non-profit organizations in Seattle and Washington State, 18% was distributed across other states in the Pacific Northwest, and 23% went to national and international organizations outside of the Pacific Northwest.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Museums_and_collections">Museums and collections</span></h3>
+<p>Over the years, Paul Allen has established several non-profit community institutions that feature his private collections of historic artifacts. These include:
+</p>
+<ul>
+<li> <a href="/wiki/EMP_Museum" title="EMP Museum">EMP Museum</a>, a collection of rock ’n’ roll and pop culture exhibits inside a <a href="/wiki/Frank_Gehry" title="Frank Gehry">Frank Gehry</a>-designed building at <a href="/wiki/Seattle_Center" title="Seattle Center">Seattle Center</a>, established in 2000.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> The EMP Museum also houses the <a href="/w/index.php?title=Science_Fiction_and_Fantasy_Hall_of_Fame&amp;action=edit&amp;redlink=1" class="new" title="Science Fiction and Fantasy Hall of Fame (page does not exist)">Science Fiction and Fantasy Hall of Fame</a>.
+</li>
+</ul>
+<ul>
+<li> Flying Heritage Collection, which showcases restored vintage military aircraft and armaments primarily from the <a href="/wiki/WWII" title="WWII" class="mw-redirect">WWII</a> era, established in 2004.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> 
+</li>
+</ul>
+<ul>
+<li> STARTUP Gallery, a permanent exhibit at the <a href="/w/index.php?title=New_Mexico_Museum_of_Natural_History_and_Science&amp;action=edit&amp;redlink=1" class="new" title="New Mexico Museum of Natural History and Science (page does not exist)">New Mexico Museum of Natural History and Science</a> in <a href="/w/index.php?title=Albuquerque&amp;action=edit&amp;redlink=1" class="new" title="Albuquerque (page does not exist)">Albuquerque</a> dedicated to the history of the <a href="/wiki/Microcomputer" title="Microcomputer">microcomputer</a>, established in 2007.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> 
+</li>
+</ul>
+<ul>
+<li> <a href="/w/index.php?title=Living_Computer_Museum&amp;action=edit&amp;redlink=1" class="new" title="Living Computer Museum (page does not exist)">Living Computer Museum</a>, a collection of vintage computers in working order and available for interactive sessions on-site or through networked access, opened to the public in 2012.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup>
+</li>
+</ul>
+<h3><span class="mw-headline" id="The_arts">The arts</span></h3>
+<p>An active arts collector, Paul Allen has gifted more than $100 million to support the arts.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> On October 15, 2012, the Americans for the Arts awarded Allen with the Eli and Edythe Broad Award for Philanthropy in the Arts.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> Allen has also loaned out more than 300 pieces from his private collection to 47 different venues.
+</p>
+<h3><span class="mw-headline" id="Universities">Universities</span></h3>
+<p>In 1989, Paul Allen donated $2 million to the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a> to construct the Allen Library, which was named after his father Kenneth S. Allen, a former associate director of the University of Washington library system.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> In the same year, Allen donated an additional $8 million to establish the Kenneth S. Allen Library Endowment.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> In 2012, the endowment was renamed the Kenneth S. and Faye G. Allen Library Endowment after Allen’s mother (a noted bibliophile) passed away.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
+</p><p>In 2002, Allen donated $14 million to the University of Washington to construct the Paul G. Allen Center for Computer Science and Engineering.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> The building was dedicated in October 2003.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup>  
+</p><p>In 2010, Allen announced a gift of $26 million to build the Paul G. Allen School of Global Animal Health at <a href="/wiki/Washington_State_University" title="Washington State University">Washington State University</a>, his alma mater. The gift is the largest private donation in the university’s history.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Investments">Investments</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<h3><span class="mw-headline" id="Technology">Technology</span></h3>
+<ul>
+<li> <b>Vulcan Capital</b> is the investment-arm of Allen's Seattle-based Vulcan Inc., which manages his personal fortune.  In 2013, Allen opened a new Vulcan Capital office in <a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto, California</a> to focus on making new investments in emerging technology and internet companies.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup>  Recent investments include <a href="/w/index.php?title=Redfin&amp;action=edit&amp;redlink=1" class="new" title="Redfin (page does not exist)">Redfin</a>, Decide.com and Audience Inc.
+</li>
+</ul>
+<ul>
+<li> <b>Patents:</b> Paul Allen holds 43 patents from the <a href="/wiki/United_States_Patent_and_Trademark_Office" title="United States Patent and Trademark Office">United States Patent and Trademark Office</a>.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup>
+</li>
+</ul>
+<ul>
+<li> <b>Apps:</b> Allen is the backer of A.R.O., the startup behind the mobile app Saga;<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup> SportStream, a social app for sports fans;<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> and a content-management app called <a href="/w/index.php?title=Fayve&amp;action=edit&amp;redlink=1" class="new" title="Fayve (page does not exist)">Fayve</a>.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup>
+</li>
+</ul>
+<ul>
+<li> <b>Interval Research Corporation:</b> In 1992, Allen and <a href="/w/index.php?title=David_Liddle&amp;action=edit&amp;redlink=1" class="new" title="David Liddle (page does not exist)">David Liddle</a> co-founded <a href="/w/index.php?title=Interval_Research_Corporation&amp;action=edit&amp;redlink=1" class="new" title="Interval Research Corporation (page does not exist)">Interval Research Corporation</a>, a Silicon Valley-based laboratory and new business incubator that was dissolved in 2000 after generating over 300 patents,<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup> four of which were the subject of Allen's August 2010 <a href="/wiki/Patent_infringement" title="Patent infringement">patent infringement</a> lawsuit against <a href="/wiki/AOL" title="AOL">AOL</a>, <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a>, <a href="/wiki/EBay" title="EBay">eBay</a>, <a href="/w/index.php?title=Facebook&amp;action=edit&amp;redlink=1" class="new" title="Facebook (page does not exist)">Facebook</a>, <a href="/wiki/Google" title="Google">Google</a>, <a href="/wiki/Netflix" title="Netflix">Netflix</a>, <a href="/wiki/Office_Depot" title="Office Depot">Office Depot</a>, <a href="/wiki/OfficeMax" title="OfficeMax">OfficeMax</a>, <a href="/wiki/Staples_Inc." title="Staples Inc.">Staples</a>, <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a>, and <a href="/w/index.php?title=YouTube&amp;action=edit&amp;redlink=1" class="new" title="YouTube (page does not exist)">YouTube</a>.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup><sup id="cite_ref-wsj2010_55-0" class="reference"><a href="#cite_note-wsj2010-55">[55]</a></sup>
+</li>
+</ul>
+<ul>
+<li> <b>Ticketmaster:</b> In 1993, Paul Allen invested $243 million to acquire 80% of <a href="/wiki/Ticketmaster" title="Ticketmaster">Ticketmaster</a>. In 1997, <a href="/wiki/Home_Shopping_Network" title="Home Shopping Network">Home Shopping Network</a> acquired 47.5% of Allen's stock for $209 million worth of HSN stock.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Private_space_travel">Private space travel</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Ansari_X-Prize_Check.jpg" title="File:Ansari X-Prize Check.jpg">File:Ansari X-Prize Check.jpg</a>  <div class="thumbcaption">Paul Allen (third from right) and Burt Rutan (fifth from right) were presented with the Ansari X PRIZE by members of the X PRIZE Foundation in 2004.</div></div></div>
+<p>Allen confirmed that he was the sole investor behind <a href="/wiki/Burt_Rutan" title="Burt Rutan">Burt Rutan</a>'s <a href="/wiki/Scaled_Composites" title="Scaled Composites">Scaled Composites</a>' <a href="/wiki/SpaceShipOne" title="SpaceShipOne">SpaceShipOne</a> <a href="/wiki/Suborbital" title="Suborbital" class="mw-redirect">suborbital</a> commercial spacecraft on October 4, 2004.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup>  SpaceShipOne climbed to an altitude of <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> and was the first privately funded effort to successfully put a civilian in suborbital space. It won the <a href="/wiki/Ansari_X_Prize" title="Ansari X Prize">Ansari X Prize</a> competition and received the $10 million prize.<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup>
+</p><p>On December 13, 2011, Allen announced the creation of <a href="/w/index.php?title=Stratolaunch_Systems&amp;action=edit&amp;redlink=1" class="new" title="Stratolaunch Systems (page does not exist)">Stratolaunch Systems</a>. Stratolaunch is a proposed orbital launch system consisting of a dual-bodied, 6 engine jet aircraft, capable of carrying a rocket to high altitude; the rocket would then separate from its carrier aircraft and fire its own engines to complete its climb into orbit. If successful, this project would be the first wholly privately funded space transport system.<sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[59]</a></sup>  Stratolanch, which is partnering with <a href="/wiki/Orbital_Sciences_Corporation" title="Orbital Sciences Corporation">Orbital Sciences Corporation</a> and <a href="/wiki/Scaled_Composites" title="Scaled Composites">Scaled Composites</a>, is intended to launch in inclement weather, fly without worrying about the availability of launch pads and to operate from different locations.  Stratolaunch plans to ultimately host six to ten missions per year.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Real_estate">Real estate</span></h3>
+<p>Allen's Vulcan Real Estate is a key developer and investor in the development of the <a href="/wiki/South_Lake_Union" title="South Lake Union" class="mw-redirect">South Lake Union</a> neighborhood of Seattle as a <a href="/wiki/Biotechnology" title="Biotechnology">biotechnology</a> hub and mixed-use community.<sup id="cite_ref-biotech_hub_61-0" class="reference"><a href="#cite_note-biotech_hub-61">[61]</a></sup> Allen is also the largest private landowner in South Lake Union and owns nearly <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> in the neighborhood.<sup id="cite_ref-biotech_hub_61-1" class="reference"><a href="#cite_note-biotech_hub-61">[61]</a></sup> His holdings company has a development capacity of more than <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> of new residential, office, retail and biotech research space.<sup id="cite_ref-biotech_hub_61-2" class="reference"><a href="#cite_note-biotech_hub-61">[61]</a></sup> The South Lake Union redevelopment represents one of the largest urban revitalization projects in the country.<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> Allen has made investments estimated at US$200 million as of 2005, and promoted for city funding of the Seattle Streetcar line known as <a href="/w/index.php?title=South_Lake_Union_Streetcar&amp;action=edit&amp;redlink=1" class="new" title="South Lake Union Streetcar (page does not exist)">South Lake Union Streetcar</a>, which runs from Seattle's <a href="/w/index.php?title=Westlake_Center&amp;action=edit&amp;redlink=1" class="new" title="Westlake Center (page does not exist)">Westlake Center</a> to the south end of <a href="/wiki/Lake_Union" title="Lake Union">Lake Union</a>.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup> The Streetcar is a public and private partnership made possible because of a Local Improvement District (LID) supported by businesses and residents along the line;<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup> it officially started operation on December 12, 2007.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup> This development has been criticized as a city-supported real estate investment for Vulcan Inc.,<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup> and concerns over the loss of <a href="/w/index.php?title=Low-income_housing&amp;action=edit&amp;redlink=1" class="new" title="Low-income housing (page does not exist)">low-income housing</a> have been expressed.<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup>
+</p><p>In 2012, <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i> called Allen's South Lake Union investment "unexpectedly lucrative" and one that led to his firm selling a <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> office complex to <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.com</a> for US$1.16 billion, one of the most expensive office deals ever in Seattle.  "It's exceeded my expectations," Mr. Allen said of the South Lake Union development.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Venues">Venues</span></h3>
+<ul>
+<li> <b>Sports &amp; Event Centers</b>: Allen invested more than $150 million in Portland’s <a href="/wiki/Moda_Center" title="Moda Center">Moda Center</a>, which he now owns outright. He also contributed more than $140 million to help build <a href="/wiki/CenturyLink_Field" title="CenturyLink Field">CenturyLink Field</a> in Seattle.
+</li>
+</ul>
+<ul>
+<li> <b><a href="/w/index.php?title=Seattle_Cinerama&amp;action=edit&amp;redlink=1" class="new" title="Seattle Cinerama (page does not exist)">Seattle Cinerama</a>:</b> Allen purchased Seattle’s historic Cinerama Theater in 1998, and upgraded it with 3-D capability and digital sound, in addition to interior and exterior refurbishing. The theater is set to install the world’s first commercial digital laser projector in early 2014.
+</li>
+</ul>
+<ul>
+<li> <b><a href="/w/index.php?title=The_Hospital_Club&amp;action=edit&amp;redlink=1" class="new" title="The Hospital Club (page does not exist)">Hospital Club</a>:</b> Allen opened the Hospital Club in London in 2002 as a professional and social hub for people working in the creative arts.
+</li>
+</ul>
+<h3><span class="mw-headline" id="Vessels">Vessels</span></h3>
+<p><b>Octopus</b>
+<a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>The launch of Paul Allen's <a href="/w/index.php?title=Template:Convert&amp;action=edit&amp;redlink=1" class="new" title="Template:Convert (page does not exist)">Template:Convert</a> yacht, <i><a href="/wiki/Octopus_(yacht)" title="Octopus (yacht)">Octopus</a></i>, secured its position as one of the world's largest yachts in 2003.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup> As of 2013, it is 14th in the <a href="/wiki/List_of_motor_yachts_by_length" title="List of motor yachts by length">list of motor yachts by length</a>. The yacht is equipped with two helicopters, two submarines, a swimming pool, a music studio and a basketball court.<sup id="cite_ref-70" class="reference"><a href="#cite_note-70">[70]</a></sup>
+</p><p>Allen has loaned <i>Octopus</i>, which is equipped with a submarine and ROV, for a variety of rescue and research operations,<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">[71]</a></sup> notably assisting in a hunt for an American pilot and two officers whose plane disappeared off of Palau and loaning his yacht to scientists to study a rare fish called a coelacanth.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[72]</a></sup> In 2012, he loaned the ship to the Royal Navy in their attempt to retrieve the bell from the HMS Hood, which sank in the Denmark Strait during WWII, as a national memorial.<sup id="cite_ref-73" class="reference"><a href="#cite_note-73">[73]</a></sup><i>Octopus </i>is a member of AMVER, a voluntary group ship reporting system used worldwide by authorities to arrange assistance for those in distress at sea.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[74]</a></sup>
+</p><p>Allen is known for throwing huge, celebrity-studded parties on his yacht, such as a 2005 New Year's Eve party in which he and his band played <a href="/w/index.php?title=Johnny_Cash&amp;action=edit&amp;redlink=1" class="new" title="Johnny Cash (page does not exist)">Johnny Cash</a> songs with <a href="/wiki/R%26B" title="R&amp;B" class="mw-redirect">R&amp;B</a> star <a href="/wiki/Usher_(entertainer)" title="Usher (entertainer)">Usher</a>. His band also played at another party he hosted during the <a href="/wiki/Cannes_film_festival" title="Cannes film festival" class="mw-redirect">Cannes film festival</a> with keyboardist <a href="/wiki/Dave_Stewart_(keyboardist)" title="Dave Stewart (keyboardist)">Dave Stewart</a>.<sup id="cite_ref-largest_yachts_2005_75-0" class="reference"><a href="#cite_note-largest_yachts_2005-75">[75]</a></sup><sup id="cite_ref-76" class="reference"><a href="#cite_note-76">[76]</a></sup><sup id="cite_ref-77" class="reference"><a href="#cite_note-77">[77]</a></sup>
+</p><p>Allen also owns <i><a href="/w/index.php?title=Tatoosh_(yacht)&amp;action=edit&amp;redlink=1" class="new" title="Tatoosh (yacht) (page does not exist)">Tatoosh</a></i>, one of the world's 100 largest yachts.
+</p>
+<h2><span class="mw-headline" id="Sports">Sports</span></h2>
+<h3><span class="mw-headline" id="Santa_Barbara_Breakers">Santa Barbara Breakers</span></h3>
+<p>In 2008, Allen purchased the Santa Barbara Breakers for a staggering price of $5,000 and shortly after signed Star Jack Baker to a multi-year contract. The Breakers were once a laughing stock, however, Allen turned them around quickly and they are now the number one team on the west coast. Mike Sexton, the Head Coach, has a very intense and enthusiastic approach to the game. The Breakers have won back to back titles in 2012 and 2013.
+</p>
+<h3><span class="mw-headline" id="Portland_Trail_Blazers">Portland Trail Blazers</span></h3>
+<p>Allen purchased the <a href="/wiki/Portland_Trail_Blazers" title="Portland Trail Blazers">Portland Trail Blazers</a> NBA team in 1988 from California real estate developer <a href="/w/index.php?title=Larry_Weinberg_(businessman)&amp;action=edit&amp;redlink=1" class="new" title="Larry Weinberg (businessman) (page does not exist)">Larry Weinberg</a> for $70&#160;million.<sup id="cite_ref-trailblazers_3-1" class="reference"><a href="#cite_note-trailblazers-3">[3]</a></sup> He was also instrumental in the development and funding of the <a href="/w/index.php?title=Rose_Garden_(arena)&amp;action=edit&amp;redlink=1" class="new" title="Rose Garden (arena) (page does not exist)">Rose Garden</a> in 1993.<sup id="cite_ref-before_microsoft_9-6" class="reference"><a href="#cite_note-before_microsoft-9">[9]</a></sup> The Blazers were valued at $457 million in January 2013 according to <a href="/wiki/Forbes" title="Forbes">Forbes</a>, ranked No. 15 out of 30 NBA teams.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">[78]</a></sup> Allen announced the completion of the acquisition of the Rose Garden on April 2, 2007, and stated that this was a major milestone and a positive step for the franchise.<sup id="cite_ref-quiet_owner_79-0" class="reference"><a href="#cite_note-quiet_owner-79">[79]</a></sup> In 2013, the Rose Garden was renamed the Moda Center, a move Allen said "will allow us to enhance virtually every aspect of the fan experience."<sup id="cite_ref-80" class="reference"><a href="#cite_note-80">[80]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Seattle_Seahawks">Seattle Seahawks</span></h3>
+<p>Allen purchased the <a href="/wiki/Seattle_Seahawks" title="Seattle Seahawks">Seattle Seahawks</a> NFL team in 1997 when former owner <a href="/w/index.php?title=Ken_Behring&amp;action=edit&amp;redlink=1" class="new" title="Ken Behring (page does not exist)">Ken Behring</a> threatened to move the Seahawks to Southern California.<sup id="cite_ref-seahawks_2-1" class="reference"><a href="#cite_note-seahawks-2">[2]</a></sup> "I'm not sure anybody else in this community would have done what [Allen] did," Herman Sarkowsky, a former Seahawks minority owner, told <a href="/wiki/The_Seattle_Times" title="The Seattle Times">The Seattle Times</a> about Allen's decision to buy the team.  "That was the birth of the stadium, and the birth of the stadium was the lifeline for the club we know today."<sup id="cite_ref-81" class="reference"><a href="#cite_note-81">[81]</a></sup> The Seahawks were valued at $1.08 billion in August 2013 by <a href="/wiki/Forbes" title="Forbes">Forbes</a>, which says the team has "one of the most rabid fan bases in the NFL."<sup id="cite_ref-82" class="reference"><a href="#cite_note-82">[82]</a></sup> Under the helm of Allen the Seattle Seahawks won their first Super Bowl in 2014.<sup id="cite_ref-83" class="reference"><a href="#cite_note-83">[83]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Seattle_Sounders_FC">Seattle Sounders FC</span></h3>
+<p>Allen's Vulcan Sports &amp; Entertainment is part of the ownership team of the <a href="/w/index.php?title=Seattle_Sounders_FC&amp;action=edit&amp;redlink=1" class="new" title="Seattle Sounders FC (page does not exist)">Seattle Sounders FC</a>, a <a href="/wiki/Major_League_Soccer" title="Major League Soccer">Major League Soccer</a> (MLS) franchise that began play in 2009 at <a href="/wiki/CenturyLink_Field" title="CenturyLink Field">CenturyLink Field</a>, a stadium also controlled by Allen.<sup id="cite_ref-soccer_4-1" class="reference"><a href="#cite_note-soccer-4">[4]</a></sup> The ownership team also includes film producer <a href="/wiki/Joe_Roth" title="Joe Roth">Joe Roth</a>, businessman <a href="/w/index.php?title=Adrian_Hanauer&amp;action=edit&amp;redlink=1" class="new" title="Adrian Hanauer (page does not exist)">Adrian Hanauer</a>, and comedian <a href="/w/index.php?title=Drew_Carey&amp;action=edit&amp;redlink=1" class="new" title="Drew Carey (page does not exist)">Drew Carey</a>. <a href="/wiki/Sigi_Schmid" title="Sigi Schmid">Sigi Schmid</a>, two-time MLS Cup winner, is the team’s head coach.
+</p><p>The Sounders sold out every home game during its first season, setting a new MLS record for average match attendance and the most season tickets sold in the league. Seattle Sounders FC is only the second expansion team in MLS history to win the U.S. Open Cup tournament in its first season.
+</p>
+<h2><span class="mw-headline" id="Filmmaking">Filmmaking</span></h2>
+<p>Paul and Jody Allen are the owners and executive producers of <a href="/w/index.php?title=Vulcan_Productions&amp;action=edit&amp;redlink=1" class="new" title="Vulcan Productions (page does not exist)">Vulcan Productions</a>,<sup id="cite_ref-84" class="reference"><a href="#cite_note-84">[84]</a></sup> a media company headquartered in Seattle. Their films have received various recognition, ranging from a <a href="/wiki/Peabody_Award" title="Peabody Award">Peabody</a><sup id="cite_ref-85" class="reference"><a href="#cite_note-85">[85]</a></sup> to <a href="/wiki/Independent_Spirit_Awards" title="Independent Spirit Awards">Independent Spirit Awards</a>,<sup id="cite_ref-vulcanproductions.com_86-0" class="reference"><a href="#cite_note-vulcanproductions.com-86">[86]</a></sup> <a href="/wiki/Grammy" title="Grammy" class="mw-redirect">Grammys</a><sup id="cite_ref-ReferenceA_87-0" class="reference"><a href="#cite_note-ReferenceA-87">[87]</a></sup> and <a href="/wiki/Emmys" title="Emmys" class="mw-redirect">Emmys</a>.<sup id="cite_ref-ReferenceA_87-1" class="reference"><a href="#cite_note-ReferenceA-87">[87]</a></sup> The films have also been nominated for <a href="/wiki/Golden_Globes" title="Golden Globes" class="mw-redirect">Golden Globes</a><sup id="cite_ref-ReferenceA_87-2" class="reference"><a href="#cite_note-ReferenceA-87">[87]</a></sup> and <a href="/wiki/Academy_Awards" title="Academy Awards">Academy Awards</a><sup id="cite_ref-vulcanproductions.com_86-1" class="reference"><a href="#cite_note-vulcanproductions.com-86">[86]</a></sup> among many others. Vulcan Productions' films and documentary projects include <i><a href="/wiki/Far_from_Heaven" title="Far from Heaven">Far from Heaven</a></i><sup id="cite_ref-vulcanproductions.com_86-2" class="reference"><a href="#cite_note-vulcanproductions.com-86">[86]</a></sup> (2002), <i><a href="/w/index.php?title=Hard_Candy_(film)&amp;action=edit&amp;redlink=1" class="new" title="Hard Candy (film) (page does not exist)">Hard Candy</a></i><sup id="cite_ref-88" class="reference"><a href="#cite_note-88">[88]</a></sup> (2005), <i><a href="/w/index.php?title=Rx_for_Survival:_A_Global_Health_Challenge&amp;action=edit&amp;redlink=1" class="new" title="Rx for Survival: A Global Health Challenge (page does not exist)">Rx for Survival: A Global Health Challenge</a></i><sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[89]</a></sup><sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[90]</a></sup> (2005), <i><a href="/w/index.php?title=Where_God_Left_His_Shoes&amp;action=edit&amp;redlink=1" class="new" title="Where God Left His Shoes (page does not exist)">Where God Left His Shoes</a></i><sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[91]</a></sup> (2006), <i><a href="/w/index.php?title=Judgment_Day:_Intelligent_Design_on_Trial&amp;action=edit&amp;redlink=1" class="new" title="Judgment Day: Intelligent Design on Trial (page does not exist)">Judgment Day: Intelligent Design on Trial</a></i><sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[92]</a></sup><sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[93]</a></sup> (2007), and <i><a href="/w/index.php?title=This_Emotional_Life&amp;action=edit&amp;redlink=1" class="new" title="This Emotional Life (page does not exist)">This Emotional Life</a></i><sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[94]</a></sup><sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[95]</a></sup> (2010).
+</p><p>In 2013, Vulcan Productions co-produced the Richard E. Robbins-directed film <i><a href="/w/index.php?title=Girl_Rising&amp;action=edit&amp;redlink=1" class="new" title="Girl Rising (page does not exist)">Girl Rising</a></i><sup id="cite_ref-96" class="reference"><a href="#cite_note-96">[96]</a></sup> which tells the stories of girls from different parts of the world who seek an education. Globally over 205 million households watched <i>Girl Rising</i> during the CNN and CNN International premieres,<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[97]</a></sup> and over 4 million people have engaged with Girl Rising through websites and social media. Through the associated 10x10 program, over $2.1 million has been donated to help girls receive an education worldwide.<sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[98]</a></sup>
+</p><p>Also in 2013, Vulcan Productions signed on as a producing partner of <i><a href="/w/index.php?title=Pandora%27s_Promise&amp;action=edit&amp;redlink=1" class="new" title="Pandora's Promise (page does not exist)">Pandora's Promise</a></i>,<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[99]</a></sup> a documentary about nuclear power, directed by Oscar-nominated director <a href="/w/index.php?title=Robert_Stone_(director)&amp;action=edit&amp;redlink=1" class="new" title="Robert Stone (director) (page does not exist)">Robert Stone</a>. It was released in select theaters nationwide June 12, 2013 and on CNN on November 7, 2013. A variety of college and private screenings as well as panel discussions have been hosted throughout the country.<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">[100]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Books">Books</span></h2>
+<p>Allen's memoir, <i>Idea Man: A Memoir by the Cofounder of Microsoft</i>, was released on April 19, 2011. The paperback version of <i>Idea Man</i>, which included a new epilogue, came out on October 30, 2012.<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[101]</a></sup><sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[102]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Paul_Allen_and_the_Underthinkers.jpg" title="File:Paul Allen and the Underthinkers.jpg">File:Paul Allen and the Underthinkers.jpg</a>  <div class="thumbcaption">Paul Allen and the Underthinkers perform at the Allen Institute for Brain Science's 10th Anniversary Gala.</div></div></div>
+<h2><span class="mw-headline" id="Albums">Albums</span></h2>
+<p>Paul Allen received his first electric guitar at the age of sixteen, and was inspired to play it by listening to Jimi Hendrix.<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">[103]</a></sup> In 2000, Allen played rhythm guitar on the independently-produced and eponymous album <i>Grown Men</i>.<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">[104]</a></sup>  In 2013, he had a major label release on Sony's Legacy Recordings; <i>Everywhere at Once</i> by Paul Allen and the Underthinkers.<sup id="cite_ref-105" class="reference"><a href="#cite_note-105">[105]</a></sup> PopMatters.com described <i>Everywhere at Once</i> as “a quality release of blues-rock that’s enjoyable from start to finish.”<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">[106]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/w/index.php?title=History_of_Microsoft&amp;action=edit&amp;redlink=1" class="new" title="History of Microsoft (page does not exist)">History of Microsoft</a>
+</li>
+<li><a href="/w/index.php?title=Hodgkin%27s_lymphoma&amp;action=edit&amp;redlink=1" class="new" title="Hodgkin's lymphoma (page does not exist)">List of select cases of Hodgkin's Disease</a>
+</li>
+<li><i><a href="/wiki/Pirates_of_Silicon_Valley" title="Pirates of Silicon Valley">Pirates of Silicon Valley</a></i>, a 1999 film about the rise of the personal computer. Allen is portrayed by <a href="/w/index.php?title=Josh_Hopkins&amp;action=edit&amp;redlink=1" class="new" title="Josh Hopkins (page does not exist)">Josh Hopkins</a>.
+</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li> Rich, Laura, <a rel="nofollow" class="external text" href="http://books.google.com/books?id=iBhNuAj_Tx4C&amp;printsec=frontcover"><i>The accidental zillionaire: demystifying Paul Allen</i></a>, Hoboken, N.J.&#160;: <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>, 2003. <a href="/wiki/Special:BookSources/0471234915" class="internal mw-magiclink-isbn">ISBN 0-471-23491-5</a>
+</li>
+<li> Allen, Paul, <a rel="nofollow" class="external text" href="http://www.vanityfair.com/business/features/2011/05/paul-allen-201105">"Microsoft’s Odd Couple"</a>, <a href="/wiki/Vanity_Fair_(magazine)" title="Vanity Fair (magazine)">Vanity Fair</a>, May 2011
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.paulallen.com/">Paul Allen official home page</a>
+</li>
+<li><a href="/w/index.php?title=Template:C-SPAN&amp;action=edit&amp;redlink=1" class="new" title="Template:C-SPAN (page does not exist)">Template:C-SPAN</a>
+</li>
+<li><a href="/w/index.php?title=Template:Charlie_Rose_view&amp;action=edit&amp;redlink=1" class="new" title="Template:Charlie Rose view (page does not exist)">Template:Charlie Rose view</a>
+</li>
+<li><a href="/w/index.php?title=Template:Worldcat_id&amp;action=edit&amp;redlink=1" class="new" title="Template:Worldcat id (page does not exist)">Template:Worldcat id</a>
+</li>
+<li><a href="/w/index.php?title=Template:NYTtopic&amp;action=edit&amp;redlink=1" class="new" title="Template:NYTtopic (page does not exist)">Template:NYTtopic</a>
+</li>
+<li><a href="/w/index.php?title=Template:WSJtopic&amp;action=edit&amp;redlink=1" class="new" title="Template:WSJtopic (page does not exist)">Template:WSJtopic</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.oregonencyclopedia.org/entry/view/allen_paul_1953_/">Paul Allen</a> entry from <a href="/w/index.php?title=The_Oregon_Encyclopedia&amp;action=edit&amp;redlink=1" class="new" title="The Oregon Encyclopedia (page does not exist)">The Oregon Encyclopedia</a>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.thocp.net/biographies/allen_paul.htm">Paul Allen</a> at THOCP.net
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.forbes.com/profile/paul-allen">Business profile</a> at <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:S-start&amp;action=edit&amp;redlink=1" class="new" title="Template:S-start (page does not exist)">Template:S-start</a>
+<a href="/w/index.php?title=Template:S-bus&amp;action=edit&amp;redlink=1" class="new" title="Template:S-bus (page does not exist)">Template:S-bus</a>
+<a href="/w/index.php?title=Template:Succession_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Succession box (page does not exist)">Template:Succession box</a>
+<a href="/w/index.php?title=Template:Succession_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Succession box (page does not exist)">Template:Succession box</a>
+<a href="/w/index.php?title=Template:Succession_box&amp;action=edit&amp;redlink=1" class="new" title="Template:Succession box (page does not exist)">Template:Succession box</a>
+<a href="/w/index.php?title=Template:S-end&amp;action=edit&amp;redlink=1" class="new" title="Template:S-end (page does not exist)">Template:S-end</a>
+</p><p><a href="/w/index.php?title=Template:Seattle_Seahawks&amp;action=edit&amp;redlink=1" class="new" title="Template:Seattle Seahawks (page does not exist)">Template:Seattle Seahawks</a>
+<a href="/w/index.php?title=Template:Portland_Trail_Blazers&amp;action=edit&amp;redlink=1" class="new" title="Template:Portland Trail Blazers (page does not exist)">Template:Portland Trail Blazers</a>
+<a href="/w/index.php?title=Template:TrailblazersOwners&amp;action=edit&amp;redlink=1" class="new" title="Template:TrailblazersOwners (page does not exist)">Template:TrailblazersOwners</a>
+<a href="/w/index.php?title=Template:Seattle_Sounders_FC&amp;action=edit&amp;redlink=1" class="new" title="Template:Seattle Sounders FC (page does not exist)">Template:Seattle Sounders FC</a>
+<a href="/w/index.php?title=Template:NFLOwners&amp;action=edit&amp;redlink=1" class="new" title="Template:NFLOwners (page does not exist)">Template:NFLOwners</a>
+<a href="/w/index.php?title=Template:NBAOwners&amp;action=edit&amp;redlink=1" class="new" title="Template:NBAOwners (page does not exist)">Template:NBAOwners</a>
+<a href="/w/index.php?title=Template:Good_article&amp;action=edit&amp;redlink=1" class="new" title="Template:Good article (page does not exist)">Template:Good article</a>
+</p><p><a href="/w/index.php?title=Template:Authority_control&amp;action=edit&amp;redlink=1" class="new" title="Template:Authority control (page does not exist)">Template:Authority control</a>
+</p><p><a href="/w/index.php?title=Template:Persondata&amp;action=edit&amp;redlink=1" class="new" title="Template:Persondata (page does not exist)">Template:Persondata</a>
+<br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.952 seconds
+Real time usage: 3.721 seconds
+Preprocessor visited node count: 2218/1000000
+Preprocessor generated node count: 11549/1000000
+Post‐expand include size: 1483/2097152 bytes
+Template argument size: 102/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:15254-0!*!0!!en!2!* and timestamp 20170407172326
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Paul_Allen&amp;oldid=15254">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Paul_Allen&amp;oldid=15254</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Commons_category_with_local_link_different_than_on_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Category:Commons category with local link different than on Wikidata (page does not exist)">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:1953_births" title="Category:1953 births">1953 births</a></li><li><a href="/w/index.php?title=Category:20th-century_American_businesspeople&amp;action=edit&amp;redlink=1" class="new" title="Category:20th-century American businesspeople (page does not exist)">20th-century American businesspeople</a></li><li><a href="/w/index.php?title=Category:21st-century_American_businesspeople&amp;action=edit&amp;redlink=1" class="new" title="Category:21st-century American businesspeople (page does not exist)">21st-century American businesspeople</a></li><li><a href="/w/index.php?title=Category:American_billionaires&amp;action=edit&amp;redlink=1" class="new" title="Category:American billionaires (page does not exist)">American billionaires</a></li><li><a href="/w/index.php?title=Category:American_computer_businesspeople&amp;action=edit&amp;redlink=1" class="new" title="Category:American computer businesspeople (page does not exist)">American computer businesspeople</a></li><li><a href="/w/index.php?title=Category:American_computer_programmers&amp;action=edit&amp;redlink=1" class="new" title="Category:American computer programmers (page does not exist)">American computer programmers</a></li><li><a href="/w/index.php?title=Category:American_construction_businesspeople&amp;action=edit&amp;redlink=1" class="new" title="Category:American construction businesspeople (page does not exist)">American construction businesspeople</a></li><li><a href="/w/index.php?title=Category:American_inventors&amp;action=edit&amp;redlink=1" class="new" title="Category:American inventors (page does not exist)">American inventors</a></li><li><a href="/w/index.php?title=Category:American_investors&amp;action=edit&amp;redlink=1" class="new" title="Category:American investors (page does not exist)">American investors</a></li><li><a href="/w/index.php?title=Category:American_philanthropists&amp;action=edit&amp;redlink=1" class="new" title="Category:American philanthropists (page does not exist)">American philanthropists</a></li><li><a href="/w/index.php?title=Category:American_real_estate_and_property_developers&amp;action=edit&amp;redlink=1" class="new" title="Category:American real estate and property developers (page does not exist)">American real estate and property developers</a></li><li><a href="/w/index.php?title=Category:American_real_estate_company_founders&amp;action=edit&amp;redlink=1" class="new" title="Category:American real estate company founders (page does not exist)">American real estate company founders</a></li><li><a href="/w/index.php?title=Category:American_soccer_chairmen_and_investors&amp;action=edit&amp;redlink=1" class="new" title="Category:American soccer chairmen and investors (page does not exist)">American soccer chairmen and investors</a></li><li><a href="/w/index.php?title=Category:American_technology_chief_executives&amp;action=edit&amp;redlink=1" class="new" title="Category:American technology chief executives (page does not exist)">American technology chief executives</a></li><li><a href="/w/index.php?title=Category:American_technology_company_founders&amp;action=edit&amp;redlink=1" class="new" title="Category:American technology company founders (page does not exist)">American technology company founders</a></li><li><a href="/w/index.php?title=Category:Businesspeople_from_Washington_(state)&amp;action=edit&amp;redlink=1" class="new" title="Category:Businesspeople from Washington (state) (page does not exist)">Businesspeople from Washington (state)</a></li><li><a href="/w/index.php?title=Category:Businesspeople_in_software&amp;action=edit&amp;redlink=1" class="new" title="Category:Businesspeople in software (page does not exist)">Businesspeople in software</a></li><li><a href="/w/index.php?title=Category:Cancer_survivors&amp;action=edit&amp;redlink=1" class="new" title="Category:Cancer survivors (page does not exist)">Cancer survivors</a></li><li><a href="/w/index.php?title=Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences&amp;action=edit&amp;redlink=1" class="new" title="Category:Fellows of the American Academy of Arts and Sciences (page does not exist)">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/w/index.php?title=Category:Giving_Pledgers&amp;action=edit&amp;redlink=1" class="new" title="Category:Giving Pledgers (page does not exist)">Giving Pledgers</a></li><li><a href="/w/index.php?title=Category:History_of_Microsoft&amp;action=edit&amp;redlink=1" class="new" title="Category:History of Microsoft (page does not exist)">History of Microsoft</a></li><li><a href="/w/index.php?title=Category:Living_people&amp;action=edit&amp;redlink=1" class="new" title="Category:Living people (page does not exist)">Living people</a></li><li><a href="/w/index.php?title=Category:Major_League_Soccer_executives&amp;action=edit&amp;redlink=1" class="new" title="Category:Major League Soccer executives (page does not exist)">Major League Soccer executives</a></li><li><a href="/w/index.php?title=Category:Members_of_the_United_States_National_Academy_of_Engineering&amp;action=edit&amp;redlink=1" class="new" title="Category:Members of the United States National Academy of Engineering (page does not exist)">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Microsoft_employees" title="Category:Microsoft employees">Microsoft employees</a></li><li><a href="/w/index.php?title=Category:People_from_Seattle,_Washington&amp;action=edit&amp;redlink=1" class="new" title="Category:People from Seattle, Washington (page does not exist)">People from Seattle, Washington</a></li><li><a href="/w/index.php?title=Category:Portland_Trail_Blazers_owners&amp;action=edit&amp;redlink=1" class="new" title="Category:Portland Trail Blazers owners (page does not exist)">Portland Trail Blazers owners</a></li><li><a href="/w/index.php?title=Category:Seattle_Seahawks_owners&amp;action=edit&amp;redlink=1" class="new" title="Category:Seattle Seahawks owners (page does not exist)">Seattle Seahawks owners</a></li><li><a href="/w/index.php?title=Category:Lakeside_School_alumni&amp;action=edit&amp;redlink=1" class="new" title="Category:Lakeside School alumni (page does not exist)">Lakeside School alumni</a></li><li><a href="/w/index.php?title=Category:American_real_estate_businesspeople&amp;action=edit&amp;redlink=1" class="new" title="Category:American real estate businesspeople (page does not exist)">American real estate businesspeople</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Allen" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Paul_Allen"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Paul_Allen&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Paul_Allen" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Paul_Allen&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paul_Allen&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Paul_Allen" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Paul_Allen" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Paul_Allen&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Paul_Allen&amp;oldid=15254" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Paul_Allen&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 February 2014, at 06:56.</li>
+											<li id="footer-info-viewcount">This page has been accessed 119 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 5.016 secs. -->
+	</body>
+</html>

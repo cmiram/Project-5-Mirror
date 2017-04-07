@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" /><title>Kanji - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.22.2" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="wikipedia clone (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/api.php?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="wikipedia clone Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=ext.rtlcite%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: my_wiki:resourceloader:filter:minify-css:7:07b6a8ccf3fd62e770f192d0a6f8e123 */</style>
+
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kanji","wgTitle":"Kanji","wgCurRevisionId":24880,"wgRevisionId":24880,"wgArticleId":24880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Articles with hAudio microformats","Japanese writing system","Kanji","Chinese characters","Chinese scripts","Japanese writing system terms","Logographic writing systems","Writing systems"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kanji","wgIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"vector-simplesearch":1,"watchcreations":0,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,
+"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});
+/* cache key: my_wiki:resourceloader:filter:minify-js:7:5a69c7e0fa6557851b6dea8a62efaffb */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","skins.vector.js"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Kanji skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Kanji</span></h1>
+			<div id="bodyContent">
+								<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><a href="/w/index.php?title=Template:About&amp;action=edit&amp;redlink=1" class="new" title="Template:About (page does not exist)">Template:About</a>
+<b>Kanji</b> (<span lang="ja">漢字</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>; <a href="/w/index.php?title=Template:IPA-ja&amp;action=edit&amp;redlink=1" class="new" title="Template:IPA-ja (page does not exist)">Template:IPA-ja</a> <span class="unicode haudio" style="white-space:nowrap;"><span class="fn"><a href="/wiki/File:Loudspeaker.svg" title="File:Loudspeaker.svg">About this sound</a>&#160;<a href="/w/index.php?title=Special:Upload&amp;wpDestFile=Ja-kanji.ogg" class="new" title="Ja-kanji.ogg">listen</a></span></span>) are the adopted <a href="/wiki/Logographic" title="Logographic" class="mw-redirect">logographic</a> <a href="/wiki/Chinese_characters" title="Chinese characters">Chinese characters</a> (<i>hanzi</i>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> that are used in the modern <a href="/wiki/Japanese_writing_system" title="Japanese writing system">Japanese writing system</a> along with <a href="/wiki/Hiragana" title="Hiragana">hiragana</a>, <a href="/wiki/Katakana" title="Katakana">katakana</a>, <a href="/w/index.php?title=Hindu%E2%80%93Arabic_numeral_system&amp;action=edit&amp;redlink=1" class="new" title="Hindu–Arabic numeral system (page does not exist)">Hindu-Arabic numerals</a>, and the occasional use of the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a>. The <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> term <i>kanji</i> for the Chinese characters literally means "<a href="/wiki/Han_Chinese" title="Han Chinese">Han</a> characters"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> and is written using the same characters as the <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a> word <i><a href="/wiki/Hanzi" title="Hanzi" class="mw-redirect">hanzi</a></i> (<a href="/w/index.php?title=Template:Zh&amp;action=edit&amp;redlink=1" class="new" title="Template:Zh (page does not exist)">Template:Zh</a>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<table class="vertical-navbox nowraplinks" cellspacing="5" cellpadding="0" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width: auto;"><tr><td class="" style="padding:0.4em 0;"><a href="/wiki/File:%E6%9B%B8.svg" title="File:書.svg">Japanese writing</a></td>
+      </tr><tr><th class="" style=";padding:0.2em 0.4em 0.2em;;font-size:145%;line-height:1.2em;"><a href="/wiki/Japanese_writing_system" title="Japanese writing system">Japanese writing</a></th>
+      </tr><tr>
+<th class="" style="padding:0.1em;;border-top: 1px solid #aaa;;">
+<strong class="selflink">Kanji</strong></th>
+</tr><tr>
+<th class="" style="padding:0.1em;;border-top: 1px solid #aaa;;">
+<a href="/wiki/Kana" title="Kana">Kana</a></th>
+</tr><tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Hiragana" title="Hiragana">Hiragana</a>
+</li>
+<li> <a href="/wiki/Katakana" title="Katakana">Katakana</a>
+</li>
+<li> <a href="/wiki/Hentaigana" title="Hentaigana">Hentaigana</a>
+</li>
+<li> <a href="/wiki/Man%27y%C5%8Dgana" title="Man'yōgana">Man'yōgana</a>
+</li>
+<li> <a href="/w/index.php?title=Sogana&amp;action=edit&amp;redlink=1" class="new" title="Sogana (page does not exist)">Sogana</a></td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;border-top: 1px solid #aaa;;">
+<a href="/w/index.php?title=Template:Nobold&amp;action=edit&amp;redlink=1" class="new" title="Template:Nobold (page does not exist)">Template:Nobold</a></th>
+</tr><tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Furigana" title="Furigana">Furigana</a>
+</li>
+<li> <a href="/wiki/Okurigana" title="Okurigana">Okurigana</a></td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;border-top: 1px solid #aaa;;">
+<a href="/wiki/Japanese_Braille" title="Japanese Braille">Braille</a></th>
+</tr><tr>
+<th class="" style="padding:0.1em;;border-top: 1px solid #aaa;;">
+<a href="/w/index.php?title=Romanization_of_Japanese&amp;action=edit&amp;redlink=1" class="new" title="Romanization of Japanese (page does not exist)">Rōmaji</a></th>
+</tr><tr>
+<td class="plainlist" style="padding:0 0.1em 0.4em;;">
+<ul>
+<li> <a href="/wiki/Hepburn_romanization" title="Hepburn romanization">Hepburn</a> (colloquial)
+</li>
+<li> <a href="/wiki/Kunrei-shiki_romanization" title="Kunrei-shiki romanization">Kunrei</a> (<a href="/wiki/ISO_3602" title="ISO 3602" class="mw-redirect">ISO</a>)
+</li>
+<li> <a href="/wiki/Nihon-shiki_romanization" title="Nihon-shiki romanization">Nihon</a> (<a href="/w/index.php?title=ISO_3602_Strict&amp;action=edit&amp;redlink=1" class="new" title="ISO 3602 Strict (page does not exist)">ISO translit.</a>)
+</li>
+<li> <a href="/wiki/JSL_romanization" title="JSL romanization">JSL</a> (transliteration)
+</li>
+<li> <a href="/wiki/W%C4%81puro_r%C5%8Dmaji" title="Wāpuro rōmaji">Wāpuro</a> (keyboard)</td>
+</li>
+</ul>
+</tr><tr>
+<th class="" style="padding:0.1em;;border-top: 1px solid #aaa;;">
+<a href="/w/index.php?title=Japanese_punctuation&amp;action=edit&amp;redlink=1" class="new" title="Japanese punctuation (page does not exist)">Punctuation</a></th>
+</tr><tr><td style="text-align:right;font-size:115%;"><a href="/w/index.php?title=Template:Navbar&amp;action=edit&amp;redlink=1" class="new" title="Template:Navbar (page does not exist)">Template:Navbar</a></td></tr>
+</table><a href="/w/index.php?title=Template:Infobox_writing_system&amp;action=edit&amp;redlink=1" class="new" title="Template:Infobox writing system (page does not exist)">Template:Infobox writing system</a>
+<p><a href="/w/index.php?title=Template:Table_Hanzi&amp;action=edit&amp;redlink=1" class="new" title="Template:Table Hanzi (page does not exist)">Template:Table Hanzi</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+</p>
+<div id="toc" class="toc"><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Orthographic_reform_and_lists_of_kanji"><span class="tocnumber">2</span> <span class="toctext">Orthographic reform and lists of kanji</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ky.C5.8Diku_kanji"><span class="tocnumber">2.1</span> <span class="toctext">Kyōiku kanji</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#J.C5.8Dy.C5.8D_kanji"><span class="tocnumber">2.2</span> <span class="toctext">Jōyō kanji</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Jinmeiy.C5.8D_kanji"><span class="tocnumber">2.3</span> <span class="toctext">Jinmeiyō kanji</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hy.C5.8Dgaiji"><span class="tocnumber">2.4</span> <span class="toctext">Hyōgaiji</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Japanese_Industrial_Standards_for_kanji"><span class="tocnumber">2.5</span> <span class="toctext">Japanese Industrial Standards for kanji</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Gaiji"><span class="tocnumber">2.5.1</span> <span class="toctext">Gaiji</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Total_number_of_kanji"><span class="tocnumber">3</span> <span class="toctext">Total number of kanji</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Readings"><span class="tocnumber">4</span> <span class="toctext">Readings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#On.27yomi_.28Sino-Japanese_reading.29"><span class="tocnumber">4.1</span> <span class="toctext"><i>On'yomi</i> (Sino-Japanese reading)</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Kun.27yomi_.28Japanese_reading.29"><span class="tocnumber">4.2</span> <span class="toctext"><i>Kun'yomi</i> (Japanese reading)</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Mixed_readings"><span class="tocnumber">4.3</span> <span class="toctext">Mixed readings</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Special_readings"><span class="tocnumber">4.4</span> <span class="toctext">Special readings</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Single_character_gairaigo"><span class="tocnumber">4.5</span> <span class="toctext">Single character gairaigo</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Other_readings"><span class="tocnumber">4.6</span> <span class="toctext">Other readings</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#When_to_use_which_reading"><span class="tocnumber">4.7</span> <span class="toctext">When to use which reading</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Pronunciation_assistance"><span class="tocnumber">4.8</span> <span class="toctext">Pronunciation assistance</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Spelling_words"><span class="tocnumber">4.9</span> <span class="toctext">Spelling words</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Local_developments_and_divergences_from_Chinese"><span class="tocnumber">5</span> <span class="toctext">Local developments and divergences from Chinese</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Kokuji"><span class="tocnumber">5.1</span> <span class="toctext">Kokuji</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Kokkun"><span class="tocnumber">5.2</span> <span class="toctext">Kokkun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Types_of_Kanji:_by_category"><span class="tocnumber">6</span> <span class="toctext">Types of Kanji: by category</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Sh.C5.8Dkei_moji_.28.E8.B1.A1.E5.BD.A2.E6.96.87.E5.AD.97.29"><span class="tocnumber">6.1</span> <span class="toctext"><i>Shōkei moji</i> (象形文字)</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Shiji_moji_.28.E6.8C.87.E4.BA.8B.E6.96.87.E5.AD.97.29"><span class="tocnumber">6.2</span> <span class="toctext"><i>Shiji moji</i> (指事文字)</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Kaii_moji_.28.E4.BC.9A.E6.84.8F.E6.96.87.E5.AD.97.29"><span class="tocnumber">6.3</span> <span class="toctext"><i>Kaii moji</i> (会意文字)</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Keisei_moji_.28.E5.BD.A2.E5.A3.B0.E6.96.87.E5.AD.97.29"><span class="tocnumber">6.4</span> <span class="toctext"><i>Keisei moji</i> (形声文字)</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Tench.C5.AB_moji_.28.E8.BB.A2.E6.B3.A8.E6.96.87.E5.AD.97.29"><span class="tocnumber">6.5</span> <span class="toctext"><i>Tenchū moji</i> (転注文字)</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Kasha_moji_.28.E4.BB.AE.E5.80.9F.E6.96.87.E5.AD.97.29"><span class="tocnumber">6.6</span> <span class="toctext"><i>Kasha moji</i> (仮借文字)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Related_symbols"><span class="tocnumber">7</span> <span class="toctext">Related symbols</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Collation"><span class="tocnumber">8</span> <span class="toctext">Collation</span></a></li>
+<li class="toclevel-1 tocsection-32"><a href="#Kanji_education"><span class="tocnumber">9</span> <span class="toctext">Kanji education</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#Notes"><span class="tocnumber">11</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#Glyph_conversion"><span class="tocnumber">13.1</span> <span class="toctext">Glyph conversion</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Nihonshoki_tanaka_version.jpg" title="File:Nihonshoki tanaka version.jpg">File:Nihonshoki tanaka version.jpg</a>  <div class="thumbcaption"><a href="/wiki/Nihon_Shoki" title="Nihon Shoki">Nihon Shoki</a> (720 AD), considered by historians and archaeologists as the most complete extant historical record of ancient Japan, was written entirely in kanji.</div></div></div>
+<p><a href="/w/index.php?title=Chinese_character&amp;action=edit&amp;redlink=1" class="new" title="Chinese character (page does not exist)">Chinese characters</a> first came to <a href="/wiki/Japan" title="Japan">Japan</a> on official seals, letters, swords, coins, mirrors, and other decorative items imported from <a href="/wiki/China" title="China">China</a>. The earliest known instance of such an import was the <a href="/w/index.php?title=King_of_Na_Gold_Seal&amp;action=edit&amp;redlink=1" class="new" title="King of Na Gold Seal (page does not exist)">King of Na Gold Seal</a> given by <a href="/wiki/Emperor_Guangwu_of_Han" title="Emperor Guangwu of Han">Emperor Guangwu of Han</a> to a <a href="/wiki/Yamato_Period" title="Yamato Period" class="mw-redirect">Yamato</a> emissary in 57 AD.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Chinese coins from the 1st century AD have been found in <a href="/wiki/Yayoi_period" title="Yayoi period">Yayoi period</a> archaeological sites.<sup id="cite_ref-miyake8_5-0" class="reference"><a href="#cite_note-miyake8-5">[5]</a></sup> However, the Japanese of that era probably had no comprehension of the script, and would remain illiterate until the 5th century AD.<sup id="cite_ref-miyake8_5-1" class="reference"><a href="#cite_note-miyake8-5">[5]</a></sup> According to the <a href="/wiki/Nihon_Shoki" title="Nihon Shoki">Nihon Shoki</a> and <a href="/wiki/Kojiki" title="Kojiki">Kojiki</a>, a semi-legendary scholar called <a href="/w/index.php?title=Wani_(scholar)&amp;action=edit&amp;redlink=1" class="new" title="Wani (scholar) (page does not exist)">Wani</a> (<a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>) was dispatched to Japan by the <a href="/wiki/Baekje" title="Baekje">Kingdom of Baekje</a> during the reign of <a href="/wiki/Emperor_%C5%8Cjin" title="Emperor Ōjin">Emperor Ōjin</a> in the early 5th century, bringing with him knowledge of Confucianism and Chinese characters.<sup id="cite_ref-miyake9_6-0" class="reference"><a href="#cite_note-miyake9-6">[6]</a></sup>
+</p><p>The earliest Japanese documents were probably written by bilingual Chinese or Korean officials employed at the Yamato court.<sup id="cite_ref-miyake8_5-2" class="reference"><a href="#cite_note-miyake8-5">[5]</a></sup> For example, the diplomatic correspondence from <a href="/wiki/Five_kings_of_Wa" title="Five kings of Wa">King Bu of Wa</a> to <a href="/w/index.php?title=Emperor_Shun_of_Liu_Song&amp;action=edit&amp;redlink=1" class="new" title="Emperor Shun of Liu Song (page does not exist)">Emperor Shun of Liu Song</a> in 478 has been praised for its skillful use of <a href="/wiki/Allusion" title="Allusion">allusion</a>. Later, groups of people called <i>fuhito</i> were organized under the monarch to read and write Classical Chinese. During the reign of <a href="/wiki/Empress_Suiko" title="Empress Suiko">Empress Suiko</a> (593–628), the Yamato court began sending full-scale diplomatic missions to China, which resulted in a large increase in Chinese literacy at the Japanese court.<sup id="cite_ref-miyake9_6-1" class="reference"><a href="#cite_note-miyake9-6">[6]</a></sup>
+</p><p>The Japanese language had no written form at the time Chinese characters were introduced, and texts were written and read only in Chinese. Later, during the <a href="/wiki/Heian_period" title="Heian period">Heian period</a> however, a system known as <i><a href="/wiki/Kanbun" title="Kanbun">kanbun</a></i> emerged, which involved using Chinese text with <a href="/wiki/Diacritical_mark" title="Diacritical mark" class="mw-redirect">diacritical marks</a> to allow Japanese speakers to restructure and read Chinese sentences, by changing word order and adding particles and verb endings, in accordance with the rules of <a href="/wiki/Japanese_grammar" title="Japanese grammar">Japanese grammar</a>.
+</p><p>Chinese characters also came to be used to write Japanese words, resulting in the modern kana syllabaries. Around 650 CE, a writing system called <i><a href="/wiki/Man%27y%C5%8Dgana" title="Man'yōgana">man'yōgana</a></i> (used in the ancient poetry anthology <i><a href="/wiki/Man%27y%C5%8Dsh%C5%AB" title="Man'yōshū">Man'yōshū</a></i>) evolved that used a number of Chinese characters for their sound, rather than for their meaning. Man'yōgana written in <a href="/w/index.php?title=Grass_script&amp;action=edit&amp;redlink=1" class="new" title="Grass script (page does not exist)">cursive style</a> evolved into <i><a href="/wiki/Hiragana" title="Hiragana">hiragana</a></i>, a writing system that was accessible to women (who were denied <a href="/wiki/Higher_education" title="Higher education">higher education</a>). Major works of <a href="/wiki/Heian_era" title="Heian era" class="mw-redirect">Heian era</a> <a href="/w/index.php?title=Literature&amp;action=edit&amp;redlink=1" class="new" title="Literature (page does not exist)">literature</a> by women were written in hiragana. <i><a href="/wiki/Katakana" title="Katakana">Katakana</a></i> emerged via a parallel path:<a href="/wiki/Monastery" title="Monastery">monastery</a> students simplified <i>man'yōgana</i> to a single constituent element. Thus the two other writing systems, hiragana and katakana, referred to collectively as <i><a href="/wiki/Kana" title="Kana">kana</a></i>, are actually descended from kanji.
+</p><p>In modern Japanese, kanji are used to write parts of the language such as <a href="/wiki/Noun" title="Noun">nouns</a>, <a href="/wiki/Adjective" title="Adjective">adjective</a> <a href="/wiki/Word_stem" title="Word stem">stems</a>, and <a href="/wiki/Verb" title="Verb">verb</a> <a href="/wiki/Word_stem" title="Word stem">stems</a>, while hiragana are used to write <a href="/w/index.php?title=Inflection&amp;action=edit&amp;redlink=1" class="new" title="Inflection (page does not exist)">inflected</a> verb and adjective endings and as <a href="/wiki/Phonetic_complement" title="Phonetic complement">phonetic complements</a> to disambiguate readings (<i><a href="/wiki/Okurigana" title="Okurigana">okurigana</a></i>), <a href="/wiki/Grammatical_particle" title="Grammatical particle">particles</a>, and miscellaneous words which have no kanji or whose kanji is considered obscure or too difficult to read or remember. <a href="/wiki/Katakana" title="Katakana">Katakana</a> are used for representing <a href="/wiki/Onomatopoeia" title="Onomatopoeia">onomatopoeia</a>, <a href="/wiki/Gairaigo" title="Gairaigo">non-Japanese loanwords</a> (except those borrowed from <a href="/wiki/Ancient_Chinese" title="Ancient Chinese">ancient Chinese</a>), the names of plants and animals (with exceptions), and for emphasis on certain words.
+</p>
+<h2><span class="mw-headline" id="Orthographic_reform_and_lists_of_kanji">Orthographic reform and lists of kanji</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Y%C5%8Dsh%C5%AB_Chikanobu_Shin_Bijin_No._20.jpg" title="File:Yōshū Chikanobu Shin Bijin No. 20.jpg">File:Yōshū Chikanobu Shin Bijin No. 20.jpg</a>  <div class="thumbcaption">A young woman practicing kanji. <a href="/wiki/Ukiyo-e" title="Ukiyo-e">Ukiyo-e</a> woodblock print by <a href="/w/index.php?title=Toyohara_Chikanobu&amp;action=edit&amp;redlink=1" class="new" title="Toyohara Chikanobu (page does not exist)">Yōshū Chikanobu</a>, 1897</div></div></div>
+<p>In 1946, following <a href="/wiki/World_War_II" title="World War II">World War II</a>, the Japanese government instituted a series of <a href="/wiki/Orthography" title="Orthography">orthographic</a> reforms. This was done with the goal of facilitating learning for children and simplifying kanji use in literature and periodicals.
+The number of characters in circulation was reduced, and formal lists of characters to be learned during each grade of school were established.
+Some characters were given simplified <a href="/wiki/Glyph" title="Glyph">glyphs</a>, called <a href="/w/index.php?title=Template:Nihongo2&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo2 (page does not exist)">Template:Nihongo2</a> (<i><a href="/w/index.php?title=Shinjitai&amp;action=edit&amp;redlink=1" class="new" title="Shinjitai (page does not exist)">shinjitai</a></i>). Many variant forms of characters and obscure alternatives for common characters were officially discouraged.
+</p><p>These are simply guidelines, so many characters outside these standards are still widely known and commonly used; these are known as <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>.
+</p>
+<h3><span class="mw-headline" id="Ky.C5.8Diku_kanji">Kyōiku kanji</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+The <i>Kyōiku kanji</i> (教育漢字, "education kanji") are 1,006 characters that Japanese children learn in elementary school. The number was 881 until 1981. The grade-level breakdown of the education kanji is known as the <i>gakunen-betsu kanji haitōhyō</i> (学年別漢字配当表), or the <i>gakushū kanji</i>.
+</p>
+<h3><span class="mw-headline" id="J.C5.8Dy.C5.8D_kanji">Jōyō kanji</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+The <i>Jōyō kanji</i> (常用漢字, "regular-use kanji") are 2,136 characters consisting of all the <i>Kyōiku kanji</i>, plus 1,130 additional kanji taught in junior high and high school. In publishing, characters outside this category are often given <i><a href="/wiki/Furigana" title="Furigana">furigana</a></i>. The <i>Jōyō kanji</i> were introduced in 1981, replacing an older list of 1,850 characters known as the <i><a href="/wiki/T%C5%8Dy%C5%8D_kanji" title="Tōyō kanji">Tōyō kanji</a></i> (当用漢字, "general-use kanji") introduced in 1946. Originally numbering 1,945 characters, the <i>Jōyō kanji</i> list was extended to 2,136 in 2010. Some of the new characters were previously <i>Jinmeiyō kanji</i>; some are used to write prefecture names: 阪, 熊, 奈, 岡, 鹿, 梨, 阜, 埼, 茨, 栃 and 媛.
+</p>
+<h3><span class="mw-headline" id="Jinmeiy.C5.8D_kanji">Jinmeiyō kanji</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+Since September 27, 2004, the <i>Jinmeiyō kanji</i> (人名用漢字, "kanji for use in personal names") consist of 2,928 characters, containing the <i>Jōyō kanji</i> plus an additional 983 kanji found in people's names. There were only 92 kanji in the original list published in 1952, but new additions have been made frequently. Sometimes the term <i>Jinmeiyō kanji</i> refers to all 2,928, and sometimes it only refers to the 983 that are only used for names.
+</p>
+<h3><span class="mw-headline" id="Hy.C5.8Dgaiji">Hyōgaiji</span></h3>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> are any kanji not contained in the jōyō kanji and jinmeiyō kanji lists. These are generally written using traditional characters, but <a href="/w/index.php?title=Extended_shinjitai&amp;action=edit&amp;redlink=1" class="new" title="Extended shinjitai (page does not exist)">extended shinjitai</a> forms exist.
+</p>
+<h3><span class="mw-headline" id="Japanese_Industrial_Standards_for_kanji">Japanese Industrial Standards for kanji</span></h3>
+<p>The <a href="/w/index.php?title=Japanese_Industrial_Standards&amp;action=edit&amp;redlink=1" class="new" title="Japanese Industrial Standards (page does not exist)">Japanese Industrial Standards</a> for kanji and kana define character code-points for each kanji and kana, as well as other forms of writing such as the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a>, <a href="/wiki/Cyrillic_script" title="Cyrillic script">Cyrillic script</a>, <a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek alphabet</a>, <a href="/w/index.php?title=Hindu-Arabic_numerals&amp;action=edit&amp;redlink=1" class="new" title="Hindu-Arabic numerals (page does not exist)">Hindu-Arabic numerals</a>, etc. for use in information processing. They have had numerous revisions. The current standards are:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=JIS_X_0208&amp;action=edit&amp;redlink=1" class="new" title="JIS X 0208 (page does not exist)">JIS X 0208</a> (<a rel="nofollow" class="external text" href="http://web.archive.org/web/2/http://www.io.com/~kazushi/encoding/jis.html#kanji90">JIS X 0208:1997</a>), the most recent version of the main standard. It has 6,355 kanji.
+</li>
+<li> <a href="/w/index.php?title=JIS_X_0212&amp;action=edit&amp;redlink=1" class="new" title="JIS X 0212 (page does not exist)">JIS X 0212</a> (<a rel="nofollow" class="external text" href="http://web.archive.org/web/2/http://www.io.com/~kazushi/encoding/jis.html#kanjisup">JIS X 0212:1990</a>), a supplementary standard containing a further 5,801 kanji. This standard is rarely used, mainly because the common <a href="/wiki/Shift_JIS" title="Shift JIS">Shift JIS</a> encoding system could not use it. This standard is effectively obsolete;
+</li>
+<li> <a href="/w/index.php?title=JIS_X_0213&amp;action=edit&amp;redlink=1" class="new" title="JIS X 0213 (page does not exist)">JIS X 0213</a> (<a rel="nofollow" class="external text" href="http://web.archive.org/web/2/http://www.io.com/~kazushi/encoding/jis.html#kanji00">JIS X 0213:2000</a>), a further revision which extended the JIS X 0208 set with 3,695 additional kanji, of which 2,743 (all but 952) were in JIS X 0212. The standard is in part designed to be compatible with Shift JIS encoding;
+</li>
+<li> JIS X 0221:1995, the Japanese version of the ISO 10646/<a href="/wiki/Unicode" title="Unicode">Unicode</a> standard.
+</li>
+</ul>
+<h4><span class="mw-headline" id="Gaiji">Gaiji</span></h4>
+<p><i><b>Gaiji</b></i> (外字), literally meaning "external characters", are kanji that are not represented in existing Japanese <a href="/wiki/Character_encoding" title="Character encoding">encoding systems</a>. These include variant forms of common kanji that need to be represented alongside the more conventional <a href="/wiki/Glyph" title="Glyph">glyph</a> in reference works, and can include non-kanji symbols as well.
+</p><p><i>Gaiji</i> can be either user-defined characters or system-specific characters. Both are a problem for information interchange, as the <a href="/w/index.php?title=Codepoint&amp;action=edit&amp;redlink=1" class="new" title="Codepoint (page does not exist)">codepoint</a> used to represent an external character will not be consistent from one computer or operating system to another.
+</p><p><i>Gaiji</i> were nominally prohibited in JIS X 0208-1997, and JIS X 0213-2000 used the range of code-points previously allocated to <i>gaiji</i>, making them completely unusable. Nevertheless, they persist today with <a href="/wiki/NTT_DoCoMo" title="NTT DoCoMo">NTT DoCoMo</a>'s "<a href="/wiki/I-mode" title="I-mode">i-mode</a>" service, where they are used for <a href="/wiki/Emoji" title="Emoji">emoji</a> (pictorial characters).
+</p><p><a href="/wiki/Unicode" title="Unicode">Unicode</a> allows for optional encoding of <i>gaiji</i> in <a href="/w/index.php?title=Private_Use_(Unicode)&amp;action=edit&amp;redlink=1" class="new" title="Private Use (Unicode) (page does not exist)">private use areas</a>, while <a href="/wiki/OpenType#SING_gaiji_solution" title="OpenType">Adobe's SING</a> (Smart INdependent Glyphlets)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> technology allows the creation of customized gaiji.
+</p><p>The <a href="/wiki/Text_Encoding_Initiative" title="Text Encoding Initiative">Text Encoding Initiative</a> uses a <b>&lt;g&gt;</b> element to encode any non-standard character or glyph, including gaiji.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> (The <b>g</b> stands for "gaiji".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>)
+</p>
+<h2><span class="mw-headline" id="Total_number_of_kanji">Total number of kanji</span></h2>
+<p>The number of possible characters is disputed. The <i><a href="/w/index.php?title=Dai_Kan-Wa_Jiten&amp;action=edit&amp;redlink=1" class="new" title="Dai Kan-Wa Jiten (page does not exist)">Dai Kan-Wa Jiten</a></i>, which is considered to be comprehensive in Japan,  contains about 50,000 characters, but the <i><a href="/w/index.php?title=Zhonghua_Zihai&amp;action=edit&amp;redlink=1" class="new" title="Zhonghua Zihai (page does not exist)">Zhonghua Zihai</a></i>, published in 1994 in China, where Chinese characters are used more extensively, contains about 80 000 characters.<sup id="cite_ref-taipei_11-0" class="reference"><a href="#cite_note-taipei-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Approximately 2,000 to 3,000 characters are in common use in Japan, a few thousand more find occasional use, and a total of about 13,000 characters can be encoded in various <a href="#Japanese_Industrial_Standards_for_kanji">Japanese Industrial Standards for kanji</a>.
+</p>
+<h2><span class="mw-headline" id="Readings">Readings</span></h2>
+<table class="infobox" align="right">
+
+<tr>
+<th colspan="3" align="center"> <b>Borrowing Typology of Han Characters</b>
+</th></tr>
+<tr>
+<th>
+</th>
+<th> <b>Meaning</b>
+</th>
+<th> <b>Pronunciation</b>
+</th></tr>
+<tr>
+<td> a) semantic <i>on</i>
+</td>
+<td align="center"> L1
+</td>
+<td align="center"> L1
+</td></tr>
+<tr>
+<td> b) semantic <i>kun</i>
+</td>
+<td align="center"> L1
+</td>
+<td align="center"> L2
+</td></tr>
+
+<tr>
+<td> c) phonetic <i>on</i>
+</td>
+<td align="center"> —
+</td>
+<td align="center"> L1
+</td></tr>
+<tr>
+<td> d) phonetic <i>kun</i>
+</td>
+<td align="center"> —
+</td>
+<td align="center"> L2
+</td></tr>
+<tr>
+<td style="width:300px;" colspan="3"> <small>*With L1 representing the language borrowed from (Chinese) and L2 representing the borrowing language (Japanese).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+</td></tr></table>
+<p>Because of the way they have been adopted into Japanese, a single kanji may be used to write one or more different words (or, in some cases, <a href="/wiki/Morphemes" title="Morphemes" class="mw-redirect">morphemes</a>), and thus the same character may be pronounced in different ways. From the point of view of the reader, kanji are said to have one or more different "readings". Deciding which reading is appropriate depends on recognizing which word it represents, which can usually be determined from context, intended meaning, whether the character occurs as part of a compound word or an independent word, and sometimes location within the sentence. For example, <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is usually read <i>kyō,</i> meaning "today", but in formal writing is instead read <i>konnichi,</i> meaning "nowadays"; this is understood from context. Nevertheless, some cases are ambiguous and require a <i><a href="/wiki/Furigana" title="Furigana">furigana</a></i> gloss, which are also used simply for difficult readings or to specify a non-standard reading.
+</p><p>Kanji readings are categorized as either <i>on'yomi</i> (literally "sound reading", from Chinese) or <i>kun'yomi</i> (literally "meaning reading", native Japanese), and most characters have at least two readings, at least one of each. However, some characters have only a single reading, such as <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> (<i>on</i>) or <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> (<i>kun</i>); <i>kun</i>-only are common for Japanese-coined kanji (<i>kokuji</i>). Some common kanji have ten or more possible readings; the most complex common example is 生, which is read as <i>sei, shō, nama, ki, o-u, i-kiru, i-kasu, i-keru, u-mu, u-mareru, ha-eru,</i> and <i>ha-yasu</i>, totaling 8 basic readings (first 2 are <i>on,</i> rest are <i>kun</i>), or 12 if related verbs are counted as distinct; see <a href="/wiki/Okurigana#.E7.94.9F" title="Okurigana">okurigana: 生</a> for details.
+</p><p>Most often a character will be used for both sound and meaning, and it is simply a matter of choosing the correct reading based on which word it represents. In other cases, a character is used only for sound (<i><a href="/wiki/Ateji" title="Ateji">ateji</a></i>), in which case pronunciation is still based on an standard reading, or used only for meaning (broadly a form of <i>ateji,</i> narrowly <i>jukujikun</i>), in which case the individual character does not have a reading, only the full compound; this is significantly more complicated; see <a href="#Special_readings">special readings</a>, below.
+</p><p>The analogous phenomenon occurs to a much lesser degree in Chinese languages, where there are <a href="/w/index.php?title=Literary_and_colloquial_readings_of_Chinese_characters&amp;action=edit&amp;redlink=1" class="new" title="Literary and colloquial readings of Chinese characters (page does not exist)">literary and colloquial readings of Chinese characters</a> – borrowed readings and native readings. In Chinese these borrowed readings and native readings are etymologically related, since they are between Chinese languages (which are related), not from Chinese to Japanese (which are not related). They thus form <a href="/wiki/Doublet_(linguistics)" title="Doublet (linguistics)">doublets</a> and are generally similar, analogous to different on'yomi, reflecting different stages of Chinese borrowings into Japanese.
+</p>
+<h3><span class="mw-headline" id="On.27yomi_.28Sino-Japanese_reading.29"><i>On'yomi</i> (Sino-Japanese reading)</span></h3>
+<p>The <i><b>on'yomi</b></i> (音読み), the <a href="/wiki/Sino-Japanese_vocabulary" title="Sino-Japanese vocabulary">Sino-Japanese</a> reading, is the modern descendant of the Japanese approximation of the Chinese pronunciation of the character at the time it was introduced. Some kanji were introduced from different parts of China at different times, and so have multiple <i>on'yomi,</i> and often multiple meanings. <i>Kanji</i> invented in Japan would not normally be expected to have <i>on'yomi,</i> but there are exceptions, such as the character 働 "to work", which has the <i>kun'yomi</i> "<i>hataraku</i>" and the <i>on'yomi</i> "<i>dō</i>", and 腺 "gland", which has only the <i>on'yomi</i> "<i>sen</i>" – in both cases these come from the <i>on'yomi</i> of the phonetic component, respectively 動 "<i>dō</i>" and 泉 "<i>sen</i>".
+</p><p>Generally, <i>on'yomi</i> are classified into four types:
+</p>
+<ul>
+<li> <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> readings are from the pronunciation during the <a href="/wiki/Southern_and_Northern_Dynasties" title="Southern and Northern Dynasties">Southern and Northern Dynasties</a> during the 5th and 6th centuries. There is a high probability of <i>Go</i> referring to the <a href="/wiki/Wu_(region)" title="Wu (region)">Wu</a> region (in the vicinity of modern <a href="/wiki/Shanghai" title="Shanghai">Shanghai</a>), which still maintains linguistic similarities with modern Sino-Japanese vocabulary.
+</li>
+<li> <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> readings are from the pronunciation during the <a href="/wiki/Tang_Dynasty" title="Tang Dynasty">Tang Dynasty</a> in the 7th to 9th centuries, primarily from the standard speech of the capital, <a href="/wiki/Chang%27an" title="Chang'an">Chang'an</a> (長安 or 长安, modern <a href="/wiki/Xi%27an" title="Xi'an">Xi'an</a>). Here, <i>Kan</i> is used in the sense of <i>China</i>.
+</li>
+<li> <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> readings are from the pronunciations of later dynasties, such as the <a href="/wiki/Song_Dynasty" title="Song Dynasty">Song</a> (宋) and <a href="/wiki/Ming_Dynasty" title="Ming Dynasty">Ming</a> (明). They cover all readings adopted from the <a href="/wiki/Heian_era" title="Heian era" class="mw-redirect">Heian era</a> (平安) to the <a href="/wiki/Edo_period" title="Edo period">Edo period</a> (江戸). This is also known as <i>Tōsō-on</i> (唐宋音), "Tang and Song sound".
+</li>
+<li> <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> readings, which are mistaken or changed readings of the kanji that have become accepted into the language. In some cases, they are the actual readings that accompanied the character's introduction to Japan, but do not match how the character “should” be read according to the rules of character construction and pronunciation.
+</li>
+</ul>
+<table class="infobox" align="right">
+<caption> Examples <small>(rare readings in parentheses)</small>
+</caption>
+<tr>
+<th> Kanji
+</th>
+<th> Meaning
+</th>
+<th> Go-on
+</th>
+<th> Kan-on
+</th>
+<th> Tō-on
+</th>
+<th> Kan'yō-on
+</th></tr>
+<tr>
+<th style="font-weight: normal;"> 明
+</th>
+<td> bright
+</td>
+<td> <i>myō</i>
+</td>
+<td> <i>mei</i>
+</td>
+<td> (<i>min</i>)
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 行
+</th>
+<td> go
+</td>
+<td> <i>gyō</i><br /><i>gō</i>
+</td>
+<td> <i>kō</i><br /><i>kō</i>
+</td>
+<td> (<i>an</i>)
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 極
+</th>
+<td> extreme
+</td>
+<td> <i>goku</i>
+</td>
+<td> <i>kyoku</i>
+</td>
+<td> —
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 珠
+</th>
+<td> pearl
+</td>
+<td> <i>shu</i>
+</td>
+<td> <i>shu</i>
+</td>
+<td> <i>ju</i>
+</td>
+<td> (<i>zu</i>)
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 度
+</th>
+<td> degree
+</td>
+<td> <i>do</i>
+</td>
+<td> (<i>to</i>)
+</td>
+<td> —
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 輸
+</th>
+<td> transport
+</td>
+<td> (<i>shu</i>)
+</td>
+<td> (<i>shu</i>)
+</td>
+<td> —
+</td>
+<td> <i>yu</i>
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 雄
+</th>
+<td> masculine
+</td>
+<td> —
+</td>
+<td> —
+</td>
+<td> —
+</td>
+<td> <i>yū</i>
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 熊
+</th>
+<td> bear
+</td>
+<td> —
+</td>
+<td> —
+</td>
+<td> —
+</td>
+<td> <i>yū</i>
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 子
+</th>
+<td> child
+</td>
+<td> <i>shi</i>
+</td>
+<td> <i>shi</i>
+</td>
+<td> <i>su</i>
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 清
+</th>
+<td> clear
+</td>
+<td> <i>shō</i>
+</td>
+<td> <i>sei</i>
+</td>
+<td> <i>(shin)</i>
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 京
+</th>
+<td> capital
+</td>
+<td> <i>kyō</i>
+</td>
+<td> <i>kei</i>
+</td>
+<td> <i>(kin)</i>
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 兵
+</th>
+<td> soldier
+</td>
+<td> <i>hyō</i>
+</td>
+<td> <i>hei</i>
+</td>
+<td> —
+</td>
+<td> —
+</td></tr>
+<tr>
+<th style="font-weight: normal;"> 強
+</th>
+<td> strong
+</td>
+<td> <i>gō</i>
+</td>
+<td> <i>kyō</i>
+</td>
+<td> —
+</td>
+<td> —
+</td></tr>
+</table>
+<p>The most common form of readings is the <i>kan-on</i> one, and use of a non-<i>kan-on</i> reading in a word where the <i>kan-on</i> reading is well-known is a common cause of reading mistakes or difficulty, such as in <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> (<i>go-on</i>), where <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is usually instead read as <i>kai</i>. The <i>go-on</i> readings are especially common in <a href="/wiki/Buddhist" title="Buddhist" class="mw-redirect">Buddhist</a> terminology such as <i>gokuraku</i> 極楽 "paradise", as well as in some of the earliest loans, such as the Sino-Japanese numbers. The <i>tō-on</i> readings occur in some later words, such as <i>isu</i> 椅子 "chair", <i>futon</i> 布団 "mattress", and <i>andon</i> 行灯, "a kind of paper lantern". The go-on, kan-on, and tō-on readings are generally cognate (with rare exceptions of homographs; see below), having a common origin in Old Chinese, and hence form <a href="/wiki/Doublet_(linguistics)" title="Doublet (linguistics)">linguistic doublets</a> or triplets, but they can differ significantly from each other and from modern Chinese pronunciation.
+</p><p>In Chinese, most characters are associated with a single Chinese sound, though there are distinct <a href="/w/index.php?title=Literary_and_colloquial_readings_of_Chinese_characters&amp;action=edit&amp;redlink=1" class="new" title="Literary and colloquial readings of Chinese characters (page does not exist)">literary and colloquial readings of Chinese characters</a>. However, some homographs called 多音字 (<a href="/w/index.php?title=Template:Zh&amp;action=edit&amp;redlink=1" class="new" title="Template:Zh (page does not exist)">Template:Zh</a>) such as 行 (<a href="/w/index.php?title=Template:Zh&amp;action=edit&amp;redlink=1" class="new" title="Template:Zh (page does not exist)">Template:Zh</a>) (Japanese: <i>an, gō, gyō</i>) have more than one reading in Chinese representing different meanings, which is reflected in the carryover to Japanese as well. Additionally, many Chinese syllables, especially those with an <a href="/w/index.php?title=Entering_tone&amp;action=edit&amp;redlink=1" class="new" title="Entering tone (page does not exist)">entering tone</a>, did not fit the largely consonant-vowel (CV) <a href="/wiki/Phonotactics" title="Phonotactics">phonotactics</a> of classical Japanese. Thus most <i>on'yomi</i> are composed of two <a href="/wiki/Mora_(linguistics)" title="Mora (linguistics)">morae</a> (beats), the second of which is either a lengthening of the vowel in the first mora, the vowel <i>i</i>, or one of the syllables <i>ku</i>, <i>ki</i>, <i>tsu</i>, <i>chi</i>, or moraic <i>n</i>, chosen for their approximation to the final consonants of Middle Chinese. It may be that <a href="/w/index.php?title=Y%C5%8Don&amp;action=edit&amp;redlink=1" class="new" title="Yōon (page does not exist)">palatalized consonants before vowels other than <i>i</i></a> developed in Japanese as a result of Chinese borrowings, as they are virtually unknown in words of native Japanese origin.
+</p><p><i>On'yomi</i> primarily occur in multi-kanji compound words (熟語 <i>jukugo</i>), many of which are the result of the adoption, along with the kanji themselves, of Chinese words for concepts that either did not exist in Japanese or could not be articulated as elegantly using native words. This borrowing process is often compared to the <a href="/w/index.php?title=List_of_English_words_with_dual_French_and_Anglo-Saxon_variations&amp;action=edit&amp;redlink=1" class="new" title="List of English words with dual French and Anglo-Saxon variations (page does not exist)">English borrowings from Latin, Greek, and Norman French</a>, since Chinese-borrowed terms are often more specialized, or considered to sound more erudite or formal, than their native counterparts. The major exception to this rule is <a href="/wiki/Family_name" title="Family name">family names</a>, in which the native <i>kun'yomi</i> are usually used (though <i>on'yomi</i> are found in many personal names, especially men's names).
+</p>
+<h3><span class="mw-headline" id="Kun.27yomi_.28Japanese_reading.29"><i>Kun'yomi</i> (Japanese reading)</span></h3>
+<p>The <i><b>kun'yomi</b></i> (<span lang="ja">訓読み</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>), Japanese reading, or <b>native reading</b> (literally, <i>meaning reading</i>), is a reading based on the pronunciation of a native <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> word, or <i><a href="/w/index.php?title=Yamato_kotoba&amp;action=edit&amp;redlink=1" class="new" title="Yamato kotoba (page does not exist)">yamato kotoba</a></i>, that closely approximated the meaning of the <a href="/wiki/Chinese_language" title="Chinese language">Chinese</a> character when it was introduced. As with <i>on'yomi</i>, there can be multiple <i>kun'yomi</i> for the same kanji, and some kanji have no <i>kun'yomi</i> at all.
+</p><p>For instance, the kanji for <a href="/wiki/East" title="East">east</a>, <span lang="ja"><a href="http://en.wiktionary.org/wiki/%E6%9D%B1" class="extiw" title="wikt:東">東</a></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, has the <i>on'yomi</i> <i>tō</i>. However, <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> already had two words for "east": <i>higashi</i> and <i>azuma</i>. Thus the kanji <span lang="ja">東</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> had the latter readings added as <i>kun'yomi</i>. In contrast, the kanji <span lang="ja"><a href="/w/index.php?title=Cun_(length)&amp;action=edit&amp;redlink=1" class="new" title="Cun (length) (page does not exist)">寸</a></span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, denoting a Chinese unit of measurement (about 30&#160;mm or 1.2&#160;inch), has no native <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> equivalent; it only has an <i>on'yomi</i>, <i><a href="/w/index.php?title=Cun_(length)&amp;action=edit&amp;redlink=1" class="new" title="Cun (length) (page does not exist)">sun</a></i>, with no native <i>kun'yomi</i>. Most <i><a href="/wiki/Kokuji" title="Kokuji" class="mw-redirect">kokuji</a></i>, Japanese-created Chinese characters, only have <i>kun'yomi</i> (although some have back-formed a pseudo-<i>on'yomi</i> by analogy with similar characters, such as <span lang="ja">働</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>dō,</i> from <span lang="ja">動</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>dō</i>), though some, such as <span lang="ja">腺</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>sen</i> "gland", have only an <i>on'yomi</i>.
+</p><p><i>Kun'yomi</i> are characterized by the strict (C)V syllable structure of <i>yamato kotoba</i>. Most noun or adjective <i>kun'yomi</i> are two to three syllables long, while verb <i>kun'yomi</i> are usually between one and three syllables in length, not counting trailing <a href="/wiki/Hiragana" title="Hiragana">hiragana</a> called <i><a href="/wiki/Okurigana" title="Okurigana">okurigana</a></i>. <i>Okurigana</i> are not considered to be part of the internal reading of the character, although they are part of the reading of the word. A beginner in the language will rarely come across characters with long readings, but readings of three or even four syllables are not uncommon. This contrasts with <i>on'yomi,</i> which are monosyllabic, and is unusual in the <a href="/w/index.php?title=Chinese_family_of_scripts&amp;action=edit&amp;redlink=1" class="new" title="Chinese family of scripts (page does not exist)">Chinese family of scripts</a>, which generally use one character per syllable – not only in Chinese, but also in Korean, Vietnamese, and Zhuang; <a href="/w/index.php?title=Polysyllabic_Chinese_character&amp;action=edit&amp;redlink=1" class="new" title="Polysyllabic Chinese character (page does not exist)">polysyllabic Chinese characters</a> are rare and considered non-standard.
+</p><p><span lang="ja">承る</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>uketamawaru,</i>  <span lang="ja">志</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>kokorozashi,</i> and <span lang="ja">詔</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>mikotonori</i> have five syllables represented by a single kanji, the longest readings in the <a href="/wiki/J%C5%8Dy%C5%8D_kanji" title="Jōyō kanji">Jōyō character set</a>. These unusually long readings are due a single character representing a compound word. In detail, due respectively to <span lang="ja">承る</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> being a single character for a compound verb, one component of which has a long reading (alternative spelling as <span lang="ja">受け賜る</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>u(ke)-tamawa(ru)</i>, hence (1+1)+3=5; compare common <span lang="ja">受け付ける</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>u(ke)-tsu(keru)</i>, to <span lang="ja">志</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> being a nominalization of the verb <span lang="ja">志す</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> which has a long reading <i>kokoroza(su)</i> (due to being derived from a noun-verb compound, <span lang="ja">心指す</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>kokoro-za(su)</i>), the nominalization removing the okurigana, hence increasing the reading by one mora, yielding 4+1=5 (compare common <span lang="ja">話</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>hanashi</i> 2+1=3, from <span lang="ja">話す</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>hana(su),</i> and <span lang="ja">詔</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> being a triple compound (alternative spelling <span lang="ja">御言宣</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>mi-koto-nori,</i> hence 1+2+2=5). Longer readings exist for non-Jōyō characters and non-kanji symbols, where a long gairaigo word may be the reading (this is classed as <i>kun'yomi</i> – see <a href="#Single_character_gairaigo">single character gairaigo</a>, below) – the character <span lang="ja">糎</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> has the seven kana reading センチメートル <i>senchimētoru</i> "centimeter", though it is generally written as "cm" (with two half-width characters, so occupying one space); another common example is '%' (the percent sign), which has the five kana reading パーセント <i>pāsento</i>. Further, some Jōyō characters have long non-Jōyō readings (students learn the character, but not the reading), such as <i>omonpakaru</i> for <span lang="ja">慮る</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>.
+</p><p>In a number of cases, multiple kanji were assigned to cover a single <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> word. Typically when this occurs, the different kanji refer to specific shades of meaning. For instance, the word なおす, <i>naosu</i>, when written <span lang="ja">治す</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, means "to heal an illness or sickness". When written <span lang="ja">直す</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> it means "to fix or correct something". Sometimes the distinction is very clear, although not always. Differences of opinion among reference works is not uncommon; one dictionary may say the kanji are equivalent, while another dictionary may draw distinctions of use. As a result, native speakers of the language may have trouble knowing which kanji to use and resort to personal preference or by writing the word in <a href="/wiki/Hiragana" title="Hiragana">hiragana</a>. This latter strategy is frequently employed with more complex cases such as もと <i>moto</i>, which has at least five different kanji: <span lang="ja">元, 基, 本, 下</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, and <span lang="ja">素</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, the first three of which have only very subtle differences. Another notable example is <i>sakazuki</i> "sake cup", which may be spelt as at least five different kanji: <span lang="ja">杯, 盃, 巵/卮</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, and <span lang="ja">坏</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>; of these, the first two are common – formally <span lang="ja">杯</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> is a small cup and <span lang="ja">盃</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> a large cup.
+</p><p>Local dialectical readings of kanji are also classified under <i>kun'yomi</i>, most notably readings for words in <a href="/wiki/Ryukyuan_languages" title="Ryukyuan languages">Ryukyuan languages</a>. Further, in rare cases <a href="/wiki/Gairaigo" title="Gairaigo">gairaigo</a> (borrowed words) have a single character associated with them, in which case this reading is formally classified as a <i>kun'yomi</i>, because the character is being used for meaning, not sound. This is discussed under <a href="#Other_readings">other readings</a>, below.
+</p>
+<h3><span class="mw-headline" id="Mixed_readings">Mixed readings</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:J%C5%ABbako.jpg" title="File:Jūbako.jpg">File:Jūbako.jpg</a>  <div class="thumbcaption">A <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, which has a mixed on-kun reading.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:Pail,yutou,soba-yu,katori-city,japan.JPG" title="File:Pail,yutou,soba-yu,katori-city,japan.JPG">File:Pail,yutou,soba-yu,katori-city,japan.JPG</a>  <div class="thumbcaption">A <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, which has a mixed kun-on reading.</div></div></div>
+<p>There are many kanji compounds that use a mixture of <i>on'yomi</i> and <i>kun'yomi</i>, known as <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> or <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> words (depending on the order), which are themselves examples of this kind of compound (they are <a href="/wiki/Autological_word" title="Autological word">autological words</a>): the first character of <i>jūbako</i> is read using <i>on'yomi</i>, the second <i>kun'yomi</i> (on-kun), while it is the other way around with <i>yutō</i> (kun-on). Formally, these are referred to as <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> and <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>. Note that in both these words, the <i>on'yomi</i> has a long vowel; long vowels in Japanese generally come from Chinese, hence distinctive of <i>on'yomi</i>. These are the Japanese form of <a href="/wiki/Hybrid_word" title="Hybrid word">hybrid words</a>. Other examples include <span lang="ja">場所</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>basho</i> "place" (<i>kun-on</i>), <span lang="ja">金色</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>kin'iro</i> "golden" (<i>on-kun</i>) and <span lang="ja">合気道</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>aikidō</i> "the martial art <a href="/wiki/Aikido" title="Aikido">Aikido</a>" (<i>kun-on-on</i>).
+</p>
+<h3><span class="mw-headline" id="Special_readings">Special readings</span></h3>
+<p><i><a href="/w/index.php?title=Template:Visible_anchor&amp;action=edit&amp;redlink=1" class="new" title="Template:Visible anchor (page does not exist)">Template:Visible anchor</a></i> (義訓) and <i><a href="/w/index.php?title=Template:Visible_anchor&amp;action=edit&amp;redlink=1" class="new" title="Template:Visible anchor (page does not exist)">Template:Visible anchor</a></i> (熟字訓) are readings of kanji combinations that have no direct correspondence to the characters' individual <i>on'yomi</i> or <i>kun'yomi,</i> but rather are connected with their meaning – this is the opposite of ateji. From the point of view of the character, rather than the word, this is known as a <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, and these are listed in kanji dictionaries under the entry for the character. <a href="/w/index.php?title=Gikun&amp;action=edit&amp;redlink=1" class="new" title="Gikun (page does not exist)">Gikun</a> are when non-standard kanji are used, generally for effect, such as using 寒 with reading <i>fuyu</i> (ふゆ, "winter"), rather than the standard character 冬. <a href="/w/index.php?title=Jukujikun&amp;action=edit&amp;redlink=1" class="new" title="Jukujikun (page does not exist)">Jukujikun</a> are when the standard kanji for a word are related to the meaning, but not the sound – the word is pronounced as a whole, not corresponding to sounds of individual kanji. For example, 今朝 ("this morning") is jukujikun, and read neither as <i>*ima'asa</i>, the <i>kun'yomi</i> of the characters, nor <i>konchō</i>, the <i>on'yomi</i> of the characters, nor any combination thereof. Instead it is read as <i>kesa</i>—a native Japanese word with two syllables (which may be seen as a single <a href="/wiki/Morpheme" title="Morpheme">morpheme</a>, or as a fusion of <i>kyō</i> (previously <i>kefu</i>), "today", and <i>asa</i>, "morning"). Jukujikun are primarily used for some native Japanese words, and for some old borrowings, such as 柳葉魚 (<a href="/w/index.php?title=Shishamo&amp;action=edit&amp;redlink=1" class="new" title="Shishamo (page does not exist)">shishamo</a>, literally "willow leaf fish"), from Ainu, or 煙草 (<i>tabako,</i> literally "smoke grass"), from Portuguese. Words whose kanji are jukujikun are often usually written as hiragana (if native), or katakana (if borrowed); some old borrowed words are also written as hiragana.
+</p><p>Jukujikun are quite varied. Often the kanji compound for jukujikun is idiosyncratic and created for the word, with the corresponding Chinese word not existing; in other cases a kanji compound for an existing Chinese word is reused, with the Chinese word and <i>on'yomi</i> may or may not be used in Japanese; for example, <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is jukujikun for <i>tonakai,</i> from Ainu, but the <i>on'yomi</i> <i>junroku</i> is also used. In some cases Japanese coinages have subsequently been borrowed back into  Chinese, such as <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>.
+</p><p>The underlying word for jukujikun is a native Japanese word or foreign borrowing, which either does not have an existing kanji spelling (either <i>kun'yomi</i> or <i>ateji</i>) or for which a new kanji spelling is produced. Most often the word is a noun, which may be a simple noun (not a compound or derived from a verb), or may be a verb form or a fusional pronunciation; for example <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is originally from the verb <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, while <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is fusional. In rare cases jukujikun is also applied to inflectional words (verbs and adjectives), in which case there is frequently a corresponding Chinese word.
+</p><p>Examples of jukujikun for inflectional words follow. The most common example of a jukujikun adjective is <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, originally <i>kawayu-i;</i> the word <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is used in Chinese, but the corresponding <i>on'yomi</i> is not used in Japanese. By contrast, the jukujikun <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> and <i>on'yomi</i> <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> are both used; the <i>-shii</i> ending is because these were formerly a different class of adjectives. A common example of a verb with jukujikun is <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, corresponding to <i>on'yomi</i> <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>. A sample jukujikun deverbal (noun derived from a verb form) is <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, from <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, spelling from <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>. See <a href="/w/index.php?title=Ja:%E7%BE%A9%E8%A8%93&amp;action=edit&amp;redlink=1" class="new" title="Ja:義訓 (page does not exist)">義訓</a> and <a href="/w/index.php?title=Ja:%E7%86%9F%E5%AD%97%E8%A8%93&amp;action=edit&amp;redlink=1" class="new" title="Ja:熟字訓 (page does not exist)">熟字訓</a> for many more examples. Note that there are also compound verbs and, less commonly, compound adjectives, and while these may have multiple kanji without intervening characters, they are read using usual <i>kun'yomi;</i> examples include <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> and <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>.
+</p><p>Typographically, the <a href="/wiki/Furigana" title="Furigana">furigana</a> for jukujikun are often written so they are centered across the entire word, or for inflectional words over the entire root – corresponding to the reading being related to the entire word – rather than each part of the word being centered over its corresponding character, as is often done for the usual phono-semantic readings.
+</p><p>Broadly speaking, jukujikun can be considered a form of <i><a href="/wiki/Ateji" title="Ateji">ateji</a>,</i> though in narrow usage "ateji" refers specifically to using characters for sound and not meaning (sound-spelling), rather than meaning and not sound (meaning-spelling), as in jukujikun.
+</p><p>Many jukujikun (established meaning-spellings) began life as gikun (improvised meaning-spellings). Occasionally a single word will have many such kanji spellings; an extreme example is <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, which may be spelt in a great many ways, including 杜鵑, 時鳥, 子規, 不如帰, 霍公鳥, 蜀魂, 沓手鳥, 杜宇, 田鵑, 沓直鳥, and 郭公 – many of these variant spellings are particular to <a href="/wiki/Haiku" title="Haiku">haiku</a> poems.
+</p>
+<h3><span class="mw-headline" id="Single_character_gairaigo">Single character gairaigo</span></h3>
+<p>In some rare cases, an individual kanji has a reading that is borrowed from a modern foreign language (<a href="/wiki/Gairaigo" title="Gairaigo">gairaigo</a>), though most often these words are written in katakana. Notable examples include <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, and <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>. See <a href="http://en.wiktionary.org/wiki/Appendix:Single_character_gairaigo" class="extiw" title="wikt:Appendix:Single character gairaigo">list of single character gairaigo</a> for more. These are classed as <i>kun'yomi</i> of a single character, because the character is being used for meaning only (without the Chinese pronunciation), rather than as <a href="/wiki/Ateji" title="Ateji">ateji</a>, which is the classification used when a gairaigo term is written as a compound (2 or more characters). However, unlike the vast majority of other <i>kun'yomi</i>, these readings are not native Japanese, but rather borrowed, so the "kun'yomi" label can be misleading. The readings are also written in katakana, unlike the usual hiragana for native <i>kun'yomi</i>. Note that most of these characters are for units, particularly <a href="/wiki/International_System_of_Units#Chinese_and_Japanese" title="International System of Units">SI units</a>, in many cases using new characters (<a href="/wiki/Kokuji" title="Kokuji" class="mw-redirect">kokuji</a>) coined during the <a href="/wiki/Meiji_period" title="Meiji period">Meiji period</a>, such as <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>.
+</p>
+<h3><span class="mw-headline" id="Other_readings">Other readings</span></h3>
+<p>Some kanji also have lesser-known readings called <i><a href="/wiki/Nanori" title="Nanori">nanori</a></i> (名乗り), which are mostly used for names (often <a href="/wiki/Given_name" title="Given name">given names</a>) and in general, are closely related to the <i>kun'yomi</i>. Place names sometimes also use <i>nanori</i> or, occasionally, unique readings not found elsewhere.
+</p><p>In example, there is the surname 小鳥遊 (literally, "little birds at play",) implies there are no predators, such as hawks, present. Pronounced, "<i>kotori asobu</i>". The name then can also mean 鷹がいない (<i>taka ga inai</i>, literally, "No hawks around") and it can be shortened to be pronounced as タカナシ (<b>Takanashi</b>). <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="When_to_use_which_reading">When to use which reading</span></h3>
+<p>Although there are general rules for when to use <i>on'yomi</i> and when to use <i>kun'yomi</i>, the language is littered with exceptions, and it is not always possible for even a native speaker to know how to read a character without prior knowledge (this is especially true for names, both of people and places); further, a given character may have multiple <i>kun'yomi</i> or <i>on'yomi.</i> When reading Japanese, one primarily recognizes <i>words</i> (multiple characters and okurigana) and their readings, rather than individual characters, and only guess readings of characters when trying to "sound out" an unrecognized word.
+</p><p>Homographs exist, however, which can sometimes be deduced from context, and sometimes cannot, requiring a glossary.  For example, 今日 may be read either as <i>kyō</i> "today (informal)" (special fused reading for native word) or as <i>konnichi</i> "these days (formal)" (<i>on'yomi</i>); in formal writing this will generally be read as <i>konnichi</i>. In some cases multiple readings are common, as in 豚汁 "pork soup", which is commonly pronounced both as <i>ton-jiru</i> (mixed <i>on-kun</i>) and <i>buta-jiru</i> (<i>kun-kun</i>), with <i>ton</i> somewhat more common nationally. Inconsistencies abound – for example 牛肉 <i>gyu-niku</i> "beef" and 羊肉 <i>yō-niku</i> "mutton" have <i>on-on</i> readings, but 豚肉 <i>buta-niku</i> "pork" and 鶏肉 <i>tori-niku</i> "poultry" have <i>kun-on</i> readings.
+</p><p>The main guideline is that a single kanji followed by okurigana (hiragana characters that are part of the word) – as used in native verbs and adjectives – <i>always</i> indicates <i>kun'yomi,</i> while kanji compounds (kango) <i>usually</i> use <i>on'yomi,</i> which is <i>usually</i> <i>kan-on;</i> however, other <i>on'yomi</i> are also common, and <i>kun'yomi</i> are also commonly used in kango. For a kanji in isolation without okurigana, it is <i>typically</i> read using their <i>kun'yomi,</i> though there are numerous exceptions. For example, 鉄 "iron" is usually read with the <i>on'yomi</i> <i>tetsu</i> rather than the <i>kun'yomi</i> <i>kurogane.</i> Chinese <i>on'yomi</i> which are not the common <i>kan-on</i> one are a frequent cause of difficulty or mistakes when encountering unfamiliar words or for inexperienced readers, though skilled natives will recognize the word; a good example is <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> (<i>go-on</i>), where <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> is usually instead read as <i>kai</i>.
+</p><p><a href="/wiki/Okurigana" title="Okurigana">Okurigana</a> are used with <i>kun'yomi</i> to mark the inflected ending of a native verb or adjective, or by convention – note that Japanese verbs and adjectives are <a href="/wiki/Closed_class" title="Closed class">closed class</a>, and do not generally admit new words (borrowed Chinese vocabulary, which are nouns, can form verbs by adding <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> at the end, and adjectives via 〜の <i>-no</i> or 〜な <i>-na</i>, but cannot become native Japanese vocabulary, which inflect). For example: 赤い <i>aka-i</i> "red", 新しい <i>atara-shii</i> "new", 見る <i>mi-ru</i> "(to) see". Okurigana can be used to indicate which <i>kun'yomi</i> to use, as in 食べる <i>ta-beru</i> versus 食う <i>ku-u</i> (casual), both meaning "(to) eat", but this is not always sufficient, as in 開く, which may be read as <i>a-ku</i> or <i>hira-ku,</i> both meaning "(to) open". 生 is a particularly complicated example, with multiple <i>kun</i> and <i>on'yomi</i> – see <a href="/wiki/Okurigana#.E7.94.9F" title="Okurigana">okurigana: 生</a> for details. Okurigana is also used for some nouns and adverbs, as in 情け <i>nasake</i> "sympathy",  必ず <i>kanarazu</i> "invariably", but not for 金 <i>kane</i> "money", for instance. <a href="/wiki/Okurigana" title="Okurigana">Okurigana</a> is an important aspect of kanji usage in Japanese; see that article for more information on <i>kun'yomi</i> orthography
+</p><p>Kanji occurring in compounds are generally read using <i>on'yomi</i>, called 熟語 <i>jukugo</i> in Japanese (though again, exceptions abound). For example, 情報 <i>jōhō</i> "information", 学校 <i>gakkō</i> "school", and 新幹線 <i>shinkansen</i> "bullet train" all follow this pattern. This isolated kanji versus compound distinction gives words for similar concepts completely different pronunciations. 東 "east" and 北 "north" use the <i>kun'yomi</i> <i>higashi</i> and <i>kita</i>, being stand-alone characters, while 北東 "northeast", as a compound, uses the <i>on'yomi</i> <i>hokutō</i>. This is further complicated by the fact that many kanji have more than one <i>on'yomi</i>: 生 is read as <i>sei</i> in 先生 <i>sensei</i> "teacher" but as <i>shō</i> in 一生 <i>isshō</i> "one's whole life". Meaning can also be an important indicator of reading; 易 is read <i>i</i> when it means "simple", but as <i>eki</i> when it means "divination", both being <i>on'yomi</i> for this character.
+</p><p>These rules of thumb have many exceptions. <i>Kun'yomi</i> compound words are not as numerous as those with <i>on'yomi</i>, but neither are they rare. Examples include 手紙 <i>tegami</i> "letter", 日傘 <i>higasa</i> "parasol", and the famous 神風 <i><a href="/wiki/Kamikaze" title="Kamikaze">kamikaze</a></i> "divine wind". Such compounds may also have okurigana, such as 空揚げ (also written 唐揚げ) <i>karaage</i> "Chinese-style fried chicken" and 折り紙 <i><a href="/wiki/Origami" title="Origami">origami</a></i>, although many of these can also be written with the okurigana omitted (for example, 空揚 or 折紙).
+</p><p>Similarly, some <i>on'yomi</i> characters can also be used as words in isolation: 愛 <i>ai</i> "love", 禅 <i><a href="/w/index.php?title=Zen&amp;action=edit&amp;redlink=1" class="new" title="Zen (page does not exist)">Zen</a></i>, 点 <i>ten</i> "mark, dot". Most of these cases involve kanji that have no <i>kun'yomi</i>, so there can be no confusion, although exceptions do occur. A lone 金 may be read as <i>kin</i> "gold" or as <i>kane</i> "money, metal"; only context can determine the writer's intended reading and meaning.
+</p><p>Multiple readings have given rise to a number of <a href="/wiki/Homograph" title="Homograph">homographs</a>, in some cases having different meanings depending on how they are read. One example is 上手, which can be read in three different ways: <i>jōzu</i> (skilled), <i>uwate</i> (upper part), or <i>kamite</i> (<a href="/wiki/Blocking_(stage)#Stage_directions" title="Blocking (stage)">stage left/house right</a>). In addition, 上手い has the reading <i>umai</i> (skilled). More subtly, 明日 has three different readings, all meaning "tomorrow": <i>ashita</i> (casual), <i>asu</i> (polite), and <i>myōnichi</i> (formal). <a href="/wiki/Furigana" title="Furigana">Furigana</a> (reading glosses) is often used to clarify any potential ambiguities.
+</p><p>Conversely, in some cases homophonous terms may be distinguished in writing by different characters, but not so distinguished in speech, and hence potentially confusing. In some cases when it is important to distinguish these in speech, the reading of a relevant character may be changed. For example, 私立 (privately established, esp. school) and 市立 (city established) are both normally pronounced <i>shi-ritsu;</i> in speech these may be distinguished by the alternative pronunciations <i>watakushi-ritsu</i> and <i>ichi-ritsu.</i> More informally, in legal jargon 前文 "preamble" and 全文 "full text" are both pronounced <i>zen-bun,</i> so 前文 may be pronounced <i>mae-bun</i> for clarity, as in "Have you memorized the preamble [not 'whole text'] of the constitution?". As in these examples, this is primarily using a <i>kun'yomi</i> for one character in a normally <i>on'yomi</i> term.
+</p><p>As stated above, 重箱 <i>jūbako</i> and 湯桶 <i>yutō</i> readings are also not uncommon. Indeed, all four combinations of reading are possible: <i>on-on</i>, <i>kun-kun</i>, <i>kun-on</i> and <i>on-kun</i>.
+</p><p>Some famous place names, including those of <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a> (東京 <i>Tōkyō</i>) and <a href="/wiki/Japan" title="Japan">Japan</a> itself (日本 <i>Nihon</i> or sometimes <i>Nippon</i>) are read with <i>on'yomi</i>; however, the majority of Japanese place names are read with <i>kun'yomi</i>: 大阪 <i>Ōsaka</i>, 青森 <i>Aomori</i>, 箱根 <i>Hakone</i>. Names often use characters and readings that are not in common use outside of names. When characters are used as abbreviations of place names, their reading may not match that in the original. The Osaka (大阪) and Kobe (神戸) baseball team, the Hanshin (阪神) Tigers, take their name from the <i>on'yomi</i> of the second kanji of <i>Ōsaka</i> and the first of <i>Kōbe</i>. The name of the Keisei (京成) railway line, linking Tokyo (東京) and Narita (成田) is formed similarly, although the reading of 京 from 東京 is <i>kei</i>, despite <i>kyō</i> already being an <i>on'yomi</i> in the word <i>Tōkyō</i>.
+</p><p>Japanese family names are also usually read with <i>kun'yomi</i>: 山田 <i>Yamada</i>, 田中 <i>Tanaka</i>, 鈴木 <i>Suzuki</i>. Japanese given names often have very irregular readings – although they are not typically considered <i>jūbako</i> or <i>yutō</i>, they often contain mixtures of <i>kun'yomi</i>, <i>on'yomi</i> and <i>nanori,</i> such as 大助 <i>Daisuke</i> [<i>on-kun</i>], 夏美 <i>Natsumi</i> [<i>kun-on</i>]. Being chosen at the discretion of the parents, the readings of given names do not follow any set rules and it is impossible to know with certainty how to read a person's name without independent verification. Parents can be quite creative, and rumours abound of children called 地球 <i>Āsu</i> and 天使 <i>Enjeru</i>, quite literally "Earth" and "Angel"; neither are common names, and have normal readings <i>chikyū</i> and <i>tenshi</i> respectively. Common patterns do exist, however, allowing experienced readers to make a good guess for most names.
+</p><p>Chinese place names and Chinese personal names appearing in Japanese texts, if spelled in kanji, are almost invariably read with <i>on'yomi</i>. Especially for older and well-known names, the resulting Japanese pronunciation may differ widely from that used by Chinese speakers. For example, <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>'s name, written 毛沢東, is pronounced as <i>Mō Takutō</i> in Japanese. Today, Chinese names that aren't well known in Japan are often spelled in <a href="/wiki/Katakana" title="Katakana">Katakana</a> instead, in a form much more closely approximating the native Chinese pronunciation. Alternatively, they may be written in kanji with katakana furigana.
+</p><p>In some cases the same kanji can appear in a given word with different readings. Normally this occurs when a character is duplicated and the reading of the second character has voicing (<i><a href="/wiki/Rendaku" title="Rendaku">rendaku</a></i>), as in 人人 <i>hito-bito</i> "people" (more often written with the <a href="/wiki/Iteration_mark" title="Iteration mark">iteration mark</a> as 人々), but in rare cases the readings can be unrelated, as in 跳び跳ねる <i>tobi-haneru</i> "hop around" (more often written 飛び跳ねる).
+</p>
+<h3><span class="mw-headline" id="Pronunciation_assistance">Pronunciation assistance</span></h3>
+<p>Because of the ambiguities involved, kanji sometimes have their pronunciation for the given context spelled out in <a href="/wiki/Ruby_character" title="Ruby character">ruby characters</a> known as <i><a href="/wiki/Furigana" title="Furigana">furigana</a></i>, (small <i><a href="/wiki/Kana" title="Kana">kana</a></i> written above or to the right of the character) or <i>kumimoji</i> (small <i>kana</i> written in-line after the character). This is especially true in texts for children or foreign learners. It is also used in <a href="/w/index.php?title=Newspaper&amp;action=edit&amp;redlink=1" class="new" title="Newspaper (page does not exist)">newspapers</a> and <i><a href="/wiki/Manga" title="Manga">manga</a></i> (comics) for rare or unusual readings and for characters not included in the officially recognized set of <a href="/wiki/J%C5%8Dy%C5%8D_kanji" title="Jōyō kanji">essential kanji</a>. Works of fiction sometimes use <i>furigana</i> to create new "words" by giving normal kanji non-standard readings, or to attach a foreign word rendered in katakana as the reading for a kanji or kanji compound of the same or similar meaning.
+</p>
+<h3><span class="mw-headline" id="Spelling_words">Spelling words</span></h3>
+<p>Conversely, specifying a given kanji, or spelling out a kanji word—whether the pronunciation is known or not—can be complicated, due to the fact that there is not a commonly used standard way to refer to individual kanji (one does not refer to "kanji #237"), and that a given reading does not map to a single kanji—indeed there are many homophonous <i>words,</i> not simply individual characters, particularly for <i>kango</i> (with <i>on'yomi</i>). Easiest is to write the word out—either on paper or tracing it in the air—or look it up (given the pronunciation) in a dictionary, particularly an electronic dictionary; when this is not possible, such as when speaking over the phone or writing implements are not available (and tracing in air is too complicated), various techniques can be used. These include giving <i>kun'yomi</i> for characters—these are often unique—using a well-known word with the same character (and preferably the same pronunciation and meaning), and describing the character via its components. For example, one may explain how to spell the word <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a> via the words <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>, and <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>—the first two use the <i>kun'yomi</i>, the third is a well-known compound—saying "<i>kaori,</i> <i>karai,</i> <i>ryō</i> as in <i>inryō</i>."
+</p>
+<h2><span class="mw-headline" id="Local_developments_and_divergences_from_Chinese">Local developments and divergences from Chinese</span></h2>
+<p>Since Kanji are essentially Chinese <i><a href="/wiki/Hanzi" title="Hanzi" class="mw-redirect">hanzi</a></i> used to write Japanese, the majority of kanji used in modern Japanese still retain their Chinese meaning (especially with their modern <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese characters</a> counterparts) and retain a degree of similarity in pronunciation with Classical Chinese pronunciation imported to Japan from 5th to 9th century. Nevertheless, after centuries of development, there is a notable number of kanji used in modern Japanese which have different meaning from Chinese characters used in modern Chinese. Such differences are the result of (i) the use of characters created in Japan, (ii) characters that have been given different meanings in Japanese, and (iii) post-<a href="/wiki/World_War_II" title="World War II">World War II</a> simplifications of the kanji. Likewise, the process of <a href="/wiki/Simplified_characters" title="Simplified characters" class="mw-redirect">character simplification</a> in <a href="/wiki/Mainland_China" title="Mainland China">mainland China</a> since the 1950s has the result that Japanese speakers who have not studied Chinese may not recognize some simplified characters.
+</p>
+<h3><span class="mw-headline" id="Kokuji">Kokuji</span></h3>
+<p><a href="/w/index.php?title=Template:Also&amp;action=edit&amp;redlink=1" class="new" title="Template:Also (page does not exist)">Template:Also</a>
+<i>Kokuji</i> (<span lang="ja">国字</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, "national characters") are characters particular to Japan, generally devised in Japan. The term <i>wasei kanji</i> (<span lang="ja">和製漢字</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, "kanji made in Japan") is also used to refer to <i>kokuji</i>. These are primarily formed in the usual way of Chinese characters, namely by combining existing components, though using a combination that is not used in China. The corresponding phenomenon in Korea is called <i><a href="/w/index.php?title=Gukja&amp;action=edit&amp;redlink=1" class="new" title="Gukja (page does not exist)">gukja</a></i> (國字), which is the cognate term; there are however far fewer Korean-coined characters than Japanese-coined ones. <a href="/w/index.php?title=Chinese_family_of_scripts&amp;action=edit&amp;redlink=1" class="new" title="Chinese family of scripts (page does not exist)">Other languages</a> using the <a href="/w/index.php?title=Chinese_family_of_scripts&amp;action=edit&amp;redlink=1" class="new" title="Chinese family of scripts (page does not exist)">Chinese family of scripts</a> sometimes have far more extensive systems of native characters, most significantly Vietnamese <a href="/w/index.php?title=Ch%E1%BB%AF_n%C3%B4m&amp;action=edit&amp;redlink=1" class="new" title="Chữ nôm (page does not exist)">chữ nôm</a>, which comprises over 20,000 characters used throughout traditional Vietnamese writing, and <a href="/wiki/Zhuang_languages" title="Zhuang languages">Zhuang</a> <a href="/w/index.php?title=Sawndip&amp;action=edit&amp;redlink=1" class="new" title="Sawndip (page does not exist)">sawndip</a>, which comprises over 10,000 characters, which are still in use.
+</p><p>Since kokuji are generally devised for existing native words, these usually only have native <a href="/wiki/Kun_reading#Kun.27yomi_.28Japanese_reading.29" title="Kun reading" class="mw-redirect"><i>kun</i> readings</a>. However, they occasionally have a Chinese <a href="/wiki/On_reading#On.27yomi_.28Sino-Japanese_reading.29" title="On reading" class="mw-redirect"><i>on</i> reading</a>, derived from a phonetic, as in <span lang="ja">働</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, <i>dō,</i> from <span lang="ja">動</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, and in rare cases only have an <i>on</i> reading, as in <span lang="ja">腺</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, <i>sen,</i> from <span lang="ja">泉</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, which was derived for use in technical compounds (<span lang="ja">腺</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> means "gland", hence used in medical terminology).
+</p><p>The majority of kokuji are <a href="/wiki/Chinese_character_classification#Ideogrammatic_compounds" title="Chinese character classification">ideogrammatic compounds</a> (<span lang="ja">会意字</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>), meaning that they are composed of two (or more) characters, with the meaning associated with the combination. For example, 働 is composed of 亻 (person radical) plus 動 (action), hence "action of a person, work". This is in contrast to kanji generally, which are overwhelmingly phono-semantic compounds. This difference is because kokuji were coined to express Japanese words, so borrowing existing (Chinese) readings could not express these – combining existing characters to logically express the meaning was the simplest way to achieve this. Other illustrative examples (below) include <span lang="ja">榊</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i><a href="/w/index.php?title=Sakaki&amp;action=edit&amp;redlink=1" class="new" title="Sakaki (page does not exist)">sakaki</a></i> tree, formed as 木 "tree" and <span lang="ja">神</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> "god", literally "divine tree", and <span lang="ja">辻</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> <i>tsuji</i> "crossroads, street" formed as <span lang="ja">辶</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> (⻌) "road" and <span lang="ja">十</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> "cross", hence "cross-road".
+</p><p>In terms of meanings, these are especially for natural phenomena (esp. species) that were not present in ancient China, including a very large number of fish, such as 鰯 (sardine). In other cases they refer to specifically Japanese abstract concepts, everyday words (like 辻), or later technical coinages (such as 腺).
+</p><p>There are hundreds of <i>kokuji</i> in existence.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>  Many are rarely used, but a number have become commonly used components of the written Japanese language. These include the following:
+</p><p>Jōyō kanji has about 9 kokuji; there is some dispute over classification, but generally includes these:
+</p>
+<ul>
+<li> <span lang="ja">働</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> どう <i>dō</i>, はたら(く) <i>hatara(ku)</i> "work", the most commonly used kokuji, used in the fundamental verb 働く <i>hatara(ku)</i> "work", included in elementary texts and on the <a href="/w/index.php?title=Japanese_Language_Proficiency_Test&amp;action=edit&amp;redlink=1" class="new" title="Japanese Language Proficiency Test (page does not exist)">Japanese Language Proficiency Test</a> N5, for example.
+</li>
+<li> <span lang="ja">込</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> こ(む) <i>ko(mu)</i>,　used in the fundamental verb 込む（こむ） <i>komu</i> "to be crowded"
+</li>
+<li> <span lang="ja">匂</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> にお(う) <i>nio(u)</i>, used in common verb 匂う（におう） <i>niou</i> "to smell, to be fragrant"
+</li>
+<li> <span lang="ja">畑</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> はたけ <i>hatake</i> "field of crops"
+</li>
+<li> <span lang="ja">腺</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> せん <i>sen</i>, "gland"
+</li>
+<li> <span lang="ja">峠</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> とうげ <i>tōge</i> "mountain pass"
+</li>
+<li> <span lang="ja">枠</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> わく <i>waku</i>, "frame"
+</li>
+<li> <span lang="ja">塀</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> へい <i>hei</i>, "wall"
+</li>
+<li> <span lang="ja">搾</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> しぼ（る） <i>shibo(ru)</i>, "to squeeze" (disputed; see below)
+</li>
+</ul>
+<p>Jinmeiyō kanji:
+</p>
+<ul>
+<li> <span lang="ja">榊</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> さかき <i>sakaki</i> "tree, genus <i><a href="/w/index.php?title=Sakaki&amp;action=edit&amp;redlink=1" class="new" title="Sakaki (page does not exist)">Cleyera</a></i>"
+</li>
+<li> <span lang="ja">辻</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> つじ <i>tsuji</i> "crossroads, street"
+</li>
+<li> <span lang="ja">匁</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> もんめ <i>monme</i> (unit of weight)
+</li>
+</ul>
+<p>Hyōgaiji:
+</p>
+<ul>
+<li> <span lang="ja">躾</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>　しつ（け） <i>shitsu(ke)</i> "training, rearing (an animal, a child)"
+</li>
+</ul>
+<p>Some of these characters (for example, 腺, "gland"<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>) have been introduced to China. In some cases the Chinese reading is the inferred Chinese reading, interpreting the character as a phono-semantic compound (as in how <i>on</i> readings are sometimes assigned to these characters in Chinese), while in other cases (such as 働), the Japanese <i>on</i> reading is borrowed (in general this differs from the modern Chinese pronunciation of this phonetic). Similar coinages occurred to a more limited extent in Korea and Vietnam.
+</p><p>Historically, some kokuji date back to very early Japanese writing, being found in the <i><a href="/wiki/Man%27y%C5%8Dsh%C5%AB" title="Man'yōshū">Man'yōshū</a>,</i> for example – 鰯 <i>iwashi</i> "sardine" dates to the <a href="/wiki/Nara_period" title="Nara period">Nara period</a> (8th century) – while they have continued to be created as late as the late 19th century, when a number of characters were coined in the <a href="/wiki/Meiji_era" title="Meiji era" class="mw-redirect">Meiji era</a> for new scientific concepts. For example, some characters were produced as regular compounds for some (but not all) SI units, such as 粁 (米 "meter" + 千 "thousand, kilo-") for kilometer – see <a href="/wiki/International_System_of_Units#Representation_of_SI_units_in_Chinese_and_Japanese" title="International System of Units">Chinese characters for SI units</a> for details.
+</p><p>In Japan the kokuji category is strictly defined as characters whose <i>earliest</i> appearance is in Japan. If a character appears earlier in the Chinese literature, it is not considered a kokuji even if the character was independently coined in Japan and unrelated to the Chinese character (meaning "not borrowed from Chinese"). In other words, kokuji are not simply characters that were made in Japan, but characters that were <i>first</i> made in Japan. An illustrative example is <a href="/w/index.php?title=Template:Nihongo&amp;action=edit&amp;redlink=1" class="new" title="Template:Nihongo (page does not exist)">Template:Nihongo</a>. This spelling was created in Edo period Japan from the <a href="/wiki/Ateji" title="Ateji">ateji</a> (phonetic kanji spelling) 安康 for the existing word <i>ankō</i> by adding the 魚 radical to each character – the characters were "made in Japan". However, 鮟 is not considered kokuji, as it is found in ancient Chinese texts as a corruption of 鰋 (魚匽). 鱇 is considered kokuji, as it has not been found in any earlier Chinese text. Casual listings may be more inclusive, including characters such as 鮟.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Another example is 搾, which is sometimes not considered kokuji due to its earlier presence as a corruption of Chinese 榨.
+</p>
+<h3><span class="mw-headline" id="Kokkun">Kokkun</span></h3>
+<p>In addition to <i>kokuji</i>, there are kanji that have been given meanings in Japanese different from their original Chinese meanings. These are not considered <i>kokuji</i> but are instead called <i>kok</i><i><a href="/wiki/Kunyomi" title="Kunyomi" class="mw-redirect">kun</a></i> (国訓) and include characters such as:
+</p>
+<ul>
+<li> 藤 <i>fuji</i> (<a href="/wiki/Wisteria" title="Wisteria">wisteria</a>; Ch. <i>téng</i> rattan, cane, vine)
+</li>
+<li> 沖 <i>oki</i> (<a href="http://en.wiktionary.org/wiki/offing" class="extiw" title="wikt:offing">offing</a>, offshore; Ch. <i>chōng</i> rinse, minor river (Cantonese))
+</li>
+<li> 椿 <i>tsubaki</i> (<i><a href="/wiki/Camellia_japonica" title="Camellia japonica">Camellia japonica</a></i>; Ch. <i>chūn</i> <i><a href="/wiki/Toona" title="Toona">Toona</a></i> spp.)
+</li>
+</ul>
+<h2><span class="mw-headline" id="Types_of_Kanji:_by_category">Types of Kanji: by category</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+<a href="/wiki/Han_Dynasty" title="Han Dynasty">Han Dynasty</a> scholar <a href="/wiki/Xu_Shen" title="Xu Shen">Xu Shen</a> in his ancient dictionary <i><a href="/wiki/Shuowen_Jiezi" title="Shuowen Jiezi">Shuowen Jiezi</a></i> classified Chinese characters into six categories (<a href="/w/index.php?title=Template:Zh&amp;action=edit&amp;redlink=1" class="new" title="Template:Zh (page does not exist)">Template:Zh</a> <i>liùshū</i>, Japanese: <i>rikusho</i>). The traditional classification is still taught but is problematic and no longer the focus of modern lexicographic practice, as some categories are not clearly defined, nor are they mutually exclusive: the first four refer to structural composition, while the last two refer to usage.
+</p>
+<h3><span class="mw-headline" id="Sh.C5.8Dkei_moji_.28.E8.B1.A1.E5.BD.A2.E6.96.87.E5.AD.97.29"><i>Shōkei moji</i> (象形文字)</span></h3>
+<p><i>Shōkei</i> (Chinese: <i>xiàngxíng</i>) characters are <a href="/wiki/Pictograph" title="Pictograph" class="mw-redirect">pictographic</a> sketches of the object they represent. For example, 目 is an eye, while 木 is a tree. (<i>Shōkei</i> 象形 is also the Japanese word for Egyptian <a href="/wiki/Hieroglyph" title="Hieroglyph">hieroglyphs</a>). The current forms of the characters are very different from the originals, though their representations are more clear in <a href="/wiki/Oracle_bone_script" title="Oracle bone script">oracle bone script</a> and <a href="/wiki/Seal_script" title="Seal script">seal script</a>. These pictographic characters make up only a small fraction of modern characters.
+</p>
+<h3><span class="mw-headline" id="Shiji_moji_.28.E6.8C.87.E4.BA.8B.E6.96.87.E5.AD.97.29"><i>Shiji moji</i> (指事文字)</span></h3>
+<p><i>Shiji</i> (Chinese: <i>zhǐshì</i>) characters are <a href="/w/index.php?title=Ideograph&amp;action=edit&amp;redlink=1" class="new" title="Ideograph (page does not exist)">ideographs</a>, often called "simple ideographs" or "simple indicatives" to distinguish them and tell the difference from compound ideographs (below). They are usually simple graphically and represent an abstract concept such as 上 "up" or "above" and 下 "down" or "below". These make up a tiny fraction of modern characters.
+</p>
+<h3><span class="mw-headline" id="Kaii_moji_.28.E4.BC.9A.E6.84.8F.E6.96.87.E5.AD.97.29"><i>Kaii moji</i> (会意文字)</span></h3>
+<p><i>Kaii</i> (Chinese: <i>huìyì</i>) characters are compound ideographs, often called "compound indicatives", "associative compounds", or just "ideographs". These are usually a combination of pictographs that combine semantically to present an overall meaning. An example of this type is 休 (rest) from 人 (person) and 木 (tree).  Another is the <i>kokuji</i> 峠 (mountain pass) made from 山 (mountain), 上 (up) and 下 (down). These make up a tiny fraction of modern characters.
+</p>
+<h3><span class="mw-headline" id="Keisei_moji_.28.E5.BD.A2.E5.A3.B0.E6.96.87.E5.AD.97.29"><i>Keisei moji</i> (形声文字)</span></h3>
+<p><i>Keisei</i> (Chinese: <i>xíngshēng</i>) characters are phono-semantic or <a href="/w/index.php?title=Radical_(Chinese_character)&amp;action=edit&amp;redlink=1" class="new" title="Radical (Chinese character) (page does not exist)">radical</a>-phonetic compounds, sometimes called "semantic-phonetic", "semasio-phonetic", or "phonetic-ideographic" characters, are by far the largest category, making up about 90% of the characters in the standard lists; however, some of the most frequently used kanji belong to one of the three groups mentioned above, so <i>keisei moji</i> will usually make up less than 90% of the characters in a text. Typically they are made up of two components, one of which (most commonly, but by no means always, the left or top element) suggests the general category of the meaning or semantic context, and the other (most commonly the right or bottom element) approximates the pronunciation. The pronunciation relates to the original Chinese, and may now only be distantly detectable in the modern Japanese <i>on'yomi</i> of the kanji; it generally has no relation at all to <i>kun'yomi</i>. The same is true of the semantic context, which may have changed over the centuries or in the transition from Chinese to Japanese. As a result, it is a common error in folk etymology to fail to recognize a phono-semantic compound, typically instead inventing a compound-indicative explanation.
+</p>
+<h3><span class="mw-headline" id="Tench.C5.AB_moji_.28.E8.BB.A2.E6.B3.A8.E6.96.87.E5.AD.97.29"><i>Tenchū moji</i> (転注文字)</span></h3>
+<p><i>Tenchū</i> (Chinese: <i>zhuǎnzhù</i>) characters have variously been called "derivative characters", "derivative <a href="/wiki/Cognate" title="Cognate">cognates</a>", or translated as "mutually explanatory" or "mutually synonymous" characters; this is the most problematic of the six categories, as it is vaguely defined. It may refer to kanji where the meaning or application has become extended. For example, 楽 is used for 'music' and 'comfort, ease', with different pronunciations in Chinese reflected in the two different <i>on'yomi</i>, <i>gaku</i> 'music' and <i>raku</i> 'pleasure'.
+</p>
+<h3><span class="mw-headline" id="Kasha_moji_.28.E4.BB.AE.E5.80.9F.E6.96.87.E5.AD.97.29"><i>Kasha moji</i> (仮借文字)</span></h3>
+<p><i>Kasha</i> (Chinese: <i>jiǎjiè</i>) are <a href="/wiki/Rebus" title="Rebus">rebuses</a>, sometimes called "phonetic loans". The etymology of the characters follows one of the patterns above, but the present-day meaning is completely unrelated to this. A character was appropriated to represent a similar sounding word. For example, 来 in ancient Chinese was originally a pictograph for "wheat". Its syllable was homophonous with the verb meaning "to come", and the character is used for that verb as a result, without any embellishing "meaning" element attached. The character for wheat 麦, originally meant "to come", being a <i>keisei moji</i> having 'foot' at the bottom for its meaning part and "wheat" at the top for sound. The two characters swapped meaning, so today the more common word has the simpler character. This borrowing of sounds has a very long history.
+</p>
+<h2><span class="mw-headline" id="Related_symbols">Related symbols</span></h2>
+<p><a href="/w/index.php?title=Template:Rellink&amp;action=edit&amp;redlink=1" class="new" title="Template:Rellink (page does not exist)">Template:Rellink</a>
+</p><p>The <a href="/wiki/Iteration_mark" title="Iteration mark">iteration mark</a> (々) is used to indicate that the preceding kanji is to be repeated, functioning similarly to a <a href="/w/index.php?title=Ditto_mark&amp;action=edit&amp;redlink=1" class="new" title="Ditto mark (page does not exist)">ditto mark</a> in English. It is pronounced as though the kanji were written twice in a row, for example 色々 (<i>iroiro</i> "various") and 時々 (<i>tokidoki</i> "sometimes"). This mark also appears in personal and place names, as in the <a href="/wiki/Japanese_name" title="Japanese name">surname</a> Sasaki (佐々木). This symbol is a simplified version of the kanji 仝 (variant of 同 dō "same").
+</p><p>Another abbreviated symbol is <a href="/w/index.php?title=%E3%83%B6&amp;action=edit&amp;redlink=1" class="new" title="ヶ (page does not exist)">ヶ</a>, in appearance a small <a href="/wiki/Katakana" title="Katakana">katakana</a> "ke", but actually a simplified version of the kanji 箇, a general counter. It is pronounced "ka" when used to indicate quantity (such as 六ヶ月, <i>rok<b>ka</b>getsu</i> "six months") or "ga" in place names like <a href="/wiki/Kasumigaseki" title="Kasumigaseki">Kasumigaseki</a> (霞ヶ関). .
+</p>
+<h2><span class="mw-headline" id="Collation">Collation</span></h2>
+<p>Kanji, whose thousands of symbols defy ordering by conventions such as those used for the <a href="/w/index.php?title=Latin_script&amp;action=edit&amp;redlink=1" class="new" title="Latin script (page does not exist)">Latin script</a>, are often <a href="/wiki/Collation" title="Collation">collated</a> using the traditional Chinese <a href="/w/index.php?title=Radical-and-stroke_sorting&amp;action=edit&amp;redlink=1" class="new" title="Radical-and-stroke sorting (page does not exist)">radical-and-stroke sorting</a> method. In this system, common components of characters are identified; these are called <a href="/w/index.php?title=Radical_(Chinese_character)&amp;action=edit&amp;redlink=1" class="new" title="Radical (Chinese character) (page does not exist)">radicals</a>. Characters are grouped by their primary radical, then ordered by number of pen strokes within radicals. For example, the kanji character <span lang="ja">桜</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a>, meaning "cherry", is sorted as a ten-stroke character under the four-stroke primary radical <span lang="ja">木</span><a href="/w/index.php?title=Template:Category_handler&amp;action=edit&amp;redlink=1" class="new" title="Template:Category handler (page does not exist)">Template:Category handler</a> meaning "tree". When there is no obvious radical or more than one radical, convention governs which is used for collation.
+</p><p>Other kanji sorting methods, such as the <a href="/w/index.php?title=Kodansha_Kanji_Learner%27s_Dictionary&amp;action=edit&amp;redlink=1" class="new" title="Kodansha Kanji Learner's Dictionary (page does not exist)">SKIP</a> system, have been devised by various authors.
+</p><p>Modern general-purpose <a href="/w/index.php?title=Japanese_dictionaries&amp;action=edit&amp;redlink=1" class="new" title="Japanese dictionaries (page does not exist)">Japanese dictionaries</a> (as opposed to specifically character dictionaries) generally collate all entries, including words written using kanji, according to their <a href="/wiki/Kana" title="Kana">kana</a> representations (reflecting the way they are pronounced). The <a href="/w/index.php?title=Goj%C5%ABon&amp;action=edit&amp;redlink=1" class="new" title="Gojūon (page does not exist)">gojūon</a> ordering of kana is normally used for this purpose.
+</p>
+<h2><span class="mw-headline" id="Kanji_education">Kanji education</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:2230_Kanji.svg" title="File:2230 Kanji.svg">File:2230 Kanji.svg</a>  <div class="thumbcaption">An image which lists most joyo-kanji, according to <a href="/w/index.php?title=Kodansha_Kanji_Learner%27s_Dictionary&amp;action=edit&amp;redlink=1" class="new" title="Kodansha Kanji Learner's Dictionary (page does not exist)">Halpern's KLD indexing system</a>, with kyo-iku kanji color-coded by grade level.</div></div></div>
+<p>Japanese school children are expected to learn 1,006 basic kanji characters, the <i><a href="/wiki/Ky%C5%8Diku_kanji" title="Kyōiku kanji">kyōiku kanji</a></i>, before finishing the sixth grade. The order in which these characters are learned is fixed. The <i>kyōiku kanji</i> list is a subset of a larger list, originally of 1,945 kanji characters, in 2010 extended to 2,136, known as the <i><a href="/wiki/J%C5%8Dy%C5%8D_kanji" title="Jōyō kanji">jōyō kanji</a></i> – characters required for the level of fluency necessary to read newspapers and literature in Japanese. This larger list of characters is to be mastered by the end of the ninth grade.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Schoolchildren learn the characters by repetition and <a href="/w/index.php?title=Radical_(Chinese_character)&amp;action=edit&amp;redlink=1" class="new" title="Radical (Chinese character) (page does not exist)">radical</a>.
+</p><p>Students studying Japanese as a foreign language are often required by a curriculum to acquire kanji without having first learned the vocabulary associated with them. Strategies for these learners vary from copying-based methods to <a href="/wiki/Mnemonic" title="Mnemonic">mnemonic</a>-based methods such as those used in <a href="/wiki/James_Heisig" title="James Heisig">James Heisig</a>'s series <i><a href="/w/index.php?title=Remembering_the_Kanji&amp;action=edit&amp;redlink=1" class="new" title="Remembering the Kanji (page does not exist)">Remembering the Kanji</a></i>. Other textbooks use methods based on the <a href="/wiki/Etymology" title="Etymology">etymology</a> of the characters, such as Mathias and Habein's <i>The Complete Guide to Everyday Kanji</i> and Henshall's <i>A Guide to Remembering Japanese Characters</i>. Pictorial mnemonics, as in the text <i>Kanji Pict-o-graphix</i>, are also seen.
+</p><p>The <a href="/wiki/Japanese_government" title="Japanese government" class="mw-redirect">Japanese government</a> provides the <i><a href="/wiki/Kanji_kentei" title="Kanji kentei">Kanji kentei</a></i> (日本漢字能力検定試験 <i>Nihon kanji nōryoku kentei shiken</i>; "Test of Japanese Kanji Aptitude") which tests the ability to read and write kanji. The highest level of the <i>Kanji kentei</i> tests about 6,000 kanji.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li> <a href="/wiki/List_of_kanji_by_concept" title="List of kanji by concept">List of kanji by concept</a>
+</li>
+<li> <a href="/wiki/List_of_kanji_by_stroke_count" title="List of kanji by stroke count">List of kanji by stroke count</a>
+</li>
+<li> <a href="/wiki/Yojijukugo" title="Yojijukugo">Yojijukugo</a>
+</li>
+<li> <a href="/wiki/Han_unification" title="Han unification">Han unification</a>
+</li>
+<li> <a href="/wiki/Hanja" title="Hanja">Hanja</a> (Korean equivalent)
+</li>
+<li> <a href="/w/index.php?title=Han-Nom&amp;action=edit&amp;redlink=1" class="new" title="Han-Nom (page does not exist)">Han-Nom</a> (Vietnamese equivalent)
+</li>
+<li> <a href="/w/index.php?title=Japanese_script_reform&amp;action=edit&amp;redlink=1" class="new" title="Japanese script reform (page does not exist)">Japanese script reform</a>
+</li>
+<li> <a href="/w/index.php?title=Japanese_typefaces&amp;action=edit&amp;redlink=1" class="new" title="Japanese typefaces (page does not exist)">Japanese typefaces</a> (<i>Shotai</i>)
+</li>
+<li> <a href="/w/index.php?title=Kanji_of_the_year&amp;action=edit&amp;redlink=1" class="new" title="Kanji of the year (page does not exist)">Kanji of the year</a>
+</li>
+<li> <a href="/w/index.php?title=POP_(Point_of_Purchase_typeface)&amp;action=edit&amp;redlink=1" class="new" title="POP (Point of Purchase typeface) (page does not exist)">POP (Point of Purchase typeface)</a>
+</li>
+<li> <a href="/wiki/Stroke_order" title="Stroke order">Stroke order</a>
+</li>
+<li> <a href="/w/index.php?title=Radical_(Chinese_character)&amp;action=edit&amp;redlink=1" class="new" title="Radical (Chinese character) (page does not exist)">Radical (Chinese character)</a>
+</li>
+<li> <a href="/w/index.php?title=Table_of_Japanese_Kanji_radicals&amp;action=edit&amp;redlink=1" class="new" title="Table of Japanese Kanji radicals (page does not exist)">List of Japanese radicals</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<p><a href="/w/index.php?title=Template:Reflist&amp;action=edit&amp;redlink=1" class="new" title="Template:Reflist (page does not exist)">Template:Reflist</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<ul>
+<li> DeFrancis, John (1990). <i>The Chinese Language: Fact and Fantasy</i>. Honolulu: University of Hawaii Press. <a href="/wiki/Special:BookSources/0824810686" class="internal mw-magiclink-isbn">ISBN 0-8248-1068-6</a>.
+</li>
+<li> Hadamitzky, W., and Spahn, M., (1981) <i>Kanji and Kana</i>, Boston: Tuttle.
+</li>
+<li> Hannas, William. C. (1997). <i>Asia's Orthographic Dilemma</i>. Honolulu: University of Hawaii Press. <a href="/wiki/Special:BookSources/082481892X" class="internal mw-magiclink-isbn">ISBN 0-8248-1892-X</a> (paperback); <a href="/wiki/Special:BookSources/0824818423" class="internal mw-magiclink-isbn">ISBN 0-8248-1842-3</a> (hardcover).
+</li>
+<li> Kaiser, Stephen (1991). Introduction to the Japanese Writing System. In <i>Kodansha's Compact Kanji Guide</i>. Tokyo: Kondansha International. <a href="/wiki/Special:BookSources/4770015534" class="internal mw-magiclink-isbn">ISBN 4-7700-1553-4</a>.
+</li>
+<li> <a href="/w/index.php?title=Marc_Hideo_Miyake&amp;action=edit&amp;redlink=1" class="new" title="Marc Hideo Miyake (page does not exist)">Miyake, Marc Hideo</a> (2003). <i>Old Japanese: A Phonetic Reconstruction</i>. New York, London: RoutledgeCurzon.
+</li>
+<li> Morohashi, Tetsuji. 大漢和辞典 <i><a href="/w/index.php?title=Dai_Kan-Wa_Jiten&amp;action=edit&amp;redlink=1" class="new" title="Dai Kan-Wa Jiten (page does not exist)">Dai Kan-Wa Jiten</a></i> (Comprehensive Chinese–Japanese Dictionary) 1984–1986. Tokyo: Taishukan
+</li>
+<li> Mitamura, Joyce Yumi and Mitamura, Yasuko Kosaka (1997). <i>Let's Learn Kanji</i>. Tokyo: Kondansha International. <a href="/wiki/Special:BookSources/4770020686" class="internal mw-magiclink-isbn">ISBN 4-7700-2068-6</a>.
+</li>
+<li> Unger, J. Marshall (1996). <i>Literacy and Script Reform in Occupation Japan: Reading Between the Lines</i>. <a href="/wiki/Special:BookSources/0195101669" class="internal mw-magiclink-isbn">ISBN 0-19-510166-9</a>
+</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<p><a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a>
+<a href="/w/index.php?title=Template:Sister&amp;action=edit&amp;redlink=1" class="new" title="Template:Sister (page does not exist)">Template:Sister</a> 
+</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.infomongolia.com/lesson-category/67">Learning Kanji</a>, an animated application for the 1st Grade Kanji.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.nihongomaster.com/dictionary/kanji">Kanji Dictionary</a> online Free Kanji Dictionary 
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?1C">Jim Breen's WWWJDIC server</a> used to find Kanji from English or romanized Japanese
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.romajidesu.com/kanji/">RomajiDesu Kanji Dictionary</a> a comprehensive Kanji dictionary with strokes order and various lookup methods.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.1776kanji.com/kanji/explore.php?kanji=&amp;doku=off">Kanji Explorer</a> More than 13000 Kanji
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.languagebug.com/kanji_q">KanjiQ</a> – Kanji flashcard tool that runs on mobile phones.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.jishop.com">JISHOP</a> – Japanese-English computer kanji dictionary
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www2.gol.com/users/jpc/Japan/Kanji/KanjiLearn/">KanjiLearn</a> – Electronic set of 2135 two-sided kanji flashcards, as easy to use as paper flashcards.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://nihongo.j-talk.com/kanji/">Convert Kanji to Romaji, Hiragana</a>—Converts Kanji and websites to forms that are easy to read and gives a word by word translation
+</li>
+<li> <a rel="nofollow" class="external text" href="http://tangorin.com/multiradical/">Tangorin</a>—Find kanji fast by selecting their elements
+</li>
+<li> <a rel="nofollow" class="external text" href="http://homepage2.nifty.com/TAB01645/">Dictionary of Kokuji</a> in Japanese
+</li>
+<li> <a rel="nofollow" class="external text" href="http://learnjapanese.elanguageschool.net/kanji-jlpt-lists">Learn Japanese Kanji</a>—How to write Kanji in Japanese
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.japanese-kanji.com/">Drill the kanji</a>—online Java tool (Asahi-net)
+</li>
+<li> <a rel="nofollow" class="external text" href="http://kanjialive.com/">Kanji Alive</a>—Online kanji learning tool in wide use at many universities, colleges and high-schools.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.realkanji.com/">Real Kanji</a>—Practice kanji using different typefaces.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.japanesestudies.org.uk/articles/2005/Tomoda.html">Change in Script Usage in Japanese: A Longitudinal Study of Japanese Government White Papers on Labor</a>, discussion paper by Takako Tomoda in the <a rel="nofollow" class="external text" href="http://www.japanesestudies.org.uk/"><i>Electronic Journal of Contemporary Japanese Studies</i></a>, August 19, 2005.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.taipansoftware.com/en/japanese/dictionary/">Kanji Dictionary</a>, a kanji dictionary with a focus on compound-exploring.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.genetickanji.com/">Genetic Kanji</a>, Etymologically organized lists for learning kanji.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.kanjinetworks.com/">Kanji Networks</a>, a kanji etymology dictionary
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.saiga-jp.com/kanji_dictionary.html">Japanese Kanji Dictionary</a>—Each character is presented by a grade, stroke count, <a rel="nofollow" class="external text" href="http://www.csse.monash.edu.au/~jwb/wwwjdicinf.html#sod_tag">stroke order</a>, phonetic reading and native Japanese reading. You can also listen to the pronunciation.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.csse.monash.edu.au/cgi-bin/cgiwrap/jwb/wwwjdic?1KG">WWWJDIC Text Translator</a>—Takes Japanese text and returns each word with pronunciation (hiragana) and a translation in English.
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.javadikt.net/en">JavaDiKt</a> — Open source kanji dictionary for desktop
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.cymraeg.ru/daoulagad.html">Daoulagad Han</a> — Mobile OCR kanji dictionary, OCR interface to the UniHan database
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.jisho.org/">Denshi Jisho</a> — Online Japanese dictionary
+</li>
+</ul>
+<h3><span class="mw-headline" id="Glyph_conversion">Glyph conversion</span></h3>
+<ul>
+<li> <a rel="nofollow" class="external text" href="http://www.geocities.jp/qjitai/">A simple Shinjitai – Kyūjitai converter</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://yurara.kir.jp/material/kanji.html">A practical Shinjitai – Kyūjitai – Simplified Chinese character converter</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://homepage3.nifty.com/jgrammar/ja/tools/tradkan0.htm">A complex Shinjitai – Kyūjitai converter</a>
+</li>
+<li> <a rel="nofollow" class="external text" href="http://www.skycn.com/soft/44716.html">A downloadable Shinjitai – Kyūjitai – Simplified Chinese character converter</a> – <a rel="nofollow" class="external text" href="http://www.sjwx.net/zht.rar">Download directly</a>
+</li>
+</ul>
+<p><a href="/w/index.php?title=Template:Japanese_language&amp;action=edit&amp;redlink=1" class="new" title="Template:Japanese language (page does not exist)">Template:Japanese language</a>
+<a href="/w/index.php?title=Template:Kangxi_Radicals&amp;action=edit&amp;redlink=1" class="new" title="Template:Kangxi Radicals (page does not exist)">Template:Kangxi Radicals</a>
+<a href="/w/index.php?title=Template:List_of_writing_systems&amp;action=edit&amp;redlink=1" class="new" title="Template:List of writing systems (page does not exist)">Template:List of writing systems</a><a href="/w/index.php?title=Template:Link_GA&amp;action=edit&amp;redlink=1" class="new" title="Template:Link GA (page does not exist)">Template:Link GA</a></small>
+</p><p><br /><strong class="error mw-ext-cite-error">Cite error: <code>&lt;ref&gt;</code> tags exist, but no <code>&lt;references/&gt;</code> tag was found</strong>
+</p>
+<!-- 
+NewPP limit report
+CPU time usage: 0.984 seconds
+Real time usage: 1.161 seconds
+Preprocessor visited node count: 1866/1000000
+Preprocessor generated node count: 14169/1000000
+Post‐expand include size: 13562/2097152 bytes
+Template argument size: 1875/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key my_wiki:pcache:idhash:24880-0!*!0!!en!2!* and timestamp 20170407172746
+ -->
+</div>								<div class="printfooter">
+				Retrieved from "<a href="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Kanji&amp;oldid=24880">http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/index.php?title=Kanji&amp;oldid=24880</a>"				</div>
+												<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Pages_with_broken_file_links&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with broken file links (page does not exist)">Pages with broken file links</a></li><li><a href="/w/index.php?title=Category:Articles_with_hAudio_microformats&amp;action=edit&amp;redlink=1" class="new" title="Category:Articles with hAudio microformats (page does not exist)">Articles with hAudio microformats</a></li><li><a href="/w/index.php?title=Category:Japanese_writing_system&amp;action=edit&amp;redlink=1" class="new" title="Category:Japanese writing system (page does not exist)">Japanese writing system</a></li><li><a href="/wiki/Category:Kanji" title="Category:Kanji">Kanji</a></li><li><a href="/w/index.php?title=Category:Chinese_characters&amp;action=edit&amp;redlink=1" class="new" title="Category:Chinese characters (page does not exist)">Chinese characters</a></li><li><a href="/w/index.php?title=Category:Chinese_scripts&amp;action=edit&amp;redlink=1" class="new" title="Category:Chinese scripts (page does not exist)">Chinese scripts</a></li><li><a href="/w/index.php?title=Category:Japanese_writing_system_terms&amp;action=edit&amp;redlink=1" class="new" title="Category:Japanese writing system terms (page does not exist)">Japanese writing system terms</a></li><li><a href="/wiki/Category:Logographic_writing_systems" title="Category:Logographic writing systems">Logographic writing systems</a></li><li><a href="/wiki/Category:Writing_systems" title="Category:Writing systems">Writing systems</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+				<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul>
+<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kanji" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+				<div id="left-navigation">
+					<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Kanji"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Kanji&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
+			</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+				</div>
+				<div id="right-navigation">
+					<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Kanji" >Read</a></span></li>
+					<li id="ca-viewsource"><span><a href="/w/index.php?title=Kanji&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kanji&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<h3 id="p-cactions-label"><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search the pages for this text" id="searchButton"><img src="/w/skins/vector/images/search-ltr.png?303" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+				</div>
+			</div>
+			<div id="mw-panel">
+					<div id="p-logo" role="banner"><a style="background-image: url(/w/skins/common/images/wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+	<h3 id='p-navigation-label'>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents">contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content">featuredcontent</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" rel="nofollow">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+	<h3 id='p-interaction-label'>interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li>
+			<li id="n-aboutsite"><a href="http://en.wikipedia.org/wiki/About">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia_clone:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" rel="nofollow">contactpage</a></li>
+		</ul>
+	</div>
+</div>
+<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+	<h3 id='p-tb-label'>Tools</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kanji" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kanji" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-print"><a href="/w/index.php?title=Kanji&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Kanji&amp;oldid=24880" title="Permanent link to this revision of the page">Permanent link</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Kanji&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+			</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 February 2014, at 23:19.</li>
+											<li id="footer-info-viewcount">This page has been accessed 105 times.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia_clone:Privacy_policy" title="Wikipedia clone:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia_clone:About" title="Wikipedia clone:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="http://en.wikipedia.org/wiki/General_disclaimer" title="wikipedia:General disclaimer">Disclaimers</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cite","skins.vector.collapsibleNav"],null,true);
+}</script>
+<script src="http://ec2-54-166-234-74.compute-1.amazonaws.com:8080/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served in 1.550 secs. -->
+	</body>
+</html>
