@@ -14,35 +14,32 @@ except ImportError:
 import os
 import errno
 
+
+CACHE_DIR = "./cache"
+
 class HTTPServer(object):
-    def __init__(self, port, origin, cache):
+    def __init__(self, port, origin):
         self.port = port
         self.origin = origin
-        self.cache = cache
+        self._build_cache()
+
+
+    def _build_cache(self):
+        self.cache = {}
+        for f in os.listdir(CACHE_DIR):
+            self.cache.update({"/wiki/" + f.split("-")[0].strip(): CACHE_DIR + "/" + f})
+        print(self.cache.get("/wiki/Yogurt"))
+
+    def fetch_from_cache(self):
+        path = self.cache.get(self.path)
+        with open(path, "rb") as f:
+            return f.read()
+
 
     def parse_request(self, req):
         req_line = req.splitlines()[0]
         req_line = req_line.rstrip(b'\r\n')
         (self.request_method, self.path, self.request_version) = req_line.split()
-
-    def download(self, path, response):
-        fname = os.pardir + path
-        dest = os.path.dirname(fname)
-        is_done = os.makedirs(dest) if os.path.exists(dest) else False
-        fd = open(fname, 'w')
-        while not is_done:
-            try:
-                fd.write(response.read())
-                is_done = Trueself.cache.append(path)
-            except IOError as err:
-                if err.errno == errno.EDQuot:
-                    to_remove = self.cache.pop(0) #remove first one
-                    os.remove(os.pardir + to_remove)
-                else:
-                    raise err
-
-        fd.close()
-
 
     def serve_forever(self):
         socket_listen = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -71,7 +68,12 @@ class HTTPServer(object):
                         raise
                         self.send_error(err.reason)
                 else:
-                    self.download(self.path, res)
+                    content = self.fetch_from_cache()
+                    client_conn.send(b"""HTTP/1.0 200 OK
+                    Content-Type: text/html
+
+                    """  + content)
+                    client_conn.close()
             except Exception as e:
                 pass
 
@@ -86,8 +88,7 @@ def main():
     port = args.p
     origin = args.o
 
-    cache = []
-    server = HTTPServer(port, origin, cache);
+    server = HTTPServer(port, origin);
     server.serve_forever()
 
 if __name__ == "__main__":
