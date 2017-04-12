@@ -28,7 +28,6 @@ class HTTPServer(object):
         self.cache = {}
         for f in os.listdir(CACHE_DIR):
             self.cache.update({"/wiki/" + f.split("-")[0].strip(): CACHE_DIR + "/" + f})
-        print(self.cache.get("/wiki/Yogurt"))
 
     def fetch_from_cache(self):
         path = self.cache.get(self.path)
