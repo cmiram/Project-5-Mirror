@@ -11,13 +11,13 @@ except ImportError:
 
 import argparse
 import json
+import math
 import socket
 import signal
 import struct
 import sys
 
 from binascii import unhexlify
-from random import choice
 
 DEFAULT_SERVERS = [
     'ec2-52-90-80-45.compute-1.amazonaws.com',
@@ -54,14 +54,14 @@ class DNSServer:
                 query = DNSQuery(data)
                 if ip not in self.clients:
                     # New client, send to a random one.
-                    server = choice(DEFAULT_SERVERS)
+                    server = self.closest_server(ip)
                     self.clients.update({ip: [-1 for _ in DEFAULT_SERVERS]})
                     self.clients[ip][DEFAULT_SERVERS.index(server)] = 0
                 else:
                     server_ttls = self.clients[ip]
                     highest = -1
                     highest_index = 0
-                    for ttl, index in enumerate(server_ttls):
+                    for index, ttl in enumerate(server_ttls):
                         if ttl > highest:
                             highest = ttl
                             highest_index = index
@@ -78,6 +78,27 @@ class DNSServer:
                 except (socket.error, UnboundLocalError):
                     pass
 
+    def closest_server(self, hostname):
+        """Finds the closest default server for the given hostname.
+        It does this by looking up the lat/long and doing maths"""
+        host_cords = get_cords(hostname)
+        earth_radius = 6371 # Radius in kilometers
+        min_index = 0
+        min = None
+        for (index, server_cords) in enumerate(self.cords):
+            lat = math.radians(server_cords[0] - host_cords[0])
+            long = math.radians(server_cords[1] - host_cords[1])
+            sin_lat = math.sin(lat / 2)
+            sin_long = math.sin(long / 2)
+            a = (math.pow(sin_lat, 2) + math.pow(sin_long, 2)
+                 * math.cos(math.radians(host_cords[0]))
+                 * math.cos(math.radians(server_cords[0])))
+            c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
+            dist = earth_radius * c
+            if not min or min > dist:
+                min = dist
+                min_index = index
+        return DEFAULT_SERVERS[index]
 
     def close(self):
         self.sock.close()
@@ -101,9 +122,9 @@ class DNSQuery:
 def get_cords(hostname):
     """Returns a tuple of lat/long. Used for initial redirect calculations."""
     ip = socket.getaddrinfo(hostname, 8080)[0][-1][0]
-    response = urlopen("http://freegeoip.net/json/?q=" + ip)
+    response = urlopen("http://freegeoip.net/json/" + ip)
     data = json.loads(response.read())
-    return data["latitude"], data["longitude"]
+    return (data["latitude"], data["longitude"])
 
 def main():
     global origin
