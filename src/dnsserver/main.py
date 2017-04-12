@@ -37,7 +37,7 @@ class DNSServer:
         self.port = port
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         self.sock.bind(('', port))
-        # Client connections, which are dicts of {ip(str): [List of ttls]}
+        # Client connections, which are dicts of {ip(str): [List of latencies(float)]}
         self.clients = {}
         # Coordinates of the servers, used to calculate a better thing than "random"
         # [(lat(float), long(float))]
@@ -58,12 +58,12 @@ class DNSServer:
                     self.clients.update({ip: [-1 for _ in DEFAULT_SERVERS]})
                     self.clients[ip][DEFAULT_SERVERS.index(server)] = 0
                 else:
-                    server_ttls = self.clients[ip]
+                    server_latencies = self.clients[ip]
                     lowest = None
                     lowest_index = 0
-                    for index, ttl in enumerate(server_ttls):
-                        if not lowest or ttl > lowest:
-                            lowest = ttl
+                    for index, latency in enumerate(server_latencies):
+                        if not lowest or latency > lowest:
+                            lowest = latency
                             lowest_index = index
                     server = DEFAULT_SERVERS[lowest_index]
                 packet = query.respond(socket.getaddrinfo(server,
