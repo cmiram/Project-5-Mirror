@@ -90,10 +90,10 @@ class DNSServer:
         min_index = 0
         min = None
         for (index, server_cords) in enumerate(self.cords):
-            lat = math.radians(server_cords[0] - host_cords[0])
-            long = math.radians(server_cords[1] - host_cords[1])
-            sin_lat = math.sin(lat / 2)
-            sin_long = math.sin(long / 2)
+            delta_lat = math.radians(server_cords[0] - host_cords[0])
+            delta_long = math.radians(server_cords[1] - host_cords[1])
+            sin_lat = math.sin(delta_lat / 2)
+            sin_long = math.sin(delta_long / 2)
             a = (math.pow(sin_lat, 2) + math.pow(sin_long, 2)
                  * math.cos(math.radians(host_cords[0]))
                  * math.cos(math.radians(server_cords[0])))
