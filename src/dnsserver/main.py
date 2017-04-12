@@ -10,6 +10,7 @@ except ImportError:
     from urllib import urlopen
 
 import argparse
+import json
 import socket
 import signal
 import struct
@@ -38,6 +39,11 @@ class DNSServer:
         self.sock.bind(('', port))
         # Client connections, which are dicts of {ip(str): [List of ttls]}
         self.clients = {}
+        # Coordinates of the servers, used to calculate a better thing than "random"
+        # [(lat(float), long(float))]
+        self.cords = []
+        for server in DEFAULT_SERVERS:
+            self.cords.append(get_cords(server))
 
     def listen(self):
         """Listens for and responds to clients forever, in a loop"""
@@ -91,6 +97,13 @@ class DNSQuery:
             unhexlify('81800001000100000001') + domain_name +
             # Magic answer pre-cursor
             unhexlify('c00c000100010000001e0004') + socket.inet_aton(ip))
+
+def get_cords(hostname):
+    """Returns a tuple of lat/long. Used for initial redirect calculations."""
+    ip = socket.getaddrinfo(hostname, 8080)[0][-1][0]
+    response = urlopen("http://freegeoip.net/json/?q=" + ip)
+    data = json.loads(response.read())
+    return data["latitude"], data["longitude"]
 
 def main():
     global origin
