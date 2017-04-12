@@ -31,6 +31,8 @@ DEFAULT_SERVERS = [
     'ec2-54-233-152-60.sa-east-1.compute.amazonaws.com',
 ]
 
+PUBLIC_IP = json.loads(urlopen("https://api.ipify.org?format=json").read())["ip"]
+
 class DNSServer:
     def __init__(self, name, port, servers=DEFAULT_SERVERS):
         self.name = name
@@ -82,6 +84,8 @@ class DNSServer:
         """Finds the closest default server for the given hostname.
         It does this by looking up the lat/long and doing maths"""
         host_cords = get_cords(hostname)
+        if host_cords[0] == 0 and host_cords[1] == 0:
+            host_cords = get_cords(PUBLIC_IP)
         earth_radius = 6371 # Radius in kilometers
         min_index = 0
         min = None
