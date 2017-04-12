@@ -59,13 +59,13 @@ class DNSServer:
                     self.clients[ip][DEFAULT_SERVERS.index(server)] = 0
                 else:
                     server_ttls = self.clients[ip]
-                    highest = -1
-                    highest_index = 0
+                    lowest = None
+                    lowest_index = 0
                     for index, ttl in enumerate(server_ttls):
-                        if ttl > highest:
-                            highest = ttl
-                            highest_index = index
-                    server = DEFAULT_SERVERS[highest_index]
+                        if not lowest or ttl > lowest:
+                            lowest = ttl
+                            lowest_index = index
+                    server = DEFAULT_SERVERS[lowest_index]
                 packet = query.respond(socket.getaddrinfo(server,
                                                             8080)[0][-1][0],
                                     self.name)
