@@ -70,7 +70,7 @@ class DNSQuery:
             # Magic header / question + domain name
             unhexlify('81800001000100000001') + domain_name +
             # Magic answer pre-cursor
-            unhexlify('c00c00010001000000a60004') + socket.inet_aton(ip))
+            unhexlify('c00c000100010000001e0004') + socket.inet_aton(ip))
 
 def main():
     global origin
