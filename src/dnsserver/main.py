@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 
 from __future__ import unicode_literals
+try:
+    from urllib import request
+    from urllib.request import urlopen
+except ImportError:
+    # Python 2
+    from urllib2 import Request as request
+    from urllib import urlopen
 
 import argparse
 import socket
@@ -11,7 +18,7 @@ import sys
 from binascii import unhexlify
 from random import choice
 
-DEFAULT_SERVERS=[
+DEFAULT_SERVERS = [
     'ec2-52-90-80-45.compute-1.amazonaws.com',
     'ec2-54-183-23-203.us-west-1.compute.amazonaws.com',
     'ec2-54-70-111-57.us-west-2.compute.amazonaws.com',
@@ -29,22 +36,35 @@ class DNSServer:
         self.port = port
         self.sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         self.sock.bind(('', port))
-        # Client connections, which are tuples of (<socket>, <address(str)>)
-        self.clients = []
+        # Client connections, which are dicts of {ip(str): [List of ttls]}
+        self.clients = {}
 
     def listen(self):
         """Listens for and responds to clients forever, in a loop"""
         while True:
             try:
-                #self.sock.settimeout(None)
                 data, address = self.sock.recvfrom(2048)
+                ip = address[0]
                 query = DNSQuery(data)
-                # TODO Don't give the origin server as a place to go
-                packet = query.respond(socket.getaddrinfo(choice(DEFAULT_SERVERS),
-                                                          8080)[0][-1][0],
-                                       self.name)
+                if ip not in self.clients:
+                    # New client, send to a random one.
+                    server = choice(DEFAULT_SERVERS)
+                    self.clients.update({ip: [-1 for _ in DEFAULT_SERVERS]})
+                    self.clients[ip][DEFAULT_SERVERS.index(server)] = 0
+                else:
+                    server_ttls = self.clients[ip]
+                    highest = -1
+                    highest_index = 0
+                    for ttl, index in enumerate(server_ttls):
+                        if ttl > highest:
+                            highest = ttl
+                            highest_index = index
+                    server = DEFAULT_SERVERS[highest_index]
+                packet = query.respond(socket.getaddrinfo(server,
+                                                            8080)[0][-1][0],
+                                    self.name)
                 self.sock.sendto(packet, address)
-                # TODO Lookup address in hashmap, send them to that one.
+
 
             except (socket.timeout, socket.error):
                 try:
