@@ -39,9 +39,8 @@ if __name__ == "__main__":
         sys.exit(1)
     # Run HTTP server to replicas
     for ec2_server in EC2_SERVERS:
-        print("Starting HTTP server at {}@{}".format(username, ec2_server))
-        sys.stdout.flush()
-        os.system("ssh -f -oStrictHostKeyChecking=no -i {keyfile}  {username}@{ec2_server} '(cd httpserver; pkill python 2>/dev/null; make; screen -md ./httpserver -p ${port} -o {origin})'".format(
+        print("Starting HTTP server at {}@{}:{}".format(username, ec2_server, port))
+        os.system("ssh -f -oStrictHostKeyChecking=no -i {keyfile}  {username}@{ec2_server} '(cd httpserver; pkill python 2>/dev/null; make; screen -md ./httpserver -p {port} -o \"{origin}\")'".format(
             keyfile=keyfile, port=port, username=username, ec2_server=ec2_server, origin=origin))
         if err != 0:
             print("error code while copying to {}: {}".format(ec2_server, err))
