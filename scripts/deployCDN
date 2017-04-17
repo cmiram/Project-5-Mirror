@@ -1,0 +1,51 @@
+#!/usr/bin/env python2
+# Deploys code to ec2 replicas. Also deploys the DNS code to cs5700cdnproject.ccs.neu.edu
+# -p = port
+# -o = origin
+# -n = name
+# -u = username
+# -i = keyfile
+
+import argparse
+import os
+import sys
+
+EC2_SERVERS = [
+    'ec2-52-90-80-45.compute-1.amazonaws.com',
+    'ec2-54-183-23-203.us-west-1.compute.amazonaws.com',
+    'ec2-54-70-111-57.us-west-2.compute.amazonaws.com',
+    'ec2-52-215-87-82.eu-west-1.compute.amazonaws.com',
+    'ec2-52-28-249-79.eu-central-1.compute.amazonaws.com',
+    'ec2-54-169-10-54.ap-southeast-1.compute.amazonaws.com',
+    'ec2-52-62-198-57.ap-southeast-2.compute.amazonaws.com',
+    'ec2-52-192-64-163.ap-northeast-1.compute.amazonaws.com',
+    'ec2-54-233-152-60.sa-east-1.compute.amazonaws.com',
+]
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", metavar="port", type=int)
+    parser.add_argument("-o", metavar="origin", type=str)
+    parser.add_argument("-n", metavar="name", type=str)
+    parser.add_argument("-u", metavar="username", type=str)
+    parser.add_argument("-i", metavar="keyfile", type=str)
+    args = parser.parse_args()
+    (port, origin, name, username, keyfile) = (args.p, args.o, args.n,
+                                               args.u, args.i)
+    if not all((port, origin, name, username, keyfile)):
+        print("Did not provide all options: ")
+        print("port:{}, origin:{}, name:{}, username:{}, keyfile:{}".format(port, origin, name, username, keyfile))
+        sys.exit(1)
+    # Deploy DNS server
+    err = os.system("scp -Br -oStrictHostKeyChecking=no -i {keyfile} ../src/dnsserver {username}@{name}:.".format(
+        keyfile=keyfile, port=port, username=username, name=name))
+    if err != 0:
+        print("error code while copying to dns server: {}".format(err))
+        sys.exit(1)
+    # Deploy HTTP server to replicas
+    for ec2_server in EC2_SERVERS:
+        os.system("scp -Br -oStrictHostKeyChecking=no -i {keyfile}  ../src/httpserver {username}@{ec2_server}:.".format(
+            keyfile=keyfile, port=port, username=username, ec2_server=ec2_server))
+        if err != 0:
+            print("error code while copying to {}: {}".format(ec2_server, err))
+            sys.exit(1)
