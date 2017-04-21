@@ -34,8 +34,8 @@ class HTTPServer(object):
 
     def fetch_from_cache(self):
         path = self.cache.get(self.path, default)
-		if path == None
-			return self.runtime_cache.get(self.path)
+        if path == None
+            return self.runtime_cache.get(self.path)
 		
         with open(path, "rb") as f:
             return f.read()
