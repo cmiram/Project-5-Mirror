@@ -1,3 +1,9 @@
+# To build and run
+First, run "make build" in the project root. This will set all the necessary scripts to be executable.
+To deploy to the servers with pre-configured defaults, run the `startCDN` script.
+`deployCDN` will deploy with the given arguments to all the replica servers and the DNS server.
+`runCDN` will run with the given arguments on all the replica servers and the dns server
+`stopCDN` will stop them all (including the DNS server)
 # project-5
 Networks Grad project 5
 
