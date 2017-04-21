@@ -1,0 +1,5 @@
+#!/bin/bash
+sleep 1
+
+./deployCDN -p 40000 -o ec2-54-166-234-74.compute-1.amazonaws.com -i ~/.ssh/project_5_rsa.pub -u pcarp -n cs5700cdnproject.ccs.neu.edu &&
+./runCDN -p 40000 -o ec2-54-166-234-74.compute-1.amazonaws.com -i ~/.ssh/project_5_rsa.pub -u pcarp -n cs5700cdnproject.ccs.neu.edu
