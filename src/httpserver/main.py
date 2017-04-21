@@ -15,6 +15,7 @@ import sys
 import os
 import errno
 import pickle
+import threading
 
 
 CACHE_DIR = "./cache"
@@ -24,14 +25,32 @@ class HTTPServer(object):
     def __init__(self, port, origin):
         self.port = port
         self.origin = origin
+        self.lock = threading.Event()
+        self.cache = {}
         self.runtime_cache = {}
-        self._build_cache()
+        cache_build_thread = threading.Thread(name = 'Cache-build Thread',
+                                             target = (self._build_cache))
+        cache_build_thread.daemon = True # So the main thread can stop
+        cache_build_thread.start()
 
 
     def _build_cache(self):
         self.cache = {}
-        for f in os.listdir(CACHE_DIR):
-            self.cache.update({"/wiki/" + f.split("-")[0].strip(): CACHE_DIR + "/" + f})
+        print("Building cache...")
+        for file_name in os.listdir(CACHE_DIR):
+            # Get the latest from the server
+            self.lock.wait()
+            try:
+                name = file_name.split("-")[0].strip()
+                print("caching %s" %name)
+                res = urlopen("http://" + self.origin + ":8080/wiki/" + name)
+                with open(os.path.join(CACHE_DIR, file_name), "w") as f:
+                    f.writelines(res.read())
+                # Add to in-memory cache
+                self.cache.update({"/wiki/" + name: CACHE_DIR + "/" + file_name})
+            except:
+                pass
+        print("Cache built!")
 
     def fetch_from_cache(self):
         path = self.cache.get(self.path, None)
@@ -65,12 +84,18 @@ class HTTPServer(object):
         socket_listen.bind(('', self.port))
         socket_listen.listen(1)
 
+        print("Server ready!")
+        self.lock.set()
         while True:
             try:
                 client_conn, client_addr = socket_listen.accept()
+                print("Connection received")
                 request = client_conn.recv(1024)
                 self.parse_request(request);
                 if self.path not in self.cache and self.path not in self.runtime_cache:
+                    # Lock the cache build, because it will slow us down
+                    self.lock.clear()
+                    print("cache miss for: %s" % self.path)
                     try:
                         request = 'http://' + self.origin + ':8080' + self.path.decode()
                         res = urlopen(request)
@@ -87,7 +112,11 @@ Content-Type: text/html
                     except URLError as err:
                         raise
                         self.send_error(err.reason)
+                    finally:
+                        # Unlock the cache build lock
+                        self.lock.set()
                 else:
+                    print("cache hit for %s" % self.path)
                     content = self.fetch_from_cache()
                     client_conn.send(b"""HTTP/1.0 200 OK
                     Content-Type: text/html
@@ -95,8 +124,8 @@ Content-Type: text/html
                     """  + content)
                     client_conn.close()
             except Exception as e:
+                print("exception: {}".format(e))
                 pass
-
 
 
 def main():
