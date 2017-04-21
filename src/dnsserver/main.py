@@ -119,7 +119,7 @@ class DNSQuery:
             b'\x00\x01')
         return id + (
             # Magic header / question + domain name
-            unhexlify('81800001000100000001') + domain_name +
+            unhexlify('81800001000100000000') + domain_name +
             # Magic answer pre-cursor
             unhexlify('c00c000100010000001e0004') + socket.inet_aton(ip))
 
