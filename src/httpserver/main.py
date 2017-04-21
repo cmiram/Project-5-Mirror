@@ -33,22 +33,21 @@ class HTTPServer(object):
             self.cache.update({"/wiki/" + f.split("-")[0].strip(): CACHE_DIR + "/" + f})
 
     def fetch_from_cache(self):
-        path = self.cache.get(self.path, default)
+        path = self.cache.get(self.path, None)
         if path == None
             return self.runtime_cache.get(self.path)
-		
+
         with open(path, "rb") as f:
             return f.read()
-	
-	
+
+
 	def runtime_cache_size(self):
 		return sys.getsizeof(pickle.dumps(self.runtime_cache))
 		
 	def add_to_runtime_cache(self, path, res):
+        self.runtime_cache.update({path: res})
 		while runtime_cache_size() > MAX_TEMP_CACHE_SIZE
-			self.runtime_cache.pop()
-		
-		self.runtime_cache.update({path: res})
+            self.runtime_cache.pop()
 
 
     def parse_request(self, req):
