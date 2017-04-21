@@ -71,7 +71,7 @@ class HTTPServer(object):
                     try:
                         request = 'http://' + self.origin + ':8080' + self.path.decode()
                         res = urlopen(request)
-						self.add_to_runtime_cache(self.path, res.read())
+                        self.add_to_runtime_cache(self.path, res.read())
                         client_conn.send(b"""HTTP/1.0 200 OK
     Content-Type: text/html
 
