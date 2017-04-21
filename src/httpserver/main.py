@@ -11,16 +11,20 @@ except ImportError:
     from urllib2 import HTTPError, URLError, Request as request
     from urllib import urlopen
     import urllib2 as urllib
+import sys
 import os
 import errno
+import pickle
 
 
 CACHE_DIR = "./cache"
+MAX_TEMP_CACHE_SIZE = 0.85 * (10 * 1000 * 1000) #Make cache at max 85% of free space to allow for overhead
 
 class HTTPServer(object):
     def __init__(self, port, origin):
         self.port = port
         self.origin = origin
+        self.runtime_cache = {}
         self._build_cache()
 
 
@@ -30,9 +34,24 @@ class HTTPServer(object):
             self.cache.update({"/wiki/" + f.split("-")[0].strip(): CACHE_DIR + "/" + f})
 
     def fetch_from_cache(self):
-        path = self.cache.get(self.path)
+        path = self.cache.get(self.path, None)
+        if path == None:
+            print("Got from run-time cache")
+            return self.runtime_cache.get(self.path)
+
         with open(path, "rb") as f:
             return f.read()
+
+
+    def runtime_cache_size(self):
+        return sys.getsizeof(pickle.dumps(self.runtime_cache))
+
+    def add_to_runtime_cache(self, path, res):
+        print("adding to runtime cache")
+        self.runtime_cache.update({path: res})
+        while self.runtime_cache_size() > MAX_TEMP_CACHE_SIZE:
+            print("Popping: {} > {}".format(self.runtime_cache_size(), MAX_TEMP_CACHE_SIZE))
+            self.runtime_cache.pop()
 
 
     def parse_request(self, req):
@@ -51,14 +70,16 @@ class HTTPServer(object):
                 client_conn, client_addr = socket_listen.accept()
                 request = client_conn.recv(1024)
                 self.parse_request(request);
-                if self.path not in self.cache:
+                if self.path not in self.cache and self.path not in self.runtime_cache:
                     try:
                         request = 'http://' + self.origin + ':8080' + self.path.decode()
                         res = urlopen(request)
+                        text = res.read()
+                        self.add_to_runtime_cache(self.path, text)
                         client_conn.send(b"""HTTP/1.0 200 OK
-    Content-Type: text/html
+Content-Type: text/html
 
-    """  + res.read())
+"""  + text)
                         client_conn.close()
                     except HTTPError as err:
                         raise
