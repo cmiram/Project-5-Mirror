@@ -11,6 +11,7 @@ except ImportError:
     from urllib2 import HTTPError, URLError, Request as request
     from urllib import urlopen
     import urllib2 as urllib
+import sys
 import os
 import errno
 import pickle
@@ -34,7 +35,8 @@ class HTTPServer(object):
 
     def fetch_from_cache(self):
         path = self.cache.get(self.path, None)
-        if path == None
+        if path == None:
+            print("Got from run-time cache")
             return self.runtime_cache.get(self.path)
 
         with open(path, "rb") as f:
@@ -43,10 +45,12 @@ class HTTPServer(object):
 
     def runtime_cache_size(self):
         return sys.getsizeof(pickle.dumps(self.runtime_cache))
-        
+
     def add_to_runtime_cache(self, path, res):
+        print("adding to runtime cache")
         self.runtime_cache.update({path: res})
-        while runtime_cache_size() > MAX_TEMP_CACHE_SIZE
+        while self.runtime_cache_size() > MAX_TEMP_CACHE_SIZE:
+            print("Popping: {} > {}".format(self.runtime_cache_size(), MAX_TEMP_CACHE_SIZE))
             self.runtime_cache.pop()
 
 
@@ -70,11 +74,12 @@ class HTTPServer(object):
                     try:
                         request = 'http://' + self.origin + ':8080' + self.path.decode()
                         res = urlopen(request)
-                        self.add_to_runtime_cache(self.path, res.read())
+                        text = res.read()
+                        self.add_to_runtime_cache(self.path, text)
                         client_conn.send(b"""HTTP/1.0 200 OK
-    Content-Type: text/html
+Content-Type: text/html
 
-    """  + res.read())
+"""  + text)
                         client_conn.close()
                     except HTTPError as err:
                         raise
