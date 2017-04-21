@@ -130,7 +130,6 @@ Content-Type: text/html
                     """  + content)
                     client_conn.close()
             except Exception as e:
-                print("exception: {}".format(e))
                 pass
 
 
