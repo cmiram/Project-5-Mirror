@@ -20,4 +20,5 @@ request it encodes the http header info and returns the requested information to
 client is new the DNS server picks a replica that is the closest geographically to the client.
 
 Preson: Http server, dns server, caching
+
 Chris: Http server, caching logic
