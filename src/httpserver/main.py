@@ -23,7 +23,7 @@ class HTTPServer(object):
     def __init__(self, port, origin):
         self.port = port
         self.origin = origin
-		self.runtime_cache = {}
+        self.runtime_cache = {}
         self._build_cache()
 
 
@@ -41,12 +41,12 @@ class HTTPServer(object):
             return f.read()
 
 
-	def runtime_cache_size(self):
-		return sys.getsizeof(pickle.dumps(self.runtime_cache))
-		
-	def add_to_runtime_cache(self, path, res):
+    def runtime_cache_size(self):
+        return sys.getsizeof(pickle.dumps(self.runtime_cache))
+        
+    def add_to_runtime_cache(self, path, res):
         self.runtime_cache.update({path: res})
-		while runtime_cache_size() > MAX_TEMP_CACHE_SIZE
+        while runtime_cache_size() > MAX_TEMP_CACHE_SIZE
             self.runtime_cache.pop()
 
 
