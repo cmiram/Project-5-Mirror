@@ -17,7 +17,7 @@ import errno
 import pickle
 import threading
 
-
+POPULAR_FILE ="./popular.txt"
 CACHE_DIR = "./cache"
 MAX_TEMP_CACHE_SIZE = 0.85 * (10 * 1000 * 1000) #Make cache at max 85% of free space to allow for overhead
 
@@ -37,19 +37,25 @@ class HTTPServer(object):
     def _build_cache(self):
         self.cache = {}
         print("Building cache...")
-        for file_name in os.listdir(CACHE_DIR):
-            # Get the latest from the server
-            self.lock.wait()
+        with open(POPULAR_FILE, "r") as pop_f:
             try:
-                name = file_name.split("-")[0].strip()
-                print("caching %s" %name)
-                res = urlopen("http://" + self.origin + ":8080/wiki/" + name)
-                with open(os.path.join(CACHE_DIR, file_name), "w") as f:
-                    f.writelines(res.read())
-                # Add to in-memory cache
-                self.cache.update({"/wiki/" + name: CACHE_DIR + "/" + file_name})
-            except:
+                os.mkdir(CACHE_DIR)
+            except Exception:
                 pass
+            for file_name in pop_f.readlines():
+                file_name = file_name.strip()
+                # Get the latest from the server
+                self.lock.wait()
+                try:
+                    name = file_name.split("-")[0].strip()
+                    print("caching %s" %name)
+                    res = urlopen("http://" + self.origin + ":8080/wiki/" + name)
+                    with open(os.path.join(CACHE_DIR, file_name), "w") as f:
+                        f.writelines(res.read())
+                    # Add to in-memory cache
+                    self.cache.update({"/wiki/" + name: CACHE_DIR + "/" + file_name})
+                except:
+                    pass
         print("Cache built!")
 
     def fetch_from_cache(self):
