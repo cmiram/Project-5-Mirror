@@ -125,9 +125,9 @@ Content-Type: text/html
                     print("cache hit for %s" % self.path)
                     content = self.fetch_from_cache()
                     client_conn.send(b"""HTTP/1.0 200 OK
-                    Content-Type: text/html
+Content-Type: text/html
 
-                    """  + content)
+"""  + content)
                     client_conn.close()
             except Exception as e:
                 pass
